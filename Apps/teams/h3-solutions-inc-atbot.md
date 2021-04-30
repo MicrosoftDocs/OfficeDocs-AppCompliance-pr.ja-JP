@@ -1,0 +1,116 @@
+---
+title: H3 Solutions, Inc. による AtBot のアプリケーション情報
+ms.author: elmalova
+author: elenamalova
+ms.date: 12/16/2019
+ms.topic: article
+ms.service: attestation
+description: AtBot で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+zone_pivot_groups: app-info-data-mcas
+ms.openlocfilehash: 4280f34bdcd960664e77e95541d7ede3102608cf
+ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52095123"
+---
+# <a name="atbot"></a>AtBot
+
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>開発者が最終更新日: 2019 年 12 月 16 日</p>
+
+* <a href="https://teams.microsoft.com/l/app/7c01af81-ae7d-416e-98a3-c139cae8cfb0" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381219" target="_blank">AppSource での表示</a>
+
+::: zone pivot="general"
+
+### <a name="general-information"></a>一般情報
+
+H3 Solutions, Inc. から Microsoft に提供される情報:
+
+| **Information** | **応答** |
+|:----------------|:-------------|
+| アプリ名 | AtBot |
+| ID | WA104381219 |
+| 機能 | Bot |
+| Office 365サポートされているクライアント | Microsoft Teams |
+| パートナー会社名 | H3 Solutions, Inc. |
+| パートナー Web サイトの URL | [https://atbot.io](https://atbot.io) |
+| [アプリケーション情報Teamsページの URL | [https://admin.atbot.io/Docs/GettingStarted](https://admin.atbot.io/Docs/GettingStarted) |
+| プライバシー ポリシーの URL | [https://admin.atbot.io/privacy](https://admin.atbot.io/privacy) |
+| 利用規約の URL | [https://admin.atbot.io/terms](https://admin.atbot.io/terms) |
+
+ [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="data"
+
+### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
+
+この情報は、H3 Solutions, Inc. から、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて提供されています。
+
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+
+このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
+>| Directory.Read.All | アプリケーション | AAD グループ名、AAD グループ GUID、UPN | ボット スキルのセキュリティ トリミングを許可する AAD グループを列挙します。 ライセンスを適用できるユーザーを列挙します。 管理者/共同作成者として追加するユーザーを列挙する | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
+>| Directory.Read.All | 委任 | AAD グループ名、AAD グループ GUID、UPN | ボット スキルのセキュリティ トリミングを許可する AAD グループを列挙します。 ライセンスを適用できるユーザーを列挙します。 管理者/共同作成者として追加するユーザーを列挙する | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
+>| People.Read | 委任 | いいえ | [ユーザーの取得] アクションのユーザーをユーザーから列挙Flow。  ボットが Microsoft サーバーの /People エンドポイントからユーザーを取得Graph。 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
+>| User.Read | 委任 | テナント ID、UPN | テナント ID と UPN&#8217;にアクセスして、作成したフロー/ロジック アプリを作成したユーザーに結び付けることができます。 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
+>| メール | 委任 | いいえ | ユーザーのメール アドレスにアクセスできます。 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
+>| offline_access | 委任 | アクセス/更新トークン。 | 更新トークンを使用して、ユーザーのログインを維持できます。 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
+>| openid | 委任 | いいえ | ユーザーがログインできます。 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
+>| profile | 委任 | UPN | ユーザーの UPN へのアクセス。 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
+
+
+#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
+
+アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
+
+>非Microsoft サービスは使用されません。
+
+#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
+
+このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
+
+>| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
+>|:--------------------------------|:---------------------|:--------------------------|
+>| ボットによって生成されたチャット メッセージでのメンションの作成 | いいえ |  |
+
+
+
+#### <a name="telemetry-data"></a>テレメトリ データ
+
+組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
+
+>テナント ID、UPN Application Insights を使用し、ログは自動的にアーカイブされる前に 90 日間続きます。 (https://docs.microsoft.com/azure/azure-monitor/app/data-retention-privacy)
+
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
+
+組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
+
+>管理者は、AAD グループ名/GUID を含むボット構成を削除できます。
+サービスの取り消し時に、すべての UPN がライセンス データベースから削除されます。
+詳細については、「Azure Services」の「Data Residency」 を参照してください。  AtBot を使用して生成される顧客固有のデータの多くが顧客のテナントに格納され、そのテナントの管理者がデータを完全に制御できます。
+
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="mcas"
+
+以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35672' frameborder='no' style='width: 100%;'></iframe>
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35672" target="_blank">新しいタブで表示する</a>
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
