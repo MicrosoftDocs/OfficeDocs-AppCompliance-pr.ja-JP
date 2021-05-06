@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/31/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: SmartWork、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3fa673b3b6488cbca428f4583fe60021734525cf
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: ac3365dd3b37fcc89ac63db89fc3f233a68ae045
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094306"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52249895"
 ---
 # <a name="smartwork"></a>SmartWork
 
@@ -33,7 +34,7 @@ Intumit の SmartWork が Microsoft に提供する情報:
 |:----------------|:-------------|
 | アプリ名 | SmartWork |
 | ID | WA200001149 |
-| 機能 | Bot |
+| 機能 | ボット、タブ |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | SmartWork of Intumit |
 | パートナー Web サイトの URL | [https://www.intumit.com](https://www.intumit.com) |

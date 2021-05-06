@@ -2,17 +2,17 @@
 title: Microsoft Excelアプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/15/2021
+ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 description: すべてのアプリで使用可能なすべてのセキュリティおよびコンプライアンス情報Microsoft Excel。
 localization_priority: Normal
-ms.openlocfilehash: 67928dae457119f6bb28d02e83017e573ad8c517
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: d8b83937131fe2e155103ffd7a2786fbadeca099
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52071731"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251506"
 ---
 # <a name="microsoft-excel-app-security-and-compliance"></a>Microsoft Excelアプリのセキュリティとコンプライアンス
 
@@ -20,6 +20,7 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** | **データ処理情報** | **Cloud App Security 情報** |
 |:--------|:------------|:----------------------:|:-----------------------------:|:----------------------------------:|
+| [CloudExtend Analytics for NetSuite](./celigo-cloudextend-analytics-for-netsuite.md) | Celigo CloudExtend | **✓** |  | はい | はい |
 | [Excel-to-Word ドキュメントオートメーション](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  | はい | はい |
 | [harmon.ie のOffice](./harmonie-corporation-for-office.md) | harmon.ie 株式会社 | **✓** |  | はい | はい |
 | [iPlanner レポート ツール for Office 365 Planner](./iglobe-iplanner-reporting-tool-for-office-365-planner.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | はい | はい |

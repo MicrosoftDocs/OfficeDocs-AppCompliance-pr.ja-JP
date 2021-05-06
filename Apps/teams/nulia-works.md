@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/11/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Nulia Works の利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 068879c3b4cb073f72886c0bbf2836c0b79a46b7
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 9650ee1b5595967b9bc11cce5ed29addacb264e3
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094426"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250605"
 ---
 # <a name="nulia-works"></a>Nulia Works
 
@@ -135,11 +136,11 @@ Nulia から Microsoft に提供される情報:
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、
-<br />
-- OAuth2 暗黙的なFlow(SPA に必要な場合を含む)
-<br />
-- リソース所有者パスワード資格情報 (ROPC) フロー | |アプリは Web API を公開していますか? |はい | |アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? |はい | |アプリでプレビュー API を使用していますか? |いいえ| |アプリで非推奨の API を使用していますか? |いいえ|
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリは Web API を公開していますか? | はい |
+| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
+| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

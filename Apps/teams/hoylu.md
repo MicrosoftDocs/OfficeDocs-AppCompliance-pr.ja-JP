@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 07/20/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Hoylu で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f823da1857c36e37d556071c34d423101c1d1c76
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 7206fc0355b6e30f4a66dd6b5751f6ad72587ac4
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095078"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250625"
 ---
 # <a name="hoylu"></a>Hoylu
 

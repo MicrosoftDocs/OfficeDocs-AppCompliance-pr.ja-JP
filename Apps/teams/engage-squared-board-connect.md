@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 02/16/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: ボード Connect、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 51c344c6810287c155dffbac170fea0c1ab16259
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: fdc58284721104fde1bb122f13532d9ecf63aabb
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095248"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250715"
 ---
 # <a name="board-connect"></a>Board Connect
 
@@ -130,11 +131,11 @@ Engage Squared から Microsoft に提供される情報:
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | いいえ |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、
-<br />
-- OAuth2 暗黙的なFlow(SPA に必要な場合を含む)
-<br />
- | |アプリは Web API を公開していますか? |はい | |アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? |はい | |アプリでプレビュー API を使用していますか? |いいえ| |アプリで非推奨の API を使用していますか? |いいえ|
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/> |
+| アプリは Web API を公開していますか? | はい |
+| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
+| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 02/01/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f19c54d5a43f5380d6762ad39ac59f97a241e79d
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: eb7e450bfffbecade66f44a78c8ca366eac5f5f9
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094826"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52248055"
 ---
 # <a name="qbo"></a>qbo
 

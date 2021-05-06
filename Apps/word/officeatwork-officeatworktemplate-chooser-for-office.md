@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/08/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: officeatwork サービスで使用可能なすべてのセキュリティおよびコンプライアンス情報|テンプレートの選択Office、そのデータ処理ポリシー、CSA STAR レジストリMicrosoft Cloud App Securityのアプリ カタログ情報、およびセキュリティ/コンプライアンス情報を指定します。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8aed041549438d81d9b84214bc4fd828f0c98f63
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: b2b0d788ff3ac7688345ced0cbde6e167c916c81
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094669"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251887"
 ---
 # <a name="officeatwork--template-chooser-for-office"></a>officeatwork |テンプレートのテンプレート選択Office
 
@@ -140,11 +141,10 @@ officeatwork から Microsoft に提供される情報:
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、
-<br />
-- OAuth2 暗黙的なFlow(SPA に必要な場合を含む)
-<br />
-- リソース所有者パスワード資格情報 (ROPC) フロー | |アプリは Web API を公開していますか? |いいえ| |アプリでプレビュー API を使用していますか? |いいえ| |アプリで非推奨の API を使用していますか? |いいえ|
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリは Web API を公開していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

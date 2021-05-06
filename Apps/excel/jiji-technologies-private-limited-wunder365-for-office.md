@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/15/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Wunder365 for Office、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 41cbb04c1c3e03c980aababfb125711af0020900
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: c45b8cad12e759a1b6ab546147d13fd4e82e11e9
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094610"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251466"
 ---
 # <a name="wunder365-for-office"></a>Wunder365 for Office
 
@@ -132,11 +133,10 @@ JiJi Technologies Private Limited to Microsoft が提供する情報:
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、
-<br />
-- OAuth2 暗黙的なFlow(SPA に必要な場合を含む)
-<br />
-- リソース所有者パスワード資格情報 (ROPC) フロー | |アプリは Web API を公開していますか? |いいえ| |アプリでプレビュー API を使用していますか? |はい | |アプリで非推奨の API を使用していますか? |いいえ|
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリは Web API を公開していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | はい |
+| アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

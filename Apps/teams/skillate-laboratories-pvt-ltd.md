@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 01/12/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5775e9a2ea511498c03c68dab29bf4eb9bef43c2
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 4f997d64a6306933f8006bf1931d55c26fba5466
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096154"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250065"
 ---
 # <a name="skillate"></a>Skillate
 
@@ -128,11 +129,10 @@ Skillate Laboratories Pvt によって提供される情報。 Ltd. to Microsoft
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | いいえ |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、
-<br />
-- OAuth2 暗黙的なFlow(SPA に必要な場合を含む)
-<br />
-- リソース所有者パスワード資格情報 (ROPC) フロー | |アプリは Web API を公開していますか? |いいえ| |アプリでプレビュー API を使用していますか? |いいえ| |アプリで非推奨の API を使用していますか? |いいえ|
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリは Web API を公開していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

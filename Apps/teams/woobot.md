@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/14/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Woobot、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a2780151a9a7c08d695e6605990d93ce93f18652
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: b87e35439eb7287aefa5ea8e60049d0564c8bd83
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094253"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252007"
 ---
 # <a name="woobot"></a>Woobot
 

@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 01/04/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: OfficeSpace で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 06cea605b05cd52783ff4098b1b28a19504591dc
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 590058147d899b670f36c1eff74166616c2024b0
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094421"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250595"
 ---
 # <a name="officespace"></a>OfficeSpace
 

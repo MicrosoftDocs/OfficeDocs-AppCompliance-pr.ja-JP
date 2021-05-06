@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 06/23/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Zoho Notebook のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 59a0c4e50b08fb7dd8d30bfd65cba99e1b48d9d1
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 25595f52e8b2e07859abf3f0192954458c012810
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094917"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251636"
 ---
 # <a name="zoho-notebook"></a>Zoho Notebook
 

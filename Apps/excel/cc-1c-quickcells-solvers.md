@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 01/05/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: QuickCells Solvers で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2bfaa46b925620c9b8b808c88770bc45470db11c
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: c12defe9602606e58faf9202153649e420942167
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094877"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251826"
 ---
 # <a name="quickcells-solvers"></a>QuickCells ソルバー
 
