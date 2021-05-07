@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 01/04/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: 会議 i/o、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e2ce5d40fcec908e0ddec850e942aee1ba4da1d0
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 2f96b9731808637ae2f262c90d9033cac2328a1b
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095338"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252687"
 ---
 # <a name="conferences-io"></a>Conferences i/o
 

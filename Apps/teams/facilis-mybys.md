@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Mybys で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e15154e69c0517d49bb6af0d0b2d9a0c76d1f797
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: ecdb9594167eb0428b42996b2fc6046febb73109
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095198"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252607"
 ---
 # <a name="mybys"></a>Mybys
 

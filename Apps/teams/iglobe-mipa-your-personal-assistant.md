@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/06/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: MIPA で使用可能なすべてのセキュリティおよびコンプライアンス情報 - パーソナル アシスタント、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7acb929082cdebca9780c741fbb584f3848b8108
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 243a39894b36ea470d25d4145169ecd6f2a27c75
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095048"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252537"
 ---
 # <a name="mipa---your-personal-assistant"></a>MIPA - Your Personal Assistant
 

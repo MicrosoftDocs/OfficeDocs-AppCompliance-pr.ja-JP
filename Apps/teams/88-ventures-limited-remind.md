@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 09/28/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: リ通知、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 02d5242a6775e3204d557c0403defcd1eb57818a
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 9716284ced994f7047ef49123448f5ec158d8f13
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095673"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252757"
 ---
 # <a name="remind"></a>Remind
 

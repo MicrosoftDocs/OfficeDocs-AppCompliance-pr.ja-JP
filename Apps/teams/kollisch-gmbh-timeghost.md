@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 02/24/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: タイムホスト、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: dd5285227cf68a0445f068017aaee45962919461
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 9b3ab0b6d43fc7fcb69630471b6c5e8b89df3b00
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094946"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252477"
 ---
 # <a name="timeghost"></a>timeghost
 
@@ -132,11 +133,11 @@ K&#246;llisch GmbH から Microsoft に提供される情報:
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、
-<br />
-- OAuth2 暗黙的なFlow(SPA に必要な場合を含む)
-<br />
- | |アプリは Web API を公開していますか? |はい | |アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? |はい | |アプリでプレビュー API を使用していますか? |はい | |アプリで非推奨の API を使用していますか? |いいえ|
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/> |
+| アプリは Web API を公開していますか? | はい |
+| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
+| アプリでプレビュー API を使用していますか? | はい |
+| アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

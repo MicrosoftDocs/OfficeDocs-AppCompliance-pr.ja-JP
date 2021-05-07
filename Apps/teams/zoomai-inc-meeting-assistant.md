@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/17/2020
 ms.topic: article
 ms.service: attestation
-description: Zoom.ai 会議アシスタント、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+certification_type: attested
+description: Zoom.ai 会議アシスタント、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c5928d1ba26624bbae26fdf0dab09fbb4ddcded6
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: dda27747fdfde0f863611caef27f71547c971b98
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096218"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251937"
 ---
 # <a name="zoomai-meeting-assistant"></a>Zoom.ai Meeting Assistant
 
@@ -20,7 +21,7 @@ ms.locfileid: "52096218"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>開発者による最終更新日: 2020 年 3 月 17 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/cac7469b-37cc-44f5-bf08-ff6654d35819" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://teams.microsoft.com/l/app/cac7469b-37cc-44f5-bf08-ff6654d35819" target="_blank">Teams ストアでの表示</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000150" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
@@ -34,10 +35,10 @@ microsoft に Zoom.ai Inc が提供する情報:
 | アプリ名 | Zoom.ai Meeting Assistant |
 | ID | WA200000150 |
 | 機能 | ボット、タブ、コネクタ |
-| Office 365サポートされているクライアント | Microsoft Teams |
+| Office 365 クライアントがサポートされている | Microsoft Teams |
 | パートナー会社名 | Zoom.ai Inc |
 | パートナー Web サイトの URL | [https://zoom.ai](https://zoom.ai) |
-| [アプリケーション情報Teamsページの URL | [https://faq.zoom.ai/](https://faq.zoom.ai/) |
+| Teams アプリケーション情報ページの URL | [https://faq.zoom.ai/](https://faq.zoom.ai/) |
 | プライバシー ポリシーの URL | [https://zoom.ai/privacy](https://zoom.ai/privacy) |
 | 利用規約の URL | [https://zoom.ai/terms-of-use](https://zoom.ai/terms-of-use) |
 
@@ -51,26 +52,26 @@ microsoft に Zoom.ai Inc が提供する情報:
 
 この情報は、Zoom.ai Inc. から、このアプリが組織データを収集および保存する方法、およびアプリが収集するデータに対して組織が持つコントロールについて提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリで [必要な Microsoft Graph の](https://docs.microsoft.com/graph/permissions-reference) アクセス許可を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Calendars.ReadWrite | 両方とも | 会議は Azure 上の mongoDB にキャッシュされますが、説明は暗号化されます。 | ユーザーの予定表イベントへのアクセス。 |  |
 >| Contacts.ReadWrite | 両方とも | 連絡先の名前と電子メール アドレス。 | ユーザーの連絡先を読み取ります (会議に招待できます)。 |  |
 >| Group.Read.All | 両方とも | グループ名とメンバー。 | (オプション) 企業のユーザー グループを読み取ります (グループを使用したスケジュール設定の場合)。 |  |
->| Mail.Read | 両方とも | 連絡先の電子メール/名前、対話の頻度/最新の情報。 | (省略可能) は、ユーザーの最も重要な連絡先が誰か (ユーザー経由で) 電子メールのメタデータを読み取Machine Learning。 |  |
+>| Mail.Read | 両方とも | 連絡先の電子メール/名前、対話の頻度/最新の情報。 | (省略可能) は、ユーザーの最も重要な連絡先が (機械学習を介して) 誰かの下に電子メールのメタデータを読み取る場合に使用されます。 |  |
 >| MailboxSettings.ReadWrite | 両方とも | ユーザーのタイム ゾーン。 | ユーザーのタイム ゾーン。 |  |
 >| User.Read.All | 両方とも | ユーザーの名前 &amp; の電子メール (連絡先として保存)。 | (オプション) 企業ユーザーの読み取り (同僚とのスケジュール設定用) |  |
 >| offline_access | アプリケーション | いいえ | ユーザーが存在せずに、いつでもバック エンドを通じて読み書きする必要があります。 |  |
 
 
-#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>使用されている Microsoft 以外のサービス
 
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->非Microsoft サービスは使用されません。
+>Microsoft 以外のサービスは使用されません。
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
@@ -106,9 +107,9 @@ microsoft に Zoom.ai Inc が提供する情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+[Microsoft Cloud App Security カタログの情報を以下](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)に示します。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35668' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App セキュリティ情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35668' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35668" target="_blank">新しいタブで表示する</a>
 

@@ -2,17 +2,17 @@
 title: Microsoft SharePoint アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/15/2021
+ms.date: 05/04/2021
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft サービス アプリで使用可能なすべてのセキュリティとコンプライアンスSharePoint情報。
 localization_priority: Normal
-ms.openlocfilehash: 0ef2fc9774e27978851314b3da21aa9c455dbc2c
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: f499d433aba5b137de705084a7907b4f682dfa0d
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52071739"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252747"
 ---
 # <a name="microsoft-sharepoint-app-security-and-compliance"></a>Microsoft SharePoint アプリのセキュリティとコンプライアンス
 
