@@ -1,43 +1,46 @@
 ---
-title: CloudExtend Analytics for NetSuite by Celigo CloudExtend のアプリケーション情報
+title: Biggerbrains による BrainBot のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/09/2021
+ms.date: 04/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CloudExtend Analytics for NetSuite で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+description: BrainBot、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 073e27fbf0e2ad9f0fcde35051b2109e5c068952
+ms.openlocfilehash: 74b3ca5d6a674ea7322995eb9941dadcd939b01c
 ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52259014"
+ms.locfileid: "52258864"
 ---
-# <a name="cloudextend-analytics-for-netsuite"></a>CloudExtend Analytics for NetSuite
+# <a name="brainbot"></a>BrainBot
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 4 月 9 日</p>
+<p>開発者による最終更新日: 2021 年 4 月 28 日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA200002784" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/3c95872f-ca12-456e-84b9-c717fe93330c" target="_blank">Teams ストアでの表示</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381981" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Celigo CloudExtend から Microsoft に提供される情報:
+Biggerbrains から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | CloudExtend Analytics for NetSuite |
-| ID | WA200002784 |
-| Office 365 クライアントがサポートされている | Mac の Excel 2016 以降、Windows の Excel 2016 以降、Web 上の Excel |
-| パートナー会社名 | Celigo CloudExtend |
-| パートナー Web サイトの URL | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
-| プライバシー ポリシーの URL | [https://www.celigo.com/privacy](https://www.celigo.com/privacy) |
-| 利用規約の URL | [https://www.cloudextend.io/agreements/ssa/2019-12](https://www.cloudextend.io/agreements/ssa/2019-12) |
+| アプリ名 | BrainBot |
+| ID | WA104381981 |
+| 機能 | Bot |
+| Office 365 クライアントがサポートされている | Microsoft Teams |
+| パートナー会社名 | Biggerbrains |
+| パートナー Web サイトの URL | [https://brainbot.ai](https://brainbot.ai) |
+| Teams アプリケーション情報ページの URL | [https://brainbot.ai](https://brainbot.ai) |
+| プライバシー ポリシーの URL | [https://brainbot.ai/privacypolicy/](https://brainbot.ai/privacypolicy/) |
+| 利用規約の URL | [https://brainbot.ai/terms/](https://brainbot.ai/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,7 +50,7 @@ Celigo CloudExtend から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、Celigo CloudExtend によって、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて提供されています。
+この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関して、Biggerbrains によって提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
@@ -55,40 +58,36 @@ Celigo CloudExtend から Microsoft に提供される情報:
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | 両方とも | ユーザーがサイトを通じて共有されるブックの情報を取得できるアクセス権を持つサイトのコレクションを読み取る | ストア siteid を使用してブックにオフラインでアクセスします。 | 7040f194-bf08-400e-acb1-69df7939416a |
->| Files.ReadWrite.All | 両方とも | テーブルやシートのようなブックのコンテンツを読み取り、それらのテーブルにコンテンツを書き込む | Web URL、ブック ID、オフラインでアクセスするブックの場所など、ブックの詳細 | 7040f194-bf08-400e-acb1-69df7939416a |
+>| User.Read | アプリケーション | 認証プロセスの一環 &amp; として、電子メール アドレスのフルネームを使用します。 また、電子メール アドレスは、ユーザーが 1 つを購読するときに、ユーザーに学習シーケンスを送信するために使用されます。 | 認証プロセスの一環 &amp; として、電子メール アドレスのフルネームを使用します。 また、電子メール アドレスは、ユーザーが 1 つを購読するときに、ユーザーに学習シーケンスを送信するために使用されます。 | b256b34a-b377-4fc2-b25a-a8f5f0594e86 |
 
 
 #### <a name="non-microsoft-services-used"></a>使用されている Microsoft 以外のサービス
 
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->| **Microsoft 以外のすべてのサービス OII は、** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
->| Chargebee、NetSuite、Salesforce、Intercom、LogRocket、Amazon AWS | 組織名、NetSuite アカウント番号、ドメイン の組織の電子メール アドレス、請求の連絡先情報 | ライセンスのプロビジョニング、検証、請求 顧客サポート、トラブルシューティング、アカウント管理 |
+>Microsoft 以外のサービスは使用されません。
+
+#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
+
+このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
+
+>| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
+>|:--------------------------------|:---------------------|:--------------------------|
+>| 認証プロセスの一環 &amp; として、電子メール アドレスのフルネームを使用します。 また、電子メール アドレスは、ユーザーが 1 つを購読するときに、ユーザーに学習シーケンスを送信するために使用されます。 | 電子メール アドレス &amp; の完全な名前 | これらは、ログインの目的で使用され、アプリの機能の一部として使用され、ユーザーが学習シーケンスを購読するときにユーザーに送信します。 |
 
 
-
-#### <a name="add-in-data-access"></a>アドイン のデータ アクセス
-
-このアプリが組織のデータにアクセスするために必要なアクセス許可、このアクセス許可の正当性と目的 (アプリは何のためにこの情報を使用するのか)、およびアプリがデータベースにこの情報を格納するかどうかを一覧表示します。
-
->| **アクセス許可**  | **説明** |
->|:----------------|:----------------|
->| ReadWrite ドキュメント | ドキュメントの読み取りおよび変更が可能 |
->| データの送信 | インターネットを使用してデータを送信できます |
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->電子メール アドレス、 
+>トレーニング評価に対するユーザーの応答は、個人または組織から削除が要求されるまで保存されます。  非アクティブなアカウントは、12 か月後に削除されます。 
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->該当なし
+>n/a の場合、データはパートナー システムに保存されません
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -104,9 +103,9 @@ Celigo CloudExtend から Microsoft に提供される情報:
 
 [Microsoft Cloud App Security カタログの情報を以下](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)に示します。
 
-<iframe height='1020' title='Microsoft Cloud App セキュリティ情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/14008' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App セキュリティ情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37584' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/14008" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37584" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -116,22 +115,21 @@ Celigo CloudExtend から Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Celigo CloudExtend によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について、Biggerbrains によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
-| Microsoft ID プラットフォーム統合チェックリストで説明されている、適用可能なすべてのベスト プラクティスを確認し、遵守しましたか?  | はい |
+| Microsoft ID プラットフォーム統合チェックリストで説明されている、適用可能なすべてのベスト プラクティスを確認し、遵守しましたか?  | いいえ |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
-| アプリはマルチテナントをサポートしていますか? | はい |
+| アプリはマルチテナントをサポートしていますか? | いいえ |
 | アプリに機密クライアントがありますか? | いいえ |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的フロー (SPA に必要な場合を含む)<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
-| アプリは Web API を公開していますか? | はい |
-| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
+| アプリは Web API を公開していますか? | いいえ |
 | アプリでプレビュー API を使用していますか? | いいえ |
 | アプリで非推奨の API を使用していますか? | なし |
 

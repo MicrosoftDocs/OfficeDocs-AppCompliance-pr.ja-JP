@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/27/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: CSA STAR レジストリ内の CatchEm、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: db41455aeab7dd5f4f453a0a5181ffeb860bd3fa
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: fb1824ec13ed206fca431fa5936f72ccab569425
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095448"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52253138"
 ---
 # <a name="catchem"></a>CatchEm
 

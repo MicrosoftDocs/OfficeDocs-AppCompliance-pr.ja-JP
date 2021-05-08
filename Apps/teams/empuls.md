@@ -1,46 +1,46 @@
 ---
-title: Anaek による AttendanceBot のアプリケーション情報
+title: Empuls による Empuls のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/23/2021
+ms.date: 04/06/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
+description: Empuls で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 38160356c691a04e0d109ebd67aaab3826b63286
+ms.openlocfilehash: db024f6606c3d7f338348e14a4aa4e2ddc01f664
 ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52253228"
+ms.locfileid: "52253109"
 ---
-# <a name="attendancebot"></a>AttendanceBot
+# <a name="empuls"></a>Empuls
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2021 年 3 月 23 日</p>
+<p>開発者による最終更新日: 2021 年 4 月 6 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/77231724-5a80-4edf-ad93-dfd2e61207fa" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104381652" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/7ea47aaa-7c43-4fba-82fb-a81223e7cc2c" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002483" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Anaek が Microsoft に提供する情報:
+Empuls が Microsoft に提供する情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | AttendanceBot |
-| ID | WA104381652 |
-| 機能 | Bot |
+| アプリ名 | Empuls |
+| ID | WA200002483 |
+| 機能 | ボット、メッセージングの拡張機能 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | Anaek |
-| パートナー Web サイトの URL | [https://www.attendancebot.com/microsoft-teams/](https://www.attendancebot.com/microsoft-teams/) |
-| [アプリケーション情報Teamsページの URL | [https://www.attendancebot.com](https://www.attendancebot.com) |
-| プライバシー ポリシーの URL | [https://www.attendancebot.com/attendance/privacy/](https://www.attendancebot.com/attendance/privacy/) |
-| 利用規約の URL | [https://www.attendancebot.com/attendance/tos/](https://www.attendancebot.com/attendance/tos/) |
+| パートナー会社名 | Empuls |
+| パートナー Web サイトの URL | [https://www.xoxoday.com/empuls/overview](https://www.xoxoday.com/empuls/overview) |
+| [アプリケーション情報Teamsページの URL | [https://www.xoxoday.com/empuls](https://www.xoxoday.com/empuls) |
+| プライバシー ポリシーの URL | [https://www.xoxoday.com/privacy-policy](https://www.xoxoday.com/privacy-policy) |
+| 利用規約の URL | [https://www.xoxoday.com/terms-of-use](https://www.xoxoday.com/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,7 +50,7 @@ Anaek が Microsoft に提供する情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関して、Anaek によって提供されています。
+この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Empuls によって提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
@@ -71,7 +71,7 @@ Anaek が Microsoft に提供する情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| AttendanceBot は MS サーバーから PII にTeams | 名、名、および電子メール アドレス | 電子メール アドレスは、AttendanceBot をインストールする各チームの一意の識別子です。 |
+>| ユーザーに通知を送信するユーザーを一意に識別するには | いいえ |  |
 
 
 
@@ -85,7 +85,7 @@ Anaek が Microsoft に提供する情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->該当なし
+>AWS データ センターへのスーパー管理者アクセス権があります。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -101,9 +101,9 @@ Anaek が Microsoft に提供する情報:
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35980' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37869' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35980" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37869" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -113,7 +113,7 @@ Anaek が Microsoft に提供する情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について、Anaek によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について Empuls によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|

@@ -6,14 +6,14 @@ ms.date: 04/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: トリビュートの利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: トリビュート、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 996cd1a4de1ac793bacb354e8985f600cbb0a0f5
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 3fead70ef460ec81d89144420850ce47e3aee3e4
+ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252082"
+ms.locfileid: "52258784"
 ---
 # <a name="tribute"></a>トリビュート
 
@@ -21,7 +21,7 @@ ms.locfileid: "52252082"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>開発者が最終更新日: 2021 年 4 月 16 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/cfb46a87-a75b-4045-9f22-a0ae0614fd60" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://teams.microsoft.com/l/app/cfb46a87-a75b-4045-9f22-a0ae0614fd60" target="_blank">Teams ストアでの表示</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002589" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
@@ -35,10 +35,10 @@ ms.locfileid: "52252082"
 | アプリ名 | トリビュート |
 | ID | WA200002589 |
 | 機能 | Tab |
-| Office 365サポートされているクライアント | Microsoft Teams |
+| Office 365 クライアントがサポートされている | Microsoft Teams |
 | パートナー会社名 | トリビュート Co. |
 | パートナー Web サイトの URL | [https://www.tributementorship.com](https://www.tributementorship.com) |
-| [アプリケーション情報Teamsページの URL | [https://www.tributementorship.com/how-it-works](https://www.tributementorship.com/how-it-works) |
+| Teams アプリケーション情報ページの URL | [https://www.tributementorship.com/how-it-works](https://www.tributementorship.com/how-it-works) |
 | プライバシー ポリシーの URL | [https://www.tributementorship.com/privacy](https://www.tributementorship.com/privacy) |
 | 利用規約の URL | [https://www.tributementorship.com/terms](https://www.tributementorship.com/terms) |
 
@@ -52,18 +52,18 @@ ms.locfileid: "52252082"
 
 この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関して、トリビュート株式会社によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリで [必要な Microsoft Graph の](https://docs.microsoft.com/graph/permissions-reference) アクセス許可を一覧表示します。
 
->このアプリケーションでは、Microsoft アプリケーションをGraph。
+>このアプリケーションは Microsoft Graph を使用しない。
 
 
-#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>使用されている Microsoft 以外のサービス
 
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->非Microsoft サービスは使用されません。
+>Microsoft 以外のサービスは使用されません。
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
@@ -97,9 +97,9 @@ ms.locfileid: "52252082"
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+[Microsoft Cloud App Security カタログの情報を以下](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)に示します。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37870' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App セキュリティ情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37870' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37870" target="_blank">新しいタブで表示する</a>
 
@@ -116,8 +116,8 @@ ms.locfileid: "52252082"
 | **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | true |
+| Microsoft ID プラットフォーム統合チェックリストで説明されている、適用可能なすべてのベスト プラクティスを確認し、遵守しましたか?  | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | いいえ |

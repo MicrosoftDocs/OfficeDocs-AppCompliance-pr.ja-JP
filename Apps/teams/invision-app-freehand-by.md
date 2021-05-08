@@ -2,26 +2,26 @@
 title: InVision アプリによる InVision によるフリーハンドのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/16/2021
+ms.date: 05/06/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR レジストリ内の Freehand by InVision、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: Freehand by InVision で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8ff5737df8fbc08c1030365bebba67d3ce32b38a
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: fa9a02b63eff4001789f5a7c854fd9ee554d6e84
+ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252183"
+ms.locfileid: "52258774"
 ---
 # <a name="freehand-by-invision"></a>InVision によるフリーハンド
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 3 月 16 日</p>
+<p>開発者が最終更新日: 2021 年 5 月 6 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/67cf2c5a-db0e-4256-a423-14010cbeafdd" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://teams.microsoft.com/l/app/67cf2c5a-db0e-4256-a423-14010cbeafdd" target="_blank">Teams ストアでの表示</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381362" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
@@ -35,10 +35,10 @@ InVision アプリから Microsoft に提供される情報:
 | アプリ名 | InVision によるフリーハンド |
 | ID | WA104381362 |
 | 機能 | Tab |
-| Office 365サポートされているクライアント | Microsoft Teams |
+| Office 365 クライアントがサポートされている | Microsoft Teams |
 | パートナー会社名 | InVision アプリ |
 | パートナー Web サイトの URL | [https://www.invisionapp.com/](https://www.invisionapp.com/) |
-| [アプリケーション情報Teamsページの URL | [https://www.invisionapp.com/freehand](https://www.invisionapp.com/freehand) |
+| Teams アプリケーション情報ページの URL | [https://www.invisionapp.com/freehand](https://www.invisionapp.com/freehand) |
 | プライバシー ポリシーの URL | [https://www.invisionapp.com/privacy](https://www.invisionapp.com/privacy) |
 | 利用規約の URL | [https://www.invisionapp.com/terms](https://www.invisionapp.com/terms) |
 
@@ -52,18 +52,18 @@ InVision アプリから Microsoft に提供される情報:
 
 この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する InVision アプリによって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリで [必要な Microsoft Graph の](https://docs.microsoft.com/graph/permissions-reference) アクセス許可を一覧表示します。
 
->このアプリケーションでは、Microsoft アプリケーションをGraph。
+>このアプリケーションは Microsoft Graph を使用しない。
 
 
-#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>使用されている Microsoft 以外のサービス
 
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
+>| **Microsoft 以外のすべてのサービス OII は、** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-------------------|:--------------------------|:--------------------------|
 >| https://support.invisionapp.com/hc/en-us/articles/360002594732-Subprocessors-and-Subcontractors | https://support.invisionapp.com/hc/en-us/articles/360002594732-Subprocessors-and-Subcontractors | https://support.invisionapp.com/hc/en-us/articles/360002594732-Subprocessors-and-Subcontractors |
 
@@ -99,9 +99,9 @@ InVision アプリから Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+[Microsoft Cloud App Security カタログの情報を以下](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)に示します。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/20788' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App セキュリティ情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/20788' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/20788" target="_blank">新しいタブで表示する</a>
 
@@ -118,7 +118,7 @@ InVision アプリから Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | いいえ |
+| Microsoft ID プラットフォーム統合チェックリストで説明されている、適用可能なすべてのベスト プラクティスを確認し、遵守しましたか?  | いいえ |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | いいえ |

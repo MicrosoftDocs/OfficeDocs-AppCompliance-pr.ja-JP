@@ -1,43 +1,43 @@
 ---
-title: エンタープライズ デジタル マシン PTY LTD SharePoint FormMachines for SharePointアプリケーション情報
+title: nomorehours による NoMore のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 04/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: formMachines for SharePoint、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d2793ffd2c43275af52a02032878a6e47660306f
+description: NoMore で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: e3074af68047ef7abb8298aaa063081380a2204b
 ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252787"
+ms.locfileid: "52253125"
 ---
-# <a name="formmachines-for-sharepoint"></a>FormMachines for SharePoint
+# <a name="nomore"></a>NoMore
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2020 年 11 月 3 日</p>
+<p>開発者による最終更新日: 2021 年 4 月 20 日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA200000357" target="_blank">AppSource での表示</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001625" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-ENTERPRISE DIGITAL MACHINES PTY LTD から Microsoft に提供される情報:
+Nomorehours が Microsoft に提供する情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | FormMachines for SharePoint |
-| ID | WA200000357 |
-| Office 365サポートされているクライアント | SharePoint 2016 以降 |
-| パートナー会社名 | エンタープライズ デジタル マシン PTY LTD |
-| パートナー Web サイトの URL | [https://www.formmachines.com/](https://www.formmachines.com/) |
-| プライバシー ポリシーの URL | [https://www.formmachines.com/?dirKey=fm-privacy](https://www.formmachines.com/?dirKey=fm-privacy) |
-| 利用規約の URL | [https://www.formmachines.com/?dirKey=fm-terms-of-use](https://www.formmachines.com/?dirKey=fm-terms-of-use) |
+| アプリ名 | NoMore |
+| ID | WA200001625 |
+| Office 365サポートされているクライアント | PowerPoint 2016 2013 以降の Mac、PowerPoint on the web、PowerPoint 2013 以降の場合Windows |
+| パートナー会社名 | nomorehours |
+| パートナー Web サイトの URL | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
+| プライバシー ポリシーの URL | [https://nomorehours.com/privacy](https://nomorehours.com/privacy) |
+| 利用規約の URL | [https://nomorehours.com/eula](https://nomorehours.com/eula) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,7 +47,7 @@ ENTERPRISE DIGITAL MACHINES PTY LTD から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する ENTERPRISE DIGITAL MACHINES PTY LTD によって提供されています。
+この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関して、nomorehours によって提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
@@ -55,7 +55,7 @@ ENTERPRISE DIGITAL MACHINES PTY LTD から Microsoft に提供される情報:
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委任 | (ログイン、電子メール、Azure Guid、displayName、first_login_date_time) | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインを有効にし、各ユーザーを一意に識別できます | 8c87660f-d36f-41f6-b0ae-025253f380aa |
+>| User.Read | アプリケーション | メールと名前。 電子メールは、アプリケーションのユーザー名として使用されます。 電子メールを収集すると、アプリケーションの登録とログインを迅速に行うことができます。 名前は、登録イベントの場合に使用されます。 | この電子メールは、Office 365 経由でログインを有効にし、場合によっては、そのユーザーに代わって既に用語を承諾している組織の一部であるユーザーを登録するために使用されます。 | 33ccef75-8248-44e8-88d3-24526ca9c2d3 |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -72,20 +72,20 @@ ENTERPRISE DIGITAL MACHINES PTY LTD から Microsoft に提供される情報:
 
 >| **アクセス許可**  | **説明** |
 >|:----------------|:----------------|
->| 既定値 | ドキュメント&#8217;読み取りまたは変更を行う必要があります。 |
+>| ReadWrite ドキュメント | ドキュメントの読み取りおよび変更が可能 |
 >| データの送信 | インターネットを使用してデータを送信できます |
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->. エラーのみをログに記録します。 エラー ログには、エラーに関連する情報のみをログに記録します。 特定のエラーをトリガーしたクライアントまたは顧客は収集されません。 サポート エンジニアだけがエラー ログにアクセスできます。 エラー ログはオンラインで表示され、ダウンロードおよび表示されません。 エラー ログは 30 日後に自動的に削除されます
+>アプリケーションのテレメトリまたはログに OII または EUII は表示されません。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->. データは Azure US ベースのデータ センターに格納されます。 テンプレートや申請などのクライアントが提供するデータは、DB で暗号化されます。 添付ファイルはプライベート Azure BLOB コンテナーに格納され、ユーザーはアクセスする前に認証する必要があります。 トラブルシューティングと展開のために、運用資産にアクセスできる管理者は最大 2 人です。 これら 2 つの管理アカウントは、他のすべてのアカウントとは異なる方法でパーティション分割されます。 管理者アクセスの数が 2 を超えない
+>該当なし
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -101,11 +101,24 @@ ENTERPRISE DIGITAL MACHINES PTY LTD から Microsoft に提供される情報:
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36144' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37585' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36144" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37585" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 情報
+
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について、nomorehours によって提供されています。
+
+| **Information** | **応答** |
+|:----------------|:-------------|
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | なし |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

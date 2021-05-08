@@ -1,46 +1,45 @@
 ---
-title: Anaek による AttendanceBot のアプリケーション情報
+title: Brightidea による Brightidea のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/23/2021
+ms.date: 04/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
+description: Brightidea で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 38160356c691a04e0d109ebd67aaab3826b63286
+ms.openlocfilehash: d3dfa6b275015e87faf3b5f0c1a516ec31f1e14c
 ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52253228"
+ms.locfileid: "52253395"
 ---
-# <a name="attendancebot"></a>AttendanceBot
+# <a name="brightidea"></a>Brightidea
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2021 年 3 月 23 日</p>
+<p>開発者による最終更新日: 2021 年 4 月 14 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/77231724-5a80-4edf-ad93-dfd2e61207fa" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104381652" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/b37e415d-60f4-416d-81d6-2c5ab0b52ef6" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002795" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Anaek が Microsoft に提供する情報:
+Brightidea から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | AttendanceBot |
-| ID | WA104381652 |
-| 機能 | Bot |
+| アプリ名 | Brightidea |
+| ID | WA200002795 |
+| 機能 | ボット、タブ、メッセージングの拡張機能 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | Anaek |
-| パートナー Web サイトの URL | [https://www.attendancebot.com/microsoft-teams/](https://www.attendancebot.com/microsoft-teams/) |
-| [アプリケーション情報Teamsページの URL | [https://www.attendancebot.com](https://www.attendancebot.com) |
-| プライバシー ポリシーの URL | [https://www.attendancebot.com/attendance/privacy/](https://www.attendancebot.com/attendance/privacy/) |
-| 利用規約の URL | [https://www.attendancebot.com/attendance/tos/](https://www.attendancebot.com/attendance/tos/) |
+| パートナー会社名 | Brightidea |
+| パートナー Web サイトの URL | [https://www.brightidea.com](https://www.brightidea.com) |
+| プライバシー ポリシーの URL | [https://www.brightidea.com/privacy/](https://www.brightidea.com/privacy/) |
+| 利用規約の URL | [https://www.brightidea.com/terms-of-use/](https://www.brightidea.com/terms-of-use/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,7 +49,7 @@ Anaek が Microsoft に提供する情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関して、Anaek によって提供されています。
+この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールについて、Brightidea によって提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
@@ -63,7 +62,9 @@ Anaek が Microsoft に提供する情報:
 
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->非Microsoft サービスは使用されません。
+>| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
+>|:-------------------|:--------------------------|:--------------------------|
+>| Amazon Web Services (AWS) | メール アドレス/ドメイン | サイト内のアイデア提出者をTeams Brightidea アカウントに一致する。ユーザー データベースが AWS にある |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
@@ -71,7 +72,7 @@ Anaek が Microsoft に提供する情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| AttendanceBot は MS サーバーから PII にTeams | 名、名、および電子メール アドレス | 電子メール アドレスは、AttendanceBot をインストールする各チームの一意の識別子です。 |
+>| サイト内のアイデア提出者をTeams Brightidea アカウントに一致するには | いいえ |  |
 
 
 
@@ -101,9 +102,9 @@ Anaek が Microsoft に提供する情報:
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35980' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/13199' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35980" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/13199" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -113,7 +114,7 @@ Anaek が Microsoft に提供する情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について、Anaek によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Brightidea によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|

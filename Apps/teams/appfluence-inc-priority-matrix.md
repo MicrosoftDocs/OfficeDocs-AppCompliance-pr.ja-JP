@@ -2,25 +2,25 @@
 title: Appfluence Inc による優先度マトリックスのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/17/2020
+ms.date: 04/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: Priority Matrix、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: 優先度マトリックス、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ccd03dd271cfafb55fd99fc65f4820a9d8787e83
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 0e6e5afc6bc05299c149e46aed345ae6bb171ecd
+ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250876"
+ms.locfileid: "52258874"
 ---
 # <a name="priority-matrix"></a>Priority Matrix
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>開発者が最終更新日: 2020 年 11 月 17 日</p>
+<p>開発者が最終更新日: 2021 年 4 月 16 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/5be2b320-a5b7-4221-893c-dee506e4e365" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://teams.microsoft.com/l/app/5be2b320-a5b7-4221-893c-dee506e4e365" target="_blank">Teams ストアでの表示</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104382005" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
@@ -34,10 +34,10 @@ Appfluence Inc から Microsoft に提供される情報:
 | アプリ名 | Priority Matrix |
 | ID | WA104382005 |
 | 機能 | ボット、タブ、メッセージングの拡張機能、コネクタ |
-| Office 365サポートされているクライアント | Microsoft Teams |
+| Office 365 クライアントがサポートされている | Microsoft Teams |
 | パートナー会社名 | Appfluence Inc |
 | パートナー Web サイトの URL | [https://appfluence.com](https://appfluence.com) |
-| [アプリケーション情報Teamsページの URL | [https://appfluence.com/project-management-integration-for-m...](https://appfluence.com/project-management-integration-for-microsoft-teams/) |
+| Teams アプリケーション情報ページの URL | [https://appfluence.com/project-management-integration-for-m...](https://appfluence.com/project-management-integration-for-microsoft-teams/) |
 | プライバシー ポリシーの URL | [https://appfluence.com/privacy](https://appfluence.com/privacy) |
 | 利用規約の URL | [https://appfluence.com/eula](https://appfluence.com/eula) |
 
@@ -51,28 +51,28 @@ Appfluence Inc から Microsoft に提供される情報:
 
 この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関して Appfluence Inc によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリで [必要な Microsoft Graph の](https://docs.microsoft.com/graph/permissions-reference) アクセス許可を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Calendars.Read | 委任 | 新しいユーザーがアカウントに追加された場合にのみ、メールを保存します。 | 新しいアカウントの作成では、これを使用して他のチーム メンバーを提案します。 | 5be2b320-a5b7-4221-893c-dee506e4e365 |
 >| User.ReadBasic.All | 委任 | 新しいユーザーがアカウントに追加された場合にのみ、メールを保存します。 | 新しいアカウントの作成では、これを使用して他のチーム メンバーを提案します。 | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| offline_access | 委任 | ユーザーに代わって要求を実行するためにログイン トークンを保存します | ユーザーに迷惑をかけることなくトークンを更新します。 (優先行列のTeams) | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| Files.Read.All | 委任 | ユーザーが元のファイルにリンクする Priority Matrix アイテムを明示的に作成しない限り、ファイル情報は保存しない。 | 1 対 1 の機能 (Web アプリと Outlook/Teams アドインで利用できます)では、この機能を使用して、会議と全体的な共同作業を促進する方法として、システム内の 2 人のユーザー間で共有される SharePoint/OneDrive ファイルを強調表示します。 | affadfb6-f17b-428f-97f9-9aae3b6175bc |
+>| offline_access | 委任 | ユーザーに代わって要求を実行するためにログイン トークンを保存します | ユーザーに迷惑をかけることなくトークンを更新します。 (Teams の優先度マトリックス) | 5be2b320-a5b7-4221-893c-dee506e4e365 |
+>| Files.Read.All | 委任 | ユーザーが元のファイルにリンクする Priority Matrix アイテムを明示的に作成しない限り、ファイル情報は保存しない。 | 1 対 1 の機能 (Web アプリと Outlook/Teams アドインでも利用できます) では、この機能を使用して、会議と全体的な共同作業を容易にする方法として、システム内の 2 人のユーザー間で共有される SharePoint/OneDrive ファイルを強調表示します。 | affadfb6-f17b-428f-97f9-9aae3b6175bc |
 >| User.Read | 委任 | 基本的なユーザー プロファイル情報 (表示名、名、名、電子メール、アバター) は、私たちによって保存されます。 | ユーザーの名前、メール、アバターを取得して、アカウントをカスタマイズします。 | affadfb6-f17b-428f-97f9-9aae3b6175bc |
 >| openid | 委任 | SSO 接続を保存して、ユーザーのログイン モードを示します。 | シングル サインオンを使用してユーザーにサインインする場合。 | affadfb6-f17b-428f-97f9-9aae3b6175bc |
 >| Calendars.Read | 委任 | カレンダー イベントの数が少ない場合は、システムに格納されているタスクに変換されます。 | 予定表イベントを読み取り、1:1 ビューに表示できます。 また、新しいアカウントを初期化します。  | d76f016f-52c7-41b5-835b-900361d7040c |
->| Mail.Read | 委任 | システムで作成されたタスクを、元のメッセージへのリンクと一緒に保存します。 | メールをタスクOutlook、共有作業を 1:1 ビューで表示するために、このアドインで使用されます。 | d76f016f-52c7-41b5-835b-900361d7040c |
->| Tasks.Read | 委任 | 一部Outlook/Planner タスクは、新しいユーザーを支援するためにシステムにレプリケートされます。 | 新しいユーザー アカウントは、ユーザーのタスクGraphブートストラップします。 | d76f016f-52c7-41b5-835b-900361d7040c |
+>| Mail.Read | 委任 | システムで作成されたタスクを、元のメッセージへのリンクと一緒に保存します。 | Outlook アドインで使用して、電子メールをタスクに変換し、共有作業時間を 1:1 ビューで表示します。 | d76f016f-52c7-41b5-835b-900361d7040c |
+>| Tasks.Read | 委任 | 一部の Outlook/Planner タスクは、新しいユーザーを支援するためにシステムにレプリケートされます。 | Graph タスクを使用して新しいユーザー アカウントをブートストラップします。 | d76f016f-52c7-41b5-835b-900361d7040c |
 
 
-#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>使用されている Microsoft 以外のサービス
 
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->非Microsoft サービスは使用されません。
+>Microsoft 以外のサービスは使用されません。
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
