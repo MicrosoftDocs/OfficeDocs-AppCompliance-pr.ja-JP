@@ -6,12 +6,12 @@ description: ISV ユーザー ガイド for Microsoft 365 コンプライアン�
 keywords: ISV ユーザー ガイド for Microsoft 365 コンプライアンス プログラム
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 1338edfc5ad4447d9167eea66388cd8d7a65a883
-ms.sourcegitcommit: 47fdc4f6dcfbc1b4c74f7e1e49343b9b1ce6ef9c
+ms.openlocfilehash: a6b0abb55359a16d4651722d776dfb16282edc87
+ms.sourcegitcommit: bb6c1353781d7b6f8b171bf6853b85e42fda656e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/11/2021
-ms.locfileid: "52313276"
+ms.locfileid: "52324086"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>パートナーのユーザー ガイド for Microsoft 365 コンプライアンス プログラム
 
@@ -150,17 +150,17 @@ ms.locfileid: "52313276"
 
 ![レビュー中の構成証明](../media/existing%20isv%203.png)
 
-## <a name="6---microsoft-365-re-certification-workflow"></a>6. Microsoft 365 Re-Certificationワークフロー:
-
-**Microsoft 365Publisher証明と認定更新ワークフロー:** 
+## <a name="6---microsoft-365-publisher-attestation-and-certification-renewal-workflow"></a>6. Microsoft 365 Publisher証明と認定更新ワークフロー:
 
 Microsoft 365アプリ コンプライアンス プログラムでは、年次更新プロセスが提供されます。 このプロセスの間、アプリ開発者は、既存の認証Publisherおよび認定に必要なドキュメントMicrosoft 365できます。 
 
 **利点:**
 
-- AppSource で認定バッジを維持して、アプリを他のユーザーと区別します。 
+- AppSource とチーム ストアで認定バッジを維持して、アプリを他のユーザーと区別します。 
 - 認定アプリの使用に関する顧客の信頼を高める。 
 - IT 管理者が、更新された認定情報で情報に基づいた意思決定を行う際に役立ちます。 
+
+新しい更新プロセスは、シームレスなエクスペリエンス [を提供するためにパートナー](https://partner.microsoft.com/en-us/dashboard/home) センターで利用できます。 有効期限の 90 日前からパートナー センターに更新通知が表示されます。 定期的なリマインダーは、有効期限の 90 日前、60 日前、30 日前に電子メールで送信されます。
 
 **Tier 1: Publisher構成証明の更新:** 
 
