@@ -1,46 +1,45 @@
 ---
-title: MailClark による MailClark のアプリケーション情報
+title: メールクラークによるメールクラークのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: MailClark、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: MailClark、そのデータ処理ポリシー、そのMicrosoft Cloud App Securityアプリカタログ情報、およびCSA STARレジストリ内のセキュリティ/コンプライアンス情報に関するすべての利用可能なセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3867972fe9bdb36bcb9b6572e8c5709d59f76ddb
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 9d21ca3fe09b49a66725b0e7195fe08836d3d125
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251266"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552958"
 ---
-# <a name="mailclark"></a><span data-ttu-id="0149b-103">MailClark</span><span class="sxs-lookup"><span data-stu-id="0149b-103">MailClark</span></span>
+# <a name="mailclark"></a><span data-ttu-id="99c85-103">MailClark</span><span class="sxs-lookup"><span data-stu-id="99c85-103">MailClark</span></span>
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p><span data-ttu-id="0149b-104">開発者が最終更新日: 2019 年 12 月 16 日</span><span class="sxs-lookup"><span data-stu-id="0149b-104">Last updated by the developer on: December 16, 2019</span></span></p>
+<p><span data-ttu-id="99c85-104">開発者による最終更新日: 2019年12月16日</span><span class="sxs-lookup"><span data-stu-id="99c85-104">Last updated by the developer on: December 16, 2019</span></span></p>
 
-* <span data-ttu-id="0149b-105"><a href="https://teams.microsoft.com/l/app/64f174e8-7e14-4b48-871e-2fb7b17be302" target="_blank">ストアでの表示Teamsする</a></span><span class="sxs-lookup"><span data-stu-id="0149b-105"><a href="https://teams.microsoft.com/l/app/64f174e8-7e14-4b48-871e-2fb7b17be302" target="_blank">View in Teams store</a></span></span>
-* <span data-ttu-id="0149b-106"><a href="https://appsource.microsoft.com/product/office/WA104381679" target="_blank">AppSource での表示</a></span><span class="sxs-lookup"><span data-stu-id="0149b-106"><a href="https://appsource.microsoft.com/product/office/WA104381679" target="_blank">View in AppSource</a></span></span>
+* <span data-ttu-id="99c85-105"><a href="https://teams.microsoft.com/l/app/64f174e8-7e14-4b48-871e-2fb7b17be302" target="_blank">Teams店舗で表示</a></span><span class="sxs-lookup"><span data-stu-id="99c85-105"><a href="https://teams.microsoft.com/l/app/64f174e8-7e14-4b48-871e-2fb7b17be302" target="_blank">View in Teams store</a></span></span>
+* <span data-ttu-id="99c85-106"><a href="https://appsource.microsoft.com/product/office/WA104381679" target="_blank">アプリソースで表示</a></span><span class="sxs-lookup"><span data-stu-id="99c85-106"><a href="https://appsource.microsoft.com/product/office/WA104381679" target="_blank">View in AppSource</a></span></span>
 
 ::: zone pivot="general"
 
-### <a name="general-information"></a><span data-ttu-id="0149b-107">一般情報</span><span class="sxs-lookup"><span data-stu-id="0149b-107">General information</span></span>
+### <a name="general-information"></a><span data-ttu-id="99c85-107">一般情報</span><span class="sxs-lookup"><span data-stu-id="99c85-107">General information</span></span>
 
-<span data-ttu-id="0149b-108">MailClark から Microsoft に提供される情報:</span><span class="sxs-lookup"><span data-stu-id="0149b-108">Information provided by MailClark to Microsoft:</span></span>
+<span data-ttu-id="99c85-108">マイクロソフトにメールクラークによって提供される情報:</span><span class="sxs-lookup"><span data-stu-id="99c85-108">Information provided by MailClark to Microsoft:</span></span>
 
-| <span data-ttu-id="0149b-109">**Information**</span><span class="sxs-lookup"><span data-stu-id="0149b-109">**Information**</span></span> | <span data-ttu-id="0149b-110">**応答**</span><span class="sxs-lookup"><span data-stu-id="0149b-110">**Response**</span></span> |
+| <span data-ttu-id="99c85-109">**Information**</span><span class="sxs-lookup"><span data-stu-id="99c85-109">**Information**</span></span> | <span data-ttu-id="99c85-110">**応答**</span><span class="sxs-lookup"><span data-stu-id="99c85-110">**Response**</span></span> |
 |:----------------|:-------------|
-| <span data-ttu-id="0149b-111">アプリ名</span><span class="sxs-lookup"><span data-stu-id="0149b-111">App name</span></span> | <span data-ttu-id="0149b-112">MailClark</span><span class="sxs-lookup"><span data-stu-id="0149b-112">MailClark</span></span> |
-| <span data-ttu-id="0149b-113">ID</span><span class="sxs-lookup"><span data-stu-id="0149b-113">ID</span></span> | <span data-ttu-id="0149b-114">WA104381679</span><span class="sxs-lookup"><span data-stu-id="0149b-114">WA104381679</span></span> |
-| <span data-ttu-id="0149b-115">機能</span><span class="sxs-lookup"><span data-stu-id="0149b-115">Capabilities</span></span> | <span data-ttu-id="0149b-116">ボット、タブ、メッセージングの拡張機能</span><span class="sxs-lookup"><span data-stu-id="0149b-116">Bot, Tab, Messaging Extension</span></span> |
-| <span data-ttu-id="0149b-117">Office 365サポートされているクライアント</span><span class="sxs-lookup"><span data-stu-id="0149b-117">Office 365 clients supported</span></span> | <span data-ttu-id="0149b-118">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="0149b-118">Microsoft Teams</span></span> |
-| <span data-ttu-id="0149b-119">パートナー会社名</span><span class="sxs-lookup"><span data-stu-id="0149b-119">Partner company name</span></span> | <span data-ttu-id="0149b-120">MailClark</span><span class="sxs-lookup"><span data-stu-id="0149b-120">MailClark</span></span> |
-| <span data-ttu-id="0149b-121">パートナー Web サイトの URL</span><span class="sxs-lookup"><span data-stu-id="0149b-121">URL of partner website</span></span> | [https://mailclark.ai/microsoft-teams-integration](https://mailclark.ai/microsoft-teams-integration) |
-| <span data-ttu-id="0149b-122">[アプリケーション情報Teamsページの URL</span><span class="sxs-lookup"><span data-stu-id="0149b-122">URL of Teams application info page</span></span> | [https://mailclark.ai/support](https://mailclark.ai/support) |
-| <span data-ttu-id="0149b-123">プライバシー ポリシーの URL</span><span class="sxs-lookup"><span data-stu-id="0149b-123">URL of Privacy Policy</span></span> | [https://mailclark.ai/privacy](https://mailclark.ai/privacy) |
-| <span data-ttu-id="0149b-124">利用規約の URL</span><span class="sxs-lookup"><span data-stu-id="0149b-124">URL of Terms of Use</span></span> | [https://mailclark.ai/tos](https://mailclark.ai/tos) |
+| <span data-ttu-id="99c85-111">アプリ名</span><span class="sxs-lookup"><span data-stu-id="99c85-111">App name</span></span> | <span data-ttu-id="99c85-112">MailClark</span><span class="sxs-lookup"><span data-stu-id="99c85-112">MailClark</span></span> |
+| <span data-ttu-id="99c85-113">ID</span><span class="sxs-lookup"><span data-stu-id="99c85-113">ID</span></span> | <span data-ttu-id="99c85-114">WA104381679</span><span class="sxs-lookup"><span data-stu-id="99c85-114">WA104381679</span></span> |
+| <span data-ttu-id="99c85-115">サポートされるクライアントOffice 365</span><span class="sxs-lookup"><span data-stu-id="99c85-115">Office 365 clients supported</span></span> | <span data-ttu-id="99c85-116">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="99c85-116">Microsoft Teams</span></span> |
+| <span data-ttu-id="99c85-117">パートナー会社名</span><span class="sxs-lookup"><span data-stu-id="99c85-117">Partner company name</span></span> | <span data-ttu-id="99c85-118">MailClark</span><span class="sxs-lookup"><span data-stu-id="99c85-118">MailClark</span></span> |
+| <span data-ttu-id="99c85-119">パートナーウェブサイトのURL</span><span class="sxs-lookup"><span data-stu-id="99c85-119">URL of partner website</span></span> | [https://mailclark.ai/microsoft-teams-integration](https://mailclark.ai/microsoft-teams-integration) |
+| <span data-ttu-id="99c85-120">アプリケーション情報ページTeams URL</span><span class="sxs-lookup"><span data-stu-id="99c85-120">URL of Teams application info page</span></span> | [https://mailclark.ai/support](https://mailclark.ai/support) |
+| <span data-ttu-id="99c85-121">プライバシーポリシーの URL</span><span class="sxs-lookup"><span data-stu-id="99c85-121">URL of Privacy Policy</span></span> | [https://mailclark.ai/privacy](https://mailclark.ai/privacy) |
+| <span data-ttu-id="99c85-122">利用規約の URL</span><span class="sxs-lookup"><span data-stu-id="99c85-122">URL of Terms of Use</span></span> | [https://mailclark.ai/tos](https://mailclark.ai/tos) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,51 +47,50 @@ ms.locfileid: "52251266"
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a><span data-ttu-id="0149b-125">アプリがデータを処理する方法</span><span class="sxs-lookup"><span data-stu-id="0149b-125">How the app handles data</span></span>
+### <a name="how-the-app-handles-data"></a><span data-ttu-id="99c85-123">アプリがデータを処理する方法</span><span class="sxs-lookup"><span data-stu-id="99c85-123">How the app handles data</span></span>
 
-<span data-ttu-id="0149b-126">この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する MailClark によって提供されています。</span><span class="sxs-lookup"><span data-stu-id="0149b-126">This information has been provided by MailClark about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
+<span data-ttu-id="99c85-124">この情報は、このアプリが組織のデータを収集して格納する方法、およびアプリが収集するデータに対する組織のコントロールに関する MailClark によって提供されています。</span><span class="sxs-lookup"><span data-stu-id="99c85-124">This information has been provided by MailClark about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
 
-#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="0149b-127">Microsoft サービスを使用したデータ アクセスGraph</span><span class="sxs-lookup"><span data-stu-id="0149b-127">Data access using Microsoft Graph</span></span>
+#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="99c85-125">マイクロソフトGraphを使用したデータ アクセス</span><span class="sxs-lookup"><span data-stu-id="99c85-125">Data access using Microsoft Graph</span></span>
 
-<span data-ttu-id="0149b-128">このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。</span><span class="sxs-lookup"><span data-stu-id="0149b-128">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
+<span data-ttu-id="99c85-126">このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。</span><span class="sxs-lookup"><span data-stu-id="99c85-126">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
 
->| <span data-ttu-id="0149b-129">**アクセス許可**</span><span class="sxs-lookup"><span data-stu-id="0149b-129">**Permission**</span></span>  | <span data-ttu-id="0149b-130">**アクセス許可の種類 (委任/アプリケーション)**</span><span class="sxs-lookup"><span data-stu-id="0149b-130">**Type of permission (Delegated/Application)**</span></span> | <span data-ttu-id="0149b-131">**データは収集されますか?収集の正当性**</span><span class="sxs-lookup"><span data-stu-id="0149b-131">**Is data collected? Justification for collecting it?**</span></span> | <span data-ttu-id="0149b-132">**データは保存されますか?それを格納するための正当性?**</span><span class="sxs-lookup"><span data-stu-id="0149b-132">**Is data stored? Justification for storing it?**</span></span> | <span data-ttu-id="0149b-133">**Azure AD アプリ ID**</span><span class="sxs-lookup"><span data-stu-id="0149b-133">**Azure AD App ID**</span></span> |
+>| <span data-ttu-id="99c85-127">**アクセス許可**</span><span class="sxs-lookup"><span data-stu-id="99c85-127">**Permission**</span></span>  | <span data-ttu-id="99c85-128">**アクセス許可の種類 (委任/アプリケーション)**</span><span class="sxs-lookup"><span data-stu-id="99c85-128">**Type of permission (Delegated/Application)**</span></span> | <span data-ttu-id="99c85-129">**データは収集されますか?それを収集するための正当化?**</span><span class="sxs-lookup"><span data-stu-id="99c85-129">**Is data collected? Justification for collecting it?**</span></span> | <span data-ttu-id="99c85-130">**データは保存されますか?それを保存するための正当化?**</span><span class="sxs-lookup"><span data-stu-id="99c85-130">**Is data stored? Justification for storing it?**</span></span> | <span data-ttu-id="99c85-131">**Azure AD アプリ ID**</span><span class="sxs-lookup"><span data-stu-id="99c85-131">**Azure AD App ID**</span></span> |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| <span data-ttu-id="0149b-134">Mail.ReadWrite</span><span class="sxs-lookup"><span data-stu-id="0149b-134">Mail.ReadWrite</span></span> | <span data-ttu-id="0149b-135">アプリケーション</span><span class="sxs-lookup"><span data-stu-id="0149b-135">application</span></span> |  | <span data-ttu-id="0149b-136">読み取り: 受信メールのプッシュ通知をサブスクライブします。</span><span class="sxs-lookup"><span data-stu-id="0149b-136">Read: To subscribe push notifications for incoming emails.</span></span> <span data-ttu-id="0149b-137">書き込み: 下書きを作成します。</span><span class="sxs-lookup"><span data-stu-id="0149b-137">Write: To create drafts.</span></span> |  |
->| <span data-ttu-id="0149b-138">Mail.Send</span><span class="sxs-lookup"><span data-stu-id="0149b-138">Mail.Send</span></span> | <span data-ttu-id="0149b-139">アプリケーション</span><span class="sxs-lookup"><span data-stu-id="0149b-139">application</span></span> |  | <span data-ttu-id="0149b-140">下書きを送信する。</span><span class="sxs-lookup"><span data-stu-id="0149b-140">To send out drafts.</span></span> |  |
->| <span data-ttu-id="0149b-141">User.Read</span><span class="sxs-lookup"><span data-stu-id="0149b-141">User.Read</span></span> | <span data-ttu-id="0149b-142">アプリケーション</span><span class="sxs-lookup"><span data-stu-id="0149b-142">application</span></span> | <span data-ttu-id="0149b-143">アカウントの詳細 (メール アドレスなど)。</span><span class="sxs-lookup"><span data-stu-id="0149b-143">Account details e.g. email address.</span></span> | <span data-ttu-id="0149b-144">アカウントを識別します。</span><span class="sxs-lookup"><span data-stu-id="0149b-144">To identify the account.</span></span> |  |
->| <span data-ttu-id="0149b-145">offline_access</span><span class="sxs-lookup"><span data-stu-id="0149b-145">offline_access</span></span> | <span data-ttu-id="0149b-146">アプリケーション</span><span class="sxs-lookup"><span data-stu-id="0149b-146">application</span></span> | <span data-ttu-id="0149b-147">refreshtoken</span><span class="sxs-lookup"><span data-stu-id="0149b-147">Refresh token</span></span> | <span data-ttu-id="0149b-148">アカウントが切断されるまで認証を更新するには。</span><span class="sxs-lookup"><span data-stu-id="0149b-148">To renew authentication until the account is disconnected.</span></span> |  |
->| <span data-ttu-id="0149b-149">openid</span><span class="sxs-lookup"><span data-stu-id="0149b-149">openid</span></span> | <span data-ttu-id="0149b-150">アプリケーション</span><span class="sxs-lookup"><span data-stu-id="0149b-150">application</span></span> |  | <span data-ttu-id="0149b-151">認証に必要です。</span><span class="sxs-lookup"><span data-stu-id="0149b-151">Required to authenticate.</span></span> |  |
->| <span data-ttu-id="0149b-152">profile</span><span class="sxs-lookup"><span data-stu-id="0149b-152">profile</span></span> | <span data-ttu-id="0149b-153">アプリケーション</span><span class="sxs-lookup"><span data-stu-id="0149b-153">application</span></span> |  | <span data-ttu-id="0149b-154">ユーザーを認証します。</span><span class="sxs-lookup"><span data-stu-id="0149b-154">To authenticate the user.</span></span> |  |
+>| <span data-ttu-id="99c85-132">Mail.ReadWrite</span><span class="sxs-lookup"><span data-stu-id="99c85-132">Mail.ReadWrite</span></span> | <span data-ttu-id="99c85-133">アプリケーション</span><span class="sxs-lookup"><span data-stu-id="99c85-133">application</span></span> |  | <span data-ttu-id="99c85-134">読み取り: 受信メールのプッシュ通知を購読します。</span><span class="sxs-lookup"><span data-stu-id="99c85-134">Read: To subscribe push notifications for incoming emails.</span></span> <span data-ttu-id="99c85-135">書き込み: 下書きを作成します。</span><span class="sxs-lookup"><span data-stu-id="99c85-135">Write: To create drafts.</span></span> |  |
+>| <span data-ttu-id="99c85-136">Mail.Send</span><span class="sxs-lookup"><span data-stu-id="99c85-136">Mail.Send</span></span> | <span data-ttu-id="99c85-137">アプリケーション</span><span class="sxs-lookup"><span data-stu-id="99c85-137">application</span></span> |  | <span data-ttu-id="99c85-138">下書きを送信する。</span><span class="sxs-lookup"><span data-stu-id="99c85-138">To send out drafts.</span></span> |  |
+>| <span data-ttu-id="99c85-139">User.Read</span><span class="sxs-lookup"><span data-stu-id="99c85-139">User.Read</span></span> | <span data-ttu-id="99c85-140">アプリケーション</span><span class="sxs-lookup"><span data-stu-id="99c85-140">application</span></span> | <span data-ttu-id="99c85-141">アカウントの詳細(メールアドレスなど)</span><span class="sxs-lookup"><span data-stu-id="99c85-141">Account details e.g. email address.</span></span> | <span data-ttu-id="99c85-142">アカウントを識別します。</span><span class="sxs-lookup"><span data-stu-id="99c85-142">To identify the account.</span></span> |  |
+>| <span data-ttu-id="99c85-143">offline_access</span><span class="sxs-lookup"><span data-stu-id="99c85-143">offline_access</span></span> | <span data-ttu-id="99c85-144">アプリケーション</span><span class="sxs-lookup"><span data-stu-id="99c85-144">application</span></span> | <span data-ttu-id="99c85-145">refreshtoken</span><span class="sxs-lookup"><span data-stu-id="99c85-145">Refresh token</span></span> | <span data-ttu-id="99c85-146">アカウントが切断されるまで認証を更新します。</span><span class="sxs-lookup"><span data-stu-id="99c85-146">To renew authentication until the account is disconnected.</span></span> |  |
+>| <span data-ttu-id="99c85-147">openid</span><span class="sxs-lookup"><span data-stu-id="99c85-147">openid</span></span> | <span data-ttu-id="99c85-148">アプリケーション</span><span class="sxs-lookup"><span data-stu-id="99c85-148">application</span></span> |  | <span data-ttu-id="99c85-149">認証に必要です。</span><span class="sxs-lookup"><span data-stu-id="99c85-149">Required to authenticate.</span></span> |  |
+>| <span data-ttu-id="99c85-150">profile</span><span class="sxs-lookup"><span data-stu-id="99c85-150">profile</span></span> | <span data-ttu-id="99c85-151">アプリケーション</span><span class="sxs-lookup"><span data-stu-id="99c85-151">application</span></span> |  | <span data-ttu-id="99c85-152">ユーザーを認証します。</span><span class="sxs-lookup"><span data-stu-id="99c85-152">To authenticate the user.</span></span> |  |
 
 
-#### <a name="non-microsoft-services-used"></a><span data-ttu-id="0149b-155">非使用Microsoft サービス</span><span class="sxs-lookup"><span data-stu-id="0149b-155">Non-Microsoft services used</span></span>
+#### <a name="non-microsoft-services-used"></a><span data-ttu-id="99c85-153">使用Microsoft サービス</span><span class="sxs-lookup"><span data-stu-id="99c85-153">Non-Microsoft services used</span></span>
 
-<span data-ttu-id="0149b-156">アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。</span><span class="sxs-lookup"><span data-stu-id="0149b-156">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
+<span data-ttu-id="99c85-154">アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。</span><span class="sxs-lookup"><span data-stu-id="99c85-154">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
 
-><span data-ttu-id="0149b-157">非Microsoft サービスは使用されません。</span><span class="sxs-lookup"><span data-stu-id="0149b-157">Non-Microsoft services are not used.</span></span>
+><span data-ttu-id="99c85-155">非Microsoft サービスは使用されません。</span><span class="sxs-lookup"><span data-stu-id="99c85-155">Non-Microsoft services are not used.</span></span>
 
-#### <a name="data-access-via-bots"></a><span data-ttu-id="0149b-158">ボット経由のデータ アクセス</span><span class="sxs-lookup"><span data-stu-id="0149b-158">Data access via bots</span></span>
+#### <a name="data-access-via-bots"></a><span data-ttu-id="99c85-156">ボット経由のデータアクセス</span><span class="sxs-lookup"><span data-stu-id="99c85-156">Data access via bots</span></span>
 
-<span data-ttu-id="0149b-159">このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。</span><span class="sxs-lookup"><span data-stu-id="0149b-159">If this app contains a bot or a messaging extension, it can access end-user identifiable information (EUII): the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to.</span></span> <span data-ttu-id="0149b-160">このアプリは、この機能を利用しますか?</span><span class="sxs-lookup"><span data-stu-id="0149b-160">Does this app make use of this capability?</span></span>
+<span data-ttu-id="99c85-157">このアプリにボットまたはメッセージング拡張機能が含まれている場合、チームまたはチャットのチーム メンバーの名簿 (名前、姓、表示名、電子メール アドレス) のユーザーを識別できる情報 (EUII) にアクセスできます。</span><span class="sxs-lookup"><span data-stu-id="99c85-157">If this app contains a bot or a messaging extension, it can access end-user identifiable information (EUII): the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to.</span></span> <span data-ttu-id="99c85-158">このアプリはこの機能を利用していますか?</span><span class="sxs-lookup"><span data-stu-id="99c85-158">Does this app make use of this capability?</span></span>
 
->| <span data-ttu-id="0149b-161">**EUII にアクセスする理由**</span><span class="sxs-lookup"><span data-stu-id="0149b-161">**Justification for accessing EUII?**</span></span>  | <span data-ttu-id="0149b-162">**EUII はデータベースに格納されていますか?**</span><span class="sxs-lookup"><span data-stu-id="0149b-162">**Is EUII stored in database(s)?**</span></span> | <span data-ttu-id="0149b-163">**EUII を格納するための理由**</span><span class="sxs-lookup"><span data-stu-id="0149b-163">**Justification for storing EUII?**</span></span> |
+>| <span data-ttu-id="99c85-159">**EUIIにアクセスするための正当性?**</span><span class="sxs-lookup"><span data-stu-id="99c85-159">**Justification for accessing EUII?**</span></span>  | <span data-ttu-id="99c85-160">**EUII はデータベースに格納されていますか?**</span><span class="sxs-lookup"><span data-stu-id="99c85-160">**Is EUII stored in database(s)?**</span></span> | <span data-ttu-id="99c85-161">**EUIIを保存するための正当性?**</span><span class="sxs-lookup"><span data-stu-id="99c85-161">**Justification for storing EUII?**</span></span> |
 >|:--------------------------------|:---------------------|:--------------------------|
->| <span data-ttu-id="0149b-164">会話にユーザーを割り当てるには</span><span class="sxs-lookup"><span data-stu-id="0149b-164">To assign people to conversations</span></span> | <span data-ttu-id="0149b-165">名、名、表示名、電子メール アドレス</span><span class="sxs-lookup"><span data-stu-id="0149b-165">First name, last name, display name, email address</span></span> |  |
+>| <span data-ttu-id="99c85-162">会話にユーザーを割り当てるには</span><span class="sxs-lookup"><span data-stu-id="99c85-162">To assign people to conversations</span></span> | <span data-ttu-id="99c85-163">姓、姓、表示名、メールアドレス</span><span class="sxs-lookup"><span data-stu-id="99c85-163">First name, last name, display name, email address</span></span> |  |
 
 
+#### <a name="telemetry-data"></a><span data-ttu-id="99c85-164">テレメトリ データ</span><span class="sxs-lookup"><span data-stu-id="99c85-164">Telemetry data</span></span>
 
-#### <a name="telemetry-data"></a><span data-ttu-id="0149b-166">テレメトリ データ</span><span class="sxs-lookup"><span data-stu-id="0149b-166">Telemetry data</span></span>
+<span data-ttu-id="99c85-165">このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。</span><span class="sxs-lookup"><span data-stu-id="99c85-165">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="99c85-166">「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。</span><span class="sxs-lookup"><span data-stu-id="99c85-166">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
 
-<span data-ttu-id="0149b-167">組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか?</span><span class="sxs-lookup"><span data-stu-id="0149b-167">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="0149b-168">はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。</span><span class="sxs-lookup"><span data-stu-id="0149b-168">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
+><span data-ttu-id="99c85-167">テナント ID、ユーザー ID (電子メール アドレス)</span><span class="sxs-lookup"><span data-stu-id="99c85-167">Tenant ID, user ID (email address)</span></span>
 
-><span data-ttu-id="0149b-169">テナント ID、ユーザー ID (電子メール アドレス)</span><span class="sxs-lookup"><span data-stu-id="0149b-169">Tenant ID, user ID (email address)</span></span>
+#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="99c85-168">パートナーが保存するデータの組織的な統制</span><span class="sxs-lookup"><span data-stu-id="99c85-168">Organizational controls for data stored by partner</span></span>
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="0149b-170">パートナーによって保存されるデータの組織的な制御</span><span class="sxs-lookup"><span data-stu-id="0149b-170">Organizational controls for data stored by partner</span></span>
+<span data-ttu-id="99c85-169">組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど</span><span class="sxs-lookup"><span data-stu-id="99c85-169">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
 
-<span data-ttu-id="0149b-171">組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。</span><span class="sxs-lookup"><span data-stu-id="0149b-171">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
-
-><span data-ttu-id="0149b-172">GDPR コンプライアンスの一環として、管理者は削除、データ アクセスなどの要求を行えます (詳細については、「法務タブ」を参照)。</span><span class="sxs-lookup"><span data-stu-id="0149b-172">As part of GDPR compliance, admins can request deletions, data access and more (see Legal tab for details).</span></span>
+><span data-ttu-id="99c85-170">GDPR 準拠の一環として、管理者は削除、データ アクセスなどを要求できます (詳細については「Legal タブ」を参照)。</span><span class="sxs-lookup"><span data-stu-id="99c85-170">As part of GDPR compliance, admins can request deletions, data access and more (see Legal tab for details).</span></span>
 
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -101,11 +99,11 @@ ms.locfileid: "52251266"
 
 ::: zone pivot="mcas"
 
-<span data-ttu-id="0149b-173">以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。</span><span class="sxs-lookup"><span data-stu-id="0149b-173">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
+<span data-ttu-id="99c85-171">[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。</span><span class="sxs-lookup"><span data-stu-id="99c85-171">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
 
-<iframe height='1020' title='<span data-ttu-id="0149b-174">Microsoft Cloud App Security情報</span><span class="sxs-lookup"><span data-stu-id="0149b-174">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35675' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="0149b-175">
+<iframe height='1020' title='<span data-ttu-id="99c85-172">Microsoft Cloud App Security情報</span><span class="sxs-lookup"><span data-stu-id="99c85-172">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35675' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="99c85-173">
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35675" target="_blank">新しいタブで表示する</a></span><span class="sxs-lookup"><span data-stu-id="0149b-175">
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35675" target="_blank">新しいタブで表示する</a></span><span class="sxs-lookup"><span data-stu-id="99c85-173">
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35675" target="_blank">View in a new tab</a></span></span>
 
