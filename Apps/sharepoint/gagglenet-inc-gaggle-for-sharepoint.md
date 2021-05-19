@@ -1,43 +1,43 @@
 ---
-title: Gaggle for gaggle for SharePoint Gaggle.net, Inc.
+title: Gaggle.net 社によるSharePointのためのガグルの申請情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: SharePoint の Gaggle で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: SharePointの Gaggle、そのデータ処理ポリシー、そのMicrosoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3023d4ea1cd9fa08db125533cefdd7ff910581ab
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 3678860272fa669d66d53dc650a685a1ed8c5ef2
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251676"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553498"
 ---
-# <a name="gaggle-for-sharepoint"></a>Gaggle for SharePoint
+# <a name="gaggle-for-sharepoint"></a>SharePointのためのギャグル
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2020 年 11 月 3 日</p>
+<p>開発者による最終更新日: 2020年11月3日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104374324" target="_blank">AppSource での表示</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104374324" target="_blank">アプリソースで表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-microsoft に Gaggle.net 社から提供される情報:
+Gaggle.net 社がマイクロソフトに提供する情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | Gaggle for SharePoint |
+| アプリ名 | SharePointのためのギャグル |
 | ID | WA104374324 |
-| Office 365サポートされているクライアント | SharePoint 2013 以降 |
+| サポートされるクライアントOffice 365 | 2013 SharePoint以降 |
 | パートナー会社名 | Gaggle.net 株式会社 |
-| パートナー Web サイトの URL | [https://gaggle.net/](https://gaggle.net/) |
-| プライバシー ポリシーの URL | [https://gaggle.net/privacy](https://gaggle.net/privacy) |
-| 利用規約の URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| パートナーウェブサイトのURL | [https://gaggle.net/](https://gaggle.net/) |
+| プライバシーポリシーの URL | [https://gaggle.net/privacy](https://gaggle.net/privacy) |
+| 利用規約の URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;オンクト=エン・US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,47 +47,38 @@ microsoft に Gaggle.net 社から提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、Gaggle.net, Inc. から、このアプリが組織データを収集および保存する方法、およびアプリが収集するデータに対して組織が持つコントロールについて提供されています。
+この情報は、このアプリが組織データを収集して保存する方法、およびアプリが収集するデータに対する組織のコントロールに関する Gaggle.net 社によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションでは、Microsoft アプリケーションをGraph。
+>このアプリケーションは、マイクロソフトのGraphを使用していません。
 
 
-#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
 
-アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
+アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。
 
 >非Microsoft サービスは使用されません。
 
 
 
-#### <a name="add-in-data-access"></a>アドイン のデータ アクセス
-
-このアプリが組織のデータにアクセスするために必要なアクセス許可、このアクセス許可の正当性と目的 (アプリは何のためにこの情報を使用するのか)、およびアプリがデータベースにこの情報を格納するかどうかを一覧表示します。
-
->| **アクセス許可**  | **説明** |
->|:----------------|:----------------|
->| 既定値 | ドキュメント&#8217;読み取りまたは変更を行う必要があります。 |
->| データの送信 | インターネットを使用してデータを送信できます |
-
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
+このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。 「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。
 
->IP アドレス、電子メール アドレス、ユーザー名。 すべてのテレメトリ/ログへのアクセスは、グループベースのアクセス許可スキームに基づいており、最小特権の原則を利用します。 OII および EIUU への不正アクセスを確実に防止するために、物理的および論理的なアクセス制御が実行されています。
+>IP アドレス、電子メール アドレス、ユーザー名。 すべてのテレメトリ/ログへのアクセスは、最小特権の原則を使用して、グループ ベースのアクセス許可スキームに基づいています。 OII および EIUU への不正アクセスを防止するために、物理および論理アクセス制御が実施されています。
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーが保存するデータの組織的な統制
 
-組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
+組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
 
->システム レベルのログ システムまたはデータベースに格納されているデータ。 すべてのデータへのアクセスは、グループベースのアクセス許可スキームに基づいており、最小特権の原則を利用します。 OII および EIUU への不正アクセスを確実に防止するために、物理的および論理的なアクセス制御が実行されています。
+>システム レベルのログ システムまたはデータベースに格納されるデータ。 すべてのデータへのアクセスは、最小特権の原則を利用して、グループベースのアクセス許可スキームに基づいています。 OII および EIUU への不正アクセスを防止するために、物理および論理アクセス制御が実施されています。
 
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
 
-人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
+人間は、このアプリによって収集または保存される組織識別情報(OII)データのレビューまたは分析に関与していますか?
 
 >はい
 
@@ -97,7 +88,7 @@ microsoft に Gaggle.net 社から提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/20688' frameborder='no' style='width: 100%;'></iframe>
 

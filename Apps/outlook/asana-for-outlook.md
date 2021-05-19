@@ -1,43 +1,43 @@
 ---
-title: Asana for Outlookアプリケーション情報
+title: アサナOutlookのためのアサナの申請情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 11/02/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: asana for Outlook、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: ASANA のOutlook、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関するすべての利用可能なセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 635d3f73c582fbc6a89fbca0798b0dec271ab3f5
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: cd3d403d7b25c1ad5dda60dff8d93c18dfe59c30
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252978"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553748"
 ---
-# <a name="asana-for-outlook"></a>Asana for Outlook
+# <a name="asana-for-outlook"></a>Outlookのためのアサナ
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2020 年 11 月 2 日</p>
+<p>開発者による最終更新日: 2020年11月2日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104381833" target="_blank">AppSource での表示</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381833" target="_blank">アプリソースで表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Asana から Microsoft に提供される情報:
+アサナがマイクロソフトに提供した情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | Asana for Outlook |
+| アプリ名 | Outlookのためのアサナ |
 | ID | WA104381833 |
-| Office 365サポートされているクライアント | Outlook 2016 Mac 上Windows、Outlook 2016、Web 上Outlookの場合 |
+| サポートされるクライアントOffice 365 | Outlook 2016以降、Windows、Outlook 2016以降、Mac で、ウェブ上でOutlook |
 | パートナー会社名 | Asana |
-| パートナー Web サイトの URL | [https://asana.com/](https://asana.com/) |
-| プライバシー ポリシーの URL | [https://asana.com/terms#privacy-policy](https://asana.com/terms#privacy-policy) |
-| 利用規約の URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| パートナーウェブサイトのURL | [https://asana.com/](https://asana.com/) |
+| プライバシーポリシーの URL | [https://asana.com/terms#privacy-policy](https://asana.com/terms#privacy-policy) |
+| 利用規約の URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;オンクト=エン・US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,50 +47,41 @@ Asana から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関して Asana によって提供されています。
+この情報は、このアプリが組織データを収集して保存する方法、およびアプリが収集するデータに対する組織のコントロールに関する情報を Asana によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションでは、Microsoft アプリケーションをGraph。
+>このアプリケーションは、マイクロソフトのGraphを使用していません。
 
 
-#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
 
-アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
+アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。
 
->| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
+>| **すべての非Microsoft サービス OII は、** |  **どのようなOIIが転送されますか?** | **OIIを転送するための正当性?** |
 >|:-------------------|:--------------------------|:--------------------------|
->| アドインは、ユーザーからの要求に応じて、基本的な電子メール情報 (送信者、再通知、件名、本文) と添付ファイルを Asana に転送します。 |  | [メール] - 作業ウィンドウに表示されている現在開いている電子メールを読み取ります。 - Asana タスクにアップロードする現在開いているメール添付ファイルを読み取ります。 - これにより、ユーザーは Asana のタスクをすばやく作成し、電子メールからの情報を得る機能を提供します。 |
+>| アドインは、ユーザーから要求された場合に、基本的な電子メール情報 (送信者、受信情報、件名、本文) と添付ファイルを Asana に転送します。 |  | 電子メール - 作業ウィンドウに表示されているときに現在開いている電子メールを読み取ります。 - 現在開いている電子メールの添付ファイルを読み取り、Asana タスクにアップロードします。 - これにより、ユーザーは、メールからの情報をAsanaで迅速にタスクを作成することができます。 |
 
 
-
-#### <a name="add-in-data-access"></a>アドイン のデータ アクセス
-
-このアプリが組織のデータにアクセスするために必要なアクセス許可、このアクセス許可の正当性と目的 (アプリは何のためにこの情報を使用するのか)、およびアプリがデータベースにこの情報を格納するかどうかを一覧表示します。
-
->| **アクセス許可**  | **説明** |
->|:----------------|:----------------|
->| ReadWrite アイテム | このアドインは、本文、件名、送信者、受信者、添付ファイル情報など、アクティブなメッセージ内の個人情報にアクセスして変更できます。 このデータは、サードパーティ のサービスに送信される場合があります。 メールボックス内の他のアイテムは&#8217;変更することはできません。 |
->| データの送信 | インターネットを使用してデータを送信できます |
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
+このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。 「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。
 
->アプリケーションは、Asana データに関連する情報のみをログに記録します。 Outlook ユーザー情報に関連する情報をログに記録する唯一の時間は、ユーザーが明示的に電子メールを添付するか、Asana に添付ファイルをアップロードし、その後もコンテンツをログに記録しない場合です。 短期的なログは、一部のユーザー データを含む可能性があるサーバーに存在しますが、一時的なログであり、72 時間未満の期間に制限されます。
+>当社のアプリケーションは、Asanaデータに関連する情報のみを記録します。 ユーザー情報Outlook関連するものを記録するのは、ユーザーが明示的にメールを添付したり、添付ファイルをAsanaにアップロードしたりした場合のみで、その場合でも内容を記録しません。 短期ログは、一部のユーザー データを含むサーバー上に存在しますが、一時的なログであり、72 時間以内の期間に制限されます。
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーが保存するデータの組織的な統制
 
-組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
+組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
 
->Enterpriseは、AES-256 を使用して保存時の暗号化を保証しています。 データは Amazon Web Services に保存され、AWS はキー管理システムを使用して暗号化キーを管理します。 すべての管理者に 2FA があります。 アクセスは、最小特権の原則に基付けされます。
-Asana 組織の管理者は、SAML、SCIM、Service アカウントをセットアップし、ツールに入れるデータの包括的なビューを持つ機能を持っています。 管理者は、管理コンソール内から組織全体のエクスポートを要求し、必要に応じて監査を行います。
+>Enterpriseお客様は、AES-256を使用して保管時の暗号化を保証しています。 データはアマゾン ウェブ サービスに保存され、AWS はキー管理システムを使用して暗号化キーを管理します。 私たちはすべての管理者のための2FAを持っています。 アクセスは最小特権の原則に基づいて与えられます。
+Asana 組織の管理者は、SAML、SCIM、サービス アカウントを設定し、ツールに配置されるデータを包括的に表示できます。 管理者は、管理コンソールから完全な組織のエクスポートをリクエストし、必要に応じて監査できます。
 
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
 
-人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
+人間は、このアプリによって収集または保存される組織識別情報(OII)データのレビューまたは分析に関与していますか?
 
 >いいえ
 
@@ -100,7 +91,7 @@ Asana 組織の管理者は、SAML、SCIM、Service アカウントをセット�
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/10417' frameborder='no' style='width: 100%;'></iframe>
 
