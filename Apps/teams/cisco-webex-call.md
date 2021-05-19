@@ -1,19 +1,19 @@
 ---
-title: Cisco による Webex 呼び出しのアプリケーション情報
+title: シスコによる WebEX コールのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 01/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR レジストリの Webex Call、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: Webex Call の利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、そのMicrosoft Cloud App Securityアプリカタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7ca4bea456984ceb47a6da8f74e34c3cd985247b
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 8cd5499529eb41a5a840c9a7792e9b47f9a6c877
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250785"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552288"
 ---
 # <a name="webex-call"></a>Webex Call
 
@@ -21,25 +21,24 @@ ms.locfileid: "52250785"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>開発者による最終更新日: 2021 年 1 月 4 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/0924e969-85d8-4acb-8687-faacd6abd228" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001495" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/0924e969-85d8-4acb-8687-faacd6abd228" target="_blank">Teams店舗で表示</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001495" target="_blank">アプリソースで表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-シスコから Microsoft に提供される情報:
+シスコがマイクロソフトに提供する情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Webex Call |
 | ID | WA200001495 |
-| 機能 | ボット、タブ、メッセージングの拡張機能 |
-| Office 365サポートされているクライアント | Microsoft Teams |
+| サポートされるクライアントOffice 365 | Microsoft Teams |
 | パートナー会社名 | Cisco |
-| パートナー Web サイトの URL | [https://www.cisco.com/c/en/us/solutions/collaboration/webex...](https://www.cisco.com/c/en/us/solutions/collaboration/webex-teams.html) |
-| [アプリケーション情報Teamsページの URL | [該当なし](N/A) |
-| プライバシー ポリシーの URL | [https://www.cisco.com/c/en/us/about/legal/privacy-full.html](https://www.cisco.com/c/en/us/about/legal/privacy-full.html) |
+| パートナーウェブサイトのURL | [https://www.cisco.com/c/en/us/solutions/collaboration/webex...](https://www.cisco.com/c/en/us/solutions/collaboration/webex-teams.html) |
+| アプリケーション情報ページTeams URL | [該当なし](N/A) |
+| プライバシーポリシーの URL | [https://www.cisco.com/c/en/us/about/legal/privacy-full.html](https://www.cisco.com/c/en/us/about/legal/privacy-full.html) |
 | 利用規約の URL | [https://www.cisco.com/c/en/us/products/universal-cloud-agre...](https://www.cisco.com/c/en/us/products/universal-cloud-agreement.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -50,52 +49,51 @@ ms.locfileid: "52250785"
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールについて、シスコから提供されています。
+この情報は、このアプリが組織のデータを収集して格納する方法、およびアプリが収集するデータに対する組織の制御についてシスコから提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?それを収集するための正当化?** | **データは保存されますか?それを保存するための正当化?** | **Azure AD アプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Chat.Read | 委任 | チャット メンバーを取得して、Cisco WebEx とのプライベート チャットで他のメンバーを呼び出す | アプリはデータベースにデータを保存しない | 9a7ce614-bdc8-4640-aaea-d8c626c58966 |
->| Contacts.Read | 委任 | ユーザーの連絡先を取得して、ユーザーが Cisco WebEx で連絡先を呼び出す | アプリはデータベースにデータを保存しない | 9a7ce614-bdc8-4640-aaea-d8c626c58966 |
->| User.Read | 委任 | ユーザーの電子メール、電話を取得して、電子メールまたは電話を呼び出す Cisco WebEx を起動する | アプリはデータベースにデータを保存しない | 9a7ce614-bdc8-4640-aaea-d8c626c58966 |
->| User.ReadBasic.All | 委任 | ユーザーの電子メール、電話を取得して、電子メールまたは電話を呼び出す Cisco WebEx を起動する | アプリはデータベースにデータを保存しない | 9a7ce614-bdc8-4640-aaea-d8c626c58966 |
->| User.ReadWrite | 委任 | このアクセス許可は、短縮ダイヤル情報をユーザー内線番号に保存します。 | アプリはデータベースにデータを保存しない  | 9a7ce614-bdc8-4640-aaea-d8c626c58966 |
+>| Chat.Read | 委任 | チャット メンバーを取得して、Cisco WebEx とのプライベート チャットで他のメンバーを呼び出すことができるようにする | アプリは、そのデータベースにデータを格納しません | 9a7ce614-bdc8-4640-aaea-d8c626c58966 |
+>| Contacts.Read | 委任 | ユーザーの連絡先を取得するため、ユーザーは Cisco WebEx との連絡先を呼び出すことができる | アプリは、そのデータベースにデータを格納しません | 9a7ce614-bdc8-4640-aaea-d8c626c58966 |
+>| User.Read | 委任 | ユーザの電子メール、電話を取得して、電子メールや電話に電話をかけるために Cisco WebEx を起動できます。 | アプリは、そのデータベースにデータを格納しません | 9a7ce614-bdc8-4640-aaea-d8c626c58966 |
+>| User.ReadBasic.All | 委任 | ユーザの電子メール、電話を取得して、電子メールや電話に電話をかけるために Cisco WebEx を起動できます。 | アプリは、そのデータベースにデータを格納しません | 9a7ce614-bdc8-4640-aaea-d8c626c58966 |
+>| User.ReadWrite | 委任 | このアクセス許可は、ユーザーの内線番号に短縮ダイヤル情報を格納することです | アプリは、そのデータベースにデータを格納しません  | 9a7ce614-bdc8-4640-aaea-d8c626c58966 |
 
 
-#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
 
-アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
+アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。
 
 >非Microsoft サービスは使用されません。
 
-#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
+#### <a name="data-access-via-bots"></a>ボット経由のデータアクセス
 
-このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
+このアプリにボットまたはメッセージング拡張機能が含まれている場合、チームまたはチャットのチーム メンバーの名簿 (名前、姓、表示名、電子メール アドレス) のユーザーを識別できる情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
 
->| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
+>| **EUIIにアクセスするための正当性?**  | **EUII はデータベースに格納されていますか?** | **EUIIを保存するための正当性?** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| このメッセージ拡張機能は、チャット メンバーのメール/電話を読み取り、ユーザーが Cisco WebEx でそれらを呼び出す | いいえ |  |
-
+>| このメッセージ拡張機能はチャットメンバーの電子メール/電話を読み取るので、ユーザは Cisco WebEx で呼び出せるようにします | いいえ |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
+このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。 「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。
 
 >アプリケーションのテレメトリまたはログに OII または EUII は表示されません。
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーが保存するデータの組織的な統制
 
-組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
+組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
 
->このアプリはユーザー データを保存しなかった
+>このアプリは、任意のユーザーデータを格納しませんでした
 
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
 
-人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
+人間は、このアプリによって収集または保存される組織識別情報(OII)データのレビューまたは分析に関与していますか?
 
 >いいえ
 
@@ -105,7 +103,7 @@ ms.locfileid: "52250785"
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/10549' frameborder='no' style='width: 100%;'></iframe>
 
@@ -119,11 +117,11 @@ ms.locfileid: "52250785"
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、シスコから提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、およびその他の ID 基準を処理する方法についてシスコによって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | なし |
+| マイクロソフト識別プラットフォーム (Azure AD) と統合しますか。  | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

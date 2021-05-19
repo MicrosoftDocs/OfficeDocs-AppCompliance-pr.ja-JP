@@ -1,45 +1,44 @@
 ---
-title: InVision アプリによる InVision によるフリーハンドのアプリケーション情報
+title: InVisionアプリによるInVisionによるフリーハンドのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 05/06/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Freehand by InVision で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: フリーハンドで利用できるすべてのセキュリティおよびコンプライアンス情報情報 InVision、そのデータ処理ポリシー、そのMicrosoft Cloud App Securityアプリカタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: fa9a02b63eff4001789f5a7c854fd9ee554d6e84
-ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
+ms.openlocfilehash: 76c6931b44a767d425baa07a84c86d7a44a3a64d
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52258774"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553048"
 ---
-# <a name="freehand-by-invision"></a>InVision によるフリーハンド
+# <a name="freehand-by-invision"></a>Freehand by InVision
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 5 月 6 日</p>
+<p>開発者による最終更新日: 2021年5月6日</p>
 
-* <a href="https://teams.microsoft.com/l/app/67cf2c5a-db0e-4256-a423-14010cbeafdd" target="_blank">Teams ストアでの表示</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104381362" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/67cf2c5a-db0e-4256-a423-14010cbeafdd" target="_blank">Teams店舗で表示</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381362" target="_blank">アプリソースで表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-InVision アプリから Microsoft に提供される情報:
+InVision アプリからマイクロソフトに提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | InVision によるフリーハンド |
+| アプリ名 | Freehand by InVision |
 | ID | WA104381362 |
-| 機能 | Tab |
-| Office 365 クライアントがサポートされている | Microsoft Teams |
+| サポートされるクライアントOffice 365 | Microsoft Teams |
 | パートナー会社名 | InVision アプリ |
-| パートナー Web サイトの URL | [https://www.invisionapp.com/](https://www.invisionapp.com/) |
-| Teams アプリケーション情報ページの URL | [https://www.invisionapp.com/freehand](https://www.invisionapp.com/freehand) |
-| プライバシー ポリシーの URL | [https://www.invisionapp.com/privacy](https://www.invisionapp.com/privacy) |
+| パートナーウェブサイトのURL | [https://www.invisionapp.com/](https://www.invisionapp.com/) |
+| アプリケーション情報ページTeams URL | [https://www.invisionapp.com/freehand](https://www.invisionapp.com/freehand) |
+| プライバシーポリシーの URL | [https://www.invisionapp.com/privacy](https://www.invisionapp.com/privacy) |
 | 利用規約の URL | [https://www.invisionapp.com/terms](https://www.invisionapp.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -50,46 +49,45 @@ InVision アプリから Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する InVision アプリによって提供されています。
+この情報は、このアプリが組織のデータを収集して格納する方法と、アプリが収集するデータに対する組織のコントロールについてInVisionアプリによって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
+#### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
 
-このアプリで [必要な Microsoft Graph の](https://docs.microsoft.com/graph/permissions-reference) アクセス許可を一覧表示します。
+このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションは Microsoft Graph を使用しない。
+>このアプリケーションは、マイクロソフトのGraphを使用していません。
 
 
-#### <a name="non-microsoft-services-used"></a>使用されている Microsoft 以外のサービス
+#### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
 
-アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
+アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。
 
->| **Microsoft 以外のすべてのサービス OII は、** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
+>| **すべての非Microsoft サービス OII は、** |  **どのようなOIIが転送されますか?** | **OIIを転送するための正当性?** |
 >|:-------------------|:--------------------------|:--------------------------|
 >| https://support.invisionapp.com/hc/en-us/articles/360002594732-Subprocessors-and-Subcontractors | https://support.invisionapp.com/hc/en-us/articles/360002594732-Subprocessors-and-Subcontractors | https://support.invisionapp.com/hc/en-us/articles/360002594732-Subprocessors-and-Subcontractors |
 
-#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
+#### <a name="data-access-via-bots"></a>ボット経由のデータアクセス
 
-このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
+このアプリにボットまたはメッセージング拡張機能が含まれている場合、チームまたはチャットのチーム メンバーの名簿 (名前、姓、表示名、電子メール アドレス) のユーザーを識別できる情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
 
->EUII にはアクセスされません。
-
+>EUII はアクセスされません。
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
+このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。 「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。
 
->システムとアプリケーションからのログは、一元化されたログ管理システムと SIEM の両方に収集され、データを変更または削除するアクセスが制限されています。 また、SIEM はホストの侵入、整合性、ネットワーク評価を監視し、この情報を cloudtrail イベントと関連付ける。 システムは専用のセキュリティ チームによって監視され、アラートは 24 時間 365 日のオンコール エンジニアをページに表示するように構成されます。 両方のシステムからのログは、1 年間保持されます。
+>システムおよびアプリケーションからのログは、集中ログ管理システムと SIEM の両方に収集され、データを変更または削除するためのアクセスが制限されています。 SIEM は、ホストの侵入、整合性、ネットワークレピュテーションも監視し、この情報を cloudtrail イベントと関連付けます。 システムは専用のセキュリティチームによって監視され、アラートは24時間365日オンコールエンジニアをページングするように設定されています。 両方のシステムのログは 1 年間保持されます。
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーが保存するデータの組織的な統制
 
-組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
+組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
 
->第三者のリスク評価は、個人情報を処理するベンダーに対して実行されます。 &#8220;監査権&#8221;を含む条項が契約上追加され、重大性/リスク要因に基づいて毎年デューデリジェンスが再発生します。 法務では、適用される場合に契約上追加されるデータ保護アドオンと、InVision 要件を満たす許容可能な標準を実装しています。 (サブプロセッサは、暗号化されていない形式で顧客プロジェクト データにアクセスできない点に注意してください)。
+>第三者のリスク評価は、個人情報を処理するベンダーに対して実行されます。 契約上、&#8220;監査&#8221;権を含む条項が追加されており、リスク要因に基づいて毎年デューデリジェンスが再発生します。 Legal は、該当する場合に契約上追加されるデータ保護の追加と、InVision の要件を満たす許容可能な基準を実装しています。 (サブプロセッサは、暗号化されていない形式で顧客のプロジェクト データにアクセスすることはできません。
 
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
 
-人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
+人間は、このアプリによって収集または保存される組織識別情報(OII)データのレビューまたは分析に関与していますか?
 
 >いいえ
 
@@ -99,9 +97,9 @@ InVision アプリから Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-[Microsoft Cloud App Security カタログの情報を以下](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)に示します。
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App セキュリティ情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/20788' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/20788' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/20788" target="_blank">新しいタブで表示する</a>
 
@@ -113,24 +111,24 @@ InVision アプリから Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について InVision アプリによって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベストプラクティス、およびその他のID基準を処理する方法についてInVisionアプリによって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
-| Microsoft ID プラットフォーム統合チェックリストで説明されている、適用可能なすべてのベスト プラクティスを確認し、遵守しましたか?  | いいえ |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
-| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | いいえ |
-| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
-| アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | はい |
-| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/><br/> |
-| アプリは Web API を公開していますか? | はい |
-| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
-| アプリで非推奨の API を使用していますか? | なし |
+| マイクロソフト識別プラットフォーム (Azure AD) と統合しますか。  | はい |
+| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか。  | いいえ |
+| アプリは認証に MSAL (マイクロソフト認証ライブラリ) を使用していますか? | いいえ |
+| アプリで条件付きアクセス ポリシーがサポートされていますか。 | いいえ |
+| アプリがシナリオに対して最低限の権限を要求しているか。 | いいえ |
+| アプリの静的に登録されたアクセス許可は、アプリが動的に、または増分的に要求するアクセス許可を正確に反映していますか。 | はい |
+| アプリでマルチテナント機能がサポートされていますか。 | はい |
+| アプリに機密クライアントが存在しますか? | はい |
+| アプリに登録されているすべてのリダイレクト統一リソース識別子 (URI) を所有していますか。 | はい |
+| アプリの場合、何を使用しないようにしますか。 | - ワイルドカードリダイレクト URI<br/><br/> |
+| アプリは Web API を公開していますか。 | はい |
+| クライアント アプリが適切な同意を得た場合にのみ、アクセス許可モデルで呼び出しが成功することを許可しますか。 | はい |
+| アプリでプレビュー API を使用していますか。 | いいえ |
+| アプリで非推奨の API が使用されていますか。 | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

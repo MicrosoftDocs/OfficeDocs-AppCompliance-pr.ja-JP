@@ -1,45 +1,45 @@
 ---
-title: マイワークドライブによるマイワークドライブのアプリケーション情報
+title: qChangeソフトウェアソリューション社によるqChangeリーダー体験のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/13/2021
+ms.date: 04/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: MyWorkDrive の利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、そのMicrosoft Cloud App Securityアプリカタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: qChange リーダー エクスペリエンス、そのデータ処理ポリシー、そのMicrosoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5bea09ee9777395feca68f12a16c6abb7b37a3b3
+ms.openlocfilehash: 312240988228c487ea9d616ba0e62fe58d5ee8f1
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552908"
+ms.locfileid: "52551946"
 ---
-# <a name="myworkdrive"></a>MyWorkDrive
+# <a name="qchange-leader-experience"></a>qリーダーエクスペリエンスの変更
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2021 年 1 月 13 日</p>
+<p>開発者による最終更新日: 2021年4月20日</p>
 
-* <a href="https://teams.microsoft.com/l/app/f4170c12-ec5c-47b9-834a-a4186cf27ec1" target="_blank">Teams店舗で表示</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002325" target="_blank">アプリソースで表示</a>
+* <a href="https://teams.microsoft.com/l/app/32dbfdc9-7832-4969-ad02-77a4902fae35" target="_blank">Teams店舗で表示</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001639" target="_blank">アプリソースで表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-MyWorkDrive がマイクロソフトに提供する情報:
+qChangeソフトウェアソリューション社がマイクロソフトに提供する情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | MyWorkDrive |
-| ID | WA200002325 |
+| アプリ名 | qリーダーエクスペリエンスの変更 |
+| ID | WA200001639 |
 | サポートされるクライアントOffice 365 | Microsoft Teams |
-| パートナー会社名 | MyWorkDrive |
-| パートナーウェブサイトのURL | [https://www.myworkdrive.com](https://www.myworkdrive.com) |
-| アプリケーション情報ページTeams URL | [https://www.myworkdrive.com/support/myworkdrive-teams-integ...](https://www.myworkdrive.com/support/myworkdrive-teams-integration/) |
-| プライバシーポリシーの URL | [https://www.myworkdrive.com/privacy-policy/](https://www.myworkdrive.com/privacy-policy/) |
-| 利用規約の URL | [https://www.myworkdrive.com/terms-of-service/](https://www.myworkdrive.com/terms-of-service/) |
+| パートナー会社名 | qチェンジ・ソフトウェア・ソリューション株式会社 |
+| パートナーウェブサイトのURL | [https://www.qchange.com/](https://www.qchange.com/) |
+| アプリケーション情報ページTeams URL | [https://www.qchange.com/leader-experience](https://www.qchange.com/leader-experience) |
+| プライバシーポリシーの URL | [https://www.qchange.com/privacy-policy](https://www.qchange.com/privacy-policy) |
+| 利用規約の URL | [https://www.qchange.com/terms-of-service](https://www.qchange.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,13 +49,15 @@ MyWorkDrive がマイクロソフトに提供する情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織のデータを収集して格納する方法、およびアプリが収集するデータに対する組織のコントロールに関する MyWorkDrive によって提供されています。
+この情報は、このアプリが組織のデータを収集して格納する方法、およびアプリが収集するデータに対する組織のコントロールに関する qChange ソフトウェア ソリューション社によって提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
 
 このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションは、マイクロソフトのGraphを使用していません。
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?それを収集するための正当化?** | **データは保存されますか?それを保存するための正当化?** | **Azure AD アプリ ID** |
+>|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
+>| User.Read | 委任 | ユーザーカレンダー情報とアバター | マイクロソフトは、ユーザーのトークンをGraphします。 ユーザーのカレンダー データを取得するために使用されます。 | c35f7dcf-1079-4510-a6ec-1f69659c98c1 32dbfdc9-7832-4969-ad02-77a4902fae35 |
 
 
 #### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
@@ -68,7 +70,9 @@ MyWorkDrive がマイクロソフトに提供する情報:
 
 このアプリにボットまたはメッセージング拡張機能が含まれている場合、チームまたはチャットのチーム メンバーの名簿 (名前、姓、表示名、電子メール アドレス) のユーザーを識別できる情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
 
->EUII はアクセスされません。
+>| **EUIIにアクセスするための正当性?**  | **EUII はデータベースに格納されていますか?** | **EUIIを保存するための正当性?** |
+>|:--------------------------------|:---------------------|:--------------------------|
+>| 認証されたユーザーのカレンダー イベントへの招待を受け入れたユーザーの名、姓、および電子メール アドレス。 | 認証されたユーザーのカレンダー イベントへの招待を受け入れたユーザーの名、姓、および電子メール アドレス。 | これらのユーザーは、アプリケーションの認証されたユーザーによって、アプリケーションを使用するように招待することができます。 |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -81,7 +85,7 @@ MyWorkDrive がマイクロソフトに提供する情報:
 
 組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
 
->お客様のデータは一切保管しません。 すべてのデータは顧客のサーバーに残ります。
+>組織管理者は、削除、保存、およびその他の要求について、当社のサポート チームに連絡することができます。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
 
@@ -97,9 +101,9 @@ MyWorkDrive がマイクロソフトに提供する情報:
 
 [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36420' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/38162' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36420" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/38162" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -109,21 +113,22 @@ MyWorkDrive がマイクロソフトに提供する情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、およびその他の ID 条件を処理する方法について MyWorkDrive によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベストプラクティス、およびその他のID基準を処理する方法について、qChangeソフトウェアソリューション社によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | マイクロソフト識別プラットフォーム (Azure AD) と統合しますか。  | はい |
 | Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか。  | はい |
 | アプリは認証に MSAL (マイクロソフト認証ライブラリ) を使用していますか? | はい |
-| アプリで条件付きアクセス ポリシーがサポートされていますか。 | はい |
-| サポートされているポリシーの種類を一覧表示する | デバイス ポリシー |
+| アプリで条件付きアクセス ポリシーがサポートされていますか。 | いいえ |
 | アプリがシナリオに対して最低限の権限を要求しているか。 | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的に、または増分的に要求するアクセス許可を正確に反映していますか。 | はい |
-| アプリでマルチテナント機能がサポートされていますか。 | いいえ |
+| アプリでマルチテナント機能がサポートされていますか。 | はい |
 | アプリに機密クライアントが存在しますか? | はい |
 | アプリに登録されているすべてのリダイレクト統一リソース識別子 (URI) を所有していますか。 | はい |
-| アプリは Web API を公開していますか。 | いいえ |
+| アプリの場合、何を使用しないようにしますか。 | - ワイルドカードリダイレクト URI<br/>- Spa に必要な場合を除き、OAuth2 暗黙的なFlow<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリは Web API を公開していますか。 | はい |
+| クライアント アプリが適切な同意を得た場合にのみ、アクセス許可モデルで呼び出しが成功することを許可しますか。 | いいえ |
 | アプリでプレビュー API を使用していますか。 | いいえ |
 | アプリで非推奨の API が使用されていますか。 | なし |
 

@@ -1,44 +1,43 @@
 ---
-title: SmileBack による SmileBack のアプリケーション情報
+title: スマイルバックによるスマイルバックのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 04/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: SmileBack で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: SmileBack、そのデータ処理ポリシー、そのMicrosoft Cloud App Securityアプリカタログ情報、およびCSA STARレジストリ内のセキュリティ/コンプライアンス情報に関するすべての利用可能なセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2a142002b6b772eb19565135730278dae4fc562e
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 01dae9ff795fb4b689a5515bc86f238eab3a8a82
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252090"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52551517"
 ---
 # <a name="smileback"></a>SmileBack
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 4 月 12 日</p>
+<p>開発者による最終更新日: 2021年4月12日</p>
 
-* <a href="https://teams.microsoft.com/l/app/273e3385-93c3-4054-8c03-328b8c3fd9af" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002623" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/273e3385-93c3-4054-8c03-328b8c3fd9af" target="_blank">Teams店舗で表示</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002623" target="_blank">アプリソースで表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-SmileBack から Microsoft に提供される情報:
+スマイルバックがマイクロソフトに提供する情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | SmileBack |
 | ID | WA200002623 |
-| 機能 | Connector |
-| Office 365サポートされているクライアント | Microsoft Teams |
+| サポートされるクライアントOffice 365 | Microsoft Teams |
 | パートナー会社名 | SmileBack |
-| パートナー Web サイトの URL | [https://smileback.com](https://smileback.com) |
-| プライバシー ポリシーの URL | [https://smileback.com/privacy](https://smileback.com/privacy) |
+| パートナーウェブサイトのURL | [https://smileback.com](https://smileback.com) |
+| プライバシーポリシーの URL | [https://smileback.com/privacy](https://smileback.com/privacy) |
 | 利用規約の URL | [https://smileback.com/terms](https://smileback.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -49,44 +48,43 @@ SmileBack から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関する SmileBack によって提供されています。
+この情報は、このアプリが組織のデータを収集して保存する方法と、アプリが収集するデータに対する組織のコントロールに関する SmileBack によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションでは、Microsoft アプリケーションをGraph。
+>このアプリケーションは、マイクロソフトのGraphを使用していません。
 
 
-#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
 
-アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
+アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。
 
 >非Microsoft サービスは使用されません。
 
-#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
+#### <a name="data-access-via-bots"></a>ボット経由のデータアクセス
 
-このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
+このアプリにボットまたはメッセージング拡張機能が含まれている場合、チームまたはチャットのチーム メンバーの名簿 (名前、姓、表示名、電子メール アドレス) のユーザーを識別できる情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
 
->EUII にはアクセスされません。
-
+>EUII はアクセスされません。
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
+このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。 「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。
 
 >https://smileback.com/dpa
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーが保存するデータの組織的な統制
 
-組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
+組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
 
 >https://smileback.com/dpa
 
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
 
-人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
+人間は、このアプリによって収集または保存される組織識別情報(OII)データのレビューまたは分析に関与していますか?
 
 >いいえ
 
@@ -96,7 +94,7 @@ SmileBack から Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37588' frameborder='no' style='width: 100%;'></iframe>
 
@@ -110,11 +108,11 @@ SmileBack から Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について SmileBack によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベストプラクティス、およびその他のID基準を処理する方法についてSmileBackによって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | なし |
+| マイクロソフト識別プラットフォーム (Azure AD) と統合しますか。  | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

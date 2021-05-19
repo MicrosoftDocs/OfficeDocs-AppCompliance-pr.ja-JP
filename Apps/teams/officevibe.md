@@ -1,45 +1,44 @@
 ---
-title: Officevibe による Officevibe のアプリケーション情報
+title: Officevibe によるアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 03/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Officevibe で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: Officevibe の利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、そのMicrosoft Cloud App Securityアプリカタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7aec1eac3dcdd5c42a73ec80316ec923bfd5b958
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: f007500f61edad32eb5f58a2ec57dabfa4c08de6
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251316"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552878"
 ---
 # <a name="officevibe"></a>Officevibe
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2021 年 3 月 30 日</p>
+<p>開発者による最終更新日: 2021年3月30日</p>
 
-* <a href="https://teams.microsoft.com/l/app/57587298-192a-4264-a6d6-52b2ccac853f" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002508" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/57587298-192a-4264-a6d6-52b2ccac853f" target="_blank">Teams店舗で表示</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002508" target="_blank">アプリソースで表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Officevibe から Microsoft に提供される情報:
+Officevibe がマイクロソフトに提供する情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Officevibe |
 | ID | WA200002508 |
-| 機能 | Bot |
-| Office 365サポートされているクライアント | Microsoft Teams |
+| サポートされるクライアントOffice 365 | Microsoft Teams |
 | パートナー会社名 | Officevibe |
-| パートナー Web サイトの URL | [https://officevibe.com](https://officevibe.com) |
-| [アプリケーション情報Teamsページの URL | [https://officevibe-portal.zendesk.com/hc/en-us/articles/360...](https://officevibe-portal.zendesk.com/hc/en-us/articles/360048865311-Officevibe-Communications-via-Microsoft-Teams-Coming-soon-) |
-| プライバシー ポリシーの URL | [https://officevibe.com/privacy](https://officevibe.com/privacy) |
+| パートナーウェブサイトのURL | [https://officevibe.com](https://officevibe.com) |
+| アプリケーション情報ページTeams URL | [https://officevibe-portal.zendesk.com/hc/en-us/articles/360...](https://officevibe-portal.zendesk.com/hc/en-us/articles/360048865311-Officevibe-Communications-via-Microsoft-Teams-Coming-soon-) |
+| プライバシーポリシーの URL | [https://officevibe.com/privacy](https://officevibe.com/privacy) |
 | 利用規約の URL | [https://officevibe.com/terms](https://officevibe.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -50,52 +49,51 @@ Officevibe から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールについて Officevibe によって提供されています。
+この情報は、このアプリが組織のデータを収集して格納する方法、およびアプリが収集するデータに対する組織のコントロールに関する Officevibe によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?それを収集するための正当化?** | **データは保存されますか?それを保存するための正当化?** | **Azure AD アプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.AccessAsUser.All | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 3e500164-df82-4d1e-9db8-0901e07d374d  |
->| Group.Read.All | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 3e500164-df82-4d1e-9db8-0901e07d374d  |
->| TeamsAppInstallation.ReadWriteForUser | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 3e500164-df82-4d1e-9db8-0901e07d374d  |
->| User.Read | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 3e500164-df82-4d1e-9db8-0901e07d374d  |
->| User.Read.All | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 3e500164-df82-4d1e-9db8-0901e07d374d  |
+>| Directory.AccessAsUser.All | 委任 | 電子メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を表示します。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 電子メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を表示します。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 3e500164-df82-4d1e-9db8-0901e07d374d  |
+>| Group.Read.All | 委任 | 電子メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を表示します。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 電子メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を表示します。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 3e500164-df82-4d1e-9db8-0901e07d374d  |
+>| TeamsAppInstallation.ReadWriteForUser | 委任 | 電子メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を表示します。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 電子メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を表示します。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 3e500164-df82-4d1e-9db8-0901e07d374d  |
+>| User.Read | 委任 | 電子メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を表示します。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 電子メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を表示します。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 3e500164-df82-4d1e-9db8-0901e07d374d  |
+>| User.Read.All | 委任 | 電子メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を表示します。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 電子メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を表示します。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 3e500164-df82-4d1e-9db8-0901e07d374d  |
 
 
-#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
 
-アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
+アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。
 
->| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
+>| **すべての非Microsoft サービス OII は、** |  **どのようなOIIが転送されますか?** | **OIIを転送するための正当性?** |
 >|:-------------------|:--------------------------|:--------------------------|
->| Hubspot、Recurly、Xero、MongoDB Atlas | 会社名と業種 | 顧客管理、支払い、サブスクリプション管理、アプリケーション データ ストレージ |
+>| ハブスポット,リカーリー,ゼロ,モンゴDBアトラス | 会社名と業種 | 顧客管理、支払いおよびサブスクリプション管理、アプリケーションデータストレージ |
 
-#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
+#### <a name="data-access-via-bots"></a>ボット経由のデータアクセス
 
-このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
+このアプリにボットまたはメッセージング拡張機能が含まれている場合、チームまたはチャットのチーム メンバーの名簿 (名前、姓、表示名、電子メール アドレス) のユーザーを識別できる情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
 
->EUII にはアクセスされません。
-
+>EUII はアクセスされません。
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
+このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。 「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。
 
 >アプリケーションのテレメトリまたはログに OII または EUII は表示されません。
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーが保存するデータの組織的な統制
 
-組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
+組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
 
->法的契約、セキュリティ ポリシー、認定を通じて
+>法的契約、セキュリティポリシー、および認定を通じて
 
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
 
-人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
+人間は、このアプリによって収集または保存される組織識別情報(OII)データのレビューまたは分析に関与していますか?
 
 >いいえ
 
@@ -105,7 +103,7 @@ Officevibe から Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35160' frameborder='no' style='width: 100%;'></iframe>
 
@@ -119,11 +117,11 @@ Officevibe から Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Officevibe によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、およびその他の ID 条件を処理する方法について Officevibe によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | なし |
+| マイクロソフト識別プラットフォーム (Azure AD) と統合しますか。  | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

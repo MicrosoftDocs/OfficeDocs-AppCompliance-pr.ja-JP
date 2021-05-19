@@ -1,45 +1,44 @@
 ---
-title: Simple Made Apps, Inc. による単純なイン/アウトのアプリケーション情報
+title: シンプルメイドアプリ社によるシンプルイン/アウトのためのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 11/25/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 簡易イン/アウト、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: シンプルイン/アウト、そのデータ処理ポリシー、そのMicrosoft Cloud App Securityアプリカタログ情報、およびCSA STARレジストリ内のセキュリティ/コンプライアンス情報に関するすべての利用可能なセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: db98e097113823f35b0add054c21151e26ca7fc3
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 1dc9a66d7d49cb776fa82f7847ba9e06f74c6176
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252287"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552798"
 ---
 # <a name="simple-inout"></a>Simple In/Out
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2020 年 11 月 25 日</p>
+<p>開発者による最終更新日: 2020年11月25日</p>
 
-* <a href="https://teams.microsoft.com/l/app/fcc850f5-c210-45a2-9576-4ca4e34b6d09" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104382084" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/fcc850f5-c210-45a2-9576-4ca4e34b6d09" target="_blank">Teams店舗で表示</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104382084" target="_blank">アプリソースで表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Simply Made Apps, Inc. から Microsoft に提供される情報:
+シンプルメイドアプリ社がマイクロソフトに提供する情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Simple In/Out |
 | ID | WA104382084 |
-| 機能 | タブ、コネクタ |
-| Office 365サポートされているクライアント | Microsoft Teams |
+| サポートされるクライアントOffice 365 | Microsoft Teams |
 | パートナー会社名 | Simply Made Apps, Inc. |
-| パートナー Web サイトの URL | [https://www.simpleinout.com](https://www.simpleinout.com) |
-| [アプリケーション情報Teamsページの URL | [https://simpleinout.helpscoutdocs.com/article/262-microsoft...](https://simpleinout.helpscoutdocs.com/article/262-microsoft-teams) |
-| プライバシー ポリシーの URL | [https://www.simpleinout.com/legal/privacy](https://www.simpleinout.com/legal/privacy) |
+| パートナーウェブサイトのURL | [https://www.simpleinout.com](https://www.simpleinout.com) |
+| アプリケーション情報ページTeams URL | [https://simpleinout.helpscoutdocs.com/article/262-microsoft...](https://simpleinout.helpscoutdocs.com/article/262-microsoft-teams) |
+| プライバシーポリシーの URL | [https://www.simpleinout.com/legal/privacy](https://www.simpleinout.com/legal/privacy) |
 | 利用規約の URL | [https://www.simpleinout.com/legal/terms](https://www.simpleinout.com/legal/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -50,44 +49,43 @@ Simply Made Apps, Inc. から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて、Simply Made Apps, Inc. によって提供されています。
+この情報は、このアプリが組織データを収集して保存する方法、およびアプリが収集するデータに対する組織のコントロールに関するSimply Made Apps, Inc.によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションでは、Microsoft アプリケーションをGraph。
+>このアプリケーションは、マイクロソフトのGraphを使用していません。
 
 
-#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
 
-アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
+アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。
 
 >非Microsoft サービスは使用されません。
 
-#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
+#### <a name="data-access-via-bots"></a>ボット経由のデータアクセス
 
-このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
+このアプリにボットまたはメッセージング拡張機能が含まれている場合、チームまたはチャットのチーム メンバーの名簿 (名前、姓、表示名、電子メール アドレス) のユーザーを識別できる情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
 
->EUII にはアクセスされません。
-
+>EUII はアクセスされません。
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
+このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。 「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。
 
 >アプリケーションのテレメトリまたはログに OII または EUII は表示されません。
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーが保存するデータの組織的な統制
 
-組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
+組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
 
->保存時の暗号化された転送と暗号化
+>暗号化された転送と保存時の暗号化
 
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
 
-人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
+人間は、このアプリによって収集または保存される組織識別情報(OII)データのレビューまたは分析に関与していますか?
 
 >いいえ
 
@@ -97,7 +95,7 @@ Simply Made Apps, Inc. から Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/28352' frameborder='no' style='width: 100%;'></iframe>
 
@@ -111,11 +109,11 @@ Simply Made Apps, Inc. から Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について、Simply Made Apps, Inc. から提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベストプラクティス、およびその他のID基準を処理する方法について、Simply Made Apps, Inc.によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | なし |
+| マイクロソフト識別プラットフォーム (Azure AD) と統合しますか。  | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

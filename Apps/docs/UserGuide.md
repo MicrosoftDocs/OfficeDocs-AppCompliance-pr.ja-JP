@@ -1,19 +1,19 @@
 ---
-title: ユーザー ガイド
+title: ユーザーガイド
 author: LGerrard
 ms.author: legerrar
-description: ISV ユーザー ガイド for Microsoft 365 コンプライアンス プログラム
-keywords: ISV ユーザー ガイド for Microsoft 365 コンプライアンス プログラム
+description: アプリ コンプライアンス プログラムのISV ユーザー ガイドMicrosoft 365
+keywords: アプリ コンプライアンス プログラムのISV ユーザー ガイドMicrosoft 365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: a6b0abb55359a16d4651722d776dfb16282edc87
-ms.sourcegitcommit: bb6c1353781d7b6f8b171bf6853b85e42fda656e
+ms.openlocfilehash: b8560fe46bbad2710001467e9edfeab72d6e0cb7
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52324086"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52549933"
 ---
-# <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>パートナーのユーザー ガイド for Microsoft 365 コンプライアンス プログラム
+# <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>アプリコンプライアンスプログラムのパートナーユーザーガイドMicrosoft 365
 
 |||
 |---|---|
@@ -21,199 +21,199 @@ ms.locfileid: "52324086"
 |階層 2| Microsoft 365 認定|
 
 ## <a name="1-overview"></a>1. 概要
-このドキュメントは、パートナー センター ポータルを通して Publisher 構成証明と認定を受けることを目指す Microsoft 365 アプリ コンプライアンス プログラムに登録されている、パートナー向けステップバイステップのユーザー ガイドとして機能します。
+このドキュメントは、パートナー センター ポータルを使用してPublisherの構成証明と認定を受けることを目指して、Microsoft 365アプリ コンプライアンス プログラムに登録されたパートナーのステップ バイ ステップ ユーザー ガイドとして機能します。
 
-## <a name="2-acronyms--definitions"></a>2. 定義&頭字語
+## <a name="2-acronyms--definitions"></a>2. 頭字語&定義
 | | |
 |---|----|
 |略語 | 定義 |
-|PC (パートナー センター)|すべての Microsoft パートナーのポータル。 パートナーがパートナー センターにログインし、アンケートをSelf-Assessmentする https://partner.microsoft.com/|
-|ISV|独立したソフトウェア ベンダー A.k.a. パートナーまたは開発者|
-|アプリ ソース| アプリのカタログ (https://appsource.microsoft.com/)
-||例: 仮想エージェント (https://appsource.microsoft.com/en-us/product/office/WA104381816)|
+|PC(パートナー センター)|すべてのマイクロソフト パートナー向けのポータル。 パートナーがパートナー センターにログインし、アンケートSelf-Assessment送信する https://partner.microsoft.com/|
+|ISV|独立系ソフトウェアベンダー A.k.a. パートナーまたは開発者|
+|アプリソース| アプリのカタログ (https://appsource.microsoft.com/)
+||例: 今すぐ仮想エージェント (https://appsource.microsoft.com/en-us/product/office/WA104381816)|
 
-## <a name="3---publisher-attestation-workflow"></a>3. Publisher構成証明ワークフロー
+## <a name="3---publisher-attestation-workflow"></a>3. Publisher構成証明のワークフロー
 
-ホーム ページ: パートナーがパートナー センターにログインすると、ランディング ページが表示されます。
+ホームページ: パートナーがパートナーセンターにログインすると、ランディングページになります。
 
 ![パートナー センターのホーム画面](../media/Picture1.png)
 
-**手順 1**   : ページの左側のナビゲーション バーで、次の操作を行います。
-1. [ストアOfficeを選択する
-1. [概要] の選択
+**ステップ 1**   : ページの左側にあるナビゲーション バーで、次の操作を行います。
+1. ストアOffice選択
+1. 概要の選択
 
-![Office左側のナビゲーションにストアがあります](../media/Picture2.png)
+![Office左のナビゲーションにストアがあります](../media/Picture2.png)
 
-[概要] を選択すると、パートナーはパートナー センターを通じて送信されたアプリの一覧を表示し、コンプライアンス プログラムMicrosoft 365できます。
+[概要] を選択すると、パートナー はパートナー センターを通じて提出され、Microsoft 365 コンプライアンス プログラムで利用できるアプリの一覧を表示できます。
 
-**手順 2:** リストからアプリを選択して、構成証明プロセスPublisher開始します。
+**ステップ 2:** リストからアプリを選択して、Publisher構成証明プロセスを開始します。
 
-![構成するアプリケーションを選択する](../media/Picture3.png)
+![どのアプリケーションをテストするかを選択します。](../media/Picture3.png)
 
-アプリを選択すると、別のナビゲーション バーが表示されます。オプション 'App Compliance'
+アプリを選択すると、別のナビゲーションバーが「アプリコンプライアンス」オプションでポップアップ表示されます。
 
-**手順 3:**[アプリコンプライアンス] を選択する
+**ステップ3:「** アプリのコンプライアンス」を選択
 
-![[アプリのコンプライアンス] の選択](../media/App%20compliance%20step%203.png)
+![アプリのコンプライアンスの選択](../media/App%20compliance%20step%203.png)
 
-**手順 4:** 構成証明のSelf-AssessmentアンケートにPublisherする
+**ステップ4:Publisher** の証明のためのSelf-Assessmentアンケートに記入する
 
 ![Import/Export](../media/step4-new%20add.PNG)
 
 ![インポート/エクスポート](../media/NewFeature%20impExp.PNG)
 
-**注**:アプリケーションの更新/再送信に戻る場合は、[製品の選択] のドロップダウンをクリックし、アプリを選択して [複製] をクリックします。
+**注**:アプリケーションの更新/再提出に戻る場合は、「製品を選択」のドロップダウンをクリックし、アプリを選択して「複製」をクリックします。
 
-![CLone ](../media/clone.PNG)
- ![ Clone2](../media/clone2.PNG)
+![クローン ](../media/clone.PNG)
+ ![ 2](../media/clone2.PNG)
 
-また、この機能を活用Import/Exportフォームをオフラインで完成し、完了したらインポートすることもできます。 
+また、Import/Export機能を利用してフォームをオフラインで完成させ、完了後にインポートすることもできます。 
 
-**手順 5:** 完了したら、[送信] をクリックすると、評価は "レビュー中" になされます。
+**ステップ5:** 完了したら、「送信」をクリックすると、評価は「審査中」になります。
 
-![[Sumbit] をクリックします。](../media/Picture8.png)
+![[合計]をクリックします。](../media/Picture8.png)
 
 ![レビューが進行中です](../media/Picture9.png)
 
-### <a name="approvereject-scenarios"></a>シナリオの承認と拒否:
+### <a name="approvereject-scenarios"></a>シナリオの承認/却下:
 
-**A.Publisher構成証明の拒否**
+**A.Publisher証明却下**
 
-この段階で拒否された場合、パートナーは次の機能を使用できます。
+この段階で拒否された場合、パートナーは次のことができます。
 -   エラー レポートを表示します。
     - パートナーは、パートナー センターと電子メールで通知されます。
--   応答Self-Assessment更新します。
--   自己評価を再送信します。
+-   Self-Assessment応答を更新します。
+-   自己評価を再提出します。
 
 ![評価の更新と再送信](../media/Picture10.png)
 
-**B.Publisher証明再提出**
+**B.Publisher構成証明再提出**
 
-![レビュー中の再送信](../media/PA%20resubmission.png)
+![再提出の審査中](../media/PA%20resubmission.png)
 
-**C.Publisher証明承認**
+**C.Publisher認証承認**
 
--   承認パートナーは、次の条件を実行できます。
-    - 構成証明の更新と再送信
-    - 完了した構成証明を表示Publisher共有する
-    - M365 認定プロセスの開始
+-   承認されたパートナーは、次のことができます。
+    - 認証証明の更新と再送信
+    - 完了したPublisher構成証明を表示して共有する
+    - M365 認証プロセスを開始する
 
 ![更新と再送信](../media/AttestApproval.PNG)
 
 ![完了した構成証明の表示 ](../media/PA%20approval%202.png)
 
-![M365 アプリ認定の開始](../media/PA%20approval%203.png)
+![M365アプリ認定を開始](../media/PA%20approval%203.png)
 
-**Post Publisher検証承認: 発行元が証明したアプリの AppSource のリンクの例**
+**投稿Publisher検証承認: パブリッシャーの証明アプリの AppSource でのリンクの例**
 
 ![完了した構成証明の例](../media/Example%20to%20attested%20apps.png)
 
-## <a name="4-microsoft-365-certification-workflow"></a>4. Microsoft 365認定ワークフロー
+## <a name="4-microsoft-365-certification-workflow"></a>4. Microsoft 365認証ワークフロー
 
-パートナーが [送信] をクリックし、レビューのためにすべてのドキュメントと証拠を提出すると、次の情報が表示されます。 
+パートナーが「送信」をクリックし、すべての文書と証拠を提出してレビューを行うと、次の手順を実行します。 
 
-### <a name="microsoft-365-certification---submitted"></a>Microsoft 365認定 - 提出済み
+### <a name="microsoft-365-certification---submitted"></a>Microsoft 365認定 - 提出
 
-![認定の開始](../media/certification%201.png)
+![認定開始](../media/certification%201.png)
 
-**Microsoft 365認定 - 却下**
+**Microsoft 365認定 - 拒否**
 
-![拒否された認定](../media/certification%20rejected.png)
+![認定拒否](../media/certification%20rejected.png)
 
 **Microsoft 365認定 - 承認済み**
 
 ![認定認定](../media/certification%20approved.png)
 
-**認定後の承認: AppSource Microsoft 365認定バッジの例**
+**認定後の承認: AppSource でMicrosoft 365認定バッジの例**
 
 ![認定バッジの例](../media/post%20certification%20badge.png)
 
 ## <a name="5-workflow-for-existing-isvs"></a>5. 既存の ISV のワークフロー
 
-既存の ISV で、構成証明を更新する場合Publisherします。
+既存の ISV であり、構成証明Publisher更新する場合。
 
-**手順 1:**[更新して再送信する] をクリックして、[Publisher構成証明] リンクをクリックします。
+**ステップ1:[Publisher** 構成証明を更新して再提出]リンクをクリックします。
 
-![更新プログラムPublisher構成証明 ](../media/existing%20isv%201.png)
+![構成証明Publisher更新 ](../media/existing%20isv%201.png)
 
-**注:** アプリケーションの更新/再送信に戻る場合は、[製品の選択] のドロップダウンをクリックし、アプリを選択して [インポート] をクリックします。
+**注:** アプリケーションの更新/再提出に戻る場合は、「製品を選択」のドロップダウンをクリックし、アプリを選択して「インポート」をクリックします。
 
-![別の統合の構成証明のインポート](../media/M365%20App%20compliance.png)
+![異なる統合の構成証明のインポート](../media/M365%20App%20compliance.png)
 
 ![[インポート] をクリックします。](../media/M365%20App%20compliance1.png)
 
-**手順 2:** フォームを更新し、[保存/送信] をクリックします。
+**ステップ 2:** フォームを更新し、[保存/送信] をクリックします。
 
 ![[保存] または [送信] をクリックします。](../media/existing%20isv%202.png)
 
-送信されると、審査中です。
+提出後、審査中となります。
 
-![レビュー中の構成証明](../media/existing%20isv%203.png)
+![審査中の証明](../media/existing%20isv%203.png)
 
-## <a name="6---microsoft-365-publisher-attestation-and-certification-renewal-workflow"></a>6. Microsoft 365 Publisher証明と認定更新ワークフロー:
+## <a name="6---microsoft-365-publisher-attestation-and-certification-renewal-workflow"></a>6. Microsoft 365 Publisher認証と認定の更新ワークフロー:
 
-Microsoft 365アプリ コンプライアンス プログラムでは、年次更新プロセスが提供されます。 このプロセスの間、アプリ開発者は、既存の認証Publisherおよび認定に必要なドキュメントMicrosoft 365できます。 
+Microsoft 365アプリ コンプライアンス プログラムでは、年間更新プロセスが提供されるようになりました。 このプロセス中に、アプリ開発者は、既存のPublisher構成証明アンケートおよびMicrosoft 365認定に必要な書類を更新できます。 
 
-**利点:**
+**利点：**
 
-- AppSource とチーム ストアで認定バッジを維持して、アプリを他のユーザーと区別します。 
-- 認定アプリの使用に関する顧客の信頼を高める。 
-- IT 管理者が、更新された認定情報で情報に基づいた意思決定を行う際に役立ちます。 
+- アプリを他のアプリと区別するために、AppSource とチーム ストアで認定バッジを管理します。 
+- 認定アプリの使用に対する顧客の信頼度を高めます。 
+- IT 管理者が、最新の認定情報を基に情報に基づいた意思決定を行う手助けをします。 
 
-新しい更新プロセスは、シームレスなエクスペリエンス [を提供するためにパートナー](https://partner.microsoft.com/en-us/dashboard/home) センターで利用できます。 有効期限の 90 日前からパートナー センターに更新通知が表示されます。 定期的なリマインダーは、有効期限の 90 日前、60 日前、30 日前に電子メールで送信されます。
+[パートナー センター](https://partner.microsoft.com/en-us/dashboard/home)では、シームレスなエクスペリエンスを提供するために、新しい更新プロセスを利用できます。 有効期限の 90 日前から、パートナー センターに更新のリマインダーが表示されます。 定期的なリマインダーは、有効期限の90、60、30日前に電子メールで送信されます。
 
-**Tier 1: Publisher構成証明の更新:** 
+**ティア 1: Publisher構成証明の更新:** 
 
-アプリの構成証明Publisherは、毎年再送信する必要があります。 構成証明が 1 年のマークに近い場合、構成証明の再送信を促す電子メール リマインダーが送信されます。 
+アプリのPublisher構成証明の回答は、年間ベースで再提出する必要があります。 構成証明が1年のマークに近づくと、証明の再提出を促す電子メールリマインダーが送信されます。 
 
-**手順 1:**[更新 **] を** 選択して、構成証明Publisher更新します。 
+**手順 1**: [**更新]** を選択して、Publisher構成証明を更新します。 
 
-![Microsoft 365Publisher証明と認定更新ワークフロー ](../media/1.PNG)
+![Microsoft 365Publisher認証と認定の更新ワークフロー ](../media/AppComplianceExpirationNotice.png)
 
-**手順 2:** 以前の構成証明Publisher確認し、必要に応じて最新情報を更新します。 準備ができたらPublisherの構成証明を送信します。 M365 アプリ コンプライアンス アナリストによってレビューされます。
+**ステップ2:** 以前のPublisher構成証明の回答を確認し、必要に応じて最新情報を更新します。 準備が整ったら、更新のためにPublisher構成証明を提出します。 M365 アプリ コンプライアンス アナリストがレビューします。
 
-![Microsoft 365Publisher証明と認定更新ワークフロー ](../media/2.PNG)
+![Microsoft 365Publisher認証と認定の更新ワークフロー ](../media/2.PNG)
 
-**Publisher構成証明の有効期限が切れています。** Microsoft ドキュメントのアプリの [構成証明] ページを維持するには、有効期限の前にアプリのPublisher更新する必要があります。また、AppSource と Team Store でアプリのバッドとアイコンを継続的に更新できます。
+**Publisher構成証明の有効期限が切れています:** アプリの情報は、Microsoft ドキュメントでアプリのPublisher構成証明ページを維持するために、有効期限前に更新する必要があります。タイムリーな更新はまた、AppSourceとチームストアでアプリの継続的なバッジとアイコンを確保します。
 
-![Microsoft 365Publisher証明と認定更新ワークフロー ](../media/3.PNG)
+![Microsoft 365Publisher認証と認定の更新ワークフロー ](../media/3.PNG)
 
-注: 有効期限が切れたPublisher[更新] をクリックすると、いつでも構成証明の更新プロセスを開始できます。 
+注: 有効期限が切れたら、Publisher認証の更新プロセスは、[更新] をクリックしていつでも開始できます。 
 
-**Tier 2: Microsoft 365の更新** 
+**第2層:Microsoft 365認定更新** 
 
-アプリの認定情報は、毎年再送信する必要があります。 これには、現在の環境のスコープ内コントロールを再評価する必要があります。 認定が 1 年近くに達すると、ドキュメントと証拠の再送信を促す電子メール通知が送信されます。 
+アプリの認定情報は、年単位で再提出する必要があります。 この場合、現在の環境のスコープ内コントロールの再検証が必要になります。 認定が1年に近づくと、文書と証拠の再提出を促す電子メール通知が送信されます。 
 
-**認定更新の承認/却下のシナリオ:**
+**認定の更新承認/却下シナリオ:**
 
 **シナリオ 1:** 
 
 Publisher構成証明が完了しました。 認定の更新が開始され、審査中です。 
 
-![Microsoft 365Publisher証明と認定更新ワークフロー ](../media/4.PNG)
+![Microsoft 365Publisher認証と認定の更新ワークフロー ](../media/4.PNG)
 
 **シナリオ 1A:**
 
-認定更新拒否: 次の場合、認定は拒否される場合があります。 
+認定の更新の却下: 次の場合、認定は拒否される場合があります。 
 
- - アプリには必要なツール、プロセス、または構成が設定されていないので、認定ウィンドウ内で必要な変更を実装できない。 
- - アプリには未解決の脆弱性が存在し、認定ウィンドウ内では修正できません。 
+ - アプリには、必要なツール、プロセス、または構成が設定されておらず、認定ウィンドウ内で必要な変更を実装できません。 
+ - アプリは、所定の場所に顕著な脆弱性を持っており、認定ウィンドウ内で修正することはできません。 
 
-![Microsoft 365Publisher証明と認定更新ワークフロー ](../media/5.PNG)
+![Microsoft 365Publisher認証と認定の更新ワークフロー ](../media/5.PNG)
     
 **シナリオ 1B:** 
 
 認定の更新が承認されました  
 
-![Microsoft 365Publisher証明と認定更新ワークフロー ](../media/6.PNG)
+![Microsoft 365Publisher認証と認定の更新ワークフロー ](../media/6.PNG)
 
-**証明書の有効期限:**
+**認定期限:**
 
-Microsoft ドキュメントでアプリの認定ページを維持するには、有効期限より前にアプリの情報を更新する必要があります。また、AppSource と Team Store でアプリのバッドとアイコンを継続的に更新できます。 
+アプリの情報は、Microsoft ドキュメントでアプリの認定ページを維持するために有効期限前に更新する必要があります。タイムリーな更新はまた、AppSourceとチームストアでアプリの継続的なバッジとアイコンを確保します。 
 
-![Microsoft 365Publisher証明と認定更新ワークフロー ](../media/7.PNG)
+![Microsoft 365Publisher認証と認定の更新ワークフロー ](../media/7.PNG)
     
-**注**: 有効期限が切れたらPublisher[更新] をクリックすると、いつでも認証と認定プロセスを開始できます。 
+**メモ**: 期限切れになると、Publisherの証明と認証プロセスは、[更新] をクリックしていつでも開始できます。 
 
 
 

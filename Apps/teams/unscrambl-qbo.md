@@ -1,45 +1,44 @@
 ---
-title: Unscrambl による qbo のアプリケーション情報
+title: アンスクランブルによるqboのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 02/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
+description: qbo の利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、そのMicrosoft Cloud App Securityアプリカタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: eb7e450bfffbecade66f44a78c8ca366eac5f5f9
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 245ab6925aa77a005194e1badf31b926280454a1
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52248055"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52551077"
 ---
 # <a name="qbo"></a>qbo
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 2 月 1 日</p>
+<p>開発者による最終更新日: 2021 年 2 月 1 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/834c6939-152c-450b-a305-c65b4dd5d1c7" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001708" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/834c6939-152c-450b-a305-c65b4dd5d1c7" target="_blank">Teams店舗で表示</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001708" target="_blank">アプリソースで表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Unscrambl から Microsoft に提供される情報:
+マイクロソフトにアンスクランブルによって提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | qbo |
 | ID | WA200001708 |
-| 機能 | ボット、タブ、メッセージングの拡張機能 |
-| Office 365サポートされているクライアント | Microsoft Teams |
+| サポートされるクライアントOffice 365 | Microsoft Teams |
 | パートナー会社名 | Unscrambl |
-| パートナー Web サイトの URL | [https://qbo.ai](https://qbo.ai) |
-| [アプリケーション情報Teamsページの URL | [https://qbo.ai](https://qbo.ai) |
-| プライバシー ポリシーの URL | [https://qbo.ai/legal/](https://qbo.ai/legal/) |
+| パートナーウェブサイトのURL | [https://qbo.ai](https://qbo.ai) |
+| アプリケーション情報ページTeams URL | [https://qbo.ai](https://qbo.ai) |
+| プライバシーポリシーの URL | [https://qbo.ai/legal/](https://qbo.ai/legal/) |
 | 利用規約の URL | [https://qbo.ai/legal/#service](https://qbo.ai/legal/#service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -50,53 +49,52 @@ Unscrambl から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Unscrambl によって提供されています。
+この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対する組織のコントロールに関する Unscrambl によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションでは、Microsoft アプリケーションをGraph。
+>このアプリケーションは、マイクロソフトのGraphを使用していません。
 
-#### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
+#### <a name="data-access-using-other-microsoft-apis"></a>他のマイクロソフト API を使用したデータ アクセス
 
-アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
+Microsoft 365上に構築されたアプリやアドインでは、Microsoft Graph 以外の Microsoft API を使用して、組織を識別できる情報 (OII) を収集または処理できます。 このアプリが使用するマイクロソフトGraph以外のマイクロソフト API を一覧表示します。
 
->| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
+>| **API** |  **OIIは収集されますか?** |  **OIIは何を収集されますか?** | **OIIを収集するための正当性?** | **OII は保存されていますか?** | **OIIを格納するための正当性?** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| ボット フレームワーク API | はい | ユーザーのメールから識別されるドメイン名 | ユーザーが必要に応じて、レポートを送信するメールを収集します。 | メールのみ | ユーザー プロファイルの一部として格納される |
+>| ボット フレームワーク API | はい | ユーザーの電子メールから識別されるドメイン名 | ユーザーが必要とする場合は、レポートを送信するための電子メールを収集します。 | メールのみ | ユーザー プロファイルの一部として保存される |
 
-#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
 
-アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
+アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。
 
 >非Microsoft サービスは使用されません。
 
-#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
+#### <a name="data-access-via-bots"></a>ボット経由のデータアクセス
 
-このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
+このアプリにボットまたはメッセージング拡張機能が含まれている場合、チームまたはチャットのチーム メンバーの名簿 (名前、姓、表示名、電子メール アドレス) のユーザーを識別できる情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
 
->| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
+>| **EUIIにアクセスするための正当性?**  | **EUII はデータベースに格納されていますか?** | **EUIIを保存するための正当性?** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| ユーザーがレポートの PDF を自分に電子メールで送信できるアプリ機能があります。 | 電子メール アドレス | ユーザーがレポートの PDF を自分に電子メールで送信できるアプリ機能があります。これはユーザー プロファイルの一部として保存されます。 |
-
+>| 私たちは、ユーザーが自分自身にレポートのPDFを電子メールで送信することを可能にするアプリの機能を持っています。 | 電子メール アドレス | 私たちは、ユーザーが自分自身にレポートのPDFを電子メールで送信することを可能にするアプリの機能を持っています、これはユーザープロファイルの一部として保存されています。 |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
+このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。 「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。
 
 >アプリケーションのテレメトリまたはログに OII または EUII は表示されません。
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーが保存するデータの組織的な統制
 
-組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
+組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
 
->このデータは、Azure (東南アジア) の VM でホストされる MariaDB に格納されます。 VM へのアクセスは IP が制限され、パスワードが保護され、DB へのアクセスもパスワードで保護されます。
+>このデータは、Azure (東南アジア) 上の VM でホストされている MariaDB に格納されます。 VM へのアクセスは IP に制限され、パスワードで保護され、DB へのアクセスもパスワードで保護されます。
 
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
 
-人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
+人間は、このアプリによって収集または保存される組織識別情報(OII)データのレビューまたは分析に関与していますか?
 
 >いいえ
 
@@ -106,7 +104,7 @@ Unscrambl から Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36419' frameborder='no' style='width: 100%;'></iframe>
 
@@ -120,11 +118,11 @@ Unscrambl から Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について Unscrambl によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベストプラクティス、およびその他のID基準を処理する方法についてUnscramblによって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | なし |
+| マイクロソフト識別プラットフォーム (Azure AD) と統合しますか。  | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

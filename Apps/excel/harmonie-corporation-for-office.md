@@ -1,42 +1,42 @@
 ---
-title: (株)harmon.ie Officeの harmon.ie 情報
+title: harmon.ie 株式会社のOffice harmon.ie 申請情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 01/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Office の harmon.ie、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: Office、そのデータ処理ポリシー、そのMicrosoft Cloud App Securityアプリカタログ情報、CSA STARレジストリ内のセキュリティ/コンプライアンス情報に関する harmon.ie に関する、利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e80be8daa23cc470377dbc57f35e55441c4eb49b
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: bae4b6d16c862819564ddb74682b3773d53a4336
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251496"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52548897"
 ---
-# <a name="harmonie-for-office"></a>harmon.ie のOffice
+# <a name="harmonie-for-office"></a>Officeの harmon.ie
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 1 月 7 日</p>
+<p>開発者による最終更新日: 2021 年 1 月 7 日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104381050" target="_blank">AppSource での表示</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381050" target="_blank">アプリソースで表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-マイクロソフトに harmon.ie 提供される情報:
+harmon.ie 社がマイクロソフトに提供する情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | harmon.ie のOffice |
+| アプリ名 | Officeの harmon.ie |
 | ID | WA104381050 |
-| Office 365サポートされているクライアント | PowerPoint 2016 Windows、Word 2016 以降 Windows、Excel on the web、Word on the web、PowerPoint on the web、Word 2016 以降の Mac、PowerPoint 2016 以降 |
+| サポートされるクライアントOffice 365 | Windows、Word 2016以降のWindows、Windows、Excel on the web、Word on the web、PowerPoint on the web、Word 2016以降のMac、PowerPoint 2016以降のMacでPowerPoint 2016またはそれ以降 |
 | パートナー会社名 | harmon.ie 株式会社 |
-| パートナー Web サイトの URL | [https://harmon.ie/](https://harmon.ie/) |
-| プライバシー ポリシーの URL | [https://harmon.ie/legal/privacy-policy](https://harmon.ie/legal/privacy-policy) |
+| パートナーウェブサイトのURL | [https://harmon.ie/](https://harmon.ie/) |
+| プライバシーポリシーの URL | [https://harmon.ie/legal/privacy-policy](https://harmon.ie/legal/privacy-policy) |
 | 利用規約の URL | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474836605/Product_42949673246/Asset_37060a29-311b-4239-be49-1758aebbeb1a/harmonieEULA.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -47,52 +47,43 @@ ms.locfileid: "52251496"
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて、harmon.ie Corporation から提供されています。
+この情報は、このアプリが組織のデータを収集して格納する方法、およびアプリが収集するデータに対する組織の制御について、harmon.ie 社から提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?それを収集するための正当化?** | **データは保存されますか?それを保存するための正当化?** | **Azure AD アプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.AccessAsUser.All | 委任 | ユーザーがサインイン harmon.ie ユーザー Outlookロールを取得するには、ユーザーが必要とします。 | none | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
->| Files.ReadWrite.All | 委任 | メールの添付 harmon.ie をOutlookし、電子メールの添付ファイルをOutlookに保存するには、Outlookが &amp; 必要SharePoint | none | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
->| Mail.ReadWrite | 委任 | メールの添付 harmon.ie をOutlookし、電子メールの添付ファイルをOutlookに保存するには、Outlookが &amp; 必要SharePoint | none | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
->| User.Read | 委任 | ユーザーのプロファイル harmon.ie 解決Outlookに必要な情報 | none | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
+>| Directory.AccessAsUser.All | 委任 | Outlookでユーザーがサインインしてユーザーのロールを取得できるようにするために、harmon.ie が必要とする | none | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
+>| Files.ReadWrite.All | 委任 | harmon.ie がOutlookに電子メールの &amp; 添付ファイルを転送し、Outlookに保存するために必要SharePoint | none | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
+>| Mail.ReadWrite | 委任 | harmon.ie がOutlookに電子メールの &amp; 添付ファイルを転送し、Outlookに保存するために必要SharePoint | none | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
+>| User.Read | 委任 | ユーザーのプロファイル画像を解決するためにOutlookに必要な harmon.ie | none | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
 
 
-#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
 
-アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
+アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。
 
 >非Microsoft サービスは使用されません。
 
 
 
-#### <a name="add-in-data-access"></a>アドイン のデータ アクセス
-
-このアプリが組織のデータにアクセスするために必要なアクセス許可、このアクセス許可の正当性と目的 (アプリは何のためにこの情報を使用するのか)、およびアプリがデータベースにこの情報を格納するかどうかを一覧表示します。
-
->| **アクセス許可**  | **説明** |
->|:----------------|:----------------|
->| ReadWrite ドキュメント | ドキュメントの読み取りおよび変更が可能 |
->| データの送信 | インターネットを使用してデータを送信できます |
-
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
+このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。 「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。
 
->使用状況データとユーザーの upn
+>利用状況データとユーザーアップ
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーが保存するデータの組織的な統制
 
-組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
+組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
 
 >-
 
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
 
-人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
+人間は、このアプリによって収集または保存される組織識別情報(OII)データのレビューまたは分析に関与していますか?
 
 >いいえ
 
@@ -102,7 +93,7 @@ ms.locfileid: "52251496"
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36360' frameborder='no' style='width: 100%;'></iframe>
 
@@ -116,24 +107,24 @@ ms.locfileid: "52251496"
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Id 条件を処理する方法について、harmon.ie 社から提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベストプラクティス、およびその他のID基準を処理する方法について、harmon.ie コーポレーションによって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
-| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
-| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
-| アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | いいえ |
-| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
-| アプリは Web API を公開していますか? | はい |
-| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
-| アプリで非推奨の API を使用していますか? | なし |
+| マイクロソフト識別プラットフォーム (Azure AD) と統合しますか。  | はい |
+| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか。  | はい |
+| アプリは認証に MSAL (マイクロソフト認証ライブラリ) を使用していますか? | いいえ |
+| アプリで条件付きアクセス ポリシーがサポートされていますか。 | いいえ |
+| アプリがシナリオに対して最低限の権限を要求しているか。 | はい |
+| アプリの静的に登録されたアクセス許可は、アプリが動的に、または増分的に要求するアクセス許可を正確に反映していますか。 | はい |
+| アプリでマルチテナント機能がサポートされていますか。 | はい |
+| アプリに機密クライアントが存在しますか? | いいえ |
+| アプリに登録されているすべてのリダイレクト統一リソース識別子 (URI) を所有していますか。 | はい |
+| アプリの場合、何を使用しないようにしますか。 | - ワイルドカードリダイレクト URI<br/>- Spa に必要な場合を除き、OAuth2 暗黙的なFlow<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリは Web API を公開していますか。 | はい |
+| クライアント アプリが適切な同意を得た場合にのみ、アクセス許可モデルで呼び出しが成功することを許可しますか。 | はい |
+| アプリでプレビュー API を使用していますか。 | いいえ |
+| アプリで非推奨の API が使用されていますか。 | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
