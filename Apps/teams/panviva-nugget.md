@@ -1,12 +1,12 @@
 ---
-title: パンビバによるナゲットのアプリケーション情報
+title: Panviva による Nugget のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 10/12/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Nugget、そのデータ処理ポリシー、そのMicrosoft Cloud App Securityアプリカタログ情報、CSA STARレジストリ内のセキュリティ/コンプライアンス情報に関するすべての利用可能なセキュリティおよびコンプライアンス情報。
+description: Nugget、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 1d5f6adea09ed546fae6b6c9ca0aa4ef13beb683
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
@@ -19,25 +19,25 @@ ms.locfileid: "52552868"
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2020年10月12日</p>
+<p>開発者が最終更新日: 2020 年 10 月 12 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/4e85cc82-5187-4059-af36-a49e7db32bee" target="_blank">Teams店舗で表示</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001737" target="_blank">アプリソースで表示</a>
+* <a href="https://teams.microsoft.com/l/app/4e85cc82-5187-4059-af36-a49e7db32bee" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001737" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Panviva がマイクロソフトに提供する情報:
+Panviva から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Nugget |
 | ID | WA200001737 |
-| サポートされるクライアントOffice 365 | Microsoft Teams |
+| Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Panviva |
-| パートナーウェブサイトのURL | [https://www.panviva.com](https://www.panviva.com) |
-| プライバシーポリシーの URL | [https://www.panviva.com/privacy-policy](https://www.panviva.com/privacy-policy) |
+| パートナー Web サイトの URL | [https://www.panviva.com](https://www.panviva.com) |
+| プライバシー ポリシーの URL | [https://www.panviva.com/privacy-policy](https://www.panviva.com/privacy-policy) |
 | 利用規約の URL | [https://www.panviva.com/terms-and-conditions](https://www.panviva.com/terms-and-conditions) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -48,45 +48,45 @@ Panviva がマイクロソフトに提供する情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織のデータを収集して格納する方法と、アプリが収集するデータに対する組織のコントロールに関する Panviva によって提供されています。
+この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Panviva によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
-このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションは、マイクロソフトのGraphを使用していません。
+>このアプリケーションでは、Microsoft アプリケーションをGraph。
 
 
-#### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
-アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。
+アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >非Microsoft サービスは使用されません。
 
-#### <a name="data-access-via-bots"></a>ボット経由のデータアクセス
+#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
-このアプリにボットまたはメッセージング拡張機能が含まれている場合、チームまたはチャットのチーム メンバーの名簿 (名前、姓、表示名、電子メール アドレス) のユーザーを識別できる情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
+このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
->EUII はアクセスされません。
+>EUII にはアクセスされません。
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。 「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。
+組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
 >はい。
-Teamsユーザー ID が格納されている : これは、どのテナントにいるか、ユーザーが管理者であるかどうかに関する情報を取得するために必要です。
-組織 id Teams : これは、テナント内のユーザーを取得し、その特定のテナントのサブスクリプションの詳細を取得するために格納されます。
+Teams ID が格納されている場合: これは必要なので、ユーザーがどのテナントに入っているのか、ユーザーが管理者かしないかに関する情報を取得できます。
+Teams ID : テナント内のユーザーを取得し、その特定のテナントのサブスクリプションの詳細を取得するために格納されます。
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーが保存するデータの組織的な統制
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
-組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
+組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->すべてのアプリケーション データを格納するのに Azure CosmosDB を使用します。 データにアクセスするには、エンドポイントとキーが必要です。 構成サービスは、ボット アプリ サービスからの要求で受け取るベアラー トークンを使用して要求のみを処理します。 このトークンは、ユーザーがチームインターフェイスのボットにログインしたときに、Okta によって作成されたものです。 このデータには、2 要素認証を使用してMicrosoft Azure プラットフォームにログオンする必要がある Panviva 管理者がアクセスできます。 電子メールとユーザーのファースト ネームは OKTA に保存され、秘密キーを使用してアクセスできるのは、構成サービスによってアクセスされるキー コンテナーに格納されている秘密キーだけです。 資格情報がアプリに保存されていない場合は、管理 ID を使用してキー コンテナーにアクセスできるのは、構成サービスだけです。
+>Azure CosmosDB を使用して、すべてのアプリケーション データを格納します。 データにアクセスするには、エンドポイントとキーが必要です。どちらも、データへのアクセスに使用される構成サービスに挿入されます。 構成サービスは、ボット アプリ サービスからの要求で受け取るベアラー トークンを持つ要求のみを処理します。 このトークンは、ユーザーがチーム インターフェイスでボットにログインすると、Okta によって最初に作成されます。 このデータには、2 要素認証を使用して Microsoft Azureプラットフォームにログオンする必要がある Panviva 管理者がアクセスできます。 電子メールとユーザー名は OKTA に格納され、構成サービスによってアクセスされるキー コンテナーに格納されているプライベート キーでのみアクセスできます。 管理 ID を使用してキー コンテナーにアクセスできるのは、構成サービスのみです。資格情報はアプリに保存されません。
 
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
-人間は、このアプリによって収集または保存される組織識別情報(OII)データのレビューまたは分析に関与していますか?
+人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
 >いいえ
 
@@ -96,7 +96,7 @@ Teamsユーザー ID が格納されている : これは、どのテナント�
 
 ::: zone pivot="mcas"
 
-[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
+以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36079' frameborder='no' style='width: 100%;'></iframe>
 

@@ -1,12 +1,12 @@
 ---
-title: プレジビデオのアプリケーション情報
+title: Prezi による Prezi ビデオのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 06/23/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Prezi Video の利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、そのMicrosoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+description: Prezi Video で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 8b689869b4c8799d396a61ccbecd0d1b4a4e5c51
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
@@ -19,25 +19,25 @@ ms.locfileid: "52552838"
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2020年6月23日</p>
+<p>開発者が最終更新日: 2020 年 6 月 23 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/78bbd675-511e-41a2-9a1a-8793920efa9e" target="_blank">Teams店舗で表示</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001577" target="_blank">アプリソースで表示</a>
+* <a href="https://teams.microsoft.com/l/app/78bbd675-511e-41a2-9a1a-8793920efa9e" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001577" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Prezi がマイクロソフトに提供する情報:
+Prezi から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Prezi Video |
 | ID | WA200001577 |
-| サポートされるクライアントOffice 365 | Microsoft Teams |
+| Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Prezi |
-| パートナーウェブサイトのURL | [https://prezi.com](https://prezi.com) |
-| プライバシーポリシーの URL | [https://prezi.com/privacy-policy/201910_NL/](https://prezi.com/privacy-policy/201910_NL/) |
+| パートナー Web サイトの URL | [https://prezi.com](https://prezi.com) |
+| プライバシー ポリシーの URL | [https://prezi.com/privacy-policy/201910_NL/](https://prezi.com/privacy-policy/201910_NL/) |
 | 利用規約の URL | [https://prezi.com/terms-of-use/201910_NL/](https://prezi.com/terms-of-use/201910_NL/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -48,58 +48,58 @@ Prezi がマイクロソフトに提供する情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織のデータを収集して格納する方法、およびアプリが収集するデータに対する組織のコントロールに関する Prezi によって提供されています。
+この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Prezi によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
-このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションは、マイクロソフトのGraphを使用していません。
+>このアプリケーションでは、Microsoft アプリケーションをGraph。
 
 
-#### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
-アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。
+アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->| **すべての非Microsoft サービス OII は、** |  **どのようなOIIが転送されますか?** | **OIIを転送するための正当性?** |
+>| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-------------------|:--------------------------|:--------------------------|
->| 詳細についてはをご覧ください。 https://prezi.com/privacy-policy/ |  | 次の API/SDK は、1 との統合に使用されます。 Botbuilder-SDK (python): この SDK を使用して、Azure Active Directoryオブジェクト ID (API でaad_object_idと呼ばれる) を格納します。 この情報は、Microsoft Teamsユーザーを prezi.com で作成された Prezi Video 関連コンテンツにマッピングするために必要です。  2。 Botbuilder-js (javascript): この SDK を使用して特定のデータMicrosoft Teams収集されません。 |
+>| 詳細については、次のページをご覧ください。 https://prezi.com/privacy-policy/ |  | 次の API/SDK は、1 と共に統合するために使用されます。 Botbuilder-SDK (python): この SDK を使用して、Azure Active Directory オブジェクト ID (API によって参照される) をaad_object_id。 この情報は、ユーザーのユーザーをMicrosoft Teamsに作成された Prezi Video 関連コンテンツにマップ prezi.com。  2。 Botbuilder-js (javascript): この SDK をMicrosoft Teams特定のデータは収集されません。 |
 
-#### <a name="data-access-via-bots"></a>ボット経由のデータアクセス
+#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
-このアプリにボットまたはメッセージング拡張機能が含まれている場合、チームまたはチャットのチーム メンバーの名簿 (名前、姓、表示名、電子メール アドレス) のユーザーを識別できる情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
+このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
->| **EUIIにアクセスするための正当性?**  | **EUII はデータベースに格納されていますか?** | **EUIIを保存するための正当性?** |
+>| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| ボットは、上記の名簿情報にアクセスしません。 | ボットは、上記の名簿情報にアクセスしません。 |  |
+>| ボットは、前述の名簿情報にアクセスしない。 | ボットは、前述の名簿情報にアクセスしない。 |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。 「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。
+組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
 >アプリケーションのログに EUII または OII は表示されません。
 
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーが保存するデータの組織的な統制
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
-組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
+組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
 >RDS データベースには、次の情報が格納されます。
 
-1. Azure Active Directoryオブジェクト ID (API によって aad_object_id と呼ばれます) は、Microsoft Teamsユーザー&#8217;s ビデオを取得するために格納されます。 aad_object_idは、マイクロソフト&#8217;の公式ボットビルダー SDK を使用して安全に取得されます。
+1. Azure Active Directoryオブジェクト ID (API によって aad_object_id) が格納され、ユーザーが Microsoft Teamsビデオ&#8217;取得します。 サーバー aad_object_id、Microsoft の公式ボットビルダー&#8217;を使用して安全に取得されます。
 
-2. prezi.com で作成されたビデオ リンク。 prezi.com で作成されたコンテンツは、次の URL のセクション 14 に従って格納されます。 https://prezi.com/privacy-policy/ 
+2. ビデオ リンクは、prezi.com。 サイトで作成 prezi.com は、セクション 14 に従って次の URL に格納されます。 https://prezi.com/privacy-policy/ 
 
-危険度の高い外部システム (AWS など) へのアクセス権は、サードパーティの統合 ID およびアクセス管理プラットフォーム (OneLogin) を通じて管理されます。
+リスクの高い外部システム (AWS など) へのアクセス権は、サードパーティの統合 ID およびアクセス管理プラットフォーム (OneLogin) を介して管理されます。
 
-パスワード ポリシーと多要素認証は、統一された ID およびアクセス管理プラットフォームの担当者に適用されます。 ケースバイケースでは、オフィスのIPアドレスから多要素認証は必要ありません。
+パスワード ポリシーと多要素認証は、統合 ID およびアクセス管理プラットフォームの担当者に適用されます。 ケースバイケースでは、オフィスの IP アドレスから多要素認証は必要ありません。
 
-デフォルトでは、AWS がホストするサービスとデータベースには、どこからでもアクセスできません。明示的な受信規則は手動で追加する必要があります。
+AWS がホストするサービスとデータベースは、既定ではどこからでもアクセスできません。明示的な受信ルールは手動で追加する必要があります。
 
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
-人間は、このアプリによって収集または保存される組織識別情報(OII)データのレビューまたは分析に関与していますか?
+人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
 >はい
 
@@ -109,7 +109,7 @@ Prezi がマイクロソフトに提供する情報:
 
 ::: zone pivot="mcas"
 
-[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
+以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/17887' frameborder='no' style='width: 100%;'></iframe>
 

@@ -1,12 +1,12 @@
 ---
-title: elmah.io 別 elmah.io のアプリケーション情報
+title: アプリケーション別のアプリケーション elmah.io 情報 elmah.io
 ms.author: elmalova
 author: elenamalova
 ms.date: 03/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: ELMAH.IO、そのデータ処理ポリシー、そのMicrosoft Cloud App Securityアプリカタログ情報、CSA STARレジストリ内のセキュリティ/コンプライアンス情報に関する、利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: elmah.io、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 1a4d52ae44362914c3e2094d39f7b109948986a2
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
@@ -19,26 +19,26 @@ ms.locfileid: "52553198"
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2021年3月10日</p>
+<p>開発者が最終更新日: 2021 年 3 月 10 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/88579a1e-a40e-4ff4-ac0a-789bab11b0a1" target="_blank">Teams店舗で表示</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104381965" target="_blank">アプリソースで表示</a>
+* <a href="https://teams.microsoft.com/l/app/88579a1e-a40e-4ff4-ac0a-789bab11b0a1" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381965" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-elmah.io がマイクロソフトに提供する情報:
+Microsoft に提供 elmah.io 情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | elmah.io |
 | ID | WA104381965 |
-| サポートされるクライアントOffice 365 | Microsoft Teams |
+| Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | elmah.io |
-| パートナーウェブサイトのURL | [https://elmah.io](https://elmah.io) |
-| アプリケーション情報ページTeams URL | [https://docs.elmah.io/elmah-io-apps-teams/](https://docs.elmah.io/elmah-io-apps-teams/) |
-| プライバシーポリシーの URL | [https://elmah.io/legal/teams-privacy-policy/](https://elmah.io/legal/teams-privacy-policy/) |
+| パートナー Web サイトの URL | [https://elmah.io](https://elmah.io) |
+| [アプリケーション情報Teamsページの URL | [https://docs.elmah.io/elmah-io-apps-teams/](https://docs.elmah.io/elmah-io-apps-teams/) |
+| プライバシー ポリシーの URL | [https://elmah.io/legal/teams-privacy-policy/](https://elmah.io/legal/teams-privacy-policy/) |
 | 利用規約の URL | [https://elmah.io/legal/terms-of-use/](https://elmah.io/legal/terms-of-use/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -49,45 +49,45 @@ elmah.io がマイクロソフトに提供する情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集して保存する方法、およびアプリが収集するデータに対する組織のコントロールに関する elmah.io によって提供されています。
+この情報は、このアプリ elmah.io 収集および保存する方法、およびアプリが収集するデータに対して組織が持つコントロールに関する情報を提供しています。
 
-#### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
-このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションは、マイクロソフトのGraphを使用していません。
+>このアプリケーションでは、Microsoft アプリケーションをGraph。
 
 
-#### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
-アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。
+アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->| **すべての非Microsoft サービス OII は、** |  **どのようなOIIが転送されますか?** | **OIIを転送するための正当性?** |
+>| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-------------------|:--------------------------|:--------------------------|
->| インターコム, ストライプ, マイリンプ, アマゾン ウェブ サービス | 会社名、会社名、電子メール | ユーザー名と E メールは、インターコム、Mailchimp、AWS と共有して、メールをパーソナライズします。 請求書等のストライプと会社名を共有します。 |
+>| Intercom、Stripe、Mailchimp、Amazon Web Services | 会社名、名前、メール | ユーザー名とメールを Intercom、Mailchimp、AWS と共有して、メールをカスタマイズします。 請求書などの場合は、会社名を Stripe と共有します。 |
 
-#### <a name="data-access-via-bots"></a>ボット経由のデータアクセス
+#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
-このアプリにボットまたはメッセージング拡張機能が含まれている場合、チームまたはチャットのチーム メンバーの名簿 (名前、姓、表示名、電子メール アドレス) のユーザーを識別できる情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
+このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
->EUII はアクセスされません。
+>EUII にはアクセスされません。
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。 「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。
+組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
 >アプリケーションのテレメトリまたはログに OII または EUII は表示されません。
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーが保存するデータの組織的な統制
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
-組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
+組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->ユーザーは、常に個人データを更新できます。 有料プランを購入していないトライアル ユーザーは、サインアップから 12 か月後に自動的に削除されます。 すべてのユーザーがサポートを通じて削除を求めることができます。 ユーザーは、当社のサポートチームから個人情報を隠す、自分のプロフィールに制限処理フラグを設定することができます。
+>ユーザーは、個人データを随時更新できます。 有料プランを購入しない試用版ユーザーは、サインアップから 12 か月後に自動的に削除されます。 すべてのユーザーは、サポートを通じて削除を求めできます。 ユーザーはプロファイルに制限処理フラグを設定できます。このフラグを使用すると、サポート チームから個人情報が非表示にされます。
 
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
-人間は、このアプリによって収集または保存される組織識別情報(OII)データのレビューまたは分析に関与していますか?
+人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
 >いいえ
 
@@ -97,7 +97,7 @@ elmah.io がマイクロソフトに提供する情報:
 
 ::: zone pivot="mcas"
 
-[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
+以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36553' frameborder='no' style='width: 100%;'></iframe>
 
@@ -111,11 +111,11 @@ elmah.io がマイクロソフトに提供する情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、およびその他の ID 条件を処理する方法に関する elmah.io によって提供されています。
+この情報は、このアプリ elmah.io 認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について説明しています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| マイクロソフト識別プラットフォーム (Azure AD) と統合しますか。  | なし |
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

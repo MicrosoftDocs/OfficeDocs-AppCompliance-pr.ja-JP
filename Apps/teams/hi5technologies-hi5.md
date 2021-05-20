@@ -1,12 +1,12 @@
 ---
-title: Hi5TechnologiesによるHi5のアプリケーション情報
+title: Hi5Technologies による Hi5 のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Hi5 の利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、そのMicrosoft Cloud App Securityアプリカタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: Hi5 で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 983f86210f224bc492f54a7ab65192dee5b4ad6c
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
@@ -19,25 +19,25 @@ ms.locfileid: "52552118"
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2020年11月3日</p>
+<p>開発者が最終更新日: 2020 年 11 月 3 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/ca334a56-72b5-4613-81d4-77b1148df03c" target="_blank">Teams店舗で表示</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001610" target="_blank">アプリソースで表示</a>
+* <a href="https://teams.microsoft.com/l/app/ca334a56-72b5-4613-81d4-77b1148df03c" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001610" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Hi5Technologies がマイクロソフトに提供する情報:
+Hi5Technologies から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Hi5 |
 | ID | WA200001610 |
-| サポートされるクライアントOffice 365 | Microsoft Teams |
+| Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Hi5Technologies |
-| パートナーウェブサイトのURL | [https://www.get5.io/](https://www.get5.io/) |
-| プライバシーポリシーの URL | [https://www.get5.io/privacy](https://www.get5.io/privacy) |
+| パートナー Web サイトの URL | [https://www.get5.io/](https://www.get5.io/) |
+| プライバシー ポリシーの URL | [https://www.get5.io/privacy](https://www.get5.io/privacy) |
 | 利用規約の URL | [https://www.get5.io/terms](https://www.get5.io/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -48,55 +48,55 @@ Hi5Technologies がマイクロソフトに提供する情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対する組織のコントロールに関する Hi5Technologies によって提供されています。
+この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Hi5Technologies によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
-このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?それを収集するための正当化?** | **データは保存されますか?それを保存するための正当化?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委任 | ユーザーセッション情報はTeamsのみ保存し、ユーザーは通知を追加して承認する必要があります(いつでも削除できます)。 他の情報は保存されません。 | サーバーに対する SSO ログインと認証に必要 | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
->| メール | 委任 | ユーザーセッション情報はTeamsのみ保存し、ユーザーは通知を追加して承認する必要があります(いつでも削除できます)。 他の情報は保存されません。 | サーバーに対する SSO ログインと認証に必要 | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
->| offline_access | 委任 | ユーザーセッション情報はTeamsのみ保存し、ユーザーは通知を追加して承認する必要があります(いつでも削除できます)。 他の情報は保存されません。 | ユーザーが正しい情報を表示していることを維持し、同じ会社/ワークスペースに参加している他のユーザーに正しい情報を送信できます。 | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
->| openid | 委任 | ユーザーセッション情報はTeamsのみ保存し、ユーザーは通知を追加して承認する必要があります(いつでも削除できます)。 他の情報は保存されません。 | サーバーに対する SSO ログインと認証に必要 | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
->| profile | 委任 | ユーザーセッション情報はTeamsのみ保存し、ユーザーは通知を追加して承認する必要があります(いつでも削除できます)。 他の情報は保存されません。 | サーバーに対する SSO ログインと認証に必要 | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
+>| User.Read | 委任 | ユーザーのセッション情報は、Teamsからのみ保存され、ユーザーは通知を追加して承認する必要があります (いつでも削除できます)。 他の情報は保存されません。 | サーバーに対する SSO ログインと認証に必要 | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
+>| メール | 委任 | ユーザーのセッション情報は、Teamsからのみ保存され、ユーザーは通知を追加して承認する必要があります (いつでも削除できます)。 他の情報は保存されません。 | サーバーに対する SSO ログインと認証に必要 | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
+>| offline_access | 委任 | ユーザーのセッション情報は、Teamsからのみ保存され、ユーザーは通知を追加して承認する必要があります (いつでも削除できます)。 他の情報は保存されません。 | ユーザーが正しい情報を表示していることを維持し、同じ会社/ワークスペースに参加している他のユーザーに正しい情報を送信できます。 | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
+>| openid | 委任 | ユーザーのセッション情報は、Teamsからのみ保存され、ユーザーは通知を追加して承認する必要があります (いつでも削除できます)。 他の情報は保存されません。 | サーバーに対する SSO ログインと認証に必要 | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
+>| profile | 委任 | ユーザーのセッション情報は、Teamsからのみ保存され、ユーザーは通知を追加して承認する必要があります (いつでも削除できます)。 他の情報は保存されません。 | サーバーに対する SSO ログインと認証に必要 | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
 
 
-#### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
-アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。
+アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >非Microsoft サービスは使用されません。
 
-#### <a name="data-access-via-bots"></a>ボット経由のデータアクセス
+#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
-このアプリにボットまたはメッセージング拡張機能が含まれている場合、チームまたはチャットのチーム メンバーの名簿 (名前、姓、表示名、電子メール アドレス) のユーザーを識別できる情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
+このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
->| **EUIIにアクセスするための正当性?**  | **EUII はデータベースに格納されていますか?** | **EUIIを保存するための正当性?** |
+>| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| チャネル内のユーザーに Hi5 が与えられたことを通知するには | 情報が保存されていない、ユーザーはチャンネルに送り返されるカードによって@になります |  |
+>| チャネル内のユーザーに Hi5 が与えられたと通知するには | 情報は保存されません。ユーザーはチャネルに送り返されたカードによって @ になるだけ |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。 「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。
+組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->いいえ、Hi5は単にiFramedで、すべてのデータが安全に保存されます。
+>いいえ、Hi5 は単なる iFramed で、すべてのデータが安全に保存されます。
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーが保存するデータの組織的な統制
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
-組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
+組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->OAuth を使用しており、次の 3 つのログイン オプションを提供します。
-- グーグルSSO(OAuth)。
-- マイクロソフト SSO (OAuth)
-- SHAとAES暗号化の組み合わせである独自の暗号化。
-認証されてログインすると、アクセス権レベルによって、Hi5 プラットフォーム内の承認されたセクションへのアクセスが許可されます。
+>OAuth を使用し、3 つのログイン オプションを提供します。
+- Googles SSO (OAuth)。
+- Microsoft SSO (OAuth)。
+- SHA と AES 暗号化の組み合わせである独自の暗号化。
+認証とログインが完了すると、アクセス許可レベルによって、Hi5 プラットフォーム内の承認済みセクションにアクセスできます。
 
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
-人間は、このアプリによって収集または保存される組織識別情報(OII)データのレビューまたは分析に関与していますか?
+人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
 >いいえ
 
@@ -106,7 +106,7 @@ Hi5Technologies がマイクロソフトに提供する情報:
 
 ::: zone pivot="mcas"
 
-[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
+以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36143' frameborder='no' style='width: 100%;'></iframe>
 

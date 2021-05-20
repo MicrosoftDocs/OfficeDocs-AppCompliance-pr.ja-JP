@@ -1,12 +1,12 @@
 ---
-title: チットチャトルによるチームメイトのアプリケーション情報 by チットチャトル
+title: ChitChattr による TeamMate のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 03/11/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: ChitChattrによるTeamMateの利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、そのMicrosoft Cloud App Securityアプリカタログ情報、CSA STARレジストリのセキュリティ/コンプライアンス情報。
+description: ChitChattr による TeamMate の利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 457cfd0fc3ace631a0994fea787e515ba74e1faf
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
@@ -19,26 +19,26 @@ ms.locfileid: "52552298"
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2021年3月11日</p>
+<p>開発者による最終更新日: 2021 年 3 月 11 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/4c2dfafa-ecd7-495f-a2d6-fb115201daff" target="_blank">Teams店舗で表示</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002530" target="_blank">アプリソースで表示</a>
+* <a href="https://teams.microsoft.com/l/app/4c2dfafa-ecd7-495f-a2d6-fb115201daff" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002530" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-チットチャトルがマイクロソフトに提供する情報:
+ChitChattr から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | TeamMate by ChitChattr |
 | ID | WA200002530 |
-| サポートされるクライアントOffice 365 | Microsoft Teams |
+| Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | ChitChattr |
-| パートナーウェブサイトのURL | [https://www.chitchattr.com?p=teammate](https://www.chitchattr.com?p=teammate) |
-| アプリケーション情報ページTeams URL | [https://www.chitchattr.com/teammate/](https://www.chitchattr.com/teammate/) |
-| プライバシーポリシーの URL | [https://www.chitchattr.com/privacy?p=teammate](https://www.chitchattr.com/privacy?p=teammate) |
+| パートナー Web サイトの URL | [https://www.chitchattr.com?p=teammate](https://www.chitchattr.com?p=teammate) |
+| [アプリケーション情報Teamsページの URL | [https://www.chitchattr.com/teammate/](https://www.chitchattr.com/teammate/) |
+| プライバシー ポリシーの URL | [https://www.chitchattr.com/privacy?p=teammate](https://www.chitchattr.com/privacy?p=teammate) |
 | 利用規約の URL | [https://www.chitchattr.com/termsofuse?p=teammate](https://www.chitchattr.com/termsofuse?p=teammate) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -49,47 +49,47 @@ ms.locfileid: "52552298"
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織のデータを収集して格納する方法と、アプリが収集するデータに対する組織のコントロールについてChitChattrによって提供されています。
+この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関して ChitChattr によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
-このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?それを収集するための正当化?** | **データは保存されますか?それを保存するための正当化?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| People.Read | 委任 | このアプリでは、管理者が特定のエクスペリエンスを対象とするユーザーを選択できるため、ユーザーの名前、電子メール、および Azure AD オブジェクト ID を保存する必要があります。 | このアプリでは、管理者が特定のエクスペリエンスを対象とするユーザーを選択できるため、ユーザーの名前、電子メール、および Azure AD オブジェクト ID を保存する必要があります。 | a8e903c7-3b7f-4ec5-a474-b5d32e595f50 |
+>| People.Read | 委任 | このアプリを使用すると、管理者は特定のエクスペリエンスを対象とするユーザーを選択できます。そのため、ユーザーの名前、電子メール、および Azure AD オブジェクト ID を格納する必要があります。 | このアプリを使用すると、管理者は特定のエクスペリエンスを対象とするユーザーを選択できます。そのため、ユーザーの名前、電子メール、および Azure AD オブジェクト ID を格納する必要があります。 | a8e903c7-3b7f-4ec5-a474-b5d32e595f50 |
 
 
-#### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
-アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。
+アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >非Microsoft サービスは使用されません。
 
-#### <a name="data-access-via-bots"></a>ボット経由のデータアクセス
+#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
-このアプリにボットまたはメッセージング拡張機能が含まれている場合、チームまたはチャットのチーム メンバーの名簿 (名前、姓、表示名、電子メール アドレス) のユーザーを識別できる情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
+このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
->| **EUIIにアクセスするための正当性?**  | **EUII はデータベースに格納されていますか?** | **EUIIを保存するための正当性?** |
+>| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| 問題が発生した場合、ボットは、アプリで管理者として登録されたユーザーの名前と連絡先の詳細をユーザーに検索して表示します (基本的には &quot; 管理者に連絡してください &quot; 。 | 名前、電子メール | 前のセクションで説明したように - (管理者が構成した管理者に基づいて) 対象となるエクスペリエンスのユーザーを識別し、ユーザーがアプリの内部会社管理者が誰であるかを確認できるようにする。 |
+>| 問題が発生した場合、ボットはアプリで管理者として登録されたユーザーの名前と連絡先の詳細をユーザーに参照して表示します (基本的に管理者に問い合わせてください &quot; 。 &quot; | 名前、メール | 前のセクションで説明したように、対象となるエクスペリエンス (管理者による構成に基づく) のユーザーを識別し、ユーザーが自分の内部会社の管理者がアプリのユーザーを確認できる。 |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。 「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。
+組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
 >アプリケーションのテレメトリまたはログに OII または EUII は表示されません。
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーが保存するデータの組織的な統制
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
-組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
+組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->Azure でホストされるサービス (Mongo Atlas を含む) のみを使用し、これらのサービスのデータを完全に制御できます。
+>Azure ホスト型サービス (Mongo Atlas を含む) のみを使用し、これらのサービスのデータを完全に制御できます。
 
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
-人間は、このアプリによって収集または保存される組織識別情報(OII)データのレビューまたは分析に関与していますか?
+人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
 >いいえ
 
@@ -99,7 +99,7 @@ ms.locfileid: "52552298"
 
 ::: zone pivot="mcas"
 
-[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
+以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36320' frameborder='no' style='width: 100%;'></iframe>
 
@@ -113,25 +113,25 @@ ms.locfileid: "52552298"
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベストプラクティス、およびその他のID基準を処理する方法についてChitChattrによって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について ChitChattr によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| マイクロソフト識別プラットフォーム (Azure AD) と統合しますか。  | はい |
-| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか。  | はい |
-| アプリは認証に MSAL (マイクロソフト認証ライブラリ) を使用していますか? | はい |
-| アプリで条件付きアクセス ポリシーがサポートされていますか。 | はい |
-| サポートされているポリシーの種類を一覧表示する | 管理ロールを持つユーザーに多要素認証を要求する: 管理役割を持つユーザーまたはグループ メンバーシップを必要とする |
-| アプリがシナリオに対して最低限の権限を要求しているか。 | はい |
-| アプリの静的に登録されたアクセス許可は、アプリが動的に、または増分的に要求するアクセス許可を正確に反映していますか。 | はい |
-| アプリでマルチテナント機能がサポートされていますか。 | はい |
-| アプリに機密クライアントが存在しますか? | はい |
-| アプリに登録されているすべてのリダイレクト統一リソース識別子 (URI) を所有していますか。 | はい |
-| アプリの場合、何を使用しないようにしますか。 | - ワイルドカードリダイレクト URI<br/>- Spa に必要な場合を除き、OAuth2 暗黙的なFlow<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
-| アプリは Web API を公開していますか。 | はい |
-| クライアント アプリが適切な同意を得た場合にのみ、アクセス許可モデルで呼び出しが成功することを許可しますか。 | はい |
-| アプリでプレビュー API を使用していますか。 | いいえ |
-| アプリで非推奨の API が使用されていますか。 | なし |
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
+| サポートされているポリシーの種類を一覧表示する | 管理役割を持つユーザーに多要素認証を要求する、管理役割を持つユーザーに対してユーザーまたはグループ メンバーシップを要求する |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
+| アプリはマルチテナントをサポートしていますか? | はい |
+| アプリに機密クライアントがありますか? | はい |
+| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリは Web API を公開していますか? | はい |
+| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
+| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

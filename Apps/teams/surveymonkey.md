@@ -1,12 +1,12 @@
 ---
-title: サーベイモンキーによるサーベイモンキーのアプリケーション情報
+title: SurveyMonkey による SurveyMonkey のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: SurveyMonkey、そのデータ処理ポリシー、そのMicrosoft Cloud App Securityアプリカタログ情報、およびCSA STARレジストリ内のセキュリティ/コンプライアンス情報に関するすべての利用可能なセキュリティおよびコンプライアンス情報。
+description: SurveyMonkey、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 57ba8ed84e0d9ea4101ea82ed5d92aef1f634ed1
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
@@ -19,26 +19,26 @@ ms.locfileid: "52552728"
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2019年12月16日</p>
+<p>開発者が最終更新日: 2019 年 12 月 16 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/0fd925a0-357f-4d25-8456-b3022aaa41a9" target="_blank">Teams店舗で表示</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104381088" target="_blank">アプリソースで表示</a>
+* <a href="https://teams.microsoft.com/l/app/0fd925a0-357f-4d25-8456-b3022aaa41a9" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381088" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-サーベイモンキーがマイクロソフトに提供する情報:
+SurveyMonkey から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | SurveyMonkey |
 | ID | WA104381088 |
-| サポートされるクライアントOffice 365 | Microsoft Teams |
+| Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | SurveyMonkey |
-| パートナーウェブサイトのURL | [https://www.surveymonkey.com](https://www.surveymonkey.com) |
-| アプリケーション情報ページTeams URL | [https://help.surveymonkey.com/articles/en_US/kb/Microsoft-T...](https://help.surveymonkey.com/articles/en_US/kb/Microsoft-Teams-Integration) |
-| プライバシーポリシーの URL | [https://www.surveymonkey.com/privacy](https://www.surveymonkey.com/privacy) |
+| パートナー Web サイトの URL | [https://www.surveymonkey.com](https://www.surveymonkey.com) |
+| [アプリケーション情報Teamsページの URL | [https://help.surveymonkey.com/articles/en_US/kb/Microsoft-T...](https://help.surveymonkey.com/articles/en_US/kb/Microsoft-Teams-Integration) |
+| プライバシー ポリシーの URL | [https://www.surveymonkey.com/privacy](https://www.surveymonkey.com/privacy) |
 | 利用規約の URL | [https://www.surveymonkey.com/mp/policy/terms-of-use/](https://www.surveymonkey.com/mp/policy/terms-of-use/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -49,55 +49,55 @@ ms.locfileid: "52552728"
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織のデータを収集して格納する方法と、アプリが収集するデータに対する組織のコントロールについて SurveyMonkey によって提供されています。
+この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関する SurveyMonkey によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
-このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?それを収集するための正当化?** | **データは保存されますか?それを保存するための正当化?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Group.ReadWrite.All | 委任 | いいえ | アンケートを共有するグループ/チャネルのリストを提供するには |  |
 
 
-#### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
-アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。
+アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->| **すべての非Microsoft サービス OII は、** |  **どのようなOIIが転送されますか?** | **OIIを転送するための正当性?** |
+>| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-------------------|:--------------------------|:--------------------------|
->| チーム ユーザーに回答とアンケートを関連付けるために、SurveyMonkey に MS ユーザー ID のみが保存されます。 |  | チームの場合は、Microsoft Teams javascript SDK を作成、調査結果、アンケート結果タスク モジュールモーダルで使用します。 |
+>| 応答とアンケートをチーム ユーザーに関連付けるには、MS ユーザー ID だけが SurveyMonkey に格納されます。 |  | チームの場合は、作成Microsoft Teams javascript SDK を使用して、アンケートとアンケート結果のタスク モジュールモーダルを使用します。 |
 
-#### <a name="data-access-via-bots"></a>ボット経由のデータアクセス
+#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
-このアプリにボットまたはメッセージング拡張機能が含まれている場合、チームまたはチャットのチーム メンバーの名簿 (名前、姓、表示名、電子メール アドレス) のユーザーを識別できる情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
+このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
->| **EUIIにアクセスするための正当性?**  | **EUII はデータベースに格納されていますか?** | **EUIIを保存するための正当性?** |
+>| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| v3/会話/{id}/pagedmembers に電話をかけ、アプリがチームに追加され、メンバー数を取得することを確認します。 これは、使用の内部追跡のためであり、我々はチャット名簿のサイズを見るだけ、他の情報は無視されます。 | はい、チャットのサイズは格納されます(単一の整数) |  |
+>| v3/conversations/{id}/pagedmembers を呼び出して、アプリがチームに追加され、メンバー数を取得します。 これは、使用状況の内部追跡用です。チャット名簿のサイズのみを確認し、他の情報は無視されます。 | はい、チャットのサイズが格納されます (1 つの整数) |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。 「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。
+組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->EUII - アンケートが回答を受け取るたびに成功/失敗ログが作成され、その回答をコネクタ経由でTeamsに送信しようとすると、このログにはuser_id、survey_id、integration_idが含まれます(データベース内ではMSチームID、MSユーザーIDを検索できます)。
+>EUII - アンケートが応答を取得し、コネクタを介して Teams に応答を送信しようとするたびに成功/失敗ログが作成され、このログには user_id、survey_id、integration_id が含まれます (データベース内で MS チーム ID、MS ユーザー ID の参照に使用できます)
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーが保存するデータの組織的な統制
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
-組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
+組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->当社のプライマリデータセンターは、ラスベガス、NVに位置し、セカンダリデータセンターは、サンタクララ、カリフォルニア州にあります。 SurveyMonkey は、これらの場所ですべてのサーバーとインフラストラクチャを所有および運用しています。 また、カナダにある特定のSurveyMonkey Enterpriseのお客様にもカナダのデータ居住地があります。 すべてのデータは、AES256 を使用して TDE を使用して保管時に暗号化され、転送中のデータは TLS 1.2 を使用して暗号化されます。
+>プライマリ データ センターは、NV のラスベガスにあり、セカンダリ データ センターはカリフォルニア州サンタ クララにあります。 SurveyMonkey は、これらの場所ですべてのサーバーとインフラストラクチャを所有および運用します。 また、特定の SurveyMonkey ユーザーがカナダにEnterpriseデータ常駐を利用できます。 すべてのデータは、TDE と AES256 を使用して保存時に暗号化され、転送中のデータは TLS 1.2 を使用して暗号化されます。
 
-サーベイモンキーは、アイデンティティとアクセス管理を維持するために、中央ユーザ認証を使用します。 このシステムは、企業、および本番インフラストラクチャ、システム、サービスに対するすべての認証と承認を管理します。 厳格なアクセス ポリシーは四半期ごとに維持され、見直されます。 レビューには、ユーザー アクセス リスト、ポリシー グループ、サード パーティアクセス レビューなどがありますが、これらに限定されません。 運用環境にアクセスするには (特権アカウントを取得するため)、管理者の承認を得て、必要なトレーニングを多数完了し、セキュリティ チームの承認を得る必要があります。 その時点で、追加の VPN アカウントがプロビジョニングされ、通常の&#8217; アカウントと&#8216;特権&#8217; アカウント&#8216;区別されます。
+SurveyMonkey は、中央ユーザー認証を使用して ID とアクセス管理を維持します。 このシステムは、すべての企業、および運用インフラストラクチャ、システム、サービスに対するすべての認証と承認を管理します。 厳密なアクセス ポリシーは四半期ごとに維持およびレビューされます。 レビューには、ユーザー アクセス リスト、ポリシー グループ、サードパーティ アクセス レビューが含まれますが、これらに限定されない場合があります。 実稼働環境 (特権アカウントを取得する場合) にアクセスするには、管理者の承認を取得し、必要なトレーニングを多数完了し、セキュリティ チームの承認を得る必要があります。 その時点で、追加の VPN アカウントがプロビジョニングされ、通常の &#8216;&#8217; アカウントと&#8216;を&#8217;します。
 
-会社が発行したデバイスのみが、当社の本番ネットワークにアクセスできます。 インストール前に、デフォルトのワイヤレス暗号化キー、パスワード、SNMP コミュニティストリングなど、すべてのワイヤレスベンダーのデフォルトが変更されます。 2FAとVPNはリモートで行う必要があります。 当社は、当社のオフィスでゲストアクセスのための別の無線LANネットワークを持っています。
+会社が発行したデバイスだけが、実稼働ネットワークにアクセスできます。 すべてのワイヤレス ベンダーの既定値は、既定のワイヤレス暗号化キー、パスワード、および SNMP コミュニティ文字列など、インストール前に変更されます。 2FA と VPN は、リモートで行う必要があります。 弊社の企業オフィスには、ゲストアクセス用の個別の無線LAN ネットワークがあります。
 
-すべてのサービス、プロトコル、および許可されたポートには、セキュリティ保護されていないプロトコルに実装されたセキュリティ機能の使用を含め、文書化されたビジネス上の正当性と承認が必要です。 ルーターとファイアウォールは、IP の公開を無許可または意図しない当事者に制限し、DMZ ファイアウォール内の IP アドレスへのインバウンド インターネット アクセスを制限するように構成され、ルーター ルールセットは少なくとも 6 か月ごとに確認されます。
+すべてのサービス、プロトコル、および許可ポートには、セキュリティが保護されていないと見なされるプロトコルに実装されたセキュリティ機能の使用を含む、文書化されたビジネス上の正当性と承認が必要です。 ルーターとファイアウォールは、IP 漏えいを許可されていないまたは意図しない当事者に制限し、DMZ ファイアウォール内の IP アドレスへの受信インターネット アクセスを制限するように構成され、ルーター ルールセットは少なくとも 6 か月ごとに確認されます。
 
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
-人間は、このアプリによって収集または保存される組織識別情報(OII)データのレビューまたは分析に関与していますか?
+人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
 >はい
 
@@ -107,7 +107,7 @@ ms.locfileid: "52552728"
 
 ::: zone pivot="mcas"
 
-[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
+以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/12024' frameborder='no' style='width: 100%;'></iframe>
 
