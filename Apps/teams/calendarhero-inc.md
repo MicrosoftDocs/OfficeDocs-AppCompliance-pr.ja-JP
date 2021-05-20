@@ -1,12 +1,12 @@
 ---
-title: カレンダーヒーローのアプリケーション情報(株式会社カレンダヒーロー)
+title: CalendarHero Inc. による CalendarHero のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 03/17/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CalendarHero、そのデータ処理ポリシー、そのMicrosoft Cloud App Securityアプリカタログ情報、およびCSA STARレジストリ内のセキュリティ/コンプライアンス情報に関するすべての利用可能なセキュリティおよびコンプライアンス情報。
+description: CalendarHero、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: d27858000c591c320cfadc301ea16ddf2fac89bd
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
@@ -15,30 +15,30 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 05/19/2021
 ms.locfileid: "52553333"
 ---
-# <a name="calendarhero"></a>カレンダーヒーロー
+# <a name="calendarhero"></a>CalendarHero
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2020年3月17日</p>
+<p>開発者による最終更新日: 2020 年 3 月 17 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/cac7469b-37cc-44f5-bf08-ff6654d35819" target="_blank">Teams店舗で表示</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200000150" target="_blank">アプリソースで表示</a>
+* <a href="https://teams.microsoft.com/l/app/cac7469b-37cc-44f5-bf08-ff6654d35819" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200000150" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-マイクロソフトにカレンダーヒーロー社によって提供される情報:
+CalendarHero Inc から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | カレンダーヒーロー |
+| アプリ名 | CalendarHero |
 | ID | WA200000150 |
-| サポートされるクライアントOffice 365 | Microsoft Teams |
-| パートナー会社名 | 株式会社カレンダーヒーロー |
-| パートナーウェブサイトのURL | [https://calendarhero.com](https://calendarhero.com) |
-| アプリケーション情報ページTeams URL | [https://faq.zoom.ai/](https://faq.zoom.ai/) |
-| プライバシーポリシーの URL | [https://calendarhero.com/privacy](https://calendarhero.com/privacy) |
+| Office 365サポートされているクライアント | Microsoft Teams |
+| パートナー会社名 | CalendarHero Inc |
+| パートナー Web サイトの URL | [https://calendarhero.com](https://calendarhero.com) |
+| [アプリケーション情報Teamsページの URL | [https://faq.zoom.ai/](https://faq.zoom.ai/) |
+| プライバシー ポリシーの URL | [https://calendarhero.com/privacy](https://calendarhero.com/privacy) |
 | 利用規約の URL | [https://calendarhero.com/terms-of-use](https://calendarhero.com/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -49,53 +49,53 @@ ms.locfileid: "52553333"
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織のデータを収集して格納する方法と、アプリが収集するデータに対する組織のコントロールに関するカレンダーヒーロー社によって提供されています。
+この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて CalendarHero Inc. から提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
-このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?それを収集するための正当化?** | **データは保存されますか?それを保存するための正当化?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 両方とも | 会議は Azure の mongoDB にキャッシュされますが、説明は暗号化されています。 | ユーザーのカレンダーイベントへのアクセス。 |  |
->| Contacts.ReadWrite | 両方とも | 連絡先の名前と電子メール アドレス。 | ユーザーの連絡先を読み取ります (会議に招待できるようにします)。 |  |
->| Group.Read.All | 両方とも | グループ名とメンバー。 | (オプション)企業ユーザーグループを読み取る(グループを使用してスケジュールする場合)。 |  |
->| Mail.Read | 両方とも | 連絡先の電子メール/名前、相互作用の頻度/最新性。 | (省略可能) は、(Machine Learning経由で) ユーザーの最も重要な連絡先が誰であるかに電子メール のメタ データを読み取るために使用されます。 |  |
->| MailboxSettings.ReadWrite | 両方とも | ユーザーのタイムゾーン。 | ユーザーのタイムゾーン。 |  |
->| User.Read.All | 両方とも | ユーザーの名前の &amp; 電子メール (連絡先として保存されます)。 | (オプション)企業ユーザーの読み取り(同僚とのスケジューリング用) |  |
->| offline_access | アプリケーション | いいえ | ユーザーが存在することなく、いつでもバックエンドを通じて読み書きする必要があります。 |  |
+>| Calendars.ReadWrite | 両方とも | 会議は Azure 上の mongoDB にキャッシュされますが、説明は暗号化されます。 | ユーザーの予定表イベントへのアクセス。 |  |
+>| Contacts.ReadWrite | 両方とも | 連絡先の名前と電子メール アドレス。 | ユーザーの連絡先を読み取ります (会議に招待できます)。 |  |
+>| Group.Read.All | 両方とも | グループ名とメンバー。 | (オプション) 企業のユーザー グループを読み取ります (グループを使用したスケジュール設定の場合)。 |  |
+>| Mail.Read | 両方とも | 連絡先の電子メール/名前、対話の頻度/最新の情報。 | (省略可能) は、ユーザーの最も重要な連絡先が誰か (ユーザー経由で) 電子メールのメタデータを読み取Machine Learning。 |  |
+>| MailboxSettings.ReadWrite | 両方とも | ユーザーのタイム ゾーン。 | ユーザーのタイム ゾーン。 |  |
+>| User.Read.All | 両方とも | ユーザーの名前 &amp; の電子メール (連絡先として保存)。 | (オプション) 企業ユーザーの読み取り (同僚とのスケジュール設定用) |  |
+>| offline_access | アプリケーション | いいえ | ユーザーが存在せずに、いつでもバック エンドを通じて読み書きする必要があります。 |  |
 
 
-#### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
-アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。
+アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >非Microsoft サービスは使用されません。
 
-#### <a name="data-access-via-bots"></a>ボット経由のデータアクセス
+#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
-このアプリにボットまたはメッセージング拡張機能が含まれている場合、チームまたはチャットのチーム メンバーの名簿 (名前、姓、表示名、電子メール アドレス) のユーザーを識別できる情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
+このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
->| **EUIIにアクセスするための正当性?**  | **EUII はデータベースに格納されていますか?** | **EUIIを保存するための正当性?** |
+>| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| 会議アシスタントボットが同僚とのミーティングをスケジュールできるように、同僚の名前/電子メールをインポートする | &amp;電子メールに名前を付けます。 どちらも、クイックルックアップと部分的な名前の検索のためにデータベースに格納されています(例えば. ジョーPと会う) |  |
+>| 同僚の名前/メールをインポートして、会議アシスタント ボットが会議をスケジュールできるよう | 名前 &amp; の電子メール。 どちらもデータベースに保存され、クイック ルックアップと部分的な名前の参照用に格納されます (たとえば、 Joe P と会う) |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。 「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。
+組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->ユーザーや連絡先のメールアドレスは、ログプロバイダであるLogDNAにイベントを記録するために使用されます。
+>ユーザーまたは連絡先の電子メール アドレスは、ログ プロバイダーである LogDNA にイベントを記録するために使用されます。
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーが保存するデータの組織的な統制
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
-組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
+組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->すべてのデータは、カナダのケベックシティにあるMS Azureクラウドデータセンターに保存されます。 いくつかのフィールドは AES256 で暗号化されます。 データベースへのアクセスは、エンジニアとバックエンド サーバーがユーザー/サービス レベルの資格情報を使用してのみ利用できます。
+>すべてのデータは、カナダのケベックシティにある MS Azure クラウド データ センターに格納されます。 複数のフィールドは AES256 で暗号化されます。 データベースへのアクセスは、ユーザー/サービス レベルの資格情報を介してエンジニアと弊社のバック エンド サーバーでのみ利用できます。
 
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
-人間は、このアプリによって収集または保存される組織識別情報(OII)データのレビューまたは分析に関与していますか?
+人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
 >いいえ
 
@@ -105,7 +105,7 @@ ms.locfileid: "52553333"
 
 ::: zone pivot="mcas"
 
-[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
+以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35668' frameborder='no' style='width: 100%;'></iframe>
 

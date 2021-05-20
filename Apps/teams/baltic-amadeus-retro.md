@@ -1,12 +1,12 @@
 ---
-title: バルト海アマデウスによるレトロのためのアプリケーション情報
+title: バルト海のアマデウスによるレトロのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Retro、データ処理ポリシー、そのMicrosoft Cloud App Securityアプリカタログ情報、およびCSA STARレジストリ内のセキュリティ/コンプライアンス情報に関するすべての利用可能なセキュリティおよびコンプライアンス情報。
+description: レトロで利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 49b17e202fb358284b9a36ed33646926d649afe3
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
@@ -19,25 +19,25 @@ ms.locfileid: "52553458"
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2020年11月3日</p>
+<p>開発者が最終更新日: 2020 年 11 月 3 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/434e1a1a-2ed7-4e45-9588-04f5099fd876" target="_blank">Teams店舗で表示</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001892" target="_blank">アプリソースで表示</a>
+* <a href="https://teams.microsoft.com/l/app/434e1a1a-2ed7-4e45-9588-04f5099fd876" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001892" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-バルト海のアマデウスがマイクロソフトに提供する情報:
+バルト海アマデウスから Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Retro |
 | ID | WA200001892 |
-| サポートされるクライアントOffice 365 | Microsoft Teams |
+| Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Baltic Amadeus |
-| パートナーウェブサイトのURL | [https://www.ba.lt/en/](https://www.ba.lt/en/) |
-| プライバシーポリシーの URL | [https://retro.ba.lt/privacypolicy](https://retro.ba.lt/privacypolicy) |
+| パートナー Web サイトの URL | [https://www.ba.lt/en/](https://www.ba.lt/en/) |
+| プライバシー ポリシーの URL | [https://retro.ba.lt/privacypolicy](https://retro.ba.lt/privacypolicy) |
 | 利用規約の URL | [https://retro.ba.lt/termsandconditions](https://retro.ba.lt/termsandconditions) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -48,49 +48,49 @@ ms.locfileid: "52553458"
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが収集し、組織のデータを格納する方法と、アプリが収集するデータに対する組織のコントロールについてバルト海のアマデウスによって提供されています。
+この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関するバルト・アマデウスによって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
-このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションは、マイクロソフトのGraphを使用していません。
+>このアプリケーションでは、Microsoft アプリケーションをGraph。
 
 
-#### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
-アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。
+アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->| **すべての非Microsoft サービス OII は、** |  **どのようなOIIが転送されますか?** | **OIIを転送するための正当性?** |
+>| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-------------------|:--------------------------|:--------------------------|
->| レトロアプリには、マイクロソフトのサービスとは見なされない独自のWeb APIがあります。 前述のように、識別と適切なコンテンツ表示のために電子メールとフルネームを保存します。 このデータは他の場所には送信されません。 さらに、Retro には、スプリント データをアトラシアン合流空間にエクスポートするオプション機能があります。 そのためには、ユーザーは合流ユーザー名とパスワードを入力する必要があります。 このデータは、ユーザーに代わってコンフルエンス API に対して認証された要求を行うためだけに使用され、どこにも保存または記録されません。 |  | Retro には、Azure にも登録されている独自の Web API があります。 これを使用するには、ユーザーが Microsoft ID プラットフォームを介して認証される必要があります。 ユーザーは認証を受ける必要があるため、Retro アプリはユーザー固有のコンテンツをサーバーに提供できます。 |
+>| レトロ アプリには、Microsoft サービスとは見なされない独自の Web API があります。 前述したように、識別と適切なコンテンツ表示の目的で Email と Fullname が格納されます。 このデータは他の場所には送信されません。 さらに、Retro には、スプリント データを Atlassian の合流空間にエクスポートするオプションの機能があります。 これを行うには、ユーザーはユーザー名とパスワードを入力する必要があります。 このデータは、ユーザーに代わって api を confluence するために認証された要求を行う場合にのみ使用され、どこにも保存もログにも記録されません。 |  | Retro には、Azure にも登録されている独自の Web API があります。 それを使用するには、Microsoft Identity Platform 経由でユーザーを認証する必要があります。 ユーザーを認証する必要があります。そのため、Retro アプリはユーザー固有のコンテンツをサーバーに接続できます。 |
 
-#### <a name="data-access-via-bots"></a>ボット経由のデータアクセス
+#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
-このアプリにボットまたはメッセージング拡張機能が含まれている場合、チームまたはチャットのチーム メンバーの名簿 (名前、姓、表示名、電子メール アドレス) のユーザーを識別できる情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
+このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
->| **EUIIにアクセスするための正当性?**  | **EUII はデータベースに格納されていますか?** | **EUIIを保存するための正当性?** |
+>| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| ボットは、チームに参加または退社したメンバーを確認するために、名簿にアクセスします。 それに基づいて、ユーザーがスプリント参加者リストに表示されないように、プロジェクトに対してそのユーザーを追加または非アクティブ化します。 | 電子メールとフルネームは、一緒にリンクされ、データベースに格納されます。 電子メールは、ログインしているユーザーに適切なコンテンツを表示するために、ユーザーの識別に使用されます。 FullName は、子犬を表示するために使用されるため、他のユーザーは、フィードバックを評価または書いているユーザーを知ることができます。  |  |
+>| ボットは、どのメンバーがチームに参加したのか、チームから去ったのか確認するために、名簿にアクセスします。 その結果、プロジェクトからそのユーザーが追加または非アクティブ化され、ユーザーがスプリント参加者リストに表示されなくなりました。 | メールと FullName は一緒にリンクされ、データベースに格納されます。 ログインしているユーザーに適したコンテンツを表示するために、電子メールはユーザー識別に使用されます。 FullName は puproses の表示に使用されます。そのため、他のユーザーは、フィードバックを評価または書き込むユーザーを知る必要があります。  |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。 「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。
+組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->いいえ。 Retro アプリでテレメトリ/ログを生成するプロセスは、エラー ログだけです。 エラー ログに EUII または OII が含まれなかった
+>いいえ。 Retro アプリでテレメトリ/ログを生成する唯一のプロセスは、エラー ログです。 エラー ログに EUII または OII が含まれる
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーが保存するデータの組織的な統制
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
-組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
+組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->データは、Azure SQL サーバー データベースに格納されます。 レトロアプリとレトロボットを介して保存されます。
-既定では、azure sql データベースでは透過的なデータ暗号化が有効になっています。
+>データは Azure sql server データベースに格納されます。 これは、レトロアプリとレトロボットを介して保存されます。
+既定では、Azure sql データベースには透過的なデータ暗号化が有効になっています。
 データベースは基本認証の背後にロックされています。
 
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
-人間は、このアプリによって収集または保存される組織識別情報(OII)データのレビューまたは分析に関与していますか?
+人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
 >はい
 
@@ -100,7 +100,7 @@ ms.locfileid: "52553458"
 
 ::: zone pivot="mcas"
 
-[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
+以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36148' frameborder='no' style='width: 100%;'></iframe>
 

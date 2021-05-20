@@ -1,12 +1,12 @@
 ---
-title: エンタープライズデジタルマシンPTY LTDによるSharePoint用フォームマシンのアプリケーション情報
+title: エンタープライズ デジタル マシン PTY LTD SharePoint FormMachines for SharePointアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: SharePoint用の FormMachines、データ処理ポリシー、そのMicrosoft Cloud App Securityアプリカタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関するすべての利用可能なセキュリティおよびコンプライアンス情報。
+description: formMachines for SharePoint、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 4c423cac4f879ba4f73a9bba5f9004acb4cfa21a
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
@@ -15,28 +15,28 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 05/19/2021
 ms.locfileid: "52553548"
 ---
-# <a name="formmachines-for-sharepoint"></a>SharePoint用フォームマシン
+# <a name="formmachines-for-sharepoint"></a>FormMachines for SharePoint
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2020年11月3日</p>
+<p>開発者が最終更新日: 2020 年 11 月 3 日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA200000357" target="_blank">アプリソースで表示</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200000357" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-エンタープライズ デジタル マシン PTY Ltd がマイクロソフトに提供する情報:
+ENTERPRISE DIGITAL MACHINES PTY LTD から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | SharePoint用フォームマシン |
+| アプリ名 | FormMachines for SharePoint |
 | ID | WA200000357 |
-| サポートされるクライアントOffice 365 | 2016年以降SharePoint |
-| パートナー会社名 | エンタープライズデジタルマシンPTY株式会社 |
-| パートナーウェブサイトのURL | [https://www.formmachines.com/](https://www.formmachines.com/) |
-| プライバシーポリシーの URL | [https://www.formmachines.com/?dirKey=fm-privacy](https://www.formmachines.com/?dirKey=fm-privacy) |
+| Office 365サポートされているクライアント | SharePoint 2016 以降 |
+| パートナー会社名 | エンタープライズ デジタル マシン PTY LTD |
+| パートナー Web サイトの URL | [https://www.formmachines.com/](https://www.formmachines.com/) |
+| プライバシー ポリシーの URL | [https://www.formmachines.com/?dirKey=fm-privacy](https://www.formmachines.com/?dirKey=fm-privacy) |
 | 利用規約の URL | [https://www.formmachines.com/?dirKey=fm-terms-of-use](https://www.formmachines.com/?dirKey=fm-terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -47,20 +47,20 @@ ms.locfileid: "52553548"
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが収集し、組織のデータを格納する方法と、アプリが収集するデータに対する組織の制御についてENTERPRISE DIGITAL MACHINES PTY LTDによって提供されています。
+この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する ENTERPRISE DIGITAL MACHINES PTY LTD によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>マイクロソフトGraphを使用したデータ アクセス
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
-このアプリが必要とする[Microsoft Graphのアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?それを収集するための正当化?** | **データは保存されますか?それを保存するための正当化?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委任 | (ログイン、電子メール、Azure GUID、表示名、first_login_date_time) | ユーザーがサインインし、アプリにUPNへのアクセスを与えてサイレントログインを可能にし、各ユーザーを一意に識別することができます | 8c87660f-d36f-41f6-b0ae-025253f380aa |
+>| User.Read | 委任 | (ログイン、電子メール、Azure Guid、displayName、first_login_date_time) | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインを有効にし、各ユーザーを一意に識別できます | 8c87660f-d36f-41f6-b0ae-025253f380aa |
 
 
-#### <a name="non-microsoft-services-used"></a>使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
-アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由を示します。
+アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >非Microsoft サービスは使用されません。
 
@@ -68,19 +68,19 @@ ms.locfileid: "52553548"
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-このアプリケーションのテレメトリまたはログに、組織を識別できる情報 (OII) またはエンド ユーザーを特定できる情報 (EUII) が表示されますか。 「はい」の場合、保存されるデータと保存ポリシーと削除ポリシーについて説明します。
+組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->. 私たちはエラーを記録するだけです。 エラー ログには、エラーに関連する情報のみがログに記録されます。 特定のエラーをトリガしたクライアントまたは顧客は収集されません。 サポート エンジニアだけがエラー ログにアクセスできます。 エラー ログはオンラインで表示され、ダウンロードおよび表示はされません。 エラー ログは 30 日後に自動的に削除されます。
+>. エラーのみをログに記録します。 エラー ログには、エラーに関連する情報のみをログに記録します。 特定のエラーをトリガーしたクライアントまたは顧客は収集されません。 サポート エンジニアだけがエラー ログにアクセスできます。 エラー ログはオンラインで表示され、ダウンロードおよび表示されません。 エラー ログは 30 日後に自動的に削除されます
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーが保存するデータの組織的な統制
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
-組織の管理者がパートナー システムの情報を制御する方法について説明する。削除、保存、監査、アーカイブ、エンドユーザーポリシーなど
+組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->. データは Azure US ベースのデータ センター に格納されます。 テンプレートや提出物などのクライアントが提供するデータは、 DB で暗号化されます。 ファイルの添付ファイルはプライベート Azure BLOB コンテナーに格納され、ユーザーはアクセスする前に認証する必要があります。 当社の運用資産にアクセスできる管理者は最大 2 人で、トラブルシューティングと展開を行うことができます。 これら 2 つの管理者アカウントは、他のすべてのアカウントとは異なるパーティションに分割されます。 管理者アクセスの数が 2 を超えることはありません。
+>. データは Azure US ベースのデータ センターに格納されます。 テンプレートや申請などのクライアントが提供するデータは、DB で暗号化されます。 添付ファイルはプライベート Azure BLOB コンテナーに格納され、ユーザーはアクセスする前に認証する必要があります。 トラブルシューティングと展開のために、運用資産にアクセスできる管理者は最大 2 人です。 これら 2 つの管理アカウントは、他のすべてのアカウントとは異なる方法でパーティション分割されます。 管理者アクセスの数が 2 を超えない
 
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間的レビュー
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
-人間は、このアプリによって収集または保存される組織識別情報(OII)データのレビューまたは分析に関与していますか?
+人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
 >はい
 
@@ -90,7 +90,7 @@ ms.locfileid: "52553548"
 
 ::: zone pivot="mcas"
 
-[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報は以下に表示されます。
+以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36144' frameborder='no' style='width: 100%;'></iframe>
 
