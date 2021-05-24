@@ -22,7 +22,7 @@
           href: docs/certification.md
         - name: Microsoft 365認定申請ガイド
           href: docs/certification-submission-guide.md
-    - name: アプリのMicrosoft Teams
+    - name: Microsoft Teamsアプリ
       href: teams/teams-apps.md
       items:
         - name: 365Projects
@@ -243,7 +243,7 @@
           href: teams/moduleq-q.md
         - name: qbo
           href: teams/unscrambl-qbo.md
-        - name: qChange リーダー エクスペリエンス
+        - name: qChange Leader Experience
           href: teams/qchange-software-solution-inc-leader-experience.md
         - name: Qubie
           href: teams/qubie.md
@@ -383,6 +383,8 @@
           href: teams/wide-ideas.md
         - name: Woobot
           href: teams/woobot.md
+        - name: 作業ボード
+          href: teams/workboard.md
         - name: Workday
           href: teams/workday.md
         - name: Wrike
@@ -403,7 +405,7 @@
           href: teams/zoho-corporation-private-limited-sign.md
         - name: Zoho Sprints
           href: teams/zoho-corporation-private-limited-sprints.md
-    - name: Microsoft Outlook 用アプリ
+    - name: Microsoft Outlook アプリ
       href: outlook/outlook-apps.md
       items:
         - name: Adobe Sign Add-In Outlook
@@ -450,7 +452,7 @@
           href: outlook/zoho-corporation-private-limited-campaigns-tool-for-marketing-automation.md
         - name: Zoho CRM for email
           href: outlook/zoho-corporation-private-limited-crm-for-email.md
-    - name: アプリのMicrosoft Word
+    - name: Microsoft Wordアプリ
       href: word/word-apps.md
       items:
         - name: Adobe Sign for Word and PowerPoint
@@ -481,7 +483,7 @@
           href: word/jiji-technologies-private-limited-wunder365-for-office.md
         - name: xLaw - ナレッジ管理システム
           href: word/evertn-xlaw-knowledge-management-system.md
-    - name: Microsoft PowerPoint 用アプリ
+    - name: Microsoft PowerPoint アプリ
       href: powerpoint/powerpoint-apps.md
       items:
         - name: Adobe Sign for Word and PowerPoint
@@ -502,7 +504,7 @@
           href: powerpoint/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: Wrike for Office ドキュメント
           href: powerpoint/wrike-inc-for-office-documents.md
-    - name: Microsoft SharePoint 用アプリ
+    - name: Microsoft SharePoint アプリ
       href: sharepoint/sharepoint-apps.md
       items:
         - name: アジャイル タスク ボード for SharePoint Online
@@ -519,7 +521,7 @@
           href: sharepoint/konnect-email-parser.md
         - name: officeatwork |テンプレートのテンプレート選択SharePoint
           href: sharepoint/officeatwork-officeatworktemplate-chooser-for-sharepoint.md
-    - name: アプリのMicrosoft Excel
+    - name: Microsoft Excelアプリ
       href: excel/excel-apps.md
       items:
         - name: CloudExtend Analytics for NetSuite
@@ -552,14 +554,14 @@
           href: excel/wrike-inc-for-office-documents.md
         - name: Wunder365 for Office
           href: excel/jiji-technologies-private-limited-wunder365-for-office.md
-    - name: アプリのMicrosoft OneNote
+    - name: Microsoft OneNoteアプリ
       href: onenote/onenote-apps.md
       items:
         - name: officeatwork |コンテンツの選択Office
           href: onenote/officeatwork-officeatworkcontent-chooser-for-office.md
         - name: Wunder365 for Office
           href: onenote/jiji-technologies-private-limited-wunder365-for-office.md
-    - name: アプリのMicrosoft Project
+    - name: Microsoft Projectアプリ
       href: project/project-apps.md
       items:
         - name: officeatwork |テンプレートのテンプレート選択Office
