@@ -2,21 +2,21 @@
 title: Microsoft Outlook アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/18/2021
+ms.date: 05/21/2021
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft サービス アプリで使用可能なすべてのセキュリティとコンプライアンスOutlook情報。
 localization_priority: Normal
-ms.openlocfilehash: 06cae2eff49ec4ad80a27fe5dea2c3fd2ef5b30d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: bf0efa79460f5c5d794f1b300af9ff6af98dd2b7
+ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552488"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52629629"
 ---
 # <a name="microsoft-outlook-app-security-and-compliance"></a>Microsoft Outlook アプリのセキュリティとコンプライアンス
 
-Microsoft は、Microsoft 365開発者パートナーと協力して、組織が使用するアプリやアドインに関する意思決定を迅速Outlook通知するために必要な情報を提供します。 この情報は、[Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) アプリ カタログの情報と、開発者がアプリケーションを送信するときに提供する情報で補足されます。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
+Microsoft は、microsoft Microsoft 365開発者パートナーと協力して、組織が使用する Microsoft Outlook アプリとアドインに関する意思決定を迅速化し、通知するために必要な情報を提供します。 この情報は、[Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) アプリ カタログの情報と、開発者がアプリケーションを送信するときに提供する情報で補足されます。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
 
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|

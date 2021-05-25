@@ -2,24 +2,24 @@
 title: 承認済み連絡先によるテキストのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 05/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: テキスト、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2cc4abf4924ca9af1ddd5b49b6a38c4427f3404a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 8d9e5cfd3b082692656c7bb9a67417564cf7ab57
+ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552388"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52629667"
 ---
 # <a name="text"></a>テキスト
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2019 年 12 月 16 日</p>
+<p>開発者が最終更新日: 2021 年 5 月 10 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/a622ceb4-b6e2-4557-8218-e22e80975ba4" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000383" target="_blank">AppSource での表示</a>
@@ -36,9 +36,9 @@ Microsoft への承認済み連絡先によって提供される情報:
 | ID | WA200000383 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | 承認済みの連絡先 |
-| パートナー Web サイトの URL | [https://sales.approvedcontact.com/syniverse-microsoft-teams...](https://sales.approvedcontact.com/syniverse-microsoft-teams-text/) |
+| パートナー Web サイトの URL | [www.approvedcontact.com](www.approvedcontact.com) |
 | プライバシー ポリシーの URL | [https://sales.approvedcontact.com/wp-content/uploads/text-p...](https://sales.approvedcontact.com/wp-content/uploads/text-privacy-policy.pdf) |
-| 利用規約の URL | [https://sales.approvedcontact.com/wp-content/uploads/text-t...](https://sales.approvedcontact.com/wp-content/uploads/text-terms-of-use.pdf) |
+| 利用規約の URL | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -57,10 +57,10 @@ Microsoft への承認済み連絡先によって提供される情報:
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Group.ReadWrite.All | 委任 | Text BOT では、受信テキスト メッセージの将来のチャネルを作成するためのチーム識別子をキャプチャします。 | ユーザー向けチャネルTeams作成できます。 | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| メール | 委任 |  | ユーザーの連絡先情報の取得。 | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| offline_access | 委任 | 更新トークンはデータベースに格納されます。 | 更新トークンが存在しない場合にユーザーの予定表を同期するためにデータベースに更新トークンを保持するために使用されます。 | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| openid | 委任 |  | ユーザーがログインできます。 | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| profile | 委任 |  |  | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
+>| メール | 委任 | 電子メール アドレス | ユーザーの連絡先情報の取得。 | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
+>| offline_access | 委任 | 更新トークンはデータベースに格納されます。 | 更新トークンをデータベースに保持するために使用されます。 | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
+>| openid | 委任 | ログイン資格情報 | ユーザーがログインできます。 テキストをチャネルに配信Teamsする | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
+>| profile | 委任 | 電子メール アドレス | ユーザーの連絡先情報の取得。 | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -75,7 +75,7 @@ Microsoft への承認済み連絡先によって提供される情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| この名簿を使用して、チーム内のすべてのユーザーの空き時間を比較して、開いている時間に会議をスケジュールします。 | メール アドレスを保存して、空き時間を比較できます。 |  |
+>| 更新トークンをデータベースに保持するために使用されます。 | メール アドレスを保存します。 | 更新トークンをデータベースに保持するために使用されます。 |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -112,3 +112,27 @@ Microsoft への承認済み連絡先によって提供される情報:
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 情報
+
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、承認済み連絡先から提供されています。
+
+| **Information** | **応答** |
+|:----------------|:-------------|
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | 必要 |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | 必要 |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | 必要 |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | 必要 |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | 必要 |
+| アプリはマルチテナントをサポートしていますか? | 必要 |
+| アプリに機密クライアントがありますか? | いいえ |
+| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | 必要 |
+| アプリは Web API を公開していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリで非推奨の API を使用していますか? | なし |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

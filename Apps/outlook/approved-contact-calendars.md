@@ -2,24 +2,24 @@
 title: 承認済み連絡先による承認済み連絡先予定表のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 05/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 承認済み連絡先カレンダー、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 57dd499fe648ed9a9b481d4175056977a0d6fa61
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 6849ef81797483688f6e0fad69338b1a015748d0
+ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552558"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52629649"
 ---
 # <a name="approved-contact-calendars"></a>承認済みの連絡先の予定表
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2019 年 12 月 16 日</p>
+<p>開発者が最終更新日: 2021 年 5 月 10 日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380294" target="_blank">AppSource での表示</a>
 
@@ -35,9 +35,9 @@ Microsoft への承認済み連絡先によって提供される情報:
 | ID | WA104380294 |
 | Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の Mac 上Outlook Web 上 |
 | パートナー会社名 | 承認済みの連絡先 |
-| パートナー Web サイトの URL | [https://approvedcontact.com/](https://approvedcontact.com/) |
+| パートナー Web サイトの URL | [www.approvedcontact.com](www.approvedcontact.com) |
 | プライバシー ポリシーの URL | [https://approvedcontact.com/Privacy%20Policy.pdf](https://approvedcontact.com/Privacy%20Policy.pdf) |
-| 利用規約の URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| 利用規約の URL | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -57,7 +57,7 @@ Microsoft への承認済み連絡先によって提供される情報:
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Calendars.ReadWrite | 委任 | Calendar BOT では、複数のユーザーの空き時間を見つけ出す空き時間をユーザーに保存しています。  | 空き時間情報を読んで比較し、会議をスケジュールします。 | adef9811-448f-4dd5-88d9-68734050fe58 |
 >| Contacts.Read | 委任 | はい、連絡先情報を保存します。 | 連絡先のインポートと同期。 | adef9811-448f-4dd5-88d9-68734050fe58 |
->| User.Read | 委任 | はい | 基本的なプロファイル情報。 | adef9811-448f-4dd5-88d9-68734050fe58 |
+>| User.Read | 委任 | 必要 | 基本的なプロファイル情報。 | adef9811-448f-4dd5-88d9-68734050fe58 |
 >| User.ReadBasic.All | 委任 | いいえ | 同僚のプロファイルの表示、空き時間の比較、会議室のスケジュール設定に使用されます。 | adef9811-448f-4dd5-88d9-68734050fe58 |
 >| offline_access | 委任 | はい、オフライン ユーザーの空き時間。 | ユーザー Graphがサイトをアクティブに使用しない場合は、ユーザーに電話してください。 | adef9811-448f-4dd5-88d9-68734050fe58 |
 >| openid | 委任 | いいえ | Office 365SSO。 | adef9811-448f-4dd5-88d9-68734050fe58 |
@@ -105,3 +105,27 @@ Microsoft への承認済み連絡先によって提供される情報:
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 情報
+
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、承認済み連絡先から提供されています。
+
+| **Information** | **応答** |
+|:----------------|:-------------|
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | 必要 |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | 必要 |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | 必要 |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | 必要 |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | 必要 |
+| アプリはマルチテナントをサポートしていますか? | 必要 |
+| アプリに機密クライアントがありますか? | いいえ |
+| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | 必要 |
+| アプリは Web API を公開していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリで非推奨の API を使用していますか? | なし |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

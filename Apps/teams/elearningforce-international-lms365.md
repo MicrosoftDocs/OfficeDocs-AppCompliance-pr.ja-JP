@@ -2,24 +2,23 @@
 title: ELEARNINGFORCE International による LMS365 のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/25/2021
+ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: LMS365 で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 44ed1631c7d0221b463f518f2494b7a8744eef30
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f8e10bb30857c055ab4916c4f944225d50ef44ba
+ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552218"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52629669"
 ---
 # <a name="lms365"></a>LMS365
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2021 年 2 月 25 日</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>開発者が最終更新日: 2021 年 3 月 18 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/d136f17e-df84-47f2-97a4-13aa24c0c647" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381467" target="_blank">AppSource での表示</a>
@@ -36,7 +35,7 @@ ELEARNINGFORCE International から Microsoft に提供される情報:
 | ID | WA104381467 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | ELEARNINGFORCE International |
-| パートナー Web サイトの URL | [https://www.elearningforce.com/teams](https://www.elearningforce.com/teams) |
+| パートナー Web サイトの URL | [https://www.elearningforce.com](https://www.elearningforce.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.elearningforce.com/teams](https://www.elearningforce.com/teams) |
 | プライバシー ポリシーの URL | [https://www.elearningforce.com/privacy](https://www.elearningforce.com/privacy) |
 | 利用規約の URL | [https://www.elearningforce.com/LMS365-SaaS-Terms](https://www.elearningforce.com/LMS365-SaaS-Terms) |
@@ -131,18 +130,18 @@ ELEARNINGFORCE International から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | 必要 |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | 必要 |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | 必要 |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 必要 |
 | サポートされているポリシーの種類を一覧表示する | デバイス プラットフォーム、デバイス状態、クライアント アプリ |
-| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
-| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
-| アプリはマルチテナントをサポートしていますか? | はい |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | 必要 |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | 必要 |
+| アプリはマルチテナントをサポートしていますか? | 必要 |
 | アプリに機密クライアントがありますか? | いいえ |
-| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリは Web API を公開していますか? | はい |
-| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
+| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | 必要 |
+| アプリは Web API を公開していますか? | 必要 |
+| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | 必要 |
 | アプリでプレビュー API を使用していますか? | いいえ |
 | アプリで非推奨の API を使用していますか? | なし |
 
