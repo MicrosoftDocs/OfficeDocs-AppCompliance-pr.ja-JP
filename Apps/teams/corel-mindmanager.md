@@ -1,43 +1,44 @@
 ---
-title: CloudExtend Analytics for NetSuite by Celigo CloudExtend のアプリケーション情報
+title: Corel による MindManager のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/19/2021
+ms.date: 05/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CloudExtend Analytics for NetSuite で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+description: MindManager で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 372534beddc10a260ccd8cf5fcc5a28cd8255e65
+ms.openlocfilehash: d9ed1eab16b73a84dcd3ddc41cc0b716865b9a29
 ms.sourcegitcommit: dafa6701f28c66f003efaf2e3a70d61dc3240955
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/06/2021
-ms.locfileid: "52790009"
+ms.locfileid: "52790049"
 ---
-# <a name="cloudextend-analytics-for-netsuite"></a>CloudExtend Analytics for NetSuite
+# <a name="mindmanager"></a>MindManager
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 5 月 19 日</p>
+<p>開発者が最終更新日: 2021 年 5 月 3 日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA200002784" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/cebe4a59-b076-47f3-a7bf-79148daf82f7" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002261" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Celigo CloudExtend から Microsoft に提供される情報:
+Corel が Microsoft に提供する情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | CloudExtend Analytics for NetSuite |
-| ID | WA200002784 |
-| Office 365サポートされているクライアント | Excel 2016 Mac の場合は、Excel 2016または以降の mac でWindows、Excel on the web |
-| パートナー会社名 | Celigo CloudExtend |
-| パートナー Web サイトの URL | [https://www.cloudextend.io](https://www.cloudextend.io) |
-| プライバシー ポリシーの URL | [https://www.celigo.com/privacy/](https://www.celigo.com/privacy/) |
-| 利用規約の URL | [https://www.cloudextend.io/agreements/ssa/2019-12/](https://www.cloudextend.io/agreements/ssa/2019-12/) |
+| アプリ名 | MindManager |
+| ID | WA200002261 |
+| Office 365サポートされているクライアント | Microsoft Teams |
+| パートナー会社名 | Corel |
+| パートナー Web サイトの URL | [www.mindmanager.com](www.mindmanager.com) |
+| プライバシー ポリシーの URL | [https://www.corel.com/en/corel-privacy-policy/](https://www.corel.com/en/corel-privacy-policy/) |
+| 利用規約の URL | [https://www.mindjet.com/go/mmcloudterms](https://www.mindjet.com/go/mmcloudterms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,7 +48,7 @@ Celigo CloudExtend から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、Celigo CloudExtend によって、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて提供されています。
+この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Corel によって提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
@@ -55,8 +56,12 @@ Celigo CloudExtend から Microsoft に提供される情報:
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | 両方とも | ユーザーがサイトを通じて共有されるブックの情報を取得できるアクセス権を持つサイトのコレクションを読み取る | ストア siteid を使用してブックにオフラインでアクセスします。 | 7040f194-bf08-400e-acb1-69df7939416a |
->| Files.ReadWrite.All | 両方とも | テーブルやシートのようなブックのコンテンツを読み取り、それらのテーブルにコンテンツを書き込む | Web URL、ブック ID、オフラインでアクセスするブックの場所など、ブックの詳細 | 7040f194-bf08-400e-acb1-69df7939416a |
+>| ChannelMessage.Send | 委任 | メッセージとして投稿できる MindManager ファイル内で行われた変更に関する情報 | ファイル メタデータ、ファイル コンテンツ - ファイル ブラウザーの場合、ユーザーはファイルを参照して MindManager (.mmap) ファイルを開きます。 | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
+>| Chat.Send | 委任 | メッセージとして投稿できる MindManager ファイル内で行われた変更に関する情報 | ファイル メタデータ、ファイル コンテンツ - ファイル ブラウザーの場合、ユーザーはファイルを参照して MindManager (.mmap) ファイルを開きます。 | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
+>| Files.ReadWrite | 委任 | サイト一覧、フォルダー一覧、ファイル メタデータ、ファイル コンテンツ - ファイル ブラウザーの場合、ユーザーはファイルを参照して MindManager (.mmap) ファイルを開きます。 | - プロファイル データ: ユーザーを識別し、そのユーザーのプロファイルを表示する - ファイル コンテンツ: 共同編集セッション中 (MindManager .mmap ファイルのリアルタイム共同編集) | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
+>| Sites.ReadWrite.All | 委任 | サイト一覧、フォルダー一覧、ファイル メタデータ、ファイル コンテンツ - ファイル ブラウザーの場合、ユーザーはファイルを参照して MindManager (.mmap) ファイルを開きます。 | ファイルコンテンツ: 共同編集セッション中 (MindManager .mmap ファイルのリアルタイム共同編集) | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
+>| User.Read | 委任 | プロファイル データ: ユーザーを識別してプロファイルを表示する | プロファイル データ: ユーザーを識別してプロファイルを表示する | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
+>| offline_access | 委任 | これにより、必要に応じて後でユーザーの代わりにファイルを元の場所に保存できます。 | ファイルコンテンツ: 共同編集セッション中 (MindManager .mmap ファイルのリアルタイム共同編集) | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -65,21 +70,26 @@ Celigo CloudExtend から Microsoft に提供される情報:
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-------------------|:--------------------------|:--------------------------|
->| Chargebee、NetSuite、Salesforce、Intercom、LogRocket、Amazon AWS | 組織名、NetSuite アカウント番号、ドメイン の組織の電子メール アドレス、請求の連絡先情報 | ライセンスのプロビジョニング、検証、請求 顧客サポート、トラブルシューティング、アカウント管理 |
+>| Amazon Web Services | 組織名、組織ドメイン | 組織内でアプリケーションを使用するには、アプリケーション インフラストラクチャ内でアカウントのセットアップが必要Teams |
 
+#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
+
+このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
+
+>EUII にはアクセスされません。
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->電子メール アドレス、 
+>アプリケーションのテレメトリまたはログに OII または EUII は表示されません。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->該当なし
+>ここで説明します。 https://www.mindjet.com/go/mmcloudterms
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -95,9 +105,9 @@ Celigo CloudExtend から Microsoft に提供される情報:
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/14008' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/38778' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/14008" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/38778" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -107,7 +117,7 @@ Celigo CloudExtend から Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Celigo CloudExtend によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について Corel によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -118,7 +128,7 @@ Celigo CloudExtend から Microsoft に提供される情報:
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | いいえ |
+| アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |

@@ -2,24 +2,24 @@
 title: Cireson による Tikit のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/11/2021
+ms.date: 05/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Tikit で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: de10b787d3e4100972e46efe76050ed0c7df31fd
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3c292fa0c8e0ae526c7258f7adc508fcccaeb9d8
+ms.sourcegitcommit: dafa6701f28c66f003efaf2e3a70d61dc3240955
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553248"
+ms.lasthandoff: 06/06/2021
+ms.locfileid: "52789969"
 ---
 # <a name="tikit"></a>Tikit
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2021 年 3 月 11 日</p>
+<p>開発者が最終更新日: 2021 年 5 月 4 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/b13c40ee-e073-459e-96b5-3f3cca046a37" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002602" target="_blank">AppSource での表示</a>
@@ -38,8 +38,8 @@ Cireson から Microsoft に提供される情報:
 | パートナー会社名 | Cireson |
 | パートナー Web サイトの URL | [https://tikit.ai](https://tikit.ai) |
 | [アプリケーション情報Teamsページの URL | [https://tikit.ai](https://tikit.ai) |
-| プライバシー ポリシーの URL | [https://tikit.ai/privacy-statement](https://tikit.ai/privacy-statement) |
-| 利用規約の URL | [https://tikit.ai/terms-service](https://tikit.ai/terms-service) |
+| プライバシー ポリシーの URL | [https://tikit.ai/privacy-statement/](https://tikit.ai/privacy-statement/) |
+| 利用規約の URL | [https://tikit.ai/terms-service/](https://tikit.ai/terms-service/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -136,7 +136,8 @@ Cireson から Microsoft に提供される情報:
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
+| サポートされているポリシーの種類を一覧表示する | 多要素認証、Intune 登録デバイスだけが特定のサービスにアクセスすることを許可する、ユーザーの場所と IP 範囲を制限する |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
