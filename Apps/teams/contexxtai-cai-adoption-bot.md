@@ -2,24 +2,24 @@
 title: アプリケーション導入ボット C.AI アプリケーション情報(contexxt.ai
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/28/2021
+ms.date: 05/06/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: C.AI 導入ボット、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 91a10acdc85e36fcf57a16b66797ae427ab39b1b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d5e1ad704a7b72a8d3717b7aa1b3d60b23099998
+ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552268"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851597"
 ---
 # <a name="cai-adoption-bot"></a>C.AI Adoption Bot
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2021 年 4 月 28 日</p>
+<p>開発者が最終更新日: 2021 年 5 月 6 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/f5323aab-3063-46cb-b632-ee01d95de494" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002633" target="_blank">AppSource での表示</a>
@@ -36,10 +36,10 @@ Microsoft に提供される contexxt.ai 情報:
 | ID | WA200002633 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | contexxt.ai |
-| パートナー Web サイトの URL | [https://www.contexxt.ai](https://www.contexxt.ai) |
-| [アプリケーション情報Teamsページの URL | [https://contexxt.ai/sphere/cai-adoption-bot](https://contexxt.ai/sphere/cai-adoption-bot) |
-| プライバシー ポリシーの URL | [https://contexxt.ai/privacy-policy/](https://contexxt.ai/privacy-policy/) |
-| 利用規約の URL | [https://contexxt.ai/terms-of-use/](https://contexxt.ai/terms-of-use/) |
+| パートナー Web サイトの URL | [https://contexxt.ai](https://contexxt.ai) |
+| [アプリケーション情報Teamsページの URL | [https://contexxt.ai/cai-adoption-bot/](https://contexxt.ai/cai-adoption-bot/) |
+| プライバシー ポリシーの URL | [https://contexxt.ai/privacy-policy](https://contexxt.ai/privacy-policy) |
+| 利用規約の URL | [https://contexxt.ai/terms-of-use](https://contexxt.ai/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,7 +55,15 @@ Microsoft に提供される contexxt.ai 情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションでは、Microsoft アプリケーションをGraph。
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
+>| Calendars.Read | アプリケーション | ユーザーの可用性は、フォーカス時ではなく、適切な時間にヒントを送信できる | 匿名化されたユーザーの可用性は、フォーカス時間中ではなく、適切な時間にヒントを送信できる | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
+>| ChannelMessage.Read.All | アプリケーション | Microsoft Teamsの使用状況を分析するために、チャネルごとのプライベートまたは会話の量など、チャネル メタデータをTeams | 匿名化Microsoft Teams、プライベートまたはチャネルごとの会話の量など、チャネルメタデータを使用して、チャネルの使用状況をTeams | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
+>| Chat.Read.All | アプリケーション | Microsoft Teamsの利用状況を分析するために、メッセージが気に入ったか、グループと 1:1 のチャットが何件存在するかなど、チャット のメタデータをTeams | 匿名化Microsoft Teamsチャット メタデータ (メッセージが気に入った場合や、グループと 1:1 のチャットが存在する数など) を使用して、チャットの使用状況を分析Teams | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
+>| Directory.Read.All | アプリケーション | 後で specifi ユーザーにヒントを送信できるユーザー オブジェクト ID。 | 後で specifi ユーザーにヒントを送信できるユーザーのハッシュ (匿名化) オブジェクト ID。 | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
+>| Group.Read.All | アプリケーション | Microsoft Teamsの使用状況を分析するTeamsの量やチャネルなど、メタデータをTeams | Microsoft Teamsの使用状況を分析するTeamsの量やチャネルなど、メタデータをTeams | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
+>| Mail.Read | アプリケーション | Microsoft Exchangeメタデータ (メールの量やグループ数など) と 1:1 の電子メールを使用して、Exchange の使用状況を分析します (Teams) | 匿名化された Microsoft Exchangeメタデータ (メールやグループの量と 1:1 メールなど) を使用して、Exchange の使用状況を分析します (Teams) | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
+>| User.Read.All | アプリケーション | Microsoft Teamsの使用状況を分析するためにユーザーが言及された場合など、チャットと会話のメタデータをTeams | 匿名化Microsoft Teamsチャットと会話のメタデータ (ユーザーがユーザーの使用状況を分析するために言及された場合など) Teams | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -70,7 +78,7 @@ Microsoft に提供される contexxt.ai 情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| 技術的に回避できない場合は、Microsoft Teams (ユーザー ID) を自動的に送信する | いいえ |  |
+>| Bot Framework では、ユーザー ID が自動的に送信され、ユーザーと通信できます。 C.AI Adoption Analytics のその他の使用状況データは、ユーザーの学習エクスペリエンスを個別化するために使用されます。したがって、これらのヒントを知らない可能性があるユーザーに適切で役立つヒントのみをユーザーに送信します。 | いいえ |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -83,7 +91,7 @@ Microsoft に提供される contexxt.ai 情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->パートナーのシステム内のデータにアクセスしたり制御したりしない
+>組織は、ユーザーのライセンスを管理 (割り当て/削除) できます。 組織は、ライセンスを管理するためにさまざまな役割を割り当てることができます。 Administartors は、常にデータの削除を要求できます。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -115,7 +123,18 @@ Microsoft に提供される contexxt.ai 情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | なし |
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
+| アプリはマルチテナントをサポートしていますか? | はい |
+| アプリに機密クライアントがありますか? | はい |
+| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
+| アプリは Web API を公開していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
