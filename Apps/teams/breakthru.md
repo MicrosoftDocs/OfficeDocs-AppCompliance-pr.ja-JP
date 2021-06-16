@@ -2,44 +2,44 @@
 title: Breakthru による Breakthru のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/16/2021
+ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Breakthru、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 322ef10a543606caa49e08e1886bb1108153c083
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 916ab5e08cc7ae5266f3010512490bd648cf9afc
+ms.sourcegitcommit: 1b9ad544fd91bb0fb25e467baf2d368a812dc476
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552328"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52927242"
 ---
-# <a name="breakthru"></a><span data-ttu-id="0bd8b-103">Breakthru</span><span class="sxs-lookup"><span data-stu-id="0bd8b-103">Breakthru</span></span>
+# <a name="breakthru"></a><span data-ttu-id="30bb2-103">Breakthru</span><span class="sxs-lookup"><span data-stu-id="30bb2-103">Breakthru</span></span>
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p><span data-ttu-id="0bd8b-104">開発者が最終更新日: 2021 年 1 月 16 日</span><span class="sxs-lookup"><span data-stu-id="0bd8b-104">Last updated by the developer on: January 16, 2021</span></span></p>
+<p><span data-ttu-id="30bb2-104">開発者が最終更新日: 2021 年 6 月 4 日</span><span class="sxs-lookup"><span data-stu-id="30bb2-104">Last updated by the developer on: June 4, 2021</span></span></p>
 
-* <span data-ttu-id="0bd8b-105"><a href="https://teams.microsoft.com/l/app/693aa4f0-e16c-11ea-ab9b-11514b3de7ae" target="_blank">ストアでの表示Teamsする</a></span><span class="sxs-lookup"><span data-stu-id="0bd8b-105"><a href="https://teams.microsoft.com/l/app/693aa4f0-e16c-11ea-ab9b-11514b3de7ae" target="_blank">View in Teams store</a></span></span>
-* <span data-ttu-id="0bd8b-106"><a href="https://appsource.microsoft.com/product/office/WA200002243" target="_blank">AppSource での表示</a></span><span class="sxs-lookup"><span data-stu-id="0bd8b-106"><a href="https://appsource.microsoft.com/product/office/WA200002243" target="_blank">View in AppSource</a></span></span>
+* <span data-ttu-id="30bb2-105"><a href="https://teams.microsoft.com/l/app/693aa4f0-e16c-11ea-ab9b-11514b3de7ae" target="_blank">ストアでの表示Teamsする</a></span><span class="sxs-lookup"><span data-stu-id="30bb2-105"><a href="https://teams.microsoft.com/l/app/693aa4f0-e16c-11ea-ab9b-11514b3de7ae" target="_blank">View in Teams store</a></span></span>
+* <span data-ttu-id="30bb2-106"><a href="https://appsource.microsoft.com/product/office/WA200002243" target="_blank">AppSource での表示</a></span><span class="sxs-lookup"><span data-stu-id="30bb2-106"><a href="https://appsource.microsoft.com/product/office/WA200002243" target="_blank">View in AppSource</a></span></span>
 
 ::: zone pivot="general"
 
-### <a name="general-information"></a><span data-ttu-id="0bd8b-107">一般情報</span><span class="sxs-lookup"><span data-stu-id="0bd8b-107">General information</span></span>
+### <a name="general-information"></a><span data-ttu-id="30bb2-107">一般情報</span><span class="sxs-lookup"><span data-stu-id="30bb2-107">General information</span></span>
 
-<span data-ttu-id="0bd8b-108">Breakthru から Microsoft に提供される情報:</span><span class="sxs-lookup"><span data-stu-id="0bd8b-108">Information provided by Breakthru to Microsoft:</span></span>
+<span data-ttu-id="30bb2-108">Breakthru から Microsoft に提供される情報:</span><span class="sxs-lookup"><span data-stu-id="30bb2-108">Information provided by Breakthru to Microsoft:</span></span>
 
-| <span data-ttu-id="0bd8b-109">**Information**</span><span class="sxs-lookup"><span data-stu-id="0bd8b-109">**Information**</span></span> | <span data-ttu-id="0bd8b-110">**応答**</span><span class="sxs-lookup"><span data-stu-id="0bd8b-110">**Response**</span></span> |
+| <span data-ttu-id="30bb2-109">**Information**</span><span class="sxs-lookup"><span data-stu-id="30bb2-109">**Information**</span></span> | <span data-ttu-id="30bb2-110">**応答**</span><span class="sxs-lookup"><span data-stu-id="30bb2-110">**Response**</span></span> |
 |:----------------|:-------------|
-| <span data-ttu-id="0bd8b-111">アプリ名</span><span class="sxs-lookup"><span data-stu-id="0bd8b-111">App name</span></span> | <span data-ttu-id="0bd8b-112">Breakthru</span><span class="sxs-lookup"><span data-stu-id="0bd8b-112">Breakthru</span></span> |
-| <span data-ttu-id="0bd8b-113">ID</span><span class="sxs-lookup"><span data-stu-id="0bd8b-113">ID</span></span> | <span data-ttu-id="0bd8b-114">WA200002243</span><span class="sxs-lookup"><span data-stu-id="0bd8b-114">WA200002243</span></span> |
-| <span data-ttu-id="0bd8b-115">Office 365サポートされているクライアント</span><span class="sxs-lookup"><span data-stu-id="0bd8b-115">Office 365 clients supported</span></span> | <span data-ttu-id="0bd8b-116">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="0bd8b-116">Microsoft Teams</span></span> |
-| <span data-ttu-id="0bd8b-117">パートナー会社名</span><span class="sxs-lookup"><span data-stu-id="0bd8b-117">Partner company name</span></span> | <span data-ttu-id="0bd8b-118">Breakthru</span><span class="sxs-lookup"><span data-stu-id="0bd8b-118">Breakthru</span></span> |
-| <span data-ttu-id="0bd8b-119">パートナー Web サイトの URL</span><span class="sxs-lookup"><span data-stu-id="0bd8b-119">URL of partner website</span></span> | [https://breakthru.me](https://breakthru.me) |
-| <span data-ttu-id="0bd8b-120">[アプリケーション情報Teamsページの URL</span><span class="sxs-lookup"><span data-stu-id="0bd8b-120">URL of Teams application info page</span></span> | [https://breakthru.me](https://breakthru.me) |
-| <span data-ttu-id="0bd8b-121">プライバシー ポリシーの URL</span><span class="sxs-lookup"><span data-stu-id="0bd8b-121">URL of Privacy Policy</span></span> | [https://breakthru.me/privacy](https://breakthru.me/privacy) |
-| <span data-ttu-id="0bd8b-122">利用規約の URL</span><span class="sxs-lookup"><span data-stu-id="0bd8b-122">URL of Terms of Use</span></span> | [https://breakthru.me/terms](https://breakthru.me/terms) |
+| <span data-ttu-id="30bb2-111">アプリ名</span><span class="sxs-lookup"><span data-stu-id="30bb2-111">App name</span></span> | <span data-ttu-id="30bb2-112">Breakthru</span><span class="sxs-lookup"><span data-stu-id="30bb2-112">Breakthru</span></span> |
+| <span data-ttu-id="30bb2-113">ID</span><span class="sxs-lookup"><span data-stu-id="30bb2-113">ID</span></span> | <span data-ttu-id="30bb2-114">WA200002243</span><span class="sxs-lookup"><span data-stu-id="30bb2-114">WA200002243</span></span> |
+| <span data-ttu-id="30bb2-115">Office 365サポートされているクライアント</span><span class="sxs-lookup"><span data-stu-id="30bb2-115">Office 365 clients supported</span></span> | <span data-ttu-id="30bb2-116">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="30bb2-116">Microsoft Teams</span></span> |
+| <span data-ttu-id="30bb2-117">パートナー会社名</span><span class="sxs-lookup"><span data-stu-id="30bb2-117">Partner company name</span></span> | <span data-ttu-id="30bb2-118">Breakthru</span><span class="sxs-lookup"><span data-stu-id="30bb2-118">Breakthru</span></span> |
+| <span data-ttu-id="30bb2-119">パートナー Web サイトの URL</span><span class="sxs-lookup"><span data-stu-id="30bb2-119">URL of partner website</span></span> | [https://breakthru.me](https://breakthru.me) |
+| <span data-ttu-id="30bb2-120">[アプリケーション情報Teamsページの URL</span><span class="sxs-lookup"><span data-stu-id="30bb2-120">URL of Teams application info page</span></span> | [https://breakthru.me](https://breakthru.me) |
+| <span data-ttu-id="30bb2-121">プライバシー ポリシーの URL</span><span class="sxs-lookup"><span data-stu-id="30bb2-121">URL of Privacy Policy</span></span> | [https://breakthru.me/privacy](https://breakthru.me/privacy) |
+| <span data-ttu-id="30bb2-122">利用規約の URL</span><span class="sxs-lookup"><span data-stu-id="30bb2-122">URL of Terms of Use</span></span> | [https://breakthru.me/terms](https://breakthru.me/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,49 +47,49 @@ ms.locfileid: "52552328"
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a><span data-ttu-id="0bd8b-123">アプリがデータを処理する方法</span><span class="sxs-lookup"><span data-stu-id="0bd8b-123">How the app handles data</span></span>
+### <a name="how-the-app-handles-data"></a><span data-ttu-id="30bb2-123">アプリがデータを処理する方法</span><span class="sxs-lookup"><span data-stu-id="30bb2-123">How the app handles data</span></span>
 
-<span data-ttu-id="0bd8b-124">この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Breakthru によって提供されています。</span><span class="sxs-lookup"><span data-stu-id="0bd8b-124">This information has been provided by Breakthru about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
+<span data-ttu-id="30bb2-124">この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Breakthru によって提供されています。</span><span class="sxs-lookup"><span data-stu-id="30bb2-124">This information has been provided by Breakthru about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
 
-#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="0bd8b-125">Microsoft サービスを使用したデータ アクセスGraph</span><span class="sxs-lookup"><span data-stu-id="0bd8b-125">Data access using Microsoft Graph</span></span>
+#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="30bb2-125">Microsoft サービスを使用したデータ アクセスGraph</span><span class="sxs-lookup"><span data-stu-id="30bb2-125">Data access using Microsoft Graph</span></span>
 
-<span data-ttu-id="0bd8b-126">このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。</span><span class="sxs-lookup"><span data-stu-id="0bd8b-126">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
+<span data-ttu-id="30bb2-126">このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。</span><span class="sxs-lookup"><span data-stu-id="30bb2-126">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
 
-><span data-ttu-id="0bd8b-127">このアプリケーションでは、Microsoft アプリケーションをGraph。</span><span class="sxs-lookup"><span data-stu-id="0bd8b-127">This application does not use Microsoft Graph.</span></span>
+><span data-ttu-id="30bb2-127">このアプリケーションでは、Microsoft アプリケーションをGraph。</span><span class="sxs-lookup"><span data-stu-id="30bb2-127">This application does not use Microsoft Graph.</span></span>
 
 
-#### <a name="non-microsoft-services-used"></a><span data-ttu-id="0bd8b-128">非使用Microsoft サービス</span><span class="sxs-lookup"><span data-stu-id="0bd8b-128">Non-Microsoft services used</span></span>
+#### <a name="non-microsoft-services-used"></a><span data-ttu-id="30bb2-128">非使用Microsoft サービス</span><span class="sxs-lookup"><span data-stu-id="30bb2-128">Non-Microsoft services used</span></span>
 
-<span data-ttu-id="0bd8b-129">アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。</span><span class="sxs-lookup"><span data-stu-id="0bd8b-129">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
+<span data-ttu-id="30bb2-129">アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。</span><span class="sxs-lookup"><span data-stu-id="30bb2-129">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
 
-><span data-ttu-id="0bd8b-130">非Microsoft サービスは使用されません。</span><span class="sxs-lookup"><span data-stu-id="0bd8b-130">Non-Microsoft services are not used.</span></span>
+><span data-ttu-id="30bb2-130">非Microsoft サービスは使用されません。</span><span class="sxs-lookup"><span data-stu-id="30bb2-130">Non-Microsoft services are not used.</span></span>
 
-#### <a name="data-access-via-bots"></a><span data-ttu-id="0bd8b-131">ボット経由のデータ アクセス</span><span class="sxs-lookup"><span data-stu-id="0bd8b-131">Data access via bots</span></span>
+#### <a name="data-access-via-bots"></a><span data-ttu-id="30bb2-131">ボット経由のデータ アクセス</span><span class="sxs-lookup"><span data-stu-id="30bb2-131">Data access via bots</span></span>
 
-<span data-ttu-id="0bd8b-132">このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。</span><span class="sxs-lookup"><span data-stu-id="0bd8b-132">If this app contains a bot or a messaging extension, it can access end-user identifiable information (EUII): the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to.</span></span> <span data-ttu-id="0bd8b-133">このアプリは、この機能を利用しますか?</span><span class="sxs-lookup"><span data-stu-id="0bd8b-133">Does this app make use of this capability?</span></span>
+<span data-ttu-id="30bb2-132">このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。</span><span class="sxs-lookup"><span data-stu-id="30bb2-132">If this app contains a bot or a messaging extension, it can access end-user identifiable information (EUII): the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to.</span></span> <span data-ttu-id="30bb2-133">このアプリは、この機能を利用しますか?</span><span class="sxs-lookup"><span data-stu-id="30bb2-133">Does this app make use of this capability?</span></span>
 
->| <span data-ttu-id="0bd8b-134">**EUII にアクセスする理由**</span><span class="sxs-lookup"><span data-stu-id="0bd8b-134">**Justification for accessing EUII?**</span></span>  | <span data-ttu-id="0bd8b-135">**EUII はデータベースに格納されていますか?**</span><span class="sxs-lookup"><span data-stu-id="0bd8b-135">**Is EUII stored in database(s)?**</span></span> | <span data-ttu-id="0bd8b-136">**EUII を格納するための理由**</span><span class="sxs-lookup"><span data-stu-id="0bd8b-136">**Justification for storing EUII?**</span></span> |
+>| <span data-ttu-id="30bb2-134">**EUII にアクセスする理由**</span><span class="sxs-lookup"><span data-stu-id="30bb2-134">**Justification for accessing EUII?**</span></span>  | <span data-ttu-id="30bb2-135">**EUII はデータベースに格納されていますか?**</span><span class="sxs-lookup"><span data-stu-id="30bb2-135">**Is EUII stored in database(s)?**</span></span> | <span data-ttu-id="30bb2-136">**EUII を格納するための理由**</span><span class="sxs-lookup"><span data-stu-id="30bb2-136">**Justification for storing EUII?**</span></span> |
 >|:--------------------------------|:---------------------|:--------------------------|
->| <span data-ttu-id="0bd8b-137">ユーザーの履歴の統計情報を表示するには</span><span class="sxs-lookup"><span data-stu-id="0bd8b-137">to show user's history statistics</span></span>  | <span data-ttu-id="0bd8b-138">メール</span><span class="sxs-lookup"><span data-stu-id="0bd8b-138">email</span></span> | <span data-ttu-id="0bd8b-139">ユーザーの統計情報を識別する</span><span class="sxs-lookup"><span data-stu-id="0bd8b-139">to identify user's statistics</span></span> |
+>| <span data-ttu-id="30bb2-137">ユーザーの履歴の統計情報を表示し、ユーザーが設定したアラームを配信する。</span><span class="sxs-lookup"><span data-stu-id="30bb2-137">To show user's history statistics and deliver reminders set by the user.</span></span> | <span data-ttu-id="30bb2-138">電子メールと TeamID。</span><span class="sxs-lookup"><span data-stu-id="30bb2-138">Email and TeamID.</span></span> | <span data-ttu-id="30bb2-139">ユーザーが設定したリマインダーを配信する。</span><span class="sxs-lookup"><span data-stu-id="30bb2-139">To deliver reminders set by the user.</span></span> <span data-ttu-id="30bb2-140">ユーザーに Breaks への参加のデータの視覚化を提供する。</span><span class="sxs-lookup"><span data-stu-id="30bb2-140">To provide users with a data visualization of their participation in Breaks.</span></span> |
 
 
-#### <a name="telemetry-data"></a><span data-ttu-id="0bd8b-140">テレメトリ データ</span><span class="sxs-lookup"><span data-stu-id="0bd8b-140">Telemetry data</span></span>
+#### <a name="telemetry-data"></a><span data-ttu-id="30bb2-141">テレメトリ データ</span><span class="sxs-lookup"><span data-stu-id="30bb2-141">Telemetry data</span></span>
 
-<span data-ttu-id="0bd8b-141">組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか?</span><span class="sxs-lookup"><span data-stu-id="0bd8b-141">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="0bd8b-142">はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。</span><span class="sxs-lookup"><span data-stu-id="0bd8b-142">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
+<span data-ttu-id="30bb2-142">組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか?</span><span class="sxs-lookup"><span data-stu-id="30bb2-142">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="30bb2-143">はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。</span><span class="sxs-lookup"><span data-stu-id="30bb2-143">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
 
-><span data-ttu-id="0bd8b-143">アプリケーションのテレメトリまたはログに OII または EUII は表示されません。</span><span class="sxs-lookup"><span data-stu-id="0bd8b-143">No OII or EUII appear in the applications telemetry or logs.</span></span>
+><span data-ttu-id="30bb2-144">アプリケーションのテレメトリまたはログに OII または EUII は表示されません。</span><span class="sxs-lookup"><span data-stu-id="30bb2-144">No OII or EUII appear in the applications telemetry or logs.</span></span>
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="0bd8b-144">パートナーによって保存されるデータの組織的な制御</span><span class="sxs-lookup"><span data-stu-id="0bd8b-144">Organizational controls for data stored by partner</span></span>
+#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="30bb2-145">パートナーによって保存されるデータの組織的な制御</span><span class="sxs-lookup"><span data-stu-id="30bb2-145">Organizational controls for data stored by partner</span></span>
 
-<span data-ttu-id="0bd8b-145">組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。</span><span class="sxs-lookup"><span data-stu-id="0bd8b-145">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
+<span data-ttu-id="30bb2-146">組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。</span><span class="sxs-lookup"><span data-stu-id="30bb2-146">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
 
-><span data-ttu-id="0bd8b-146">すべてのデータが Azure に保存される</span><span class="sxs-lookup"><span data-stu-id="0bd8b-146">all data is stored on Azure</span></span>
+><span data-ttu-id="30bb2-147">すべてのデータは Azure に保存されます。</span><span class="sxs-lookup"><span data-stu-id="30bb2-147">All data is stored on Azure.</span></span>
 
-#### <a name="human-review-of-organizational-information"></a><span data-ttu-id="0bd8b-147">組織情報の人間によるレビュー</span><span class="sxs-lookup"><span data-stu-id="0bd8b-147">Human review of organizational information</span></span>
+#### <a name="human-review-of-organizational-information"></a><span data-ttu-id="30bb2-148">組織情報の人間によるレビュー</span><span class="sxs-lookup"><span data-stu-id="30bb2-148">Human review of organizational information</span></span>
 
-<span data-ttu-id="0bd8b-148">人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?</span><span class="sxs-lookup"><span data-stu-id="0bd8b-148">Are humans involved in reviewing or analyzing any organizational identifiable information (OII) data that is collected or stored by this app?</span></span>
+<span data-ttu-id="30bb2-149">人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?</span><span class="sxs-lookup"><span data-stu-id="30bb2-149">Are humans involved in reviewing or analyzing any organizational identifiable information (OII) data that is collected or stored by this app?</span></span>
 
-><span data-ttu-id="0bd8b-149">いいえ</span><span class="sxs-lookup"><span data-stu-id="0bd8b-149">No</span></span>
+><span data-ttu-id="30bb2-150">必要</span><span class="sxs-lookup"><span data-stu-id="30bb2-150">Yes</span></span>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -97,11 +97,11 @@ ms.locfileid: "52552328"
 
 ::: zone pivot="mcas"
 
-<span data-ttu-id="0bd8b-150">以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。</span><span class="sxs-lookup"><span data-stu-id="0bd8b-150">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
+<span data-ttu-id="30bb2-151">以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。</span><span class="sxs-lookup"><span data-stu-id="30bb2-151">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
 
-<iframe height='1020' title='<span data-ttu-id="0bd8b-151">Microsoft Cloud App Security情報</span><span class="sxs-lookup"><span data-stu-id="0bd8b-151">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36418' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="0bd8b-152">
+<iframe height='1020' title='<span data-ttu-id="30bb2-152">Microsoft Cloud App Security情報</span><span class="sxs-lookup"><span data-stu-id="30bb2-152">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36418' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="30bb2-153">
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36418" target="_blank">新しいタブで表示する</a></span><span class="sxs-lookup"><span data-stu-id="0bd8b-152">
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36418" target="_blank">新しいタブで表示する</a></span><span class="sxs-lookup"><span data-stu-id="30bb2-153">
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36418" target="_blank">View in a new tab</a></span></span>
 
@@ -111,13 +111,13 @@ ms.locfileid: "52552328"
 
 ::: zone pivot="identity"
 
-### <a name="identity-information"></a><span data-ttu-id="0bd8b-153">ID 情報</span><span class="sxs-lookup"><span data-stu-id="0bd8b-153">Identity information</span></span>
+### <a name="identity-information"></a><span data-ttu-id="30bb2-154">ID 情報</span><span class="sxs-lookup"><span data-stu-id="30bb2-154">Identity information</span></span>
 
-<span data-ttu-id="0bd8b-154">この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Breakthru によって提供されています。</span><span class="sxs-lookup"><span data-stu-id="0bd8b-154">This information has been provided by Breakthru about how this app handles authentication, authorization, application registration best practices, and other Identity criteria.</span></span>
+<span data-ttu-id="30bb2-155">この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Breakthru によって提供されています。</span><span class="sxs-lookup"><span data-stu-id="30bb2-155">This information has been provided by Breakthru about how this app handles authentication, authorization, application registration best practices, and other Identity criteria.</span></span>
 
-| <span data-ttu-id="0bd8b-155">**Information**</span><span class="sxs-lookup"><span data-stu-id="0bd8b-155">**Information**</span></span> | <span data-ttu-id="0bd8b-156">**応答**</span><span class="sxs-lookup"><span data-stu-id="0bd8b-156">**Response**</span></span> |
+| <span data-ttu-id="30bb2-156">**Information**</span><span class="sxs-lookup"><span data-stu-id="30bb2-156">**Information**</span></span> | <span data-ttu-id="30bb2-157">**応答**</span><span class="sxs-lookup"><span data-stu-id="30bb2-157">**Response**</span></span> |
 |:----------------|:-------------|
-| <span data-ttu-id="0bd8b-157">Microsoft Identify Platform (Azure AD) と統合しますか?</span><span class="sxs-lookup"><span data-stu-id="0bd8b-157">Do you integrate with Microsoft Identify Platform (Azure AD)?</span></span>  | <span data-ttu-id="0bd8b-158">なし</span><span class="sxs-lookup"><span data-stu-id="0bd8b-158">No</span></span> |
+| <span data-ttu-id="30bb2-158">Microsoft Identify Platform (Azure AD) と統合しますか?</span><span class="sxs-lookup"><span data-stu-id="30bb2-158">Do you integrate with Microsoft Identify Platform (Azure AD)?</span></span>  | <span data-ttu-id="30bb2-159">なし</span><span class="sxs-lookup"><span data-stu-id="30bb2-159">No</span></span> |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
