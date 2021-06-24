@@ -7,18 +7,19 @@ keywords: microsoft 365 m365 アプリ Publisher の構成証明書
 ms.topic: overview
 ms.service: attestation
 localization_priority: Priority
-ms.openlocfilehash: 199c8f82a894566a918c30e529cefdfb8c259a48
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: fd06ecd028876a862fa3938253817fae3ff0fea0
+ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52071765"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "53053441"
 ---
 # <a name="microsoft-365-app-compliance-program"></a>Microsoft 365 アプリ コンプライアンス プログラム
 
 Microsoft 365 アプリ コンプライアンス プログラムは、アプリのセキュリティとコンプライアンスへの 3 層構成のアプローチです。 各層は次の層に基づいて構築され、Microsoft 365 エコシステムでアプリを使用する際に、ユーザーに求められる信頼性を備えた階層化プログラムを提供します。  現在、プログラムのすべての層は任意であり、アプリ開発者の判断で完了しています。 
 
 Microsoft のミッション ステートメント: Microsoft のお客様は、組織を動かしているアプリへの絶大な信頼感を抱いておられます。
+
   ![アプリのコンプライアンスに対する 3 層構成のアプローチ](media/Microsoft-App-Compliance-Overview.png) 
 
 ## <a name="publisher-verification"></a>Publisher の検証
@@ -44,18 +45,12 @@ Publisher の構成証明は、次の Microsoft プラットフォームと統�
 - SharePoint
 - Project
 - OneNote
+- Web アプリ
 
 > [!IMPORTANT]
-> Microsoft は、提供された情報を検証しません。 開発者は、構成証明ドキュメントと対応するアプリのパフォーマンス データの信ぴょう性、正確さ、整合性のみを確認します。 
+> Microsoft は、提供された情報を検証しません。開発者は、構成証明ドキュメントと対応するアプリのパフォーマンス データの信ぴょう性、正確さ、整合性のみを確認します。 
 
 ## <a name="microsoft-365-certification"></a>Microsoft 365 認定
-[Microsoft 365 認定](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide)では、Microsoft Teams アプリを使用する際に、データとプライバシーが適切な方法で安全に保護されていることを組織に保証し、信頼を提供します。 認証により、アプリ ソリューションが Microsoft のテクノロジと互換性があり、クラウド アプリのセキュリティのベスト プラクティスに準拠し、Microsoft によってサポートされていることが確認されます。 このプロセスの間、アプリ開発者はサードパーティの評価者と協力して、組織のセキュリティとコンプライアンス標準を検証します。 Microsoft 365 認定は、次の Microsoft プラットフォームと統合するアプリに適用されます。
+[Microsoft 365 認定](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide)では、Microsoft Teams アプリを使用する際に、データとプライバシーが適切な方法で安全に保護されていることを組織に保証し、信頼を提供します。 認証により、アプリ ソリューションが Microsoft のテクノロジと互換性があり、クラウド アプリのセキュリティのベスト プラクティスに準拠し、Microsoft によってサポートされていることが確認されます。 このプロセスの間、アプリ開発者はサードパーティの評価者と協力して、組織のセキュリティとコンプライアンス標準を検証します。 Microsoft 365 認定では、発行元構成証明と同等のアプリに適用されます。 
 
--   Teams
--   Word
--   Excel
--   PowerPoint 
--   Outlook
-- SharePoint
-- Project
-- OneNote
+
