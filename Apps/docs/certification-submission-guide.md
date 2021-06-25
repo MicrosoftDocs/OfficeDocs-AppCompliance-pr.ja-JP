@@ -6,12 +6,12 @@ description: Microsoft 365認定申請ガイドの詳細なビュー
 keywords: アプリ認定チームMicrosoft 365コンプライアンス m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 5e99defd75573b1335975ddc19e851c50da7721f
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: 1ee9ba43ffe793f38438a26365cbb8cbc05aa2f3
+ms.sourcegitcommit: d8a1524fc419a1ca33971b656197f0b6a5efe2b9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053451"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53125967"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365認定申請ガイド
 
@@ -39,7 +39,7 @@ ms.locfileid: "53053451"
 - [用語集](#glossary) 
 
 
-## <a name="introduction"></a>はじめに
+## <a name="introduction"></a>概要
 
 Microsoft 365 アプリ コンプライアンス プログラムの一部である Microsoft 365 認定は、サード パーティの開発者向けアプリ/アドインを Microsoft 365 プラットフォームに統合する際に、データとプライバシーが適切に保護され、保護されているという確信を企業組織に提供します。 検証に合格するアプリケーションとアドインは、Microsoft 365 **エコシステム** 全体Microsoft 365されます。 
 
@@ -233,6 +233,7 @@ GraphAPI アクセス許可の検証は、アプリ/アドインが過剰に制�
 侵入テスト レポートは、以下のコントロールで説明されている次の自動障害条件を **** 満たす脆弱性が存在しなかから確認されます。
  
 **侵入テストの要件**
+
 ||**侵入テスト コントロール**|
 | -------------------------|-----------------------------|
 |**一般的な条件**| **Controls**|
