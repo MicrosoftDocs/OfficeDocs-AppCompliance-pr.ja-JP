@@ -6,74 +6,74 @@ description: ISV ユーザー ガイド for Microsoft 365 コンプライアン�
 keywords: ISV ユーザー ガイド for Microsoft 365 コンプライアンス プログラム
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: b8560fe46bbad2710001467e9edfeab72d6e0cb7
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 437fcbc56309ca14566dbb95f470097af82c26bf
+ms.sourcegitcommit: bfabb191087786fae2b476e3f30861317886defa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52549933"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53179090"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>パートナーのユーザー ガイド for Microsoft 365 コンプライアンス プログラム
 
-|||
+|フェーズ|タイトル|
 |---|---|
-|階層 1| Publisher の構成証明|
-|階層 2| Microsoft 365 認定|
+|フェーズ 1| Publisher の構成証明|
+|フェーズ 2| Microsoft 365 認定|
 
 ## <a name="1-overview"></a>1. 概要
-このドキュメントは、パートナー センター ポータルを通して Publisher 構成証明と認定を受けることを目指す Microsoft 365 アプリ コンプライアンス プログラムに登録されている、パートナー向けステップバイステップのユーザー ガイドとして機能します。
+このドキュメントは、パートナー センター ポータルを通して Publisher 構成証明と認定を受けることを目的として、Microsoft 365 アプリ コンプライアンス プログラムに登録されているパートナーのステップ バイ ステップ のユーザー ガイドとして機能します。
 
 ## <a name="2-acronyms--definitions"></a>2. 定義&頭字語
-| | |
+| 略語 |定義 |
 |---|----|
-|略語 | 定義 |
-|PC (パートナー センター)|すべての Microsoft パートナーのポータル。 パートナーがパートナー センターにログインし、アンケートをSelf-Assessmentする https://partner.microsoft.com/|
-|ISV|独立したソフトウェア ベンダー A.k.a. パートナーまたは開発者|
-|アプリ ソース| アプリのカタログ (https://appsource.microsoft.com/)
-||例: 仮想エージェント (https://appsource.microsoft.com/en-us/product/office/WA104381816)|
+|PC [(パートナー センター)](https://partner.microsoft.com/)|すべての Microsoft パートナーのポータル。 パートナーがパートナー センターにログインし、アンケートSelf-Assessmentします。 [パートナー センター](https://partner.microsoft.com/dashboard/home) for Microsoft 365 コンプライアンス|
+|ISV|独立したソフトウェア ベンダー。 A.k.a. パートナーまたは開発者|
+|アプリ ソース| [アプリのカタログ](https://appsource.microsoft.com/)
+||例: [仮想エージェント](https://appsource.microsoft.com/product/office/WA104381816)|
 
 ## <a name="3---publisher-attestation-workflow"></a>3. Publisher構成証明ワークフロー
 
 ホーム ページ: パートナーがパートナー センターにログインすると、ランディング ページが表示されます。
 
-![パートナー センターのホーム画面](../media/Picture1.png)
+![パートナー センターのホーム画面](../media/UserGuidePhotos/01.png)
 
 **手順 1**   : ページの左側のナビゲーション バーで、次の操作を行います。
 1. [ストアOfficeを選択する
 1. [概要] の選択
 
-![Office左側のナビゲーションにストアがあります](../media/Picture2.png)
+![Office左側のナビゲーションにストアがあります](../media/UserGuidePhotos/02.png)
 
 [概要] を選択すると、パートナーはパートナー センターを通じて送信されたアプリの一覧を表示し、コンプライアンス プログラムMicrosoft 365できます。
 
 **手順 2:** リストからアプリを選択して、構成証明プロセスPublisher開始します。
 
-![構成するアプリケーションを選択する](../media/Picture3.png)
+![構成するアプリケーションを選択する](../media/UserGuidePhotos/03.png)
 
-アプリを選択すると、別のナビゲーション バーが表示されます。オプション 'App Compliance'
+アプリを選択すると、別のナビゲーション バーにオプション 'App Compliance' が表示されます。
 
 **手順 3:**[アプリコンプライアンス] を選択する
 
-![[アプリのコンプライアンス] の選択](../media/App%20compliance%20step%203.png)
+![[アプリのコンプライアンス] の選択](../media/UserGuidePhotos/04.png)
 
 **手順 4:** 構成証明のSelf-AssessmentアンケートにPublisherする
 
-![Import/Export](../media/step4-new%20add.PNG)
+![Publisher の構成証明](../media/UserGuidePhotos/5.5.PNG)
 
-![インポート/エクスポート](../media/NewFeature%20impExp.PNG)
+**注:** アプリケーションの更新/再送信に戻る場合は、[製品の選択] のドロップダウンをクリックし、アプリを選択して [複製] をクリックします。
 
-**注**:アプリケーションの更新/再送信に戻る場合は、[製品の選択] のドロップダウンをクリックし、アプリを選択して [複製] をクリックします。
+![Clone](../media/UserGuidePhotos/05.PNG)
 
-![CLone ](../media/clone.PNG)
- ![ Clone2](../media/clone2.PNG)
+また、この機能を活用Import/Exportフォームをオフラインで完成し、完了したらインポートすることもできます。
+
+![エクスポートのインポート機能](../media/UserGuidePhotos/06.PNG)
 
 また、この機能を活用Import/Exportフォームをオフラインで完成し、完了したらインポートすることもできます。 
 
 **手順 5:** 完了したら、[送信] をクリックすると、評価は "レビュー中" になされます。
 
-![[Sumbit] をクリックします。](../media/Picture8.png)
+![[Sumbit] をクリックします。](../media/UserGuidePhotos/07.png)
 
-![レビューが進行中です](../media/Picture9.png)
+![レビューが進行中です](../media/UserGuidePhotos/08.png)
 
 ### <a name="approvereject-scenarios"></a>シナリオの承認と拒否:
 
@@ -81,11 +81,8 @@ ms.locfileid: "52549933"
 
 この段階で拒否された場合、パートナーは次の機能を使用できます。
 -   エラー レポートを表示します。
-    - パートナーは、パートナー センターと電子メールで通知されます。
--   応答Self-Assessment更新します。
--   自己評価を再送信します。
-
-![評価の更新と再送信](../media/Picture10.png)
+    - パートナーは電子メールで通知され、パートナー センターでエラー レポートを表示できます。
+-   構成証明更新プログラムと再送信Publisher評価の更新 ![ と再送信](../media/UserGuidePhotos/09.png)
 
 **B.Publisher証明再提出**
 
