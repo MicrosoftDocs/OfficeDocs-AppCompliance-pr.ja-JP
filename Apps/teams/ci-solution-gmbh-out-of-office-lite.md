@@ -1,45 +1,45 @@
 ---
-title: Workday 別 Workday のアプリケーション情報
+title: CI ソリューション GmbH による CI-Out-of-Office Lite のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/26/2021
+ms.date: 06/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Workday で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: CI-Out-of-Office Lite、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f85cc0ccc778f7ed3440e85795574faad3868d24
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 87a4d77deaac6281018befe1fc2de44f0fe20c35
+ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279009"
+ms.locfileid: "53275371"
 ---
-# <a name="workday"></a>Workday
+# <a name="ci-out-of-office-lite"></a>CI-Out-of-Office Lite
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 1 月 26 日</p>
+<p>開発者が最終更新日: 2021 年 6 月 2 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/aa4981ef-635f-4066-b260-97445a4b2819" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001555" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/e76af3f9-8fb6-4018-84c0-d5444ad72b4c" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002748" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Workday から Microsoft に提供される情報:
+Ci ソリューション GmbH から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | Workday |
-| ID | WA200001555 |
+| アプリ名 | CI-Out-of-Office Lite |
+| ID | WA200002748 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | Workday |
-| パートナー Web サイトの URL | [https://www.workday.com/en-us/homepage.html](https://www.workday.com/en-us/homepage.html) |
-| [アプリケーション情報Teamsページの URL | [https://nw.myworkday.com/microsoftteams/](https://nw.myworkday.com/microsoftteams/) |
-| プライバシー ポリシーの URL | [https://www.workday.com/en-us/privacy.html](https://www.workday.com/en-us/privacy.html) |
-| 利用規約の URL | [https://nw.myworkday.com/microsoftteams/post-license/](https://nw.myworkday.com/microsoftteams/post-license/) |
+| パートナー会社名 | ci ソリューション GmbH |
+| パートナー Web サイトの URL | [https://www.ci-solution.com](https://www.ci-solution.com) |
+| [アプリケーション情報Teamsページの URL | [https://www.ci-solution.com/support/en/ci-oof-lite/](https://www.ci-solution.com/support/en/ci-oof-lite/) |
+| プライバシー ポリシーの URL | [https://www.ci-solution.com/kontakt/datenschutz.html](https://www.ci-solution.com/kontakt/datenschutz.html) |
+| 利用規約の URL | [https://www.ci-solution.com/agb](https://www.ci-solution.com/agb) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +49,7 @@ Workday から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関して Workday によって提供されています。
+この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関する ci ソリューション GmbH によって提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
@@ -57,25 +57,20 @@ Workday から Microsoft に提供される情報:
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| TeamsAppInstallation.ReadWriteForUser.All | アプリケーション | アプリ ID の再取得、App for User のインストール、AAD Teamsライセンスの詳細の取得 | この機能に関連するデータは保存しない。  これにより、ユーザー用のアプリをインストールできます。 | 0209ae9c-8d92-4fb8-9c77-4dc29fd371e0 |
->| User.Read.All | アプリケーション | ユーザーメッセージを送信するためにユーザー AAID を取得します。 | AAID と AAID Teamsだけ  | 0209ae9c-8d92-4fb8-9c77-4dc29fd371e0 |
+>| メール | 委任 | ユーザーのメール アドレスの表示 | Es werden keine Daten gespeichert. | fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
->| 組織データは、Workday Services と Microsoft の間で共有されます。 詳細については、Workday との契約条件を参照してください。 | 組織データは、Workday Services と Microsoft の間で共有されます。 詳細については、Workday との契約条件を参照してください。 | N/A |
+>非Microsoft サービスは使用されません。
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
->| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
->| 名簿データは、Workday アプリとのユーザーのやり取りをカスタマイズするために使用されます。 | いいえ |  |
+>EUII にはアクセスされません。
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -88,7 +83,7 @@ Workday から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->Workday との契約条件を参照してください。
+>Es liegen keine Daten bei Partnern.
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -104,9 +99,9 @@ Workday から Microsoft に提供される情報:
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36384' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/39113' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36384" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/39113" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -116,7 +111,7 @@ Workday から Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Id 条件を処理する方法について Workday によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について ci ソリューション GmbH によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|

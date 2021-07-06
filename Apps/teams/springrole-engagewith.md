@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: EngageWith で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6bb19440f4d5e9518e917856fbe709fbcfc0792f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: bc9d21c1c39cb3a5919024bccd077a1e31469bf2
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552758"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53279119"
 ---
 # <a name="engagewith"></a>EngageWith
 
@@ -36,7 +36,7 @@ SpringRole から Microsoft に提供される情報:
 | ID | WA200001915 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | SpringRole |
-| パートナー Web サイトの URL | [https://engagewith.springworks.in/](https://engagewith.springworks.in/) |
+| パートナー Web サイトの URL | [https://www.springworks.in](https://www.springworks.in) |
 | [アプリケーション情報Teamsページの URL | [https://www.springworks.in/engagewith/](https://www.springworks.in/engagewith/) |
 | プライバシー ポリシーの URL | [https://engagewith.springworks.in/privacy-policy](https://engagewith.springworks.in/privacy-policy) |
 | 利用規約の URL | [https://engagewith.springworks.in/terms-and-conditions](https://engagewith.springworks.in/terms-and-conditions) |

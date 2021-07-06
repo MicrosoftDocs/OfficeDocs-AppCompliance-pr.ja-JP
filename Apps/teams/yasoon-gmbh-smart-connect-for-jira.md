@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Smart Connect for Jira で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6fb1be576d588727c75f14d72db48bc3a7a8aeb5
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b8266a72ed6690bd4c9994b64bceccbe73d87013
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550737"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53278969"
 ---
 # <a name="smart-connect-for-jira"></a>Smart Connect for Jira
 
@@ -36,10 +36,10 @@ yasoon GmbH から Microsoft に提供される情報:
 | ID | WA200002055 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | yasoon GmbH |
-| パートナー Web サイトの URL | [https://yasoon.com](https://yasoon.com) |
+| パートナー Web サイトの URL | [https://www.yasoon.com](https://www.yasoon.com) |
 | [アプリケーション情報Teamsページの URL | [https://yasoon.com/microsoft-teams-for-jira/](https://yasoon.com/microsoft-teams-for-jira/) |
-| プライバシー ポリシーの URL | [https://yasoon.com/privacy-policy-services](https://yasoon.com/privacy-policy-services) |
-| 利用規約の URL | [https://yasoon.com/terms-of-use](https://yasoon.com/terms-of-use) |
+| プライバシー ポリシーの URL | [https://yasoon.com/privacy-policy-services/](https://yasoon.com/privacy-policy-services/) |
+| 利用規約の URL | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474846970/Product_42949680957/Asset_3f25ec80-eacb-454f-8cc2-eeee583b65c6/170825EULAOfficeaddinEN.doc) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

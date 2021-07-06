@@ -1,26 +1,27 @@
 ---
-title: officeatwork |officeatwork Officeウィザード
+title: officeatwork によるテンプレート選択ブラウザーのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/08/2020
+ms.date: 06/22/2021
 ms.topic: article
 ms.service: attestation
-certification_type: certified
-description: officeatwork サービスで使用可能なすべてのセキュリティおよびコンプライアンス情報|CSA STAR Office、データ処理ポリシー、アプリ カタログ情報Microsoft Cloud App Securityセキュリティ/コンプライアンス情報のウィザード。
+certification_type: attested
+description: テンプレート選択ブラウザー、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5cc8fa3937324d734558365d237ca612941b3be1
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 630e587b1011007d6dbbd33bfad7364bd14f48b1
+ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279109"
+ms.locfileid: "53275387"
 ---
-# <a name="officeatwork--wizard-for-office"></a>officeatwork |ウィザードのOffice
+# <a name="template-chooser-browser"></a>テンプレート選択ブラウザー
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>開発者が最終更新日: 2020 年 12 月 8 日</p>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>開発者が最終更新日: 2021 年 6 月 22 日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104380519" target="_blank">AppSource での表示</a>
+* <a href="https://appsource.microsoft.com/product/web-apps/officeatwork-ag.template-chooser-browser" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
@@ -30,9 +31,8 @@ officeatwork から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | officeatwork - ウィザードのOffice |
-| ID | WA104380519 |
-| Office 365サポートされているクライアント | Word 2016 Mac の場合、Word 2016以降は Windows Word on iPad、Word on the web |
+| アプリ名 | テンプレート選択ブラウザー |
+| ID | officeatwork-ag.template-chooser-browser |
 | パートナー会社名 | officeatwork |
 | パートナー Web サイトの URL | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | プライバシー ポリシーの URL | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
@@ -54,17 +54,15 @@ officeatwork から Microsoft に提供される情報:
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Contacts.Read | 委任 | データは保存されません。 | 連絡先: サインインしているユーザーのすべての連絡先の読み取りを有効にする。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Files.Read | 委任 | データは保存されません。 | OneDrive - ファイル (コンテンツ): サインインしているユーザーのファイルの読み取りを有効にする。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Files.Read.All | 委任 | データは保存されません。 | Teams - ファイル (コンテンツ): サインインしているユーザーのすべてのファイルの読み取りを有効にする。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Group.Read.All | 委任 | データは保存されません。 | Office 365ユーザー - グループに制限: サインインしているユーザーのすべてのグループの読み取りを有効にする。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Sites.Read.All | 委任 | データは保存されません。 | SharePointオンライン: オンラインからデータを読み取SharePointします。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| User.Read | 委任 | データは保存されません。 | Sing-In: officeatwork アプリがユーザーの基本的なプロパティを読み取ることができます。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| User.Read.All | 委任 | データは保存されません。 | Office 365ユーザー - すべてのプロパティ: すべてのユーザーのすべてのプロパティの読み取りを有効にする。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| User.ReadBasic.All | 委任 | データは保存されません。 | Office 365ユーザー - 基本プロパティ: すべてのユーザーの基本的なプロパティの読み取りを有効にする | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| offline_access | 委任 | データは保存されません。 | Sing-In: 更新トークンを介して自動サインインを有効にするには、ユーザーが officeatwork アプリを起動する度に手動でサインインする必要があります。 このスコープは、SSO が有効でないホスト アプリケーションでのみ必要です。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| openid | 委任 | データは保存されません。 | Sing-In: 組織または Microsoft アカウントで officeatwork アプリにサインインするユーザーを有効にする | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| profile | 委任 | データは保存されません。 | Sing-In: サインインしているユーザーを officeatwork アプリに表示します。 これにより、officeatwork アプリへのサインインに使用されたアカウントをユーザーに確認/確認できます。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
+>| Files.ReadWrite.All | 委任 | データは保存されません。 | お気に入り: ユーザーに対してデータの読み取りおよび書き込みを行OneDrive。OneDrive: ユーザーに対してデータの読み取りおよび書き込みを行OneDrive。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| Group.ReadWrite.All | 委任 | データは保存されません。 | Teams: グループに対してデータの読み取りおよび書き込みを行える。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| GroupMember.Read.All | 委任 | データは保存されません。 | SharePointオンライン: オンラインからデータを読み取るユーザー SharePointアクセス許可。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| Sites.Read.All | 委任 | データは保存されません。 | SharePointオンライン: オンラインからデータを読み取SharePointします。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| User.Read | 委任 | データは保存されません。 | Sing-In: officeatwork アプリがユーザーの基本的なプロパティを読み取ることができます。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| User.Read.All | 委任 | データは保存されません。 | Teams: ユーザーが属するグループを確認します。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| offline_access | 委任 | データは保存されません。 | Sing-In: 更新トークンを介して自動サインインを有効にするには、ユーザーが officeatwork アプリを起動する度に手動でサインインする必要があります。 このスコープは、SSO が有効でないホスト アプリケーションでのみ必要です。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| openid | 委任 | データは保存されません。 | Sing-In: 組織または Microsoft アカウントで officeatwork アプリにサインインするユーザーを有効にする | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| profile | 委任 | データは保存されません。 | Sing-In: サインインしているユーザーを officeatwork アプリに表示します。 これにより、officeatwork アプリへのサインインに使用されたアカウントをユーザーに確認/確認できます。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
@@ -108,9 +106,9 @@ officeatwork から Microsoft に提供される情報:
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35749' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35385' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35749" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35385" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
