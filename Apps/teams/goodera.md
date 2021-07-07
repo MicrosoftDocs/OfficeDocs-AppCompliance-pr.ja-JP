@@ -8,38 +8,37 @@ ms.service: attestation
 certification_type: attested
 description: Goodera で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 55b69d4abaedb8f838f201812e11db2cc9aac39f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 46dc2de8dc444591a42a0a3e4ecaa1c31232ebc3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552148"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281870"
 ---
-# <a name="goodera"></a><span data-ttu-id="13bb0-103">Goodera</span><span class="sxs-lookup"><span data-stu-id="13bb0-103">Goodera</span></span>
+# <a name="goodera"></a><span data-ttu-id="08f69-103">Goodera</span><span class="sxs-lookup"><span data-stu-id="08f69-103">Goodera</span></span>
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p><span data-ttu-id="13bb0-104">開発者による最終更新日: 2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="13bb0-104">Last updated by the developer on: February 9, 2021</span></span></p>
+<p><span data-ttu-id="08f69-104">開発者による最終更新日: 2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="08f69-104">Last updated by the developer on: February 9, 2021</span></span></p>
 
-* <span data-ttu-id="13bb0-105"><a href="https://teams.microsoft.com/l/app/bc78ef2f-db9c-4bac-83de-1571f9dedf2d" target="_blank">ストアでの表示Teamsする</a></span><span class="sxs-lookup"><span data-stu-id="13bb0-105"><a href="https://teams.microsoft.com/l/app/bc78ef2f-db9c-4bac-83de-1571f9dedf2d" target="_blank">View in Teams store</a></span></span>
-* <span data-ttu-id="13bb0-106"><a href="https://appsource.microsoft.com/product/office/WA200002136" target="_blank">AppSource での表示</a></span><span class="sxs-lookup"><span data-stu-id="13bb0-106"><a href="https://appsource.microsoft.com/product/office/WA200002136" target="_blank">View in AppSource</a></span></span>
+* <span data-ttu-id="08f69-105"><a href="https://teams.microsoft.com/l/app/bc78ef2f-db9c-4bac-83de-1571f9dedf2d" target="_blank">ストアでの表示Teamsする</a></span><span class="sxs-lookup"><span data-stu-id="08f69-105"><a href="https://teams.microsoft.com/l/app/bc78ef2f-db9c-4bac-83de-1571f9dedf2d" target="_blank">View in Teams store</a></span></span>
+* <span data-ttu-id="08f69-106"><a href="https://appsource.microsoft.com/product/office/WA200002136" target="_blank">AppSource での表示</a></span><span class="sxs-lookup"><span data-stu-id="08f69-106"><a href="https://appsource.microsoft.com/product/office/WA200002136" target="_blank">View in AppSource</a></span></span>
 
 ::: zone pivot="general"
 
-### <a name="general-information"></a><span data-ttu-id="13bb0-107">一般情報</span><span class="sxs-lookup"><span data-stu-id="13bb0-107">General information</span></span>
+### <a name="general-information"></a><span data-ttu-id="08f69-107">一般情報</span><span class="sxs-lookup"><span data-stu-id="08f69-107">General information</span></span>
 
-<span data-ttu-id="13bb0-108">Goodera から Microsoft に提供される情報:</span><span class="sxs-lookup"><span data-stu-id="13bb0-108">Information provided by Goodera to Microsoft:</span></span>
+<span data-ttu-id="08f69-108">Goodera から Microsoft に提供される情報:</span><span class="sxs-lookup"><span data-stu-id="08f69-108">Information provided by Goodera to Microsoft:</span></span>
 
-| <span data-ttu-id="13bb0-109">**Information**</span><span class="sxs-lookup"><span data-stu-id="13bb0-109">**Information**</span></span> | <span data-ttu-id="13bb0-110">**応答**</span><span class="sxs-lookup"><span data-stu-id="13bb0-110">**Response**</span></span> |
+| <span data-ttu-id="08f69-109">**Information**</span><span class="sxs-lookup"><span data-stu-id="08f69-109">**Information**</span></span> | <span data-ttu-id="08f69-110">**応答**</span><span class="sxs-lookup"><span data-stu-id="08f69-110">**Response**</span></span> |
 |:----------------|:-------------|
-| <span data-ttu-id="13bb0-111">アプリ名</span><span class="sxs-lookup"><span data-stu-id="13bb0-111">App name</span></span> | <span data-ttu-id="13bb0-112">Goodera</span><span class="sxs-lookup"><span data-stu-id="13bb0-112">Goodera</span></span> |
-| <span data-ttu-id="13bb0-113">ID</span><span class="sxs-lookup"><span data-stu-id="13bb0-113">ID</span></span> | <span data-ttu-id="13bb0-114">WA200002136</span><span class="sxs-lookup"><span data-stu-id="13bb0-114">WA200002136</span></span> |
-| <span data-ttu-id="13bb0-115">Office 365サポートされているクライアント</span><span class="sxs-lookup"><span data-stu-id="13bb0-115">Office 365 clients supported</span></span> | <span data-ttu-id="13bb0-116">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="13bb0-116">Microsoft Teams</span></span> |
-| <span data-ttu-id="13bb0-117">パートナー会社名</span><span class="sxs-lookup"><span data-stu-id="13bb0-117">Partner company name</span></span> | <span data-ttu-id="13bb0-118">Goodera</span><span class="sxs-lookup"><span data-stu-id="13bb0-118">Goodera</span></span> |
-| <span data-ttu-id="13bb0-119">パートナー Web サイトの URL</span><span class="sxs-lookup"><span data-stu-id="13bb0-119">URL of partner website</span></span> | [https://about.goodera.com](https://about.goodera.com) |
-| <span data-ttu-id="13bb0-120">[アプリケーション情報Teamsページの URL</span><span class="sxs-lookup"><span data-stu-id="13bb0-120">URL of Teams application info page</span></span> | [<span data-ttu-id="13bb0-121">該当なし</span><span class="sxs-lookup"><span data-stu-id="13bb0-121">N/A</span></span>](N/A) |
-| <span data-ttu-id="13bb0-122">プライバシー ポリシーの URL</span><span class="sxs-lookup"><span data-stu-id="13bb0-122">URL of Privacy Policy</span></span> | [https://about.goodera.com/privacy](https://about.goodera.com/privacy) |
-| <span data-ttu-id="13bb0-123">利用規約の URL</span><span class="sxs-lookup"><span data-stu-id="13bb0-123">URL of Terms of Use</span></span> | [https://about.goodera.com/terms](https://about.goodera.com/terms) |
+| <span data-ttu-id="08f69-111">アプリ名</span><span class="sxs-lookup"><span data-stu-id="08f69-111">App name</span></span> | <span data-ttu-id="08f69-112">Goodera</span><span class="sxs-lookup"><span data-stu-id="08f69-112">Goodera</span></span> |
+| <span data-ttu-id="08f69-113">ID</span><span class="sxs-lookup"><span data-stu-id="08f69-113">ID</span></span> | <span data-ttu-id="08f69-114">WA200002136</span><span class="sxs-lookup"><span data-stu-id="08f69-114">WA200002136</span></span> |
+| <span data-ttu-id="08f69-115">Office 365サポートされているクライアント</span><span class="sxs-lookup"><span data-stu-id="08f69-115">Office 365 clients supported</span></span> | <span data-ttu-id="08f69-116">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="08f69-116">Microsoft Teams</span></span> |
+| <span data-ttu-id="08f69-117">パートナー会社名</span><span class="sxs-lookup"><span data-stu-id="08f69-117">Partner company name</span></span> | <span data-ttu-id="08f69-118">Goodera</span><span class="sxs-lookup"><span data-stu-id="08f69-118">Goodera</span></span> |
+| <span data-ttu-id="08f69-119">パートナー Web サイトの URL</span><span class="sxs-lookup"><span data-stu-id="08f69-119">URL of partner website</span></span> | [https://goodera.com](https://goodera.com) |
+| <span data-ttu-id="08f69-120">プライバシー ポリシーの URL</span><span class="sxs-lookup"><span data-stu-id="08f69-120">URL of Privacy Policy</span></span> | [https://about.goodera.com/privacy](https://about.goodera.com/privacy) |
+| <span data-ttu-id="08f69-121">利用規約の URL</span><span class="sxs-lookup"><span data-stu-id="08f69-121">URL of Terms of Use</span></span> | [https://about.goodera.com/terms](https://about.goodera.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,49 +46,49 @@ ms.locfileid: "52552148"
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a><span data-ttu-id="13bb0-124">アプリがデータを処理する方法</span><span class="sxs-lookup"><span data-stu-id="13bb0-124">How the app handles data</span></span>
+### <a name="how-the-app-handles-data"></a><span data-ttu-id="08f69-122">アプリがデータを処理する方法</span><span class="sxs-lookup"><span data-stu-id="08f69-122">How the app handles data</span></span>
 
-<span data-ttu-id="13bb0-125">この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールについて、Goodera によって提供されています。</span><span class="sxs-lookup"><span data-stu-id="13bb0-125">This information has been provided by Goodera about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
+<span data-ttu-id="08f69-123">この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールについて、Goodera によって提供されています。</span><span class="sxs-lookup"><span data-stu-id="08f69-123">This information has been provided by Goodera about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
 
-#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="13bb0-126">Microsoft サービスを使用したデータ アクセスGraph</span><span class="sxs-lookup"><span data-stu-id="13bb0-126">Data access using Microsoft Graph</span></span>
+#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="08f69-124">Microsoft サービスを使用したデータ アクセスGraph</span><span class="sxs-lookup"><span data-stu-id="08f69-124">Data access using Microsoft Graph</span></span>
 
-<span data-ttu-id="13bb0-127">このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。</span><span class="sxs-lookup"><span data-stu-id="13bb0-127">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
+<span data-ttu-id="08f69-125">このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。</span><span class="sxs-lookup"><span data-stu-id="08f69-125">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
 
-><span data-ttu-id="13bb0-128">このアプリケーションでは、Microsoft アプリケーションをGraph。</span><span class="sxs-lookup"><span data-stu-id="13bb0-128">This application does not use Microsoft Graph.</span></span>
+><span data-ttu-id="08f69-126">このアプリケーションでは、Microsoft アプリケーションをGraph。</span><span class="sxs-lookup"><span data-stu-id="08f69-126">This application does not use Microsoft Graph.</span></span>
 
 
-#### <a name="non-microsoft-services-used"></a><span data-ttu-id="13bb0-129">非使用Microsoft サービス</span><span class="sxs-lookup"><span data-stu-id="13bb0-129">Non-Microsoft services used</span></span>
+#### <a name="non-microsoft-services-used"></a><span data-ttu-id="08f69-127">非使用Microsoft サービス</span><span class="sxs-lookup"><span data-stu-id="08f69-127">Non-Microsoft services used</span></span>
 
-<span data-ttu-id="13bb0-130">アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。</span><span class="sxs-lookup"><span data-stu-id="13bb0-130">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
+<span data-ttu-id="08f69-128">アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。</span><span class="sxs-lookup"><span data-stu-id="08f69-128">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
 
-><span data-ttu-id="13bb0-131">非Microsoft サービスは使用されません。</span><span class="sxs-lookup"><span data-stu-id="13bb0-131">Non-Microsoft services are not used.</span></span>
+><span data-ttu-id="08f69-129">非Microsoft サービスは使用されません。</span><span class="sxs-lookup"><span data-stu-id="08f69-129">Non-Microsoft services are not used.</span></span>
 
-#### <a name="data-access-via-bots"></a><span data-ttu-id="13bb0-132">ボット経由のデータ アクセス</span><span class="sxs-lookup"><span data-stu-id="13bb0-132">Data access via bots</span></span>
+#### <a name="data-access-via-bots"></a><span data-ttu-id="08f69-130">ボット経由のデータ アクセス</span><span class="sxs-lookup"><span data-stu-id="08f69-130">Data access via bots</span></span>
 
-<span data-ttu-id="13bb0-133">このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。</span><span class="sxs-lookup"><span data-stu-id="13bb0-133">If this app contains a bot or a messaging extension, it can access end-user identifiable information (EUII): the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to.</span></span> <span data-ttu-id="13bb0-134">このアプリは、この機能を利用しますか?</span><span class="sxs-lookup"><span data-stu-id="13bb0-134">Does this app make use of this capability?</span></span>
+<span data-ttu-id="08f69-131">このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。</span><span class="sxs-lookup"><span data-stu-id="08f69-131">If this app contains a bot or a messaging extension, it can access end-user identifiable information (EUII): the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to.</span></span> <span data-ttu-id="08f69-132">このアプリは、この機能を利用しますか?</span><span class="sxs-lookup"><span data-stu-id="08f69-132">Does this app make use of this capability?</span></span>
 
->| <span data-ttu-id="13bb0-135">**EUII にアクセスする理由**</span><span class="sxs-lookup"><span data-stu-id="13bb0-135">**Justification for accessing EUII?**</span></span>  | <span data-ttu-id="13bb0-136">**EUII はデータベースに格納されていますか?**</span><span class="sxs-lookup"><span data-stu-id="13bb0-136">**Is EUII stored in database(s)?**</span></span> | <span data-ttu-id="13bb0-137">**EUII を格納するための理由**</span><span class="sxs-lookup"><span data-stu-id="13bb0-137">**Justification for storing EUII?**</span></span> |
+>| <span data-ttu-id="08f69-133">**EUII にアクセスする理由**</span><span class="sxs-lookup"><span data-stu-id="08f69-133">**Justification for accessing EUII?**</span></span>  | <span data-ttu-id="08f69-134">**EUII はデータベースに格納されていますか?**</span><span class="sxs-lookup"><span data-stu-id="08f69-134">**Is EUII stored in database(s)?**</span></span> | <span data-ttu-id="08f69-135">**EUII を格納するための理由**</span><span class="sxs-lookup"><span data-stu-id="08f69-135">**Justification for storing EUII?**</span></span> |
 >|:--------------------------------|:---------------------|:--------------------------|
->| <span data-ttu-id="13bb0-138">ユーザーの電子メール ID にアクセスして、ユーザーを特定し、ボランティア活動の機会を登録するのに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="13bb0-138">We access the email ID of users so that we can identify the users and help them register for volunteering opportunities.</span></span> | <span data-ttu-id="13bb0-139">メール ID</span><span class="sxs-lookup"><span data-stu-id="13bb0-139">Email ID</span></span> | <span data-ttu-id="13bb0-140">この PII は、ユーザーが登録したボランティア活動の機会が分かっている場合にのみ保存されています。</span><span class="sxs-lookup"><span data-stu-id="13bb0-140">This PII is being stored only so that we know which volunteering opportunities the user has registered for.</span></span> |
+>| <span data-ttu-id="08f69-136">ユーザーの電子メール ID にアクセスして、ユーザーを特定し、ボランティア活動の機会を登録するのに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="08f69-136">We access the email ID of users so that we can identify the users and help them register for volunteering opportunities.</span></span> | <span data-ttu-id="08f69-137">メール ID</span><span class="sxs-lookup"><span data-stu-id="08f69-137">Email ID</span></span> | <span data-ttu-id="08f69-138">この PII は、ユーザーが登録したボランティア活動の機会が分かっている場合にのみ保存されています。</span><span class="sxs-lookup"><span data-stu-id="08f69-138">This PII is being stored only so that we know which volunteering opportunities the user has registered for.</span></span> |
 
 
-#### <a name="telemetry-data"></a><span data-ttu-id="13bb0-141">テレメトリ データ</span><span class="sxs-lookup"><span data-stu-id="13bb0-141">Telemetry data</span></span>
+#### <a name="telemetry-data"></a><span data-ttu-id="08f69-139">テレメトリ データ</span><span class="sxs-lookup"><span data-stu-id="08f69-139">Telemetry data</span></span>
 
-<span data-ttu-id="13bb0-142">組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか?</span><span class="sxs-lookup"><span data-stu-id="13bb0-142">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="13bb0-143">はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。</span><span class="sxs-lookup"><span data-stu-id="13bb0-143">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
+<span data-ttu-id="08f69-140">組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか?</span><span class="sxs-lookup"><span data-stu-id="08f69-140">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="08f69-141">はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。</span><span class="sxs-lookup"><span data-stu-id="08f69-141">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
 
-><span data-ttu-id="13bb0-144">アプリケーションのテレメトリまたはログに OII または EUII は表示されません。</span><span class="sxs-lookup"><span data-stu-id="13bb0-144">No OII or EUII appear in the applications telemetry or logs.</span></span>
+><span data-ttu-id="08f69-142">アプリケーションのテレメトリまたはログに OII または EUII は表示されません。</span><span class="sxs-lookup"><span data-stu-id="08f69-142">No OII or EUII appear in the applications telemetry or logs.</span></span>
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="13bb0-145">パートナーによって保存されるデータの組織的な制御</span><span class="sxs-lookup"><span data-stu-id="13bb0-145">Organizational controls for data stored by partner</span></span>
+#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="08f69-143">パートナーによって保存されるデータの組織的な制御</span><span class="sxs-lookup"><span data-stu-id="08f69-143">Organizational controls for data stored by partner</span></span>
 
-<span data-ttu-id="13bb0-146">組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。</span><span class="sxs-lookup"><span data-stu-id="13bb0-146">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
+<span data-ttu-id="08f69-144">組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。</span><span class="sxs-lookup"><span data-stu-id="08f69-144">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
 
-><span data-ttu-id="13bb0-147">該当なし</span><span class="sxs-lookup"><span data-stu-id="13bb0-147">N/A</span></span>
+><span data-ttu-id="08f69-145">N/A</span><span class="sxs-lookup"><span data-stu-id="08f69-145">N/A</span></span>
 
-#### <a name="human-review-of-organizational-information"></a><span data-ttu-id="13bb0-148">組織情報の人間によるレビュー</span><span class="sxs-lookup"><span data-stu-id="13bb0-148">Human review of organizational information</span></span>
+#### <a name="human-review-of-organizational-information"></a><span data-ttu-id="08f69-146">組織情報の人間によるレビュー</span><span class="sxs-lookup"><span data-stu-id="08f69-146">Human review of organizational information</span></span>
 
-<span data-ttu-id="13bb0-149">人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?</span><span class="sxs-lookup"><span data-stu-id="13bb0-149">Are humans involved in reviewing or analyzing any organizational identifiable information (OII) data that is collected or stored by this app?</span></span>
+<span data-ttu-id="08f69-147">人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?</span><span class="sxs-lookup"><span data-stu-id="08f69-147">Are humans involved in reviewing or analyzing any organizational identifiable information (OII) data that is collected or stored by this app?</span></span>
 
-><span data-ttu-id="13bb0-150">いいえ</span><span class="sxs-lookup"><span data-stu-id="13bb0-150">No</span></span>
+><span data-ttu-id="08f69-148">いいえ</span><span class="sxs-lookup"><span data-stu-id="08f69-148">No</span></span>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -97,11 +96,11 @@ ms.locfileid: "52552148"
 
 ::: zone pivot="mcas"
 
-<span data-ttu-id="13bb0-151">以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。</span><span class="sxs-lookup"><span data-stu-id="13bb0-151">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
+<span data-ttu-id="08f69-149">以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。</span><span class="sxs-lookup"><span data-stu-id="08f69-149">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
 
-<iframe height='1020' title='<span data-ttu-id="13bb0-152">Microsoft Cloud App Security情報</span><span class="sxs-lookup"><span data-stu-id="13bb0-152">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36432' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="13bb0-153">
+<iframe height='1020' title='<span data-ttu-id="08f69-150">Microsoft Cloud App Security情報</span><span class="sxs-lookup"><span data-stu-id="08f69-150">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36432' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="08f69-151">
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36432" target="_blank">新しいタブで表示する</a></span><span class="sxs-lookup"><span data-stu-id="13bb0-153">
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36432" target="_blank">新しいタブで表示する</a></span><span class="sxs-lookup"><span data-stu-id="08f69-151">
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36432" target="_blank">View in a new tab</a></span></span>
 
@@ -111,13 +110,13 @@ ms.locfileid: "52552148"
 
 ::: zone pivot="identity"
 
-### <a name="identity-information"></a><span data-ttu-id="13bb0-154">ID 情報</span><span class="sxs-lookup"><span data-stu-id="13bb0-154">Identity information</span></span>
+### <a name="identity-information"></a><span data-ttu-id="08f69-152">ID 情報</span><span class="sxs-lookup"><span data-stu-id="08f69-152">Identity information</span></span>
 
-<span data-ttu-id="13bb0-155">この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について Goodera によって提供されています。</span><span class="sxs-lookup"><span data-stu-id="13bb0-155">This information has been provided by Goodera about how this app handles authentication, authorization, application registration best practices, and other Identity criteria.</span></span>
+<span data-ttu-id="08f69-153">この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について Goodera によって提供されています。</span><span class="sxs-lookup"><span data-stu-id="08f69-153">This information has been provided by Goodera about how this app handles authentication, authorization, application registration best practices, and other Identity criteria.</span></span>
 
-| <span data-ttu-id="13bb0-156">**Information**</span><span class="sxs-lookup"><span data-stu-id="13bb0-156">**Information**</span></span> | <span data-ttu-id="13bb0-157">**応答**</span><span class="sxs-lookup"><span data-stu-id="13bb0-157">**Response**</span></span> |
+| <span data-ttu-id="08f69-154">**Information**</span><span class="sxs-lookup"><span data-stu-id="08f69-154">**Information**</span></span> | <span data-ttu-id="08f69-155">**応答**</span><span class="sxs-lookup"><span data-stu-id="08f69-155">**Response**</span></span> |
 |:----------------|:-------------|
-| <span data-ttu-id="13bb0-158">Microsoft Identify Platform (Azure AD) と統合しますか?</span><span class="sxs-lookup"><span data-stu-id="13bb0-158">Do you integrate with Microsoft Identify Platform (Azure AD)?</span></span>  | <span data-ttu-id="13bb0-159">なし</span><span class="sxs-lookup"><span data-stu-id="13bb0-159">No</span></span> |
+| <span data-ttu-id="08f69-156">Microsoft Identify Platform (Azure AD) と統合しますか?</span><span class="sxs-lookup"><span data-stu-id="08f69-156">Do you integrate with Microsoft Identify Platform (Azure AD)?</span></span>  | <span data-ttu-id="08f69-157">なし</span><span class="sxs-lookup"><span data-stu-id="08f69-157">No</span></span> |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
