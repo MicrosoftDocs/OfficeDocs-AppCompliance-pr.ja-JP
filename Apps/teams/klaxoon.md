@@ -8,37 +8,37 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 127b45d805b02136ba99f56aecfc583f30bdda25
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3b4dee1e024940df3d9c81bdb2b2345a8421c9db
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553018"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283011"
 ---
-# <a name="klaxoon"></a><span data-ttu-id="21677-103">Klaxoon</span><span class="sxs-lookup"><span data-stu-id="21677-103">Klaxoon</span></span>
+# <a name="klaxoon"></a><span data-ttu-id="d3434-103">Klaxoon</span><span class="sxs-lookup"><span data-stu-id="d3434-103">Klaxoon</span></span>
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p><span data-ttu-id="21677-104">開発者が最終更新日: 2020 年 10 月 15 日</span><span class="sxs-lookup"><span data-stu-id="21677-104">Last updated by the developer on: October 15, 2020</span></span></p>
+<p><span data-ttu-id="d3434-104">開発者が最終更新日: 2020 年 10 月 15 日</span><span class="sxs-lookup"><span data-stu-id="d3434-104">Last updated by the developer on: October 15, 2020</span></span></p>
 
-* <span data-ttu-id="21677-105"><a href="https://teams.microsoft.com/l/app/6adc8d55-eb37-4537-a66d-743b3cd4511b" target="_blank">ストアでの表示Teamsする</a></span><span class="sxs-lookup"><span data-stu-id="21677-105"><a href="https://teams.microsoft.com/l/app/6adc8d55-eb37-4537-a66d-743b3cd4511b" target="_blank">View in Teams store</a></span></span>
-* <span data-ttu-id="21677-106"><a href="https://appsource.microsoft.com/product/office/WA104382058" target="_blank">AppSource での表示</a></span><span class="sxs-lookup"><span data-stu-id="21677-106"><a href="https://appsource.microsoft.com/product/office/WA104382058" target="_blank">View in AppSource</a></span></span>
+* <span data-ttu-id="d3434-105"><a href="https://teams.microsoft.com/l/app/6adc8d55-eb37-4537-a66d-743b3cd4511b" target="_blank">ストアでの表示Teamsする</a></span><span class="sxs-lookup"><span data-stu-id="d3434-105"><a href="https://teams.microsoft.com/l/app/6adc8d55-eb37-4537-a66d-743b3cd4511b" target="_blank">View in Teams store</a></span></span>
+* <span data-ttu-id="d3434-106"><a href="https://appsource.microsoft.com/product/office/WA104382058" target="_blank">AppSource での表示</a></span><span class="sxs-lookup"><span data-stu-id="d3434-106"><a href="https://appsource.microsoft.com/product/office/WA104382058" target="_blank">View in AppSource</a></span></span>
 
 ::: zone pivot="general"
 
-### <a name="general-information"></a><span data-ttu-id="21677-107">一般情報</span><span class="sxs-lookup"><span data-stu-id="21677-107">General information</span></span>
+### <a name="general-information"></a><span data-ttu-id="d3434-107">一般情報</span><span class="sxs-lookup"><span data-stu-id="d3434-107">General information</span></span>
 
-<span data-ttu-id="21677-108">Klaxoon から Microsoft に提供される情報:</span><span class="sxs-lookup"><span data-stu-id="21677-108">Information provided by Klaxoon to Microsoft:</span></span>
+<span data-ttu-id="d3434-108">Klaxoon から Microsoft に提供される情報:</span><span class="sxs-lookup"><span data-stu-id="d3434-108">Information provided by Klaxoon to Microsoft:</span></span>
 
-| <span data-ttu-id="21677-109">**Information**</span><span class="sxs-lookup"><span data-stu-id="21677-109">**Information**</span></span> | <span data-ttu-id="21677-110">**応答**</span><span class="sxs-lookup"><span data-stu-id="21677-110">**Response**</span></span> |
+| <span data-ttu-id="d3434-109">**Information**</span><span class="sxs-lookup"><span data-stu-id="d3434-109">**Information**</span></span> | <span data-ttu-id="d3434-110">**応答**</span><span class="sxs-lookup"><span data-stu-id="d3434-110">**Response**</span></span> |
 |:----------------|:-------------|
-| <span data-ttu-id="21677-111">アプリ名</span><span class="sxs-lookup"><span data-stu-id="21677-111">App name</span></span> | <span data-ttu-id="21677-112">Klaxoon</span><span class="sxs-lookup"><span data-stu-id="21677-112">Klaxoon</span></span> |
-| <span data-ttu-id="21677-113">ID</span><span class="sxs-lookup"><span data-stu-id="21677-113">ID</span></span> | <span data-ttu-id="21677-114">WA104382058</span><span class="sxs-lookup"><span data-stu-id="21677-114">WA104382058</span></span> |
-| <span data-ttu-id="21677-115">Office 365サポートされているクライアント</span><span class="sxs-lookup"><span data-stu-id="21677-115">Office 365 clients supported</span></span> | <span data-ttu-id="21677-116">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="21677-116">Microsoft Teams</span></span> |
-| <span data-ttu-id="21677-117">パートナー会社名</span><span class="sxs-lookup"><span data-stu-id="21677-117">Partner company name</span></span> | <span data-ttu-id="21677-118">Klaxoon</span><span class="sxs-lookup"><span data-stu-id="21677-118">Klaxoon</span></span> |
-| <span data-ttu-id="21677-119">パートナー Web サイトの URL</span><span class="sxs-lookup"><span data-stu-id="21677-119">URL of partner website</span></span> | [https://klaxoon.com](https://klaxoon.com) |
-| <span data-ttu-id="21677-120">プライバシー ポリシーの URL</span><span class="sxs-lookup"><span data-stu-id="21677-120">URL of Privacy Policy</span></span> | [https://klaxoon.com/privacy](https://klaxoon.com/privacy) |
-| <span data-ttu-id="21677-121">利用規約の URL</span><span class="sxs-lookup"><span data-stu-id="21677-121">URL of Terms of Use</span></span> | [https://klaxoon.com/static/terms.pdf](https://klaxoon.com/static/terms.pdf) |
+| <span data-ttu-id="d3434-111">アプリ名</span><span class="sxs-lookup"><span data-stu-id="d3434-111">App name</span></span> | <span data-ttu-id="d3434-112">Klaxoon</span><span class="sxs-lookup"><span data-stu-id="d3434-112">Klaxoon</span></span> |
+| <span data-ttu-id="d3434-113">ID</span><span class="sxs-lookup"><span data-stu-id="d3434-113">ID</span></span> | <span data-ttu-id="d3434-114">WA104382058</span><span class="sxs-lookup"><span data-stu-id="d3434-114">WA104382058</span></span> |
+| <span data-ttu-id="d3434-115">Office 365サポートされているクライアント</span><span class="sxs-lookup"><span data-stu-id="d3434-115">Office 365 clients supported</span></span> | <span data-ttu-id="d3434-116">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="d3434-116">Microsoft Teams</span></span> |
+| <span data-ttu-id="d3434-117">パートナー会社名</span><span class="sxs-lookup"><span data-stu-id="d3434-117">Partner company name</span></span> | <span data-ttu-id="d3434-118">Klaxoon</span><span class="sxs-lookup"><span data-stu-id="d3434-118">Klaxoon</span></span> |
+| <span data-ttu-id="d3434-119">パートナー Web サイトの URL</span><span class="sxs-lookup"><span data-stu-id="d3434-119">URL of partner website</span></span> | [https://klaxoon.com](https://klaxoon.com) |
+| <span data-ttu-id="d3434-120">プライバシー ポリシーの URL</span><span class="sxs-lookup"><span data-stu-id="d3434-120">URL of Privacy Policy</span></span> | [https://klaxoon.com/privacy-policy](https://klaxoon.com/privacy-policy) |
+| <span data-ttu-id="d3434-121">利用規約の URL</span><span class="sxs-lookup"><span data-stu-id="d3434-121">URL of Terms of Use</span></span> | [<span data-ttu-id="d3434-122"> https://static.klaxoon.com/static/_/terms-8def9a45fe5aedd06...</span><span class="sxs-lookup"><span data-stu-id="d3434-122">https://static.klaxoon.com/static/_/terms-8def9a45fe5aedd06...</span></span>](https://static.klaxoon.com/static/_/terms-8def9a45fe5aedd06814d1c3354495b2.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -46,51 +46,51 @@ ms.locfileid: "52553018"
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a><span data-ttu-id="21677-122">アプリがデータを処理する方法</span><span class="sxs-lookup"><span data-stu-id="21677-122">How the app handles data</span></span>
+### <a name="how-the-app-handles-data"></a><span data-ttu-id="d3434-123">アプリがデータを処理する方法</span><span class="sxs-lookup"><span data-stu-id="d3434-123">How the app handles data</span></span>
 
-<span data-ttu-id="21677-123">この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて、Klaxoon によって提供されています。</span><span class="sxs-lookup"><span data-stu-id="21677-123">This information has been provided by Klaxoon about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
+<span data-ttu-id="d3434-124">この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて、Klaxoon によって提供されています。</span><span class="sxs-lookup"><span data-stu-id="d3434-124">This information has been provided by Klaxoon about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
 
-#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="21677-124">Microsoft サービスを使用したデータ アクセスGraph</span><span class="sxs-lookup"><span data-stu-id="21677-124">Data access using Microsoft Graph</span></span>
+#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="d3434-125">Microsoft サービスを使用したデータ アクセスGraph</span><span class="sxs-lookup"><span data-stu-id="d3434-125">Data access using Microsoft Graph</span></span>
 
-<span data-ttu-id="21677-125">このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。</span><span class="sxs-lookup"><span data-stu-id="21677-125">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
+<span data-ttu-id="d3434-126">このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。</span><span class="sxs-lookup"><span data-stu-id="d3434-126">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
 
-><span data-ttu-id="21677-126">このアプリケーションでは、Microsoft アプリケーションをGraph。</span><span class="sxs-lookup"><span data-stu-id="21677-126">This application does not use Microsoft Graph.</span></span>
+><span data-ttu-id="d3434-127">このアプリケーションでは、Microsoft アプリケーションをGraph。</span><span class="sxs-lookup"><span data-stu-id="d3434-127">This application does not use Microsoft Graph.</span></span>
 
 
-#### <a name="non-microsoft-services-used"></a><span data-ttu-id="21677-127">非使用Microsoft サービス</span><span class="sxs-lookup"><span data-stu-id="21677-127">Non-Microsoft services used</span></span>
+#### <a name="non-microsoft-services-used"></a><span data-ttu-id="d3434-128">非使用Microsoft サービス</span><span class="sxs-lookup"><span data-stu-id="d3434-128">Non-Microsoft services used</span></span>
 
-<span data-ttu-id="21677-128">アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。</span><span class="sxs-lookup"><span data-stu-id="21677-128">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
+<span data-ttu-id="d3434-129">アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。</span><span class="sxs-lookup"><span data-stu-id="d3434-129">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
 
->| <span data-ttu-id="21677-129">**OII のすべての非Microsoft サービスに転送されます。**</span><span class="sxs-lookup"><span data-stu-id="21677-129">**All non-Microsoft services OII is transferred to**</span></span> |  <span data-ttu-id="21677-130">**どのような OII が転送されますか?**</span><span class="sxs-lookup"><span data-stu-id="21677-130">**What OII is transferred?**</span></span> | <span data-ttu-id="21677-131">**OII を転送する理由**</span><span class="sxs-lookup"><span data-stu-id="21677-131">**Justification for transferring OII?**</span></span> |
+>| <span data-ttu-id="d3434-130">**OII のすべての非Microsoft サービスに転送されます。**</span><span class="sxs-lookup"><span data-stu-id="d3434-130">**All non-Microsoft services OII is transferred to**</span></span> |  <span data-ttu-id="d3434-131">**どのような OII が転送されますか?**</span><span class="sxs-lookup"><span data-stu-id="d3434-131">**What OII is transferred?**</span></span> | <span data-ttu-id="d3434-132">**OII を転送する理由**</span><span class="sxs-lookup"><span data-stu-id="d3434-132">**Justification for transferring OII?**</span></span> |
 >|:-------------------|:--------------------------|:--------------------------|
->| <span data-ttu-id="21677-132">none</span><span class="sxs-lookup"><span data-stu-id="21677-132">none</span></span> |  | <span data-ttu-id="21677-133">none</span><span class="sxs-lookup"><span data-stu-id="21677-133">none</span></span> |
+>| <span data-ttu-id="d3434-133">none</span><span class="sxs-lookup"><span data-stu-id="d3434-133">none</span></span> |  | <span data-ttu-id="d3434-134">none</span><span class="sxs-lookup"><span data-stu-id="d3434-134">none</span></span> |
 
-#### <a name="data-access-via-bots"></a><span data-ttu-id="21677-134">ボット経由のデータ アクセス</span><span class="sxs-lookup"><span data-stu-id="21677-134">Data access via bots</span></span>
+#### <a name="data-access-via-bots"></a><span data-ttu-id="d3434-135">ボット経由のデータ アクセス</span><span class="sxs-lookup"><span data-stu-id="d3434-135">Data access via bots</span></span>
 
-<span data-ttu-id="21677-135">このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。</span><span class="sxs-lookup"><span data-stu-id="21677-135">If this app contains a bot or a messaging extension, it can access end-user identifiable information (EUII): the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to.</span></span> <span data-ttu-id="21677-136">このアプリは、この機能を利用しますか?</span><span class="sxs-lookup"><span data-stu-id="21677-136">Does this app make use of this capability?</span></span>
+<span data-ttu-id="d3434-136">このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。</span><span class="sxs-lookup"><span data-stu-id="d3434-136">If this app contains a bot or a messaging extension, it can access end-user identifiable information (EUII): the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to.</span></span> <span data-ttu-id="d3434-137">このアプリは、この機能を利用しますか?</span><span class="sxs-lookup"><span data-stu-id="d3434-137">Does this app make use of this capability?</span></span>
 
->| <span data-ttu-id="21677-137">**EUII にアクセスする理由**</span><span class="sxs-lookup"><span data-stu-id="21677-137">**Justification for accessing EUII?**</span></span>  | <span data-ttu-id="21677-138">**EUII はデータベースに格納されていますか?**</span><span class="sxs-lookup"><span data-stu-id="21677-138">**Is EUII stored in database(s)?**</span></span> | <span data-ttu-id="21677-139">**EUII を格納するための理由**</span><span class="sxs-lookup"><span data-stu-id="21677-139">**Justification for storing EUII?**</span></span> |
+>| <span data-ttu-id="d3434-138">**EUII にアクセスする理由**</span><span class="sxs-lookup"><span data-stu-id="d3434-138">**Justification for accessing EUII?**</span></span>  | <span data-ttu-id="d3434-139">**EUII はデータベースに格納されていますか?**</span><span class="sxs-lookup"><span data-stu-id="d3434-139">**Is EUII stored in database(s)?**</span></span> | <span data-ttu-id="d3434-140">**EUII を格納するための理由**</span><span class="sxs-lookup"><span data-stu-id="d3434-140">**Justification for storing EUII?**</span></span> |
 >|:--------------------------------|:---------------------|:--------------------------|
->| <span data-ttu-id="21677-140">この名簿を使用して、ユーザーの応答をカスタマイズします。</span><span class="sxs-lookup"><span data-stu-id="21677-140">We use the roster to personalize user response.</span></span> <span data-ttu-id="21677-141">例: こんにちは {{givenName}}, ご質問ありがとうございます!</span><span class="sxs-lookup"><span data-stu-id="21677-141">eg: Hello {{givenName}}, thank you for your question!</span></span> | <span data-ttu-id="21677-142">いいえ</span><span class="sxs-lookup"><span data-stu-id="21677-142">No</span></span> |  |
+>| <span data-ttu-id="d3434-141">この名簿を使用して、ユーザーの応答をカスタマイズします。</span><span class="sxs-lookup"><span data-stu-id="d3434-141">We use the roster to personalize user response.</span></span> <span data-ttu-id="d3434-142">例: こんにちは {{givenName}}, ご質問ありがとうございます!</span><span class="sxs-lookup"><span data-stu-id="d3434-142">eg: Hello {{givenName}}, thank you for your question!</span></span> | <span data-ttu-id="d3434-143">いいえ</span><span class="sxs-lookup"><span data-stu-id="d3434-143">No</span></span> |  |
 
 
-#### <a name="telemetry-data"></a><span data-ttu-id="21677-143">テレメトリ データ</span><span class="sxs-lookup"><span data-stu-id="21677-143">Telemetry data</span></span>
+#### <a name="telemetry-data"></a><span data-ttu-id="d3434-144">テレメトリ データ</span><span class="sxs-lookup"><span data-stu-id="d3434-144">Telemetry data</span></span>
 
-<span data-ttu-id="21677-144">組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか?</span><span class="sxs-lookup"><span data-stu-id="21677-144">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="21677-145">はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。</span><span class="sxs-lookup"><span data-stu-id="21677-145">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
+<span data-ttu-id="d3434-145">組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか?</span><span class="sxs-lookup"><span data-stu-id="d3434-145">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="d3434-146">はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。</span><span class="sxs-lookup"><span data-stu-id="d3434-146">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
 
-><span data-ttu-id="21677-146">はい</span><span class="sxs-lookup"><span data-stu-id="21677-146">yes</span></span>
+><span data-ttu-id="d3434-147">○</span><span class="sxs-lookup"><span data-stu-id="d3434-147">yes</span></span>
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="21677-147">パートナーによって保存されるデータの組織的な制御</span><span class="sxs-lookup"><span data-stu-id="21677-147">Organizational controls for data stored by partner</span></span>
+#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="d3434-148">パートナーによって保存されるデータの組織的な制御</span><span class="sxs-lookup"><span data-stu-id="d3434-148">Organizational controls for data stored by partner</span></span>
 
-<span data-ttu-id="21677-148">組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。</span><span class="sxs-lookup"><span data-stu-id="21677-148">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
+<span data-ttu-id="d3434-149">組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。</span><span class="sxs-lookup"><span data-stu-id="d3434-149">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
 
-><span data-ttu-id="21677-149">Klaxoon クラウド システムに格納されます。</span><span class="sxs-lookup"><span data-stu-id="21677-149">Stored in Klaxoon Cloud systems.</span></span> <span data-ttu-id="21677-150">保存時の暗号化。</span><span class="sxs-lookup"><span data-stu-id="21677-150">Encryption at rest.</span></span> <span data-ttu-id="21677-151">Klaxoon サーバーへのアクセスは、HTTPS/SSH モード (SSH キー + パスフレーズ) の特定の IP アドレス範囲に制限されます。</span><span class="sxs-lookup"><span data-stu-id="21677-151">Access to Klaxoon servers is limited to a specific IP address range in HTTPS / SSH mode (SSH key + passphrase).</span></span> <span data-ttu-id="21677-152">このアクセスは、一意の要塞でのみ可能です。</span><span class="sxs-lookup"><span data-stu-id="21677-152">This access is only possible through a unique bastion.</span></span>
+><span data-ttu-id="d3434-150">Klaxoon クラウド システムに格納されます。</span><span class="sxs-lookup"><span data-stu-id="d3434-150">Stored in Klaxoon Cloud systems.</span></span> <span data-ttu-id="d3434-151">保存時の暗号化。</span><span class="sxs-lookup"><span data-stu-id="d3434-151">Encryption at rest.</span></span> <span data-ttu-id="d3434-152">Klaxoon サーバーへのアクセスは、HTTPS/SSH モード (SSH キー + パスフレーズ) の特定の IP アドレス範囲に制限されます。</span><span class="sxs-lookup"><span data-stu-id="d3434-152">Access to Klaxoon servers is limited to a specific IP address range in HTTPS / SSH mode (SSH key + passphrase).</span></span> <span data-ttu-id="d3434-153">このアクセスは、一意の要塞でのみ可能です。</span><span class="sxs-lookup"><span data-stu-id="d3434-153">This access is only possible through a unique bastion.</span></span>
 
-#### <a name="human-review-of-organizational-information"></a><span data-ttu-id="21677-153">組織情報の人間によるレビュー</span><span class="sxs-lookup"><span data-stu-id="21677-153">Human review of organizational information</span></span>
+#### <a name="human-review-of-organizational-information"></a><span data-ttu-id="d3434-154">組織情報の人間によるレビュー</span><span class="sxs-lookup"><span data-stu-id="d3434-154">Human review of organizational information</span></span>
 
-<span data-ttu-id="21677-154">人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?</span><span class="sxs-lookup"><span data-stu-id="21677-154">Are humans involved in reviewing or analyzing any organizational identifiable information (OII) data that is collected or stored by this app?</span></span>
+<span data-ttu-id="d3434-155">人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?</span><span class="sxs-lookup"><span data-stu-id="d3434-155">Are humans involved in reviewing or analyzing any organizational identifiable information (OII) data that is collected or stored by this app?</span></span>
 
-><span data-ttu-id="21677-155">いいえ</span><span class="sxs-lookup"><span data-stu-id="21677-155">No</span></span>
+><span data-ttu-id="d3434-156">いいえ</span><span class="sxs-lookup"><span data-stu-id="d3434-156">No</span></span>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -98,11 +98,11 @@ ms.locfileid: "52553018"
 
 ::: zone pivot="mcas"
 
-<span data-ttu-id="21677-156">以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。</span><span class="sxs-lookup"><span data-stu-id="21677-156">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
+<span data-ttu-id="d3434-157">以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。</span><span class="sxs-lookup"><span data-stu-id="d3434-157">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
 
-<iframe height='1020' title='<span data-ttu-id="21677-157">Microsoft Cloud App Security情報</span><span class="sxs-lookup"><span data-stu-id="21677-157">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36053' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="21677-158">
+<iframe height='1020' title='<span data-ttu-id="d3434-158">Microsoft Cloud App Security情報</span><span class="sxs-lookup"><span data-stu-id="d3434-158">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36053' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="d3434-159">
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36053" target="_blank">新しいタブで表示する</a></span><span class="sxs-lookup"><span data-stu-id="21677-158">
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36053" target="_blank">新しいタブで表示する</a></span><span class="sxs-lookup"><span data-stu-id="d3434-159">
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36053" target="_blank">View in a new tab</a></span></span>
 
