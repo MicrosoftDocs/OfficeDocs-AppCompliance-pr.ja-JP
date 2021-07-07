@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 連絡先センター、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f6e143a7666d5f3a4cfb5744b7a27edfbe60b982
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 121d59640731b43137d1b2e9d7df987a2a78fe01
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552018"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283001"
 ---
 # <a name="contact-center"></a>コンタクト センター
 
@@ -36,8 +36,8 @@ Landis Technologies LLC から Microsoft に提供される情報:
 | ID | WA200001428 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Landis Technologies LLC |
-| パートナー Web サイトの URL | [https://landistechnologies.com/office365contactcenter/](https://landistechnologies.com/office365contactcenter/) |
-| プライバシー ポリシーの URL | [https://landistechnologies.com/legal/](https://landistechnologies.com/legal/) |
+| パートナー Web サイトの URL | [https://landistechnologies.com/](https://landistechnologies.com/) |
+| プライバシー ポリシーの URL | [https://www.landistechnologies.com/legal/](https://www.landistechnologies.com/legal/) |
 | 利用規約の URL | [https://landistechnologies.com/eula/](https://landistechnologies.com/eula/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -95,7 +95,7 @@ Landis Technologies LLC から Microsoft に提供される情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->はい。 MS Graph API 要求は、サポートの発生を支援するためにログに記録されます。 アプリケーション インサイトの既定値Microsoft Azureごとに削除されます。
+>はい。 MS Graph API 要求は、サポートの発生を支援するためにログに記録されます。 既定では、アプリケーションごとにMicrosoft Azure削除インサイトされます。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 

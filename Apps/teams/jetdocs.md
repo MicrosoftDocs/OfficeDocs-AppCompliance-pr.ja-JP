@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Jetdocs で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3826232ed265e959197bd50e29621987a66dbb7f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 649617f3e61dbcc75cd4d5206982c4cee03563be
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552058"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283021"
 ---
 # <a name="jetdocs"></a>Jetdocs
 
@@ -36,9 +36,9 @@ Jetdocs が Microsoft に提供する情報:
 | ID | WA200002236 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Jetdocs |
-| パートナー Web サイトの URL | [https://jetdocs.io/](https://jetdocs.io/) |
-| プライバシー ポリシーの URL | [https://jetdocs.io/privacy/](https://jetdocs.io/privacy/) |
-| 利用規約の URL | [https://jetdocs.io/terms/](https://jetdocs.io/terms/) |
+| パートナー Web サイトの URL | [https://jetdocs.io](https://jetdocs.io) |
+| プライバシー ポリシーの URL | [https://jetdocs.io/privacy](https://jetdocs.io/privacy) |
+| 利用規約の URL | [https://jetdocs.io/terms](https://jetdocs.io/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

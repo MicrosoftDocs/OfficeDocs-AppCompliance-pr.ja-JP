@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: officeatwork サービスで使用可能なすべてのセキュリティおよびコンプライアンス情報|CSA STAR レジストリOutlook、データ処理ポリシー、アプリ カタログMicrosoft Cloud App Security情報、およびセキュリティ/コンプライアンス情報のコンテンツ選択機能。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 692402e0fc74c65df64e7ff47df838bb834564cb
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f7aa512ec63224aebff1ef61b2b6ffc3b6793916
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552508"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282881"
 ---
 # <a name="officeatwork--content-chooser-for-outlook"></a>officeatwork |コンテンツの選択Outlook
 
@@ -32,9 +32,9 @@ officeatwork から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリ名 | officeatwork - コンテンツの選択Outlook |
 | ID | WA104380690 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の Mac 上Outlook Web 上 |
+| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の場合は、Outlook on the web |
 | パートナー会社名 | officeatwork |
-| パートナー Web サイトの URL | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
+| パートナー Web サイトの URL | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | プライバシー ポリシーの URL | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | 利用規約の URL | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 

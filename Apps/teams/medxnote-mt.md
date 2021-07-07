@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Medxnote MT で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: eca02f06a34c5a4d815bd2087826567cf4be27d6
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: ee4a304ac2844bff1fcec309fe0c96edba04208f
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551968"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282981"
 ---
 # <a name="medxnote-mt"></a>Medxnote MT
 
@@ -36,7 +36,7 @@ Medxnote が Microsoft に提供する情報:
 | ID | WA200001823 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Medxnote |
-| パートナー Web サイトの URL | [https://medxnote.com](https://medxnote.com) |
+| パートナー Web サイトの URL | [https://medxnote.com/](https://medxnote.com/) |
 | プライバシー ポリシーの URL | [https://medxnote.com/privacy-policy/](https://medxnote.com/privacy-policy/) |
 | 利用規約の URL | [https://medxnote.com/terms-conditions/](https://medxnote.com/terms-conditions/) |
 

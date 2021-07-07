@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: MIPA で使用可能なすべてのセキュリティおよびコンプライアンス情報 - 自分のパーソナル アシスタント、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a9f8609539de3ce0f630134dfac4c6b10b7d9378
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: e9637e4a1ea86df832c6d63b042b54cad8288445
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552528"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282891"
 ---
 # <a name="mipa---your-own-personal-assistant"></a>MIPA - 独自の個人用アシスタント
 
@@ -32,11 +32,11 @@ iGlobe から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリ名 | MIPA - 独自の個人用アシスタント |
 | ID | WA200000062 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の Mac 上Outlook Web 上 |
+| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の場合は、Outlook on the web |
 | パートナー会社名 | iGlobe |
-| パートナー Web サイトの URL | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
+| パートナー Web サイトの URL | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | プライバシー ポリシーの URL | [https://www.iglobecrm.com/content/legal-information](https://www.iglobecrm.com/content/legal-information) |
-| 利用規約の URL | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-iglobe-mipa) |
+| 利用規約の URL | [https://mipa.iglobe.dk/EULA](https://mipa.iglobe.dk/EULA) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

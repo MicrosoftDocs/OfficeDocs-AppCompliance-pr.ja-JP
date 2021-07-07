@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: OfficeSpace で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 216f79628f149fa3e62118b63d26bf63da16bb1f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 4d72b695fe5078922922f5a26ca81c4ab7970fc1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551877"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283171"
 ---
 # <a name="officespace"></a>OfficeSpace
 
@@ -36,8 +36,7 @@ OfficeSpace ソフトウェアから Microsoft に提供される情報:
 | ID | WA200002052 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | OfficeSpace Software |
-| パートナー Web サイトの URL | [https://www.officespacesoftware.com/](https://www.officespacesoftware.com/) |
-| [アプリケーション情報Teamsページの URL | [該当なし](N/A) |
+| パートナー Web サイトの URL | [https://www.officespacesoftware.com](https://www.officespacesoftware.com) |
 | プライバシー ポリシーの URL | [https://www.officespacesoftware.com/oss-customer-privacy-po...](https://www.officespacesoftware.com/oss-customer-privacy-policy-25052018) |
 | 利用規約の URL | [https://www.officespacesoftware.com/oss-teams-app-terms-of-...](https://www.officespacesoftware.com/oss-teams-app-terms-of-use) |
 

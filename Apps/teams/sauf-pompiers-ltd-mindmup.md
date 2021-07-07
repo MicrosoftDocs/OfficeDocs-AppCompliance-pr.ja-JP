@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MindMup、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fc8852fe84307129e40d79f2f2d29c6133a81c11
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 0bf09c9e6a144fb4415879577af4debcc5fc6713
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551797"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283061"
 ---
 # <a name="mindmup"></a>MindMup
 
@@ -38,7 +38,7 @@ Sauf Pompiers Ltd から Microsoft に提供される情報:
 | パートナー会社名 | Sauf Pompiers Ltd |
 | パートナー Web サイトの URL | [https://www.mindmup.com](https://www.mindmup.com) |
 | プライバシー ポリシーの URL | [https://www.mindmup.com/resources/privacy_policy.html](https://www.mindmup.com/resources/privacy_policy.html) |
-| 利用規約の URL | [https://www.mindmup.com/resources/terms_gold.html](https://www.mindmup.com/resources/terms_gold.html) |
+| 利用規約の URL | [https://www.mindmup.com/resources/terms_mindmup.html](https://www.mindmup.com/resources/terms_mindmup.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -63,7 +63,7 @@ Sauf Pompiers Ltd から Microsoft に提供される情報:
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-------------------|:--------------------------|:--------------------------|
->| 基本的なユーザー プロファイル情報を保持するために使用される AWS ストレージ システム。MindMup でドキュメントの共有とユーザー ドキュメントへの安全なアクセスをサポートする |  | 該当なし |
+>| 基本的なユーザー プロファイル情報を保持するために使用される AWS ストレージ システム。MindMup でドキュメントの共有とユーザー ドキュメントへの安全なアクセスをサポートする |  | N/A |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 

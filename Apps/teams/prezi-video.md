@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Prezi Video で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8b689869b4c8799d396a61ccbecd0d1b4a4e5c51
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 8bd0c290442e01f6f7a07f39bc38f2f7ece2123b
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552838"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283141"
 ---
 # <a name="prezi-video"></a>Prezi Video
 
@@ -37,8 +37,8 @@ Prezi から Microsoft に提供される情報:
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Prezi |
 | パートナー Web サイトの URL | [https://prezi.com](https://prezi.com) |
-| プライバシー ポリシーの URL | [https://prezi.com/privacy-policy/201910_NL/](https://prezi.com/privacy-policy/201910_NL/) |
-| 利用規約の URL | [https://prezi.com/terms-of-use/201910_NL/](https://prezi.com/terms-of-use/201910_NL/) |
+| プライバシー ポリシーの URL | [https://prezi.com/privacy-policy/](https://prezi.com/privacy-policy/) |
+| 利用規約の URL | [https://prezi.com/terms-of-use/](https://prezi.com/terms-of-use/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -63,7 +63,7 @@ Prezi から Microsoft に提供される情報:
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-------------------|:--------------------------|:--------------------------|
->| 詳細については、次のページをご覧ください。 https://prezi.com/privacy-policy/ |  | 次の API/SDK は、1 と共に統合するために使用されます。 Botbuilder-SDK (python): この SDK を使用して、Azure Active Directory オブジェクト ID (API によって参照される) をaad_object_id。 この情報は、ユーザーのユーザーをMicrosoft Teamsに作成された Prezi Video 関連コンテンツにマップ prezi.com。  2。 Botbuilder-js (javascript): この SDK をMicrosoft Teams特定のデータは収集されません。 |
+>| 詳細については、次のページをご覧ください。 https://prezi.com/privacy-policy/ |  | 次の API/SDK は、1 と共に統合するために使用されます。 Botbuilder-SDK (python): この SDK を使用して、Azure Active Directory オブジェクト ID (API によって参照される) をaad_object_id。 この情報は、ユーザーのユーザーをMicrosoft Teamsに作成された Prezi Video 関連コンテンツにマップ prezi.com。  2. Botbuilder-js (javascript): この SDK をMicrosoft Teams特定のデータは収集されません。 |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 

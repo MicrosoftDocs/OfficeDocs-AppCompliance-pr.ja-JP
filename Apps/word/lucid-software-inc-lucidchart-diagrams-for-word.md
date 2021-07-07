@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Lucidchart Diagrams for Word、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4e7e4bd31854f3861d60e8c740c39a11edc5bb5f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 460fc988ffcbd1da237838616910f6c5b6383ee5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552638"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283471"
 ---
 # <a name="lucidchart-diagrams-for-word"></a>Word 用の Lucidchart ダイアグラム
 
@@ -35,7 +35,7 @@ Lucid Software Inc から Microsoft に提供される情報:
 | ID | WA104380118 |
 | Office 365サポートされているクライアント | Word 2016 Mac、Word 2013 以降では、Windows 以降Word on the web |
 | パートナー会社名 | Lucid Software Inc |
-| パートナー Web サイトの URL | [https://www.lucidchart.com/](https://www.lucidchart.com/) |
+| パートナー Web サイトの URL | [https://www.lucidchart.com](https://www.lucidchart.com) |
 | プライバシー ポリシーの URL | [https://www.lucidchart.com/pages/privacy](https://www.lucidchart.com/pages/privacy) |
 | 利用規約の URL | [https://www.lucidchart.com/pages/tos](https://www.lucidchart.com/pages/tos) |
 

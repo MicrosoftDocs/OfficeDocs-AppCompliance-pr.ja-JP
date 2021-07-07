@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ピアッツァで利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b168fe7a5bc0b6f2f85c182c22667d6cfb2320ae
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a5c3e9c4d557ff73815181725e74e42433b0fb01
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552858"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283151"
 ---
 # <a name="piazza"></a>Piazza
 
@@ -36,7 +36,7 @@ ms.locfileid: "52552858"
 | ID | WA200001568 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Piazza |
-| パートナー Web サイトの URL | [https://piazza.com](https://piazza.com) |
+| パートナー Web サイトの URL | [https://www.piazza.com](https://www.piazza.com) |
 | プライバシー ポリシーの URL | [https://piazza.com/legal/privacy](https://piazza.com/legal/privacy) |
 | 利用規約の URL | [https://piazza.com/legal/terms](https://piazza.com/legal/terms) |
 

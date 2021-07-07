@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Planyway チーム カレンダー、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 69f23970621b0105d1359bb41d3539b643991448
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d712799259406f65b30a7d186763bb0addba9d1e
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553928"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283101"
 ---
 # <a name="planyway-team-calendar"></a>Planyway Team Calendar
 
@@ -36,7 +36,7 @@ Rubius が Microsoft に提供する情報:
 | ID | WA200002712 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Rubius |
-| パートナー Web サイトの URL | [https://planyway.com](https://planyway.com) |
+| パートナー Web サイトの URL | [https://rubius.com](https://rubius.com) |
 | [アプリケーション情報Teamsページの URL | [https://planyway.com](https://planyway.com) |
 | プライバシー ポリシーの URL | [https://planyway.com/legal/privacy-policy](https://planyway.com/legal/privacy-policy) |
 | 利用規約の URL | [https://planyway.com/legal/terms-of-use](https://planyway.com/legal/terms-of-use) |

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Adobe Sign for Word および PowerPoint、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: aa9b4a19f83574d7d9428bbf979ac7ee1375227c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 0c5ed86f2de8925a87b726db9c2a9946721e06c7
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552668"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283331"
 ---
 # <a name="adobe-sign-for-word-and-powerpoint"></a>Adobe Sign for Word and PowerPoint
 
@@ -34,9 +34,9 @@ Adobe Inc. から Microsoft に提供される情報:
 | ID | WA104381155 |
 | Office 365サポートされているクライアント | Word 2016 Mac の PowerPoint 2013 Service Pack 1 以降の Windows、Word 2013 Service Pack 1 以降 (Windows、Word on the web、PowerPoint on the web、PowerPoint 2016 以降) |
 | パートナー会社名 | Adobe Inc. |
-| パートナー Web サイトの URL | [https://www.adobe.com/](https://www.adobe.com/) |
-| プライバシー ポリシーの URL | [https://www.adobe.com/privacy/policies-business/esign.html](https://www.adobe.com/privacy/policies-business/esign.html) |
-| 利用規約の URL | [https://support.office.com/client/61994a3b-2c87-41c4-a88d-a...](https://support.office.com/client/61994a3b-2c87-41c4-a88d-a6455efa362d?omkt=en) |
+| パートナー Web サイトの URL | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
+| プライバシー ポリシーの URL | [https://www.adobe.com/privacy/policy.html](https://www.adobe.com/privacy/policy.html) |
+| 利用規約の URL | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

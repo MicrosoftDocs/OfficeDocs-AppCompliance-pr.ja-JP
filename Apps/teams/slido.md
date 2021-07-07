@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Slido のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b54b432cc2956498cfb142ba56789d94ab9c6253
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 96e9df1c15ebea86c7d38286ca5fd196e1e6f470
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553868"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283223"
 ---
 # <a name="slido"></a>Slido
 
@@ -39,7 +39,7 @@ Slido が Microsoft に提供する情報:
 | パートナー Web サイトの URL | [https://www.sli.do](https://www.sli.do) |
 | [アプリケーション情報Teamsページの URL | [https://www.sli.do/product](https://www.sli.do/product) |
 | プライバシー ポリシーの URL | [https://www.sli.do/terms#privacy-policy](https://www.sli.do/terms#privacy-policy) |
-| 利用規約の URL | [https://www.sli.do/terms#terms-of-service](https://www.sli.do/terms#terms-of-service) |
+| 利用規約の URL | [https://www.sli.do/terms](https://www.sli.do/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

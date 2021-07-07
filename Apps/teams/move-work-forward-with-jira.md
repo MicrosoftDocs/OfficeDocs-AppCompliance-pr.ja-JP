@@ -2,24 +2,24 @@
 title: Move Work Forward による Jira での作業の移動に関するアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/05/2021
+ms.date: 06/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Jira を使用して作業を進め、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a5ca2ec25650abba3f68a2ec543434c56d3c3d27
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: 2f0f51e841a3b22c1fe1670defe99948cc99f5a3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852090"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282961"
 ---
-# <a name="move-work-forward-with-jira"></a>Jira を使用して作業を前進する
+# <a name="move-work-forward-with-jira"></a>Move Work Forward with Jira
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 5 月 5 日</p>
+<p>開発者が最終更新日: 2021 年 6 月 10 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/79ca2e8f-dd2c-40d5-897e-1b22d41038fe" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002855" target="_blank">AppSource での表示</a>
@@ -32,10 +32,10 @@ Work Forward to Microsoft から提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | Jira を使用して作業を前進する |
+| アプリ名 | Move Work Forward with Jira |
 | ID | WA200002855 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | [作業の前に進む] |
+| パートナー会社名 | Move Work Forward |
 | パートナー Web サイトの URL | [https://www.moveworkforward.com](https://www.moveworkforward.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.moveworkforward.com/product/microsoft-teams-jir...](https://www.moveworkforward.com/product/microsoft-teams-jira-connector) |
 | プライバシー ポリシーの URL | [https://www.moveworkforward.com/privacy-policy](https://www.moveworkforward.com/privacy-policy) |

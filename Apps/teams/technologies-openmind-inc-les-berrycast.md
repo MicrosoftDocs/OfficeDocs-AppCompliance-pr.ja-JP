@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Berrycast、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 726a087d07e64f82ee44932a450a038e5bfaa858
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c3236368fbab418754e758f6009607335e593515
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551938"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283421"
 ---
 # <a name="berrycast"></a>Berrycast
 
@@ -36,9 +36,9 @@ Technologies Openmind Inc, Les to Microsoft が提供する情報:
 | ID | WA200002798 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Technologies Openmind Inc, Les |
-| パートナー Web サイトの URL | [https://berrycast.com](https://berrycast.com) |
-| プライバシー ポリシーの URL | [https://berrycast.com/privacy-policy](https://berrycast.com/privacy-policy) |
-| 利用規約の URL | [https://berrycast.com/terms-of-use](https://berrycast.com/terms-of-use) |
+| パートナー Web サイトの URL | [https://www.berrycast.com](https://www.berrycast.com) |
+| プライバシー ポリシーの URL | [https://www.berrycast.com/privacy-policy](https://www.berrycast.com/privacy-policy) |
+| 利用規約の URL | [https://www.berrycast.com/terms-of-use](https://www.berrycast.com/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -59,7 +59,7 @@ Technologies Openmind Inc, Les to Microsoft が提供する情報:
 >| People.Read | 委任 | すべてのユーザー連絡先を取得するには | 連絡先の電子メール、フィストネーム、姓、および画像は、レコードの迅速な共有アクセスを与えるために保存されます | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
 >| User.Read | 委任 | 基本情報 (姓と名と画像) を使用してユーザーを識別するには | 名を表示するには。 lastname と picture into the application | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
 >| メール | 委任 | ユーザーを識別するには | ログ記録用のユーザーを特定し、通知を送信するには | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
->| offline_access | 委任 | アクセス許可を付与したデータへのアクセスの維持 | 該当なし | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
+>| offline_access | 委任 | アクセス許可を付与したデータへのアクセスの維持 | N/A | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
 >| openid | 委任 | ユーザーを識別するには | ログ記録のユーザーを識別するには | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
 
 

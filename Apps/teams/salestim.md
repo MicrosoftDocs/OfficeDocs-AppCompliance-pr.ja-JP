@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: SalesTim のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c9094f50723c7094f895d21f8a9569dedbb5863b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: ada23e0899e67432b0718ec34f32c236e8768a18
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553918"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283071"
 ---
 # <a name="salestim"></a>SalesTim
 
@@ -35,9 +35,9 @@ SalesTim から Microsoft に提供される情報:
 | ID | WA200001393 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | SalesTim |
-| パートナー Web サイトの URL | [https://www.salestim.com](https://www.salestim.com) |
-| プライバシー ポリシーの URL | [https://www.salestim.com/legal/privacy](https://www.salestim.com/legal/privacy) |
-| 利用規約の URL | [https://www.salestim.com/legal/tos](https://www.salestim.com/legal/tos) |
+| パートナー Web サイトの URL | [https://www.salestim.com/](https://www.salestim.com/) |
+| プライバシー ポリシーの URL | [https://www.salestim.com/legal/privacy/](https://www.salestim.com/legal/privacy/) |
+| 利用規約の URL | [https://www.salestim.com/legal/tos/](https://www.salestim.com/legal/tos/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

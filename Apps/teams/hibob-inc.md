@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Hibob のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f2eae876022c6213b5f39532f44de4c127c3655e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 6b35068bec11d40cf7cf1c21a77f12f526bc35ce
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553098"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283041"
 ---
 # <a name="hibob"></a>Hibob
 
@@ -36,9 +36,9 @@ Hibob Inc. から Microsoft に提供される情報:
 | ID | WA200000765 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Hibob Inc. |
-| パートナー Web サイトの URL | [https://www.hibob.com/](https://www.hibob.com/) |
-| プライバシー ポリシーの URL | [https://www.hibob.com/privacy-policy](https://www.hibob.com/privacy-policy) |
-| 利用規約の URL | [https://www.hibob.com/terms-and-conditions](https://www.hibob.com/terms-and-conditions) |
+| パートナー Web サイトの URL | [https://www.hibob.com](https://www.hibob.com) |
+| プライバシー ポリシーの URL | [https://www.hibob.com/privacy-policy/](https://www.hibob.com/privacy-policy/) |
+| 利用規約の URL | [https://www.hibob.com/terms-and-conditions/](https://www.hibob.com/terms-and-conditions/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

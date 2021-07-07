@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: LuckyDraw、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5ba1afff33ce27c6f520b34f73423c734c8859ec
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 24990484921465f2ad6a761efd6b3f3686344cc7
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551267"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283401"
 ---
 # <a name="luckydraw"></a>LuckyDraw
 
@@ -36,7 +36,7 @@ Tony Xia から Microsoft に提供される情報:
 | ID | WA200000091 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Tony Xia |
-| パートナー Web サイトの URL | [https://luckydraw.teetee365.com](https://luckydraw.teetee365.com) |
+| パートナー Web サイトの URL | [https://luckydraw.teetee365.com/](https://luckydraw.teetee365.com/) |
 | [アプリケーション情報Teamsページの URL | [https://luckydraw4web4prd.z7.web.core.windows.net/](https://luckydraw4web4prd.z7.web.core.windows.net/) |
 | プライバシー ポリシーの URL | [https://luckydraw.teetee365.com/privacy](https://luckydraw.teetee365.com/privacy) |
 | 利用規約の URL | [https://luckydraw.teetee365.com/terms](https://luckydraw.teetee365.com/terms) |
@@ -77,7 +77,7 @@ Tony Xia から Microsoft に提供される情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->EUII は状況によってはログに記録されます。 たとえば、ユーザーは幸運な描画アクティビティを開始します。 アプリは、データ保持が既定で 90 日間である Azure Application Insights を使用しています。
+>EUII は状況によってはログに記録されます。 たとえば、ユーザーは幸運な描画アクティビティを開始します。 アプリは Azure Application を使用インサイトデータ保持が既定で 90 日間です。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 

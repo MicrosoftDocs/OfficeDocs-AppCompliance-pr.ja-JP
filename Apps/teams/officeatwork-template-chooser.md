@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Template Chooser、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6af7611aebaf90acfc1785ad5e5cbba3e58f3871
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 89bf2f71d99580888dbb0d938c4f5a909d0c2175
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552888"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283181"
 ---
 # <a name="template-chooser"></a>Template Chooser
 
@@ -35,7 +35,7 @@ officeatwork から Microsoft に提供される情報:
 | ID | WA200000110 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | officeatwork |
-| パートナー Web サイトの URL | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
+| パートナー Web サイトの URL | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | [アプリケーション情報Teamsページの URL | [https://links.officeatwork.com/officeatwork-apps](https://links.officeatwork.com/officeatwork-apps) |
 | プライバシー ポリシーの URL | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | 利用規約の URL | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |

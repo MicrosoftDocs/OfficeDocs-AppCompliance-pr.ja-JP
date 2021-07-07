@@ -2,23 +2,23 @@
 title: 優先度マトリックスのアプリケーション情報 - Appfluence Inc によるメールをタスクに変換する
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/16/2021
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Priority Matrix で使用可能なすべてのセキュリティおよびコンプライアンス情報 - CSA STAR レジストリのタスク、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に電子メールを変換します。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9843ece5a330f4a8b8adb6f1388a4a26e12dbe21
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 45ce05ada25cde937488b7372262dbb63c90f66c
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553758"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282921"
 ---
 # <a name="priority-matrix---turn-emails-into-tasks"></a>優先度マトリックス - メールをタスクに変換する
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>開発者が最終更新日: 2021 年 4 月 16 日</p>
+<p>開発者が最終更新日: 2021 年 6 月 23 日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104381735" target="_blank">AppSource での表示</a>
 
@@ -32,10 +32,10 @@ Appfluence Inc から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリ名 | 優先度マトリックス - メールをタスクに変換する |
 | ID | WA104381735 |
-| Office 365サポートされているクライアント | Outlook 2016、Windows Outlook 2016以降の Mac、Outlook on iOS、Outlook android、Outlook web |
+| Office 365サポートされているクライアント | Outlook 2016、Windows以降Outlook 2016 Mac、iOS Outlook、Android Outlook、Outlook on the web |
 | パートナー会社名 | Appfluence Inc |
-| パートナー Web サイトの URL | [https://appfluence.com/](https://appfluence.com/) |
-| プライバシー ポリシーの URL | [https://appfluence.com/privacy](https://appfluence.com/privacy) |
+| パートナー Web サイトの URL | [https://appfluence.com/office-365-project-management-integr...](https://appfluence.com/office-365-project-management-integration/) |
+| プライバシー ポリシーの URL | [https://appfluence.com/privacy/](https://appfluence.com/privacy/) |
 | 利用規約の URL | [https://appfluence.com/eula](https://appfluence.com/eula) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -117,7 +117,7 @@ Appfluence Inc から Microsoft に提供される情報:
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |

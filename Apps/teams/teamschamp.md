@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: TeamsChamp で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d7e48aa2c60e33f22de04c103b7a8727d323b10a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 44d3d36d48e6af741cb25154e5a954b8366af9a3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551397"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283441"
 ---
 # <a name="teamschamp"></a>TeamsChamp
 
@@ -36,7 +36,7 @@ TeamsChamp から Microsoft に提供される情報:
 | ID | WA200001487 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | TeamsChamp |
-| パートナー Web サイトの URL | [https://www.teamschamp.com/](https://www.teamschamp.com/) |
+| パートナー Web サイトの URL | [https://www.encamina.com](https://www.encamina.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.teamschamp.com](https://www.teamschamp.com) |
 | プライバシー ポリシーの URL | [https://www.teamschamp.com/privacy-policy/](https://www.teamschamp.com/privacy-policy/) |
 | 利用規約の URL | [https://www.teamschamp.com/terms/](https://www.teamschamp.com/terms/) |

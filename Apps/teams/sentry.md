@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sentry で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7df6fe458724bbd7162c0bcfc2cdda95176a0e70
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 4795f68da9e5b0eb3fa283494f547b7c9ae43f6d
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553898"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283241"
 ---
 # <a name="sentry"></a>Sentry
 
@@ -36,7 +36,7 @@ Sentry から Microsoft に提供される情報:
 | ID | WA200002106 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Sentry |
-| パートナー Web サイトの URL | [https://sentry.io/](https://sentry.io/) |
+| パートナー Web サイトの URL | [https://sentry.io](https://sentry.io) |
 | [アプリケーション情報Teamsページの URL | [https://docs.sentry.io/product/integrations/msteams/](https://docs.sentry.io/product/integrations/msteams/) |
 | プライバシー ポリシーの URL | [https://sentry.io/privacy/](https://sentry.io/privacy/) |
 | 利用規約の URL | [https://sentry.io/terms/](https://sentry.io/terms/) |
@@ -89,7 +89,7 @@ Sentry から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->該当なし
+>N/A
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 

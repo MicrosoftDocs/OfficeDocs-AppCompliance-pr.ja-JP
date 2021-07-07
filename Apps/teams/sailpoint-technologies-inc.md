@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: セイルポイント、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: befd216c19352c4b812703fe7d59d2c3fd3fd7d7
-ms.sourcegitcommit: dafa6701f28c66f003efaf2e3a70d61dc3240955
+ms.openlocfilehash: bcde5fdd363b217adabcdfd91074dedfcbe73b88
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52790054"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283081"
 ---
 # <a name="sailpoint"></a>Sailpoint
 
@@ -36,7 +36,7 @@ SailPoint Technologies, Inc. から Microsoft に提供される情報:
 | ID | WA200002761 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | SailPoint Technologies, Inc. |
-| パートナー Web サイトの URL | [sailpoint.com](sailpoint.com) |
+| パートナー Web サイトの URL | [https://sailpoint.com](https://sailpoint.com) |
 | プライバシー ポリシーの URL | [https://www.sailpoint.com/legal/privacy/](https://www.sailpoint.com/legal/privacy/) |
 | 利用規約の URL | [https://www.sailpoint.com/legal/customer-agreements/](https://www.sailpoint.com/legal/customer-agreements/) |
 
@@ -82,7 +82,7 @@ SailPoint Technologies, Inc. から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->該当なし
+>N/A
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ngDesk で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c527842a226a4029f8c1d0ad842ef762c47ed85f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 307c22805fdb3f0b92d65fa5cc0b754d28e34519
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553768"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282931"
 ---
 # <a name="ngdesk"></a>ngDesk
 
@@ -33,11 +33,11 @@ ms.locfileid: "52553768"
 |:----------------|:-------------|
 | アプリ名 | ngDesk |
 | ID | WA200002505 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の Mac 上Outlook Web 上 |
+| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の場合は、Outlook on the web |
 | パートナー会社名 | すべての Blue Solutions |
-| パートナー Web サイトの URL | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
-| プライバシー ポリシーの URL | [https://ngdesk.com/privacy-policy-office-365](https://ngdesk.com/privacy-policy-office-365) |
-| 利用規約の URL | [https://ngdesk.com/subscription-agreement](https://ngdesk.com/subscription-agreement) |
+| パートナー Web サイトの URL | [https://ngdesk.com](https://ngdesk.com) |
+| プライバシー ポリシーの URL | [https://ngdesk.com/privacy-policy-office-365/](https://ngdesk.com/privacy-policy-office-365/) |
+| 利用規約の URL | [https://ngdesk.com/terms-of-service/](https://ngdesk.com/terms-of-service/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

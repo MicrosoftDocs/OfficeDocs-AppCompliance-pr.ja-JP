@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: officeatwork サービスで使用可能なすべてのセキュリティおよびコンプライアンス情報|CSA STAR Office、データ処理ポリシー、アプリ カタログ情報Microsoft Cloud App Securityセキュリティ/コンプライアンス情報をアップロードします。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 15b81d268f091a702bcda34fdc15d25161098e9d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 872034760bea88cfe6e8b75b02d19819a6686b46
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552608"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283451"
 ---
 # <a name="officeatwork--uploader-for-office"></a>officeatwork |ユーザーのアップロードOffice
 
@@ -34,7 +34,7 @@ officeatwork から Microsoft に提供される情報:
 | ID | WA104381430 |
 | Office 365サポートされているクライアント | Word on iPad、Word 2016 Mac、Word 2016以降の場合は Windows、Word on the web |
 | パートナー会社名 | officeatwork |
-| パートナー Web サイトの URL | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
+| パートナー Web サイトの URL | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | プライバシー ポリシーの URL | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | 利用規約の URL | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 

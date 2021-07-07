@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SmartWork、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4e757f0d927d10ecbccb406d8d4071b52b234deb
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f6ed1a9278713153be2ef14d61ad56453ee03fa3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552788"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283201"
 ---
 # <a name="smartwork"></a>SmartWork
 
@@ -36,7 +36,7 @@ Intumit の SmartWork が Microsoft に提供する情報:
 | ID | WA200001149 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | SmartWork of Intumit |
-| パートナー Web サイトの URL | [https://www.intumit.com](https://www.intumit.com) |
+| パートナー Web サイトの URL | [https://www.intumit.com/english/](https://www.intumit.com/english/) |
 | プライバシー ポリシーの URL | [https://www.intumit.com/privacy.html](https://www.intumit.com/privacy.html) |
 | 利用規約の URL | [https://www.intumit.com/english/TermsOfUse.html](https://www.intumit.com/english/TermsOfUse.html) |
 
@@ -78,7 +78,7 @@ Intumit の SmartWork が Microsoft に提供する情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->いいえ。 会話中に、セッション モードを使用して制御します。 id を使用して db 内のアイテムに対応し、データにアクセスします。 ユーザーの情報は特にログに記録しない
+>その必要はありません。 会話中に、セッション モードを使用して制御します。 id を使用して db 内のアイテムに対応し、データにアクセスします。 ユーザーの情報は特にログに記録しない
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 

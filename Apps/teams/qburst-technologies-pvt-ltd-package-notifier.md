@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: パッケージ通知機能、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 32a5d38cf65162adfcf236d955d881b77cba0ec7
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 76f042a43f4a14b7ee1de71a9bb70a5e646413d4
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552818"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283131"
 ---
 # <a name="package-notifier"></a>Package Notifier
 
@@ -36,8 +36,7 @@ QBURST TECHNOLOGIES PVT LTD から Microsoft に提供される情報:
 | ID | WA200002737 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | QBURST TECHNOLOGIES PVT LTD |
-| パートナー Web サイトの URL | [https://package-notifier.qburst.in](https://package-notifier.qburst.in) |
-| [アプリケーション情報Teamsページの URL | [該当なし](N/A) |
+| パートナー Web サイトの URL | [https://www.qburst.in](https://www.qburst.in) |
 | プライバシー ポリシーの URL | [https://package-notifier.qburst.in/privacy-policy.html](https://package-notifier.qburst.in/privacy-policy.html) |
 | 利用規約の URL | [https://package-notifier.qburst.in/terms-and-conditions.html](https://package-notifier.qburst.in/terms-and-conditions.html) |
 
@@ -88,7 +87,7 @@ QBURST TECHNOLOGIES PVT LTD から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->該当なし
+>N/A
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 

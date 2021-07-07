@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: トリビュートの利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 57c0c47bd47a23efb9cf93247988b3a374690ede
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 589dcefe68d389ecfc2a4ba3f51998878358c58f
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551177"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283381"
 ---
 # <a name="tribute"></a>Tribute
 
@@ -38,7 +38,7 @@ ms.locfileid: "52551177"
 | パートナー会社名 | Tribute Co. |
 | パートナー Web サイトの URL | [https://www.tributementorship.com](https://www.tributementorship.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.tributementorship.com/how-it-works](https://www.tributementorship.com/how-it-works) |
-| プライバシー ポリシーの URL | [https://www.tributementorship.com/privacy](https://www.tributementorship.com/privacy) |
+| プライバシー ポリシーの URL | [https://www.tributementorship.com/privacy ](https://www.tributementorship.com/privacy ) |
 | 利用規約の URL | [https://www.tributementorship.com/terms](https://www.tributementorship.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 127b45d805b02136ba99f56aecfc583f30bdda25
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3b4dee1e024940df3d9c81bdb2b2345a8421c9db
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553018"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283011"
 ---
 # <a name="klaxoon"></a>Klaxoon
 
@@ -37,8 +37,8 @@ Klaxoon から Microsoft に提供される情報:
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Klaxoon |
 | パートナー Web サイトの URL | [https://klaxoon.com](https://klaxoon.com) |
-| プライバシー ポリシーの URL | [https://klaxoon.com/privacy](https://klaxoon.com/privacy) |
-| 利用規約の URL | [https://klaxoon.com/static/terms.pdf](https://klaxoon.com/static/terms.pdf) |
+| プライバシー ポリシーの URL | [https://klaxoon.com/privacy-policy](https://klaxoon.com/privacy-policy) |
+| 利用規約の URL | [https://static.klaxoon.com/static/_/terms-8def9a45fe5aedd06...](https://static.klaxoon.com/static/_/terms-8def9a45fe5aedd06814d1c3354495b2.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -78,7 +78,7 @@ Klaxoon から Microsoft に提供される情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->はい
+>○
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 

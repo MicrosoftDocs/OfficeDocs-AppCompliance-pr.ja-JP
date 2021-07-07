@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Learn、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: acb0b07f25bc3fa2e86246a061ff73d3152b9810
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 798bd76f786119863f9ff2046e72daa15bcb0696
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550857"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283351"
 ---
 # <a name="learn"></a>詳細
 
@@ -36,7 +36,7 @@ Witivio が Microsoft に提供する情報:
 | ID | WA200001308 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Witivio |
-| パートナー Web サイトの URL | [https://www.witivio.com/learn](https://www.witivio.com/learn) |
+| パートナー Web サイトの URL | [https://www.witivio.com](https://www.witivio.com) |
 | プライバシー ポリシーの URL | [https://www.witivio.com/en/privacy](https://www.witivio.com/en/privacy) |
 | 利用規約の URL | [https://witivio.com/en/terms-of-use](https://witivio.com/en/terms-of-use) |
 
@@ -56,10 +56,10 @@ Witivio が Microsoft に提供する情報:
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委任 | 該当なし | 承認の UPN と AAD ID を収集します。 | 8c5c0060-2892-4355-b0db-661f206028a9 |
->| User.ReadBasic.All | 委任 | 該当なし | 承認の UPN と AAD ID を収集します。 | 8c5c0060-2892-4355-b0db-661f206028a9 |
->| openid | 委任 | 該当なし | 承認の UPN と AAD ID を収集します。 | 8c5c0060-2892-4355-b0db-661f206028a9 |
->| profile | 委任 | 該当なし | 承認の UPN と AAD ID を収集します。 | 8c5c0060-2892-4355-b0db-661f206028a9 |
+>| User.Read | 委任 | N/A | 承認の UPN と AAD ID を収集します。 | 8c5c0060-2892-4355-b0db-661f206028a9 |
+>| User.ReadBasic.All | 委任 | N/A | 承認の UPN と AAD ID を収集します。 | 8c5c0060-2892-4355-b0db-661f206028a9 |
+>| openid | 委任 | N/A | 承認の UPN と AAD ID を収集します。 | 8c5c0060-2892-4355-b0db-661f206028a9 |
+>| profile | 委任 | N/A | 承認の UPN と AAD ID を収集します。 | 8c5c0060-2892-4355-b0db-661f206028a9 |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス

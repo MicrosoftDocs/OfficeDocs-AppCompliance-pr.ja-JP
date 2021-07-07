@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: EdMill の利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0fe3cef0358d5dca0e78888be9f6f57a53e87bd4
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 2e0737b48d027b51d9dc44f57b9d9cc3a11610bd
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552918"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282951"
 ---
 # <a name="edmill"></a>EdMill
 
@@ -36,10 +36,10 @@ My-Serious-Game から Microsoft に提供される情報:
 | ID | WA200002622 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | My-Serious-Game |
-| パートナー Web サイトの URL | [https://www.edmill.com/](https://www.edmill.com/) |
+| パートナー Web サイトの URL | [https://www.my-serious-game.com](https://www.my-serious-game.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.edmill.com](https://www.edmill.com) |
 | プライバシー ポリシーの URL | [https://app.edmill.com/privacy-policy](https://app.edmill.com/privacy-policy) |
-| 利用規約の URL | [https://www.edmill.com/cgu/](https://www.edmill.com/cgu/) |
+| 利用規約の URL | [https://app.edmill.com/static/cgv.pdf](https://app.edmill.com/static/cgv.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Navo で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ef2c71df0559a5a3db4612df5acf86835efe1a71
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 11346ff15831615ac6b617d8d14f83f38c7de0a5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553938"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283112"
 ---
 # <a name="navo"></a>Navo
 
@@ -36,7 +36,7 @@ Regroove Solutions から Microsoft に提供される情報:
 | ID | WA200001047 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Regroove Solutions |
-| パートナー Web サイトの URL | [https://getnavo.com](https://getnavo.com) |
+| パートナー Web サイトの URL | [https://regroove.ca ; https://getnavo.com](https://regroove.ca ; https://getnavo.com) |
 | プライバシー ポリシーの URL | [https://getnavo.com/privacy-policy/](https://getnavo.com/privacy-policy/) |
 | 利用規約の URL | [https://getnavo.com/terms-of-service/](https://getnavo.com/terms-of-service/) |
 
@@ -79,13 +79,13 @@ Regroove Solutions から Microsoft に提供される情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->はい、Application Insights では、ユーザー認証 ID とユーザー アカウント ID (テナンシー ID) を格納します。
+>はい、アプリケーション インサイトユーザー認証 ID とユーザー アカウント ID (テナンシー ID) を保存します。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->(Stripe や Application Insights のようなサービスを介してではなく) 自分で保存するデータはすべて、Azure データベースCosmosされます。 すべての管理者は 2FA を使用し、アクセスは従業員のサブセットに制限されます。
+>(Stripe や Application インサイト のようなサービスを通じてではなく) 自分自身で保存するデータはすべて、Azure Cosmos データベースにCosmosされます。 すべての管理者は 2FA を使用し、アクセスは従業員のサブセットに制限されます。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 

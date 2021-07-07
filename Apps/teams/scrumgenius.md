@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ScrumGenius、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ba3b54f7d99672d657b200bf36725d0c7bf03d83
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: fb8b30ddc27b512a5731ef3ec42cb76ed097c56c
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553908"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283051"
 ---
 # <a name="scrumgenius"></a>ScrumGenius
 
@@ -36,7 +36,7 @@ ScrumGenius が Microsoft に提供する情報:
 | ID | WA104381097 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | ScrumGenius |
-| パートナー Web サイトの URL | [https://scrumgenius.com/](https://scrumgenius.com/) |
+| パートナー Web サイトの URL | [https://scrumgenius.com](https://scrumgenius.com) |
 | プライバシー ポリシーの URL | [https://scrumgenius.com/privacy/](https://scrumgenius.com/privacy/) |
 | 利用規約の URL | [https://scrumgenius.com/tos/](https://scrumgenius.com/tos/) |
 
@@ -79,7 +79,7 @@ ScrumGenius が Microsoft に提供する情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->いいえ。 ログの内部 ID にユーザーを関連付けします。
+>その必要はありません。 ログの内部 ID にユーザーを関連付けします。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 

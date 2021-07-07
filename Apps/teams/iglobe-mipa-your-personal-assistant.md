@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: MIPA で使用可能なすべてのセキュリティおよびコンプライアンス情報 - パーソナル アシスタント、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3c6e09d38057c2a84196982a94ea8f938b295fbe
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1f203cb6c99584fb8633fcfaafe9155a97d300fe
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552088"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283031"
 ---
 # <a name="mipa---your-personal-assistant"></a>MIPA - Your Personal Assistant
 
@@ -35,7 +35,7 @@ iGlobe から Microsoft に提供される情報:
 | ID | WA200000148 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | iGlobe |
-| パートナー Web サイトの URL | [https://mipa.iglobe.dk/](https://mipa.iglobe.dk/) |
+| パートナー Web サイトの URL | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | [アプリケーション情報Teamsページの URL | [https://mipa.iglobe.dk/Support](https://mipa.iglobe.dk/Support) |
 | プライバシー ポリシーの URL | [https://instassl.iglobecrm.com/legal-information](https://instassl.iglobecrm.com/legal-information) |
 | 利用規約の URL | [https://mipa.iglobe.dk/EULA](https://mipa.iglobe.dk/EULA) |

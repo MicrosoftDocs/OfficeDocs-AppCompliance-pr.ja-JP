@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: qChange Leader Experience、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 312240988228c487ea9d616ba0e62fe58d5ee8f1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 47a13e3336c443a861bf2c62d074767bf36eb816
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551946"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283121"
 ---
-# <a name="qchange-leader-experience"></a>qChange リーダー エクスペリエンス
+# <a name="qchange-leader-experience"></a>qChange Leader Experience
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,11 +32,11 @@ qChange Software Solution, Inc. から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | qChange リーダー エクスペリエンス |
+| アプリ名 | qChange Leader Experience |
 | ID | WA200001639 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | qChange Software Solution, Inc. |
-| パートナー Web サイトの URL | [https://www.qchange.com/](https://www.qchange.com/) |
+| パートナー Web サイトの URL | [https://qchange.com](https://qchange.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.qchange.com/leader-experience](https://www.qchange.com/leader-experience) |
 | プライバシー ポリシーの URL | [https://www.qchange.com/privacy-policy](https://www.qchange.com/privacy-policy) |
 | 利用規約の URL | [https://www.qchange.com/terms-of-service](https://www.qchange.com/terms-of-service) |

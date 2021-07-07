@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: VisualSP で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c4acb8087cb69ae70b4734ec0230830ac6fd377e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 7f8fb55c479f6730643d85ac866703f59d1f621e
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550937"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283361"
 ---
 # <a name="visualsp"></a>VisualSP
 
@@ -36,9 +36,9 @@ VisualSP から Microsoft に提供される情報:
 | ID | WA200001426 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | VisualSP |
-| パートナー Web サイトの URL | [https://www.visualsp.com](https://www.visualsp.com) |
+| パートナー Web サイトの URL | [https://visualsp.com](https://visualsp.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.visualsp.com/visualsp-for-microsoft-teams/](https://www.visualsp.com/visualsp-for-microsoft-teams/) |
-| プライバシー ポリシーの URL | [https://www.visualsp.com/company/privacy-policy/](https://www.visualsp.com/company/privacy-policy/) |
+| プライバシー ポリシーの URL | [https://www.visualsp.com/company/privacy-policy](https://www.visualsp.com/company/privacy-policy) |
 | 利用規約の URL | [https://www.visualsp.com/terms-of-service/](https://www.visualsp.com/terms-of-service/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -81,7 +81,7 @@ VisualSP から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->該当なし
+>N/A
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
