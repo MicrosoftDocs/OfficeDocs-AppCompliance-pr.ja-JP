@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Go1 で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f812e25e3e5b894d7b54da886637513cb677702a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 39501f6cb09502287dcff26acab4d8720b5fb6a0
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553118"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281279"
 ---
 # <a name="go1"></a>Go1
 
@@ -36,7 +36,7 @@ Go1 から Microsoft に提供される情報:
 | ID | WA200001484 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Go1 |
-| パートナー Web サイトの URL | [https://www.go1.com/](https://www.go1.com/) |
+| パートナー Web サイトの URL | [https://www.go1.com/user/login](https://www.go1.com/user/login) |
 | プライバシー ポリシーの URL | [https://www.go1.com/en-au/terms/privacy-policy](https://www.go1.com/en-au/terms/privacy-policy) |
 | 利用規約の URL | [https://www.go1.com/en-au/terms/user-terms](https://www.go1.com/en-au/terms/user-terms) |
 
@@ -67,7 +67,7 @@ Go1 から Microsoft に提供される情報:
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-------------------|:--------------------------|:--------------------------|
->| コース コンテンツの再生時に、ユーザーの名と名を GO1 のコンテンツ プロバイダーと共有できます。 これは、コンテンツ プロバイダーがパーソナライズされた学習エクスペリエンスを提供するために必要な場合にのみ共有されます。 |  | 該当なし |
+>| コース コンテンツの再生時に、ユーザーの名と名を GO1 のコンテンツ プロバイダーと共有できます。 これは、コンテンツ プロバイダーがパーソナライズされた学習エクスペリエンスを提供するために必要な場合にのみ共有されます。 |  | N/A |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 

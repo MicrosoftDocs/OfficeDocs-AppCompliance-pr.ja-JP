@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: TeamGether、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4856abc549692b7963c9a21c2c073133626a78ea
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1c992ffe3240ed8775832240ab9107debe12b9f2
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553353"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281910"
 ---
 # <a name="teamgether"></a>TeamGether
 
@@ -38,8 +38,8 @@ EFFENCY が Microsoft に提供する情報:
 | パートナー会社名 | EFFENCY |
 | パートナー Web サイトの URL | [https://www.effency.fr](https://www.effency.fr) |
 | [アプリケーション情報Teamsページの URL | [https://www.effency.fr/teams/](https://www.effency.fr/teams/) |
-| プライバシー ポリシーの URL | [https://www.effency.fr/protection-des-donnees](https://www.effency.fr/protection-des-donnees) |
-| 利用規約の URL | [https://www.effency.fr/conditions-generales](https://www.effency.fr/conditions-generales) |
+| プライバシー ポリシーの URL | [https://www.effency.fr/protection-des-donnees/](https://www.effency.fr/protection-des-donnees/) |
+| 利用規約の URL | [https://www.effency.fr/conditions-generales/](https://www.effency.fr/conditions-generales/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

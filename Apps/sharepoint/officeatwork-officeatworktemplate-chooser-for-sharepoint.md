@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: officeatwork サービスで使用可能なすべてのセキュリティおよびコンプライアンス情報|テンプレートの選択SharePoint、そのデータ処理ポリシー、CSA STAR レジストリMicrosoft Cloud App Securityのアプリ カタログ情報、およびセキュリティ/コンプライアンス情報です。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7d114cfdc01d155897fd5ebb0c25134ff6fabeae
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 4ca57d9a566a058e8af0ae2929333361eea70f90
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553478"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281499"
 ---
 # <a name="officeatwork--template-chooser-for-sharepoint"></a>officeatwork |テンプレートのテンプレート選択SharePoint
 
@@ -34,7 +34,7 @@ officeatwork から Microsoft に提供される情報:
 | ID | WA200001923 |
 | Office 365サポートされているクライアント | SharePoint 2016 以降 |
 | パートナー会社名 | officeatwork |
-| パートナー Web サイトの URL | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
+| パートナー Web サイトの URL | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | プライバシー ポリシーの URL | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | 利用規約の URL | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 

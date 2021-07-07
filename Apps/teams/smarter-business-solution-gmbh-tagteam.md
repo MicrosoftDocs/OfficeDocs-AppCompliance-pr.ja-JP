@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: タグチームで利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5c4976272cd5ee2f280544bf1bb6fb674ca5297d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b4e3fcf89e816c115887fa5bd0df38cc95d4ae2f
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553343"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280949"
 ---
 # <a name="tagteam"></a>TagTeam
 
@@ -36,7 +36,7 @@ Smarter Business Solution GmbH から Microsoft に提供される情報:
 | ID | WA200002829 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Smarter Business Solution GmbH |
-| パートナー Web サイトの URL | [https://www.smarterbusiness.at/en](https://www.smarterbusiness.at/en) |
+| パートナー Web サイトの URL | [https://www.smarterbusiness.at](https://www.smarterbusiness.at) |
 | [アプリケーション情報Teamsページの URL | [https://www.smarterbusiness.at/en/tagteam-help](https://www.smarterbusiness.at/en/tagteam-help) |
 | プライバシー ポリシーの URL | [https://www.smarterbusiness.at/en/add-in-privacy-policy](https://www.smarterbusiness.at/en/add-in-privacy-policy) |
 | 利用規約の URL | [https://www.smarterbusiness.at/en/terms-of-use-for-tagteam](https://www.smarterbusiness.at/en/terms-of-use-for-tagteam) |

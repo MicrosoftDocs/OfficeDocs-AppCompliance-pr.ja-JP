@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Office 365 Planner の iPlanner レポート ツールで使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a577fcc75982703bfae0de740a7e69d9d13e509a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 2b9797eb2b4ec271804711473a77f26a9cce4e13
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52548767"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281149"
 ---
 # <a name="iplanner-reporting-tool-for-office-365-planner"></a>iPlanner レポート ツール for Office 365 Planner
 
@@ -34,9 +34,9 @@ iGlobe から Microsoft に提供される情報:
 | ID | WA104380686 |
 | Office 365サポートされているクライアント | Excel 2016 Mac の Windows、Excel on the web、Excel 2016以降の場合 |
 | パートナー会社名 | iGlobe |
-| パートナー Web サイトの URL | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
-| プライバシー ポリシーの URL | [https://iglobecrm.com/content/legal-information](https://iglobecrm.com/content/legal-information) |
-| 利用規約の URL | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474836912/Product_42949680354/Asset_9d620695-979f-49e4-bc56-98259b0cdeb2/EULAPlanner.pdf) |
+| パートナー Web サイトの URL | [https://iglobecrm.com/](https://iglobecrm.com/) |
+| プライバシー ポリシーの URL | [https://instassl.iglobecrm.com/legal-information](https://instassl.iglobecrm.com/legal-information) |
+| 利用規約の URL | [https://mipa.iglobe.dk/EULA](https://mipa.iglobe.dk/EULA) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

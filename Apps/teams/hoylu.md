@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Hoylu で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4b63b3bd9cfec20a665d7fd112d2db09c280b594
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b48adaf3c3816bea363b0fd8e6581f061a5eaed1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553088"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281860"
 ---
 # <a name="hoylu"></a>Hoylu
 
@@ -37,8 +37,8 @@ Hoylu が Microsoft に提供する情報:
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Hoylu |
 | パートナー Web サイトの URL | [https://hoylu.com](https://hoylu.com) |
-| プライバシー ポリシーの URL | [https://hoylu.com/privacy-policy](https://hoylu.com/privacy-policy) |
-| 利用規約の URL | [https://hoylu.com/terms-of-use](https://hoylu.com/terms-of-use) |
+| プライバシー ポリシーの URL | [https://www.hoylu.com/privacy-policy/](https://www.hoylu.com/privacy-policy/) |
+| 利用規約の URL | [https://www.hoylu.com/terms-of-use/](https://www.hoylu.com/terms-of-use/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

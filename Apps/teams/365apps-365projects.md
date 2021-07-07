@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 365Projects で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d760c1c5bacf37fa23e26f4a9a15eb7dbbd75bb1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 07ef4c5e5e71ee8034c75869b97d5c8924f502fd
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553468"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281489"
 ---
 # <a name="365projects"></a>365Projects
 
@@ -36,7 +36,7 @@ Microsoft に 365Apps によって提供される情報:
 | ID | WA200002160 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | 365Apps |
-| パートナー Web サイトの URL | [https://365projects.app](https://365projects.app) |
+| パートナー Web サイトの URL | [https://365apps.com.au](https://365apps.com.au) |
 | [アプリケーション情報Teamsページの URL | [https://365projects.app](https://365projects.app) |
 | プライバシー ポリシーの URL | [https://365projects.app/privacy](https://365projects.app/privacy) |
 | 利用規約の URL | [https://365projects.app/eula](https://365projects.app/eula) |

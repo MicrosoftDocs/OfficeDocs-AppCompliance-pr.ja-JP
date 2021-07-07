@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Jira Cloud for Excel、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cbed2eb7aada40d5631391a9549600a4af3edebf
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 73212faa010d95233281a0cf7f120e9ee0fd1ffb
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52549827"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281199"
 ---
 # <a name="jira-cloud-for-excel"></a>Jira Cloud for Excel
 
@@ -35,9 +35,9 @@ Microsoft に提供される Atlassian.com 情報:
 | ID | WA200000556 |
 | Office 365サポートされているクライアント | Excel 2016 Mac の場合は、Excel 2016または以降の mac でWindows、Excel on the web |
 | パートナー会社名 | Atlassian.com |
-| パートナー Web サイトの URL | [https://www.atlassian.com/](https://www.atlassian.com/) |
-| プライバシー ポリシーの URL | [https://www.atlassian.com/legal/privacy-policy](https://www.atlassian.com/legal/privacy-policy) |
-| 利用規約の URL | [https://www.microsoft.com/en-us/store/standard-application-...](https://www.microsoft.com/en-us/store/standard-application-license-terms) |
+| パートナー Web サイトの URL | [https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira) |
+| プライバシー ポリシーの URL | [https://www.msteams-atlassian.com/privacy-policy/](https://www.msteams-atlassian.com/privacy-policy/) |
+| 利用規約の URL | [https://www.msteams-atlassian.com/legal/](https://www.msteams-atlassian.com/legal/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

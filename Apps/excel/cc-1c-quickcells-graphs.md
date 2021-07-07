@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: QuickCells Graphs、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b92b95440d82639e1fbd0a126e0c10d9076a74f5
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 7db491204c22eb49eb155d29e7656c61a1721c2d
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52549787"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281189"
 ---
 # <a name="quickcells-graphs"></a>QuickCells グラフ
 
@@ -35,7 +35,7 @@ CC-1C から Microsoft に提供される情報:
 | ID | WA200001574 |
 | Office 365サポートされているクライアント | Excel 2016 Mac の場合は、Excel 2016または以降の mac でWindows、Excel on the web |
 | パートナー会社名 | CC-1C |
-| パートナー Web サイトの URL | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
+| パートナー Web サイトの URL | [https://quickcells.co](https://quickcells.co) |
 | プライバシー ポリシーの URL | [https://quickcells.co/legal/privacy](https://quickcells.co/legal/privacy) |
 | 利用規約の URL | [https://quickcells.co/legal/tos](https://quickcells.co/legal/tos) |
 

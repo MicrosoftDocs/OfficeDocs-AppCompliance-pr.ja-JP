@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: IndustryIntel で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6e2c1c35d0054df773b83fa2d31a95daceaee585
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a213e68c58f2f3aea6f9bc1e6c8568fcbdefc141
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553068"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281249"
 ---
 # <a name="industryintel"></a>IndustryIntel
 
@@ -36,8 +36,8 @@ ms.locfileid: "52553068"
 | ID | WA200001907 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Industry Intelligence Team |
-| パートナー Web サイトの URL | [https://www.industryintel.com/public:about-us/our-team](https://www.industryintel.com/public:about-us/our-team) |
-| プライバシー ポリシーの URL | [https://www.industryintel.com/public:legal/privacy-policy-m...](https://www.industryintel.com/public:legal/privacy-policy-msteams) |
+| パートナー Web サイトの URL | [https://www.industryintel.com](https://www.industryintel.com) |
+| プライバシー ポリシーの URL | [https://www.industryintel.com/public:legal/privacy-policy](https://www.industryintel.com/public:legal/privacy-policy) |
 | 利用規約の URL | [https://www.industryintel.com/public:legal/terms-of-use](https://www.industryintel.com/public:legal/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -76,7 +76,7 @@ ms.locfileid: "52553068"
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->いいえ。 ユーザーと SO ユーザー Teamsのマッピングは、SO Teams製品でTeamsされます。 MS Teams識別可能な ID を送信し、ユーザーをマップするために内部的に保存します。 さらに、MS Teamsボット要求用の JWT (要求偽造を防止) を送信し、タブ要求は SO Cookie を使用して検証します。
+>その必要はありません。 ユーザーと SO ユーザー Teamsのマッピングは、SO Teams製品でTeamsされます。 MS Teams識別可能な ID を送信し、ユーザーをマップするために内部的に保存します。 さらに、MS Teamsボット要求用の JWT (要求偽造を防止) を送信し、タブ要求は SO Cookie を使用して検証します。
 
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Org@Work、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 68f59afdc79ae00f1643f9f2ce5650e06392d2a3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 6791c124a7d18f6a6d0554857cad1f35b6fd7781
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551978"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281760"
 ---
 # <a name="orgwork"></a>Org@Work
 
@@ -36,10 +36,10 @@ Lundano が Microsoft に提供する情報:
 | ID | WA200002461 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Lundano |
-| パートナー Web サイトの URL | [https://www.lundano.com/orgatwork/](https://www.lundano.com/orgatwork/) |
+| パートナー Web サイトの URL | [https://www.lundano.com/en/](https://www.lundano.com/en/) |
 | [アプリケーション情報Teamsページの URL | [https://www.lundano.com/orgatwork/index.html#](https://www.lundano.com/orgatwork/index.html#) |
 | プライバシー ポリシーの URL | [https://cp.lundano.com/privacy_en.html](https://cp.lundano.com/privacy_en.html) |
-| 利用規約の URL | [https://cp.lundano.com/terms.html](https://cp.lundano.com/terms.html) |
+| 利用規約の URL | [https://cp.lundano.com/Terms_en.html](https://cp.lundano.com/Terms_en.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

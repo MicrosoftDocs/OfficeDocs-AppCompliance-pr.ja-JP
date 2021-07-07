@@ -2,23 +2,23 @@
 title: officeatwork |officeatwork Officeテンプレートの選択
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/08/2020
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: officeatwork サービスで使用可能なすべてのセキュリティおよびコンプライアンス情報|テンプレートの選択Office、そのデータ処理ポリシー、CSA STAR レジストリMicrosoft Cloud App Securityのアプリ カタログ情報、およびセキュリティ/コンプライアンス情報を指定します。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2328345bdcbd17b9b777e603e8ff36ee5b509176
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c9bc3e8e62056582d37c7b1f4125cf29e35e9df1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553538"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281529"
 ---
 # <a name="officeatwork--template-chooser-for-office"></a>officeatwork |テンプレートのテンプレート選択Office
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>開発者が最終更新日: 2020 年 12 月 8 日</p>
+<p>開発者が最終更新日: 2021 年 6 月 23 日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380050" target="_blank">AppSource での表示</a>
 
@@ -34,7 +34,7 @@ officeatwork から Microsoft に提供される情報:
 | ID | WA104380050 |
 | Office 365サポートされているクライアント | Excel 2013 iPad 2013 以降の Excel Mac Excel 2016以降の Mac で、Windows Excel on the web iPad、Mac、Word on the web、Word 201 Windows 3 以降の mac、Word on the web Word 2016、PowerPoint iPad、PowerPoint 2016 以降の Mac、PowerPoint on the web、PowerPoint 2013 以降の Windows、Project 2016 以降の Windows 以降の Word |
 | パートナー会社名 | officeatwork |
-| パートナー Web サイトの URL | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
+| パートナー Web サイトの URL | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | プライバシー ポリシーの URL | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | 利用規約の URL | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 

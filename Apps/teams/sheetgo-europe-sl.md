@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sheetgo、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: bb23e321e4c40b0ed2c98026665b7e9f9e22a9e4
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 7061510a0fb54a3e46e9ca80032a93e97a0e5868
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553888"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281059"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
@@ -36,7 +36,7 @@ SHEETGO EUROPE SL から Microsoft に提供される情報:
 | ID | WA200002067 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | SHEETGO EUROPE SL |
-| パートナー Web サイトの URL | [https://www.sheetgo.com](https://www.sheetgo.com) |
+| パートナー Web サイトの URL | [https://www.sheetgo.com/](https://www.sheetgo.com/) |
 | プライバシー ポリシーの URL | [https://www.sheetgo.com/legal/privacy/](https://www.sheetgo.com/legal/privacy/) |
 | 利用規約の URL | [https://www.sheetgo.com/legal/terms/](https://www.sheetgo.com/legal/terms/) |
 

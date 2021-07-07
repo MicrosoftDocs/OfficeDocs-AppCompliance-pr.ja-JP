@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SIGNL4 で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a619327000c93e3292e266c8b025034370a8b623
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 425c0738b5628f959ba81e5682c22afe6774cfba
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553208"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281329"
 ---
 # <a name="signl4"></a>SIGNL4
 
@@ -36,7 +36,7 @@ Derdack SIGNL4 から Microsoft に提供される情報:
 | ID | WA200001239 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Derdack SIGNL4 |
-| パートナー Web サイトの URL | [https://www.signl4.com](https://www.signl4.com) |
+| パートナー Web サイトの URL | [https://www.derdack.com](https://www.derdack.com) |
 | プライバシー ポリシーの URL | [https://www.signl4.com/privacy-policy/](https://www.signl4.com/privacy-policy/) |
 | 利用規約の URL | [https://www.signl4.com/terms_of_use/](https://www.signl4.com/terms_of_use/) |
 
@@ -63,7 +63,7 @@ Derdack SIGNL4 から Microsoft に提供される情報:
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-------------------|:--------------------------|:--------------------------|
->| アプリを使用している場合、請求通知を顧客に送信するには、電子メール アドレス、電子メール アドレスが必要です。 Twilio、電話番号、テキスト メッセージを介して通知を送信する携帯ショートメール通知 |  | Azure Management API、Azure Monitor Alerts が収集される、収集は、システムがこれらのアラートの通知を送信するために発生します |
+>| アプリを使用している場合、請求通知を顧客に送信するには、電子メール アドレス、電子メール アドレスが必要です。 Twilio、電話番号、SMS テキスト メッセージを介してアラートを送信するコンテンツを通知する |  | Azure Management API、Azure Monitor Alerts が収集される、収集は、システムがこれらのアラートの通知を送信するために発生します |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 

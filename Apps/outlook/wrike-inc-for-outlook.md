@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: wrike for Outlook、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1ee6c98b2513459c588100a9b3b19ba529d98af0
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 5ee9a184fbe3c5358e79253a7227bbb69d62d4d4
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553698"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282411"
 ---
 # <a name="wrike-for-outlook"></a>Wrike for Outlook
 
@@ -32,11 +32,11 @@ Wrike Inc. から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリ名 | Wrike for Outlook |
 | ID | WA104381120 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の mac Windows、Outlook 2016 以降、iOS の Outlook、web 上の Outlook、Android Outlook |
+| Office 365サポートされているクライアント | Outlook 2013 以降の mac Windows、Outlook 2016 以降、Outlook on iOS、Outlook on the web、android Outlook |
 | パートナー会社名 | Wrike Inc. |
-| パートナー Web サイトの URL | [https://wrike.com/](https://wrike.com/) |
-| プライバシー ポリシーの URL | [https://www.wrike.com/security/privacy](https://www.wrike.com/security/privacy) |
-| 利用規約の URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| パートナー Web サイトの URL | [https://www.wrike.com/](https://www.wrike.com/) |
+| プライバシー ポリシーの URL | [https://www.wrike.com/privacy/](https://www.wrike.com/privacy/) |
+| 利用規約の URL | [https://www.wrike.com/terms/](https://www.wrike.com/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

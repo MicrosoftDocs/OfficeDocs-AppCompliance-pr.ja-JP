@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Hyperproof、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 56b0a506f77ee119a38734b777bc8ecc67467e31
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: df33449d3b16eb9d521795445b3b03e1b34b627c
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553078"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281850"
 ---
 # <a name="hyperproof"></a>Hyperproof
 
@@ -36,10 +36,10 @@ Hyperproof から Microsoft に提供される情報:
 | ID | WA200002692 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Hyperproof |
-| パートナー Web サイトの URL | [https://hyperproof.io/](https://hyperproof.io/) |
+| パートナー Web サイトの URL | [https://hyperproof.io](https://hyperproof.io) |
 | [アプリケーション情報Teamsページの URL | [https://hyperproof.io/product](https://hyperproof.io/product) |
-| プライバシー ポリシーの URL | [https://hyperproof.io/privacy-policy/](https://hyperproof.io/privacy-policy/) |
-| 利用規約の URL | [https://hyperproof.io/terms-of-use/](https://hyperproof.io/terms-of-use/) |
+| プライバシー ポリシーの URL | [https://hyperproof.io/privacy-policy](https://hyperproof.io/privacy-policy) |
+| 利用規約の URL | [https://hyperproof.io/terms-of-use](https://hyperproof.io/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

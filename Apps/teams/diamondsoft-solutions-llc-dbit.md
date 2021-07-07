@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内の DBit、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 23995f613c3c3b6d7b2ab7d161f8710ccddf07d0
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: dbdb857d15f33848c459bc817fa9c2c55da8e6b4
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553958"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281319"
 ---
 # <a name="dbit"></a>DBit
 
@@ -36,7 +36,7 @@ Diamondsoft Solutions,LLC から Microsoft に提供される情報:
 | ID | WA200001536 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Diamondsoft Solutions, LLC |
-| パートナー Web サイトの URL | [https://www.dbit.io/index.html](https://www.dbit.io/index.html) |
+| パートナー Web サイトの URL | [https://www.diamondsoftsolutions.com](https://www.diamondsoftsolutions.com) |
 | プライバシー ポリシーの URL | [https://www.dbit.io/privacypolicy.html](https://www.dbit.io/privacypolicy.html) |
 | 利用規約の URL | [https://www.dbit.io/termsofuse.html](https://www.dbit.io/termsofuse.html) |
 

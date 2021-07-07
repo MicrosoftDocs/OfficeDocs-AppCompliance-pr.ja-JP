@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: askR.ai、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: df24c20ad60cd7e72946db7a8404019903b4a483
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: e88abce5e865bdd3a09d4593b882070c013bbc93
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552378"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281419"
 ---
 # <a name="askrai"></a>askR.ai
 
@@ -36,7 +36,7 @@ Microsoft に提供される askR.ai 情報:
 | ID | WA200001583 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | askR.ai |
-| パートナー Web サイトの URL | [https://en.askr.ai/](https://en.askr.ai/) |
+| パートナー Web サイトの URL | [https://en.askr.ai](https://en.askr.ai) |
 | [アプリケーション情報Teamsページの URL | [https://en.askr.ai](https://en.askr.ai) |
 | プライバシー ポリシーの URL | [https://en.askr.ai/privacy-policy-askr-ai](https://en.askr.ai/privacy-policy-askr-ai) |
 | 利用規約の URL | [https://en.askr.ai/terms-of-use-askr-ai](https://en.askr.ai/terms-of-use-askr-ai) |

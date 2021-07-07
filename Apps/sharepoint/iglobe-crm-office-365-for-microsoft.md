@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Microsoft Office 365 の iGlobe CRM Office 365、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b52fcc6ec5d5f5f36c11379c736e098048e58b6b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: bdc9b8367c251e17fc055f0a3466e74b97215bbd
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553508"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281509"
 ---
 # <a name="iglobe-crm-office-365-for-microsoft-office-365"></a>iGlobe CRM Office 365 Microsoft Office 365
 
@@ -34,9 +34,9 @@ iGlobe から Microsoft に提供される情報:
 | ID | WA104379222 |
 | Office 365サポートされているクライアント | SharePoint 2013 以降 |
 | パートナー会社名 | iGlobe |
-| パートナー Web サイトの URL | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
+| パートナー Web サイトの URL | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | プライバシー ポリシーの URL | [https://www.iglobecrm.com/content/legal-information](https://www.iglobecrm.com/content/legal-information) |
-| 利用規約の URL | [https://www.iglobecrm.com/content/iglobe-crm-office-365-end...](https://www.iglobecrm.com/content/iglobe-crm-office-365-end-user-license-agreement) |
+| 利用規約の URL | [https://iglobecrm.com/content/iglobe-crm-office-365-end-use...](https://iglobecrm.com/content/iglobe-crm-office-365-end-user-license-agreement) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

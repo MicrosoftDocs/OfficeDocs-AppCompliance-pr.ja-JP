@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ショートリンク、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: fd20b08617862fd84cd015db424b92322e5dffed
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: ad1101aaf6739390f466a387c95f988d3a052520
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553258"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281369"
 ---
 # <a name="shortlinks"></a>Shortlinks
 
@@ -36,10 +36,10 @@ ChitChattr から Microsoft に提供される情報:
 | ID | WA200001846 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | ChitChattr |
-| パートナー Web サイトの URL | [https://www.chitchattr.com?p=shortlinks](https://www.chitchattr.com?p=shortlinks) |
+| パートナー Web サイトの URL | [https://www.chitchattr.com](https://www.chitchattr.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.chitchattr.com/shortlinks/](https://www.chitchattr.com/shortlinks/) |
 | プライバシー ポリシーの URL | [https://www.chitchattr.com/privacy?p=shortlinks](https://www.chitchattr.com/privacy?p=shortlinks) |
-| 利用規約の URL | [https://www.chitchattr.com/termsofuse?p=shortlinks](https://www.chitchattr.com/termsofuse?p=shortlinks) |
+| 利用規約の URL | [https://www.chitchattr.com/termsofuse](https://www.chitchattr.com/termsofuse) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

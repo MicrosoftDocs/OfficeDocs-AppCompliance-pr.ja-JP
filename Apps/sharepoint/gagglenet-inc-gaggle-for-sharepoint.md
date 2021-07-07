@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SharePoint の Gaggle で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3678860272fa669d66d53dc650a685a1ed8c5ef2
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 72f13f1e2db58d8376c857bac1d41433a09321a6
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553498"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281519"
 ---
 # <a name="gaggle-for-sharepoint"></a>Gaggle for SharePoint
 
@@ -35,9 +35,9 @@ microsoft に Gaggle.net 社から提供される情報:
 | ID | WA104374324 |
 | Office 365サポートされているクライアント | SharePoint 2013 以降 |
 | パートナー会社名 | Gaggle.net 株式会社 |
-| パートナー Web サイトの URL | [https://gaggle.net/](https://gaggle.net/) |
-| プライバシー ポリシーの URL | [https://gaggle.net/privacy](https://gaggle.net/privacy) |
-| 利用規約の URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| パートナー Web サイトの URL | [https://Gaggle.net](https://Gaggle.net) |
+| プライバシー ポリシーの URL | [https://www.gaggle.net/student-data-privacy-notice/](https://www.gaggle.net/student-data-privacy-notice/) |
+| 利用規約の URL | [https://www.gaggle.net/terms-conditions/](https://www.gaggle.net/terms-conditions/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

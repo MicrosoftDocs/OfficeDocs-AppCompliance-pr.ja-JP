@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 動的シグナル、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0d3c59f6809bafe16eec2a1d709f40a980576b1b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 19f633362ac605ef5891b3d7e11f34a8ec04d74f
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552228"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281309"
 ---
 # <a name="dynamic-signal"></a>Dynamic Signal
 
@@ -36,7 +36,7 @@ Dynamic Signal から Microsoft に提供される情報:
 | ID | WA200000102 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Dynamic Signal |
-| パートナー Web サイトの URL | [https://dynamicsignal.com](https://dynamicsignal.com) |
+| パートナー Web サイトの URL | [https://www.dynamicsignal.com](https://www.dynamicsignal.com) |
 | [アプリケーション情報Teamsページの URL | [https://support.dynamicsignal.com/hc/en-us/requests/new?tic...](https://support.dynamicsignal.com/hc/en-us/requests/new?ticket_form_id=360000290032) |
 | プライバシー ポリシーの URL | [https://dynamicsignal.com/privacy/](https://dynamicsignal.com/privacy/) |
 | 利用規約の URL | [https://dynamicsignal.com/terms-of-use/platform-terms-of-us...](https://dynamicsignal.com/terms-of-use/platform-terms-of-use/) |

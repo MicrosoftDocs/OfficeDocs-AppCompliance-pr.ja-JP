@@ -2,21 +2,21 @@
 title: Microsoft Projectアプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/18/2021
+ms.date: 07/02/2021
 ms.topic: article
 ms.service: attestation
 description: すべてのアプリで使用可能なすべてのセキュリティとコンプライアンスMicrosoft Project情報。
 localization_priority: Normal
-ms.openlocfilehash: bef23cb9f6768922bc67894539274f68c77e07c8
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 10b541d6022f9582f87a2d5b8dfe9df7e8285b5b
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553518"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282331"
 ---
 # <a name="microsoft-project-app-security-and-compliance"></a>Microsoft Projectアプリのセキュリティとコンプライアンス
 
-Microsoft は、開発者パートナー Microsoft 365協力して、組織が使用するアプリやアドインに関する意思決定を迅速に行い、Project情報を提供します。 この情報は、[Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) アプリ カタログの情報と、開発者がアプリケーションを送信するときに提供する情報で補足されます。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
+Microsoft は、開発者パートナー Microsoft 365協力して、組織が使用するアプリやアドインに関する意思決定を迅速に行い、Microsoft Project情報を提供します。 この情報は、[Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) アプリ カタログの情報と、開発者がアプリケーションを送信するときに提供する情報で補足されます。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
 
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|

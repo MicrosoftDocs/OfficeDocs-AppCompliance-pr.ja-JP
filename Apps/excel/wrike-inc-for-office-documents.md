@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: wrike for Office Documents、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ce29d8d0e8923795e860ffb9013267a39889970e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 87656417cb587e3778ddf85f2c20766b3a43cf86
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52548717"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281079"
 ---
 # <a name="wrike-for-office-documents"></a>Wrike for Office ドキュメント
 
@@ -34,9 +34,9 @@ Wrike Inc. から Microsoft に提供される情報:
 | ID | WA104379841 |
 | Office 365サポートされているクライアント | Excel 2016 Windows、PowerPoint 以降の Windows、PowerPoint 以降の Mac、Excel on the web、Word 2016 以降の Mac、Word on the web、PowerPoint 2016、PowerPoint 2016 以降の Mac、PowerPoint on the web 以降の Word 201 Excel 2016 Windows 3 以降 |
 | パートナー会社名 | Wrike Inc. |
-| パートナー Web サイトの URL | [https://wrike.com/](https://wrike.com/) |
-| プライバシー ポリシーの URL | [https://www.wrike.com/privacy](https://www.wrike.com/privacy) |
-| 利用規約の URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| パートナー Web サイトの URL | [https://www.wrike.com/](https://www.wrike.com/) |
+| プライバシー ポリシーの URL | [https://www.wrike.com/privacy/](https://www.wrike.com/privacy/) |
+| 利用規約の URL | [https://www.wrike.com/terms/](https://www.wrike.com/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

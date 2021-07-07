@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: アジャイル タスク ボード、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3bbf6f95ed5a0e840b1ba8c896dbb14b4ddfa5f2
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a5062da73958a88a7b788a74771e76ae506b314d
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553448"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281469"
 ---
 # <a name="agile-task-board"></a>Agile Task Board
 
@@ -36,7 +36,7 @@ Agile-IS が Microsoft に提供する情報:
 | ID | WA200002162 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Agile-IS |
-| パートナー Web サイトの URL | [https://www.agile-is.de/agiletaskboard?utm_medium=appsource...](https://www.agile-is.de/agiletaskboard?utm_medium=appsource&amp;utm_campaign=teams&amp;utm_source=manifest) |
+| パートナー Web サイトの URL | [https://www.agile-is.de](https://www.agile-is.de) |
 | プライバシー ポリシーの URL | [https://www.agile-is.de/en/telemetry](https://www.agile-is.de/en/telemetry) |
 | 利用規約の URL | [https://www.agile-is.de/en/termsofuse](https://www.agile-is.de/en/termsofuse) |
 

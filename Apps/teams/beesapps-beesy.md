@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Beesy で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d669b1b43c7b273b3cc68ed6cfc0f24b7234a293
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: e9d982e61f2afeda47bcfdab51c549346fc5fe60
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552348"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281399"
 ---
 # <a name="beesy"></a>Beesy
 
@@ -36,7 +36,7 @@ BeesApps から Microsoft に提供される情報:
 | ID | WA200001248 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | BeesApps |
-| パートナー Web サイトの URL | [https://www.beesy.me/](https://www.beesy.me/) |
+| パートナー Web サイトの URL | [https://www.beesapps.com/](https://www.beesapps.com/) |
 | プライバシー ポリシーの URL | [https://www.beesy.me/legal/privacypolicy_en.pdf](https://www.beesy.me/legal/privacypolicy_en.pdf) |
 | 利用規約の URL | [https://www.beesy.me/legal/termsofservice_en_v1.03.pdf](https://www.beesy.me/legal/termsofservice_en_v1.03.pdf) |
 

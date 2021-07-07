@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ecBooking で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1cdd05e4acfb1c7720af1a2e22b2c6d29425ca60
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b1806ca26bb20d1f4f24d87d7b617ad9ff108397
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552178"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281880"
 ---
 # <a name="ecbooking"></a>ecBooking
 
@@ -36,7 +36,7 @@ ms.locfileid: "52552178"
 | ID | WA200002096 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Expert Systems IVR(Asia) Co.Ltd. |
-| パートナー Web サイトの URL | [https://www.esi-asia.com/](https://www.esi-asia.com/) |
+| パートナー Web サイトの URL | [https://www.esi-asia.com](https://www.esi-asia.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.esi-asia.com/product/intelligent-room-booking-s...](https://www.esi-asia.com/product/intelligent-room-booking-system/) |
 | プライバシー ポリシーの URL | [https://www.esi-asia.com/product/intelligent-room-booking-s...](https://www.esi-asia.com/product/intelligent-room-booking-system/#1510822239639-efecac03-d43200b0-aa88) |
 | 利用規約の URL | [https://www.esi-asia.com/product/intelligent-room-booking-s...](https://www.esi-asia.com/product/intelligent-room-booking-system/#1598241760681-29d114e0-5c2b) |

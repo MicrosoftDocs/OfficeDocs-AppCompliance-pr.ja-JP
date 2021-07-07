@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Outlook の StarLeaf アドインで使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f201131be32c743550a02a24e653f784a1d91817
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 48335c7260921e50740f28d57192d74a9e0a4fe5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552478"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281599"
 ---
 # <a name="starleaf-add-in-for-outlook"></a>StarLeaf アドイン for Outlook
 
@@ -33,11 +33,11 @@ StarLeaf から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリ名 | StarLeaf アドイン for Outlook |
 | ID | WA104381343 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の Mac 上Outlook Web 上 |
+| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の場合は、Outlook on the web |
 | パートナー会社名 | StarLeaf |
-| パートナー Web サイトの URL | [https://www.starleaf.com/](https://www.starleaf.com/) |
-| プライバシー ポリシーの URL | [https://www.starleaf.com/privacy-policy](https://www.starleaf.com/privacy-policy) |
-| 利用規約の URL | [https://support.starleaf.com/legal-information/end-user-lic...](https://support.starleaf.com/legal-information/end-user-license-agreement-for-starleaf-applications) |
+| パートナー Web サイトの URL | [https://www.starleaf.com](https://www.starleaf.com) |
+| プライバシー ポリシーの URL | [https://support.starleaf.com/legal-information/starleaf-pri...](https://support.starleaf.com/legal-information/starleaf-privacy-notice/) |
+| 利用規約の URL | [https://support.starleaf.com/legal-information/starleaf-clo...](https://support.starleaf.com/legal-information/starleaf-cloud-services-customer-terms-of-use/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -65,7 +65,7 @@ StarLeaf から Microsoft に提供される情報:
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-------------------|:--------------------------|:--------------------------|
->| テクニカル サポートの問題が発生した場合、ケース管理のために組織データが SalesForce に転送される場合があります。 ユーザーが PSTN ダイヤルイン機能を使用する場合、通話は Twilio、Plivo、または Voxbone を経由して流れる |  | 該当なし |
+>| テクニカル サポートの問題が発生した場合、ケース管理のために組織データが SalesForce に転送される場合があります。 ユーザーが PSTN ダイヤルイン機能を使用する場合、通話は Twilio、Plivo、または Voxbone を経由して流れる |  | N/A |
 
 
 

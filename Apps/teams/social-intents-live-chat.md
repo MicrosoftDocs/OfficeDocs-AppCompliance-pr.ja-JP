@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Live Chat で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9bc8ccb18fd8e43dd3d59f15fbc324f835e82d93
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 41df26af03dd56fb89ce316ecaa61d7af3ae7bf5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551487"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280929"
 ---
 # <a name="live-chat"></a>ライブ チャット
 
@@ -37,8 +37,8 @@ ms.locfileid: "52551487"
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Social Intents |
 | パートナー Web サイトの URL | [https://www.socialintents.com](https://www.socialintents.com) |
-| プライバシー ポリシーの URL | [https://www.socialintents.com/privacy.html](https://www.socialintents.com/privacy.html) |
-| 利用規約の URL | [https://www.socialintents.com/tos.html](https://www.socialintents.com/tos.html) |
+| プライバシー ポリシーの URL | []() |
+| 利用規約の URL | []() |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ADI で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 576206f6d80f4bbc46ebdd1cef899581c12bcd8a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: ad4b6c68e867a057a3b2b6dc85d5016fee92f3ed
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552418"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282080"
 ---
 # <a name="adi"></a>ADI
 
@@ -36,7 +36,7 @@ Akari Solutions Limited to Microsoft が提供する情報:
 | ID | WA200002615 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Akari Solutions Limited |
-| パートナー Web サイトの URL | [https://akari.io/adi/](https://akari.io/adi/) |
+| パートナー Web サイトの URL | [https://akari.io](https://akari.io) |
 | [アプリケーション情報Teamsページの URL | [https://akari.io/adi](https://akari.io/adi) |
 | プライバシー ポリシーの URL | [https://akari.io/adi-privacy-policy/](https://akari.io/adi-privacy-policy/) |
 | 利用規約の URL | [https://akari.io/adi-terms-and-conditions/](https://akari.io/adi-terms-and-conditions/) |

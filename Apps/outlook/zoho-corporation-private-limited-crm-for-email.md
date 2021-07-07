@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 電子メール用の Zoho CRM で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4f06fd2f6a14bbad4d1265df9754884d515f6cb6
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 2c4d85b33c0d43bc492fe6e04058bd4e92768077
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553678"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282401"
 ---
 # <a name="zoho-crm-for-email"></a>Zoho CRM for email
 
@@ -33,11 +33,11 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 |:----------------|:-------------|
 | アプリ名 | Zoho CRM for email |
 | ID | WA104379468 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の Mac 上Outlook Web 上 |
+| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の場合は、Outlook on the web |
 | パートナー会社名 | Zoho Corporation Private Limited |
 | パートナー Web サイトの URL | [https://www.zoho.com/](https://www.zoho.com/) |
 | プライバシー ポリシーの URL | [https://www.zoho.com/privacy.html](https://www.zoho.com/privacy.html) |
-| 利用規約の URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| 利用規約の URL | [https://www.zoho.com/crm/zohocrm-terms.html](https://www.zoho.com/crm/zohocrm-terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

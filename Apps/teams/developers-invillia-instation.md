@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: InStation で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 40c86e4284ed201fedf63bfe3bbd7570b61049b7
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 46b7c4131e1f3897036cf0b2180b2f99c2e6ff2c
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552248"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282030"
 ---
 # <a name="instation"></a>InStation
 
@@ -36,7 +36,7 @@ ms.locfileid: "52552248"
 | ID | WA200001701 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Developers Invillia |
-| パートナー Web サイトの URL | [https://instation.invillia.com/](https://instation.invillia.com/) |
+| パートナー Web サイトの URL | [https://invillia.com/](https://invillia.com/) |
 | プライバシー ポリシーの URL | [https://instation.invillia.com/terms#privacy-policy](https://instation.invillia.com/terms#privacy-policy) |
 | 利用規約の URL | [https://instation.invillia.com/terms#terms-of-use](https://instation.invillia.com/terms#terms-of-use) |
 

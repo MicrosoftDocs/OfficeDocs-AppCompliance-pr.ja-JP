@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 予定表 BOT、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 48861f5f4c49a424a0740b0a56e6d85107326396
-ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
+ms.openlocfilehash: 597a368e36fab6036eb8aed34a1afe197d15d26c
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52629679"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282060"
 ---
 # <a name="calendar-bot"></a>予定表ボット
 
@@ -36,7 +36,7 @@ Microsoft への承認済み連絡先によって提供される情報:
 | ID | WA104381271 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | 承認済みの連絡先 |
-| パートナー Web サイトの URL | [www.approvedcontact.com](www.approvedcontact.com) |
+| パートナー Web サイトの URL | [https://www.approvedcontact.com](https://www.approvedcontact.com) |
 | プライバシー ポリシーの URL | [https://approvedcontact.com/Privacy%20Policy%20Bot.pdf](https://approvedcontact.com/Privacy%20Policy%20Bot.pdf) |
 | 利用規約の URL | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
 
@@ -58,7 +58,7 @@ Microsoft への承認済み連絡先によって提供される情報:
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Calendars.ReadWrite | 委任 | Calendar BOT では、複数のユーザーの空き時間を見つけ出す空き時間をユーザーに保存しています。  | 空き時間情報を読んで比較し、会議をスケジュールします。 | adef9811-448f-4dd5-88d9-68734050fe58 |
 >| Contacts.Read | 委任 | はい、連絡先情報を保存します。 | 連絡先のインポートと同期。 | adef9811-448f-4dd5-88d9-68734050fe58 |
->| User.Read | 委任 | 必要 | 基本的なプロファイル情報。 | adef9811-448f-4dd5-88d9-68734050fe58 |
+>| User.Read | 委任 | はい | 基本的なプロファイル情報。 | adef9811-448f-4dd5-88d9-68734050fe58 |
 >| User.ReadBasic.All | 委任 | いいえ | 同僚のプロファイルの表示、空き時間の比較、会議室のスケジュール設定に使用されます。 | adef9811-448f-4dd5-88d9-68734050fe58 |
 >| offline_access | 委任 | はい、オフライン ユーザーの空き時間。 | ユーザー Graphがサイトをアクティブに使用しない場合は、ユーザーに電話してください。 | adef9811-448f-4dd5-88d9-68734050fe58 |
 >| openid | 委任 | いいえ | Office 365SSO。 | adef9811-448f-4dd5-88d9-68734050fe58 |
@@ -121,15 +121,15 @@ Microsoft への承認済み連絡先によって提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | 必要 |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | 必要 |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | 必要 |
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
-| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | 必要 |
-| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | 必要 |
-| アプリはマルチテナントをサポートしていますか? | 必要 |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
+| アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | いいえ |
-| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | 必要 |
+| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリは Web API を公開していますか? | いいえ |
 | アプリでプレビュー API を使用していますか? | いいえ |
 | アプリで非推奨の API を使用していますか? | なし |

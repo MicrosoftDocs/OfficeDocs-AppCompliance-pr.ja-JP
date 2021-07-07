@@ -2,23 +2,23 @@
 title: Appfluence Inc による優先度マトリックスのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/16/2021
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Priority Matrix、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 50814045f621d38df3a4a8ce65fb361d72a6f7a3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 93b64ae01c745f370af36bd6cb8a73787d39867a
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552398"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281439"
 ---
 # <a name="priority-matrix"></a>Priority Matrix
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>開発者が最終更新日: 2021 年 4 月 16 日</p>
+<p>開発者が最終更新日: 2021 年 6 月 23 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/5be2b320-a5b7-4221-893c-dee506e4e365" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104382005" target="_blank">AppSource での表示</a>
@@ -35,9 +35,9 @@ Appfluence Inc から Microsoft に提供される情報:
 | ID | WA104382005 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Appfluence Inc |
-| パートナー Web サイトの URL | [https://appfluence.com](https://appfluence.com) |
+| パートナー Web サイトの URL | [https://appfluence.com/office-365-project-management-integr...](https://appfluence.com/office-365-project-management-integration/) |
 | [アプリケーション情報Teamsページの URL | [https://appfluence.com/project-management-integration-for-m...](https://appfluence.com/project-management-integration-for-microsoft-teams/) |
-| プライバシー ポリシーの URL | [https://appfluence.com/privacy](https://appfluence.com/privacy) |
+| プライバシー ポリシーの URL | [https://appfluence.com/privacy/](https://appfluence.com/privacy/) |
 | 利用規約の URL | [https://appfluence.com/eula](https://appfluence.com/eula) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -126,7 +126,7 @@ Appfluence Inc から Microsoft に提供される情報:
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ServiceDesk Plus for Email、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: dc342375eba7084f5afb31b0f879e46e959fa970
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 759c59f93daa664dcc6b5b0b230a4b0fedfbf140
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553658"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282391"
 ---
 # <a name="servicedesk-plus-for-email"></a>電子メール用 ServiceDesk Plus
 
@@ -33,11 +33,11 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 |:----------------|:-------------|
 | アプリ名 | 電子メール用 ServiceDesk Plus |
 | ID | WA104381518 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の Mac 上Outlook Web 上 |
+| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の場合は、Outlook on the web |
 | パートナー会社名 | Zoho Corporation Private Limited |
-| パートナー Web サイトの URL | [https://www.zoho.com/](https://www.zoho.com/) |
+| パートナー Web サイトの URL | [https://www.manageengine.com/products/service-desk](https://www.manageengine.com/products/service-desk) |
 | プライバシー ポリシーの URL | [https://www.manageengine.com/privacy.html](https://www.manageengine.com/privacy.html) |
-| 利用規約の URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| 利用規約の URL | [https://ondemand.manageengine.com/terms.html](https://ondemand.manageengine.com/terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

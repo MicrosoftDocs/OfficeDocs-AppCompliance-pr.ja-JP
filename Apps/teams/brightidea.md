@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Brightidea で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0ef99ec3d04a72624f002c05f6a120a34f674b8a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 8648dbe30e43ca31964493d797cb3629234fa671
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553288"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281389"
 ---
 # <a name="brightidea"></a>Brightidea
 
@@ -36,7 +36,7 @@ Brightidea から Microsoft に提供される情報:
 | ID | WA200002795 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Brightidea |
-| パートナー Web サイトの URL | [https://www.brightidea.com](https://www.brightidea.com) |
+| パートナー Web サイトの URL | [https://brightidea.com](https://brightidea.com) |
 | プライバシー ポリシーの URL | [https://www.brightidea.com/privacy/](https://www.brightidea.com/privacy/) |
 | 利用規約の URL | [https://www.brightidea.com/terms-of-use/](https://www.brightidea.com/terms-of-use/) |
 
@@ -63,7 +63,7 @@ Brightidea から Microsoft に提供される情報:
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-------------------|:--------------------------|:--------------------------|
->| Amazon Web Services (AWS) | メール アドレス/ドメイン | サイト内のアイデア提出者をTeams Brightidea アカウントに一致する。ユーザー データベースが AWS にある |
+>| Amazon Web Services | メール アドレス/ドメイン | サイト内のアイデア提出者をTeams Brightidea アカウントに一致する。ユーザー データベースが AWS にある |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
@@ -84,7 +84,7 @@ Brightidea から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->該当なし
+>N/A
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 

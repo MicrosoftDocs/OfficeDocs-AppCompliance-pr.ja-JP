@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Listy、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5ab2349789fdb138bc9f18fd6f50d9877ec972d9
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: bfa36c199e7839ce0756ecb5dfb3f5b923821405
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552078"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281840"
 ---
 # <a name="listy"></a>Listy
 
@@ -36,10 +36,10 @@ Information Age Technologies から Microsoft に提供される情報:
 | ID | WA200000798 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Information Age Technologies |
-| パートナー Web サイトの URL | [https://www.iat21.com/listy](https://www.iat21.com/listy) |
+| パートナー Web サイトの URL | [https://www.iat21.com](https://www.iat21.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.iat21.com/listy](https://www.iat21.com/listy) |
 | プライバシー ポリシーの URL | [https://www.iat21.com/listy-privacy-policy](https://www.iat21.com/listy-privacy-policy) |
-| 利用規約の URL | [https://www.iat21.com/listy-terms-of-service](https://www.iat21.com/listy-terms-of-service) |
+| 利用規約の URL | [https://www.iat21.com/listy-end-user-license-ag](https://www.iat21.com/listy-end-user-license-ag) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

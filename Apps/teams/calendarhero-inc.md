@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CalendarHero、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d27858000c591c320cfadc301ea16ddf2fac89bd
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f3609c1e5884a49e4b52077295108622e10e7ff5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553333"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282000"
 ---
 # <a name="calendarhero"></a>CalendarHero
 
@@ -36,10 +36,10 @@ CalendarHero Inc から Microsoft に提供される情報:
 | ID | WA200000150 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | CalendarHero Inc |
-| パートナー Web サイトの URL | [https://calendarhero.com](https://calendarhero.com) |
+| パートナー Web サイトの URL | [https://zoom.ai](https://zoom.ai) |
 | [アプリケーション情報Teamsページの URL | [https://faq.zoom.ai/](https://faq.zoom.ai/) |
-| プライバシー ポリシーの URL | [https://calendarhero.com/privacy](https://calendarhero.com/privacy) |
-| 利用規約の URL | [https://calendarhero.com/terms-of-use](https://calendarhero.com/terms-of-use) |
+| プライバシー ポリシーの URL | [https://zoom.ai/privacy-policy](https://zoom.ai/privacy-policy) |
+| 利用規約の URL | [https://zoom.ai/terms-of-use](https://zoom.ai/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

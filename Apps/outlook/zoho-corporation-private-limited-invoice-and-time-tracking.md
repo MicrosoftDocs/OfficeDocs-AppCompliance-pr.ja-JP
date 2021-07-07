@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 請求書と時間追跡で使用可能なすべてのセキュリティおよびコンプライアンス情報 - Zoho Invoice、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0909b65a673af03aa6b190d181f1572ab84b5e77
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 0a3e8afb7be998c2fba33e7c4320956cbd990ef3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553668"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281579"
 ---
 # <a name="invoice-and-time-tracking---zoho-invoice"></a>請求書と時間の追跡 - Zoho 請求書
 
@@ -33,11 +33,11 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 |:----------------|:-------------|
 | アプリ名 | 請求書と時間の追跡 - Zoho 請求書 |
 | ID | WA104381067 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の Mac 上Outlook Web 上 |
+| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の場合は、Outlook on the web |
 | パートナー会社名 | Zoho Corporation Private Limited |
 | パートナー Web サイトの URL | [https://www.zoho.com/](https://www.zoho.com/) |
-| プライバシー ポリシーの URL | [https://zoho.com/privacy.html](https://zoho.com/privacy.html) |
-| 利用規約の URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| プライバシー ポリシーの URL | [https://www.zoho.com/privacy.html](https://www.zoho.com/privacy.html) |
+| 利用規約の URL | [https://www.zoho.com/terms.html](https://www.zoho.com/terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

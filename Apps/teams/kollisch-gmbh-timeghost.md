@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: タイムホスト、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ac22c7368da817caf44157bad920221791989245
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1a6a6cda6c7f70fff9df1c5fa6dbfb009ea12ed1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552038"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281790"
 ---
 # <a name="timeghost"></a>timeghost
 
@@ -36,7 +36,7 @@ K&#246;llisch GmbH から Microsoft に提供される情報:
 | ID | WA200001532 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | K&#246;llisch GmbH |
-| パートナー Web サイトの URL | [https://timeghost.io/](https://timeghost.io/) |
+| パートナー Web サイトの URL | [https://timeghost.io](https://timeghost.io) |
 | [アプリケーション情報Teamsページの URL | [https://timeghost.io](https://timeghost.io) |
 | プライバシー ポリシーの URL | [https://timeghost.io/privacy-policy/](https://timeghost.io/privacy-policy/) |
 | 利用規約の URL | [https://timeghost.io/terms-and-conditions/](https://timeghost.io/terms-and-conditions/) |

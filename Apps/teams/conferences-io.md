@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 会議 i/o、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: cc2d3c2845660ddda7b2d759d4d30cb4191286dd
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f1ac0d98833813915b3485a7b5c00233f41ddee8
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553218"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281339"
 ---
 # <a name="conferences-io"></a>Conferences i/o
 
@@ -36,10 +36,10 @@ ms.locfileid: "52553218"
 | ID | WA200001867 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Conferences i/o |
-| パートナー Web サイトの URL | [https://teamsapp.conferences.io/](https://teamsapp.conferences.io/) |
+| パートナー Web サイトの URL | [https://conferences.io](https://conferences.io) |
 | [アプリケーション情報Teamsページの URL | [https://www.conferences.io/our-platform/features/](https://www.conferences.io/our-platform/features/) |
 | プライバシー ポリシーの URL | [https://teamsapp.conferences.io/privacy/](https://teamsapp.conferences.io/privacy/) |
-| 利用規約の URL | [https://teamsapp.conferences.io/terms/](https://teamsapp.conferences.io/terms/) |
+| 利用規約の URL | [https://teamsapp.conferences.io/eula/](https://teamsapp.conferences.io/eula/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -64,7 +64,7 @@ ms.locfileid: "52553218"
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-------------------|:--------------------------|:--------------------------|
->| Amazon Web Services (AWS) | 名前、電子メール アドレス | アプリケーションのプライマリ データベースは、Amazon Web Services 上です。 |
+>| Amazon Web Services | 名前、電子メール アドレス | アプリケーションのプライマリ データベースは、Amazon Web Services 上です。 |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 

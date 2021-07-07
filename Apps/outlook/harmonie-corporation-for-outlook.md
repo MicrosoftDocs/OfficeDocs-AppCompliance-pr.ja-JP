@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Outlook の harmon.ie、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f494dbc3857bd9fed2603cef3dbc6f76306510c1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 90b5ce81e0b2a0b0d0c9568facb456c5e87aad62
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553738"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281629"
 ---
 # <a name="harmonie-for-outlook"></a>harmon.ie のOutlook
 
@@ -33,11 +33,11 @@ ms.locfileid: "52553738"
 |:----------------|:-------------|
 | アプリ名 | harmon.ie のOutlook |
 | ID | WA103004101 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の mac Windows、Outlook 2016 以降、iOS の Outlook、Android 上の Outlook、web Outlook |
+| Office 365サポートされているクライアント | Outlook 2013 以降の mac Windows、Outlook 2016 以降、iOS の Outlook、Android、Outlook Outlook on the web |
 | パートナー会社名 | harmon.ie 株式会社 |
-| パートナー Web サイトの URL | [https://harmon.ie/](https://harmon.ie/) |
+| パートナー Web サイトの URL | [https://harmon.ie](https://harmon.ie) |
 | プライバシー ポリシーの URL | [https://harmon.ie/legal/privacy-policy](https://harmon.ie/legal/privacy-policy) |
-| 利用規約の URL | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474836605/Product_42949673246/Asset_37060a29-311b-4239-be49-1758aebbeb1a/harmonieEULA.pdf) |
+| 利用規約の URL | [https://harmon.ie/legal/eula](https://harmon.ie/legal/eula) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

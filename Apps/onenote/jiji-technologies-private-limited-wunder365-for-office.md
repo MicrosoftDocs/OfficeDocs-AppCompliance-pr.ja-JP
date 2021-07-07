@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Wunder365 for Office、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 84138d8471b342ad67e2bad34b70166ddb77a539
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 85e7b014e9bbc5754016bd83a7734ff2481aa8dc
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553788"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281679"
 ---
 # <a name="wunder365-for-office"></a>Wunder365 for Office
 
@@ -35,9 +35,9 @@ JiJi Technologies Private Limited to Microsoft が提供する情報:
 | ID | WA200001529 |
 | Office 365サポートされているクライアント | Excel 2016 2013 以降の mac、Excel Windows、Excel on the web、Word 2016 以降の Mac、Word on the web、Word 2013 以降の Windows、OneNote on the web |
 | パートナー会社名 | JiJi Technologies Private Limited |
-| パートナー Web サイトの URL | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
+| パートナー Web サイトの URL | [https://www.jijitechnologies.com](https://www.jijitechnologies.com) |
 | プライバシー ポリシーの URL | [https://www.wunder365.com/office-addin-privacy-policy](https://www.wunder365.com/office-addin-privacy-policy) |
-| 利用規約の URL | [https://go.microsoft.com/fwlink/?linkid=2041178](https://go.microsoft.com/fwlink/?linkid=2041178) |
+| 利用規約の URL | [https://www.wunder365.com/terms-of-service](https://www.wunder365.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -74,7 +74,7 @@ JiJi Technologies Private Limited to Microsoft が提供する情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->Azure Application Insights にログインしています。 テナント ID とユーザーの電子メール ID をログに記録して、問題を特定し、お客様が問題を解決するのに役立ちます。
+>Azure Application インサイト。 テナント ID とユーザーの電子メール ID をログに記録して、問題を特定し、お客様が問題を解決するのに役立ちます。
 
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御

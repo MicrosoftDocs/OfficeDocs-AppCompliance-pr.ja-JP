@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ScanBuddy.ai、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b56bde795cbc679962c6df997d01293306d79b1f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: e9fbc11281494fe1c5a12fbbe1124ea7953a24b7
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552938"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281229"
 ---
 # <a name="scanbuddyai"></a>ScanBuddy.ai
 
@@ -36,9 +36,9 @@ LLC から Microsoft Moblize.it 提供される情報:
 | ID | WA200001305 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Moblize.it LLC |
-| パートナー Web サイトの URL | [https://scanbuddy.ai](https://scanbuddy.ai) |
+| パートナー Web サイトの URL | [https://admin.scanbuddy.app/](https://admin.scanbuddy.app/) |
 | プライバシー ポリシーの URL | [https://scanbuddy.ai/scan-buddy-app-privacy-policy](https://scanbuddy.ai/scan-buddy-app-privacy-policy) |
-| 利用規約の URL | [https://scanbuddy.ai/scanbuddy-ai-terms-of-use](https://scanbuddy.ai/scanbuddy-ai-terms-of-use) |
+| 利用規約の URL | [https://store.office.com/en-us/WebAppLandingPage.aspx?p4=TC...](https://store.office.com/en-us/WebAppLandingPage.aspx?p4=TC&amp;p5=WA200001305&amp;cmu=en-US) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

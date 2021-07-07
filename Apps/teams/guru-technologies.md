@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: グルの利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 16abdcc7ab9b3da8cef55b17e5b63a3a7d916c51
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 4577aabcc19f32941d3d9005ba7e9fe61e4675cc
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553138"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281269"
 ---
 # <a name="guru"></a>Guru
 
@@ -36,9 +36,9 @@ Guru Technologies から Microsoft に提供される情報:
 | ID | WA200001719 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Guru Technologies |
-| パートナー Web サイトの URL | [https://www.getguru.com/](https://www.getguru.com/) |
+| パートナー Web サイトの URL | [https://www.getguru.com](https://www.getguru.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.getguru.com/integrations/microsoft-teams](https://www.getguru.com/integrations/microsoft-teams) |
-| プライバシー ポリシーの URL | [https://www.getguru.com/privacy](https://www.getguru.com/privacy) |
+| プライバシー ポリシーの URL | [https://www.getguru.com/privacy/](https://www.getguru.com/privacy/) |
 | 利用規約の URL | [https://www.getguru.com/terms-of-service](https://www.getguru.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: PowerPoint の Lucidchart Diagrams、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 024b2e925ba84967bf40754908a8d98baa1d705f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 7fcf941323e998bd2e4ffba59f60410e745a1613
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553608"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282361"
 ---
 # <a name="lucidchart-diagrams-for-powerpoint"></a>Lucidchart ダイアグラム for PowerPoint
 
@@ -35,7 +35,7 @@ Lucid Software Inc から Microsoft に提供される情報:
 | ID | WA104380117 |
 | Office 365サポートされているクライアント | PowerPoint 2016 2013 以降の Mac、PowerPoint on the web、PowerPoint 2013 以降の場合Windows |
 | パートナー会社名 | Lucid Software Inc |
-| パートナー Web サイトの URL | [https://www.lucidchart.com/](https://www.lucidchart.com/) |
+| パートナー Web サイトの URL | [https://www.lucidchart.com](https://www.lucidchart.com) |
 | プライバシー ポリシーの URL | [https://www.lucidchart.com/pages/privacy](https://www.lucidchart.com/pages/privacy) |
 | 利用規約の URL | [https://www.lucidchart.com/pages/tos](https://www.lucidchart.com/pages/tos) |
 

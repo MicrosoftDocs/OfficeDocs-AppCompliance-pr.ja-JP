@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Excel の MeaningCloud Text Analytics、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 93b73861138ad99eeb2ed6eac9df86656f1f8748
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d1361025e7379890dac4921e6a05737d381513e0
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52548817"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281129"
 ---
 # <a name="meaningcloud-text-analytics-for-excel"></a>MeaningCloud Text Analytics for Excel
 
@@ -35,7 +35,7 @@ MeaningCloud から Microsoft に提供される情報:
 | ID | WA200002421 |
 | Office 365サポートされているクライアント | Excel 2016 Mac では、Excel 2013 以降の Windows 以降Excel on the web |
 | パートナー会社名 | MeaningCloud |
-| パートナー Web サイトの URL | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
+| パートナー Web サイトの URL | [https://meaningcloud.com](https://meaningcloud.com) |
 | プライバシー ポリシーの URL | [https://www.meaningcloud.com/data-protection-policy](https://www.meaningcloud.com/data-protection-policy) |
 | 利用規約の URL | [https://www.meaningcloud.com/terms-and-conditions](https://www.meaningcloud.com/terms-and-conditions) |
 

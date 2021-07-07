@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Kudozza、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3c55726061f0663cf395ea5edb45adf96f35bce3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 85221e2c57cbe5954e3343d8a44cec704c71eda9
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553818"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280779"
 ---
 # <a name="kudozza"></a>Kudozza
 
@@ -36,10 +36,10 @@ surviveF5 GmbH から Microsoft に提供される情報:
 | ID | WA200002599 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | surviveF5 GmbH |
-| パートナー Web サイトの URL | [https://www.kudozza.com](https://www.kudozza.com) |
+| パートナー Web サイトの URL | [https://surviveF5.com](https://surviveF5.com) |
 | [アプリケーション情報Teamsページの URL | [https://kudozza.com](https://kudozza.com) |
-| プライバシー ポリシーの URL | [https://www.kudozza.com/privacy](https://www.kudozza.com/privacy) |
-| 利用規約の URL | [https://www.kudozza.com/terms](https://www.kudozza.com/terms) |
+| プライバシー ポリシーの URL | [https://kudozza.com/privacy](https://kudozza.com/privacy) |
+| 利用規約の URL | [https://kudozza.com/terms](https://kudozza.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d99f924734bd6857b32ebb85942e5ef7ddb3cf18
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 900bbe4856204c7b1de0c988388aedc0f79366c5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553428"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281449"
 ---
 # <a name="attendancebot"></a>AttendanceBot
 
@@ -36,9 +36,9 @@ Anaek が Microsoft に提供する情報:
 | ID | WA104381652 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Anaek |
-| パートナー Web サイトの URL | [https://www.attendancebot.com/microsoft-teams/](https://www.attendancebot.com/microsoft-teams/) |
+| パートナー Web サイトの URL | [https://www.harmonizehq.com](https://www.harmonizehq.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.attendancebot.com](https://www.attendancebot.com) |
-| プライバシー ポリシーの URL | [https://www.attendancebot.com/attendance/privacy/](https://www.attendancebot.com/attendance/privacy/) |
+| プライバシー ポリシーの URL | [https://www.attendancebot.com/privacy](https://www.attendancebot.com/privacy) |
 | 利用規約の URL | [https://www.attendancebot.com/attendance/tos/](https://www.attendancebot.com/attendance/tos/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

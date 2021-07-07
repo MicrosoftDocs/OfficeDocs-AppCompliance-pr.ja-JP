@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: AVA で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6176bc86a6d382285623d3e3286852afd4a4ff96
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c55d372c0249302da425ea5b2483aba88f1a2e42
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552368"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281409"
 ---
 # <a name="ava"></a>AVA
 
@@ -36,9 +36,9 @@ AvePoint, Inc. から Microsoft に提供される情報:
 | ID | WA104381883 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | AvePoint, Inc. |
-| パートナー Web サイトの URL | [https://www.avepoint.com](https://www.avepoint.com) |
+| パートナー Web サイトの URL | [https://www.avepoint.com/](https://www.avepoint.com/) |
 | [アプリケーション情報Teamsページの URL | [https://www.avepoint.com/support/](https://www.avepoint.com/support/) |
-| プライバシー ポリシーの URL | [https://www.avepoint.com/privacy-policy](https://www.avepoint.com/privacy-policy) |
+| プライバシー ポリシーの URL | [https://www.avepoint.com/company/privacy-policy/](https://www.avepoint.com/company/privacy-policy/) |
 | 利用規約の URL | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sheetgo、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cba1d32ef248cc8228a0e38e1dc953dd07f4e5ad
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 9441bc0dcf4b2041b524db3715258caecfaa9aec
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52548727"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281089"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
@@ -35,9 +35,9 @@ SHEETGO EUROPE SL から Microsoft に提供される情報:
 | ID | WA200002128 |
 | Office 365サポートされているクライアント | Excel 2016 Mac の場合は、Excel 2016または以降の mac でWindows、Excel on the web |
 | パートナー会社名 | SHEETGO EUROPE SL |
-| パートナー Web サイトの URL | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
-| プライバシー ポリシーの URL | [https://www.sheetgo.com/legal/privacy](https://www.sheetgo.com/legal/privacy) |
-| 利用規約の URL | [https://www.sheetgo.com/legal/terms](https://www.sheetgo.com/legal/terms) |
+| パートナー Web サイトの URL | [https://www.sheetgo.com/](https://www.sheetgo.com/) |
+| プライバシー ポリシーの URL | [https://www.sheetgo.com/legal/privacy/](https://www.sheetgo.com/legal/privacy/) |
+| 利用規約の URL | [https://www.sheetgo.com/legal/terms/](https://www.sheetgo.com/legal/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

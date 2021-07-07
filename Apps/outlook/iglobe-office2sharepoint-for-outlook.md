@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: office2SharePoint for Outlook、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: afeb917824671908eb95f02ab274d3430cae5275
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 9787a4ca1e30a49826d11e5c867227cb45737eea
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553718"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281609"
 ---
 # <a name="office2sharepoint-for-outlook"></a>Office2SharePoint for Outlook
 
@@ -32,9 +32,9 @@ iGlobe から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリ名 | Office2SharePoint for Outlook |
 | ID | WA104380689 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の Mac 上Outlook Web 上 |
+| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の場合は、Outlook on the web |
 | パートナー会社名 | iGlobe |
-| パートナー Web サイトの URL | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
+| パートナー Web サイトの URL | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | プライバシー ポリシーの URL | [https://www.iglobecrm.com/content/legal-information](https://www.iglobecrm.com/content/legal-information) |
 | 利用規約の URL | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-office2sharepoint) |
 

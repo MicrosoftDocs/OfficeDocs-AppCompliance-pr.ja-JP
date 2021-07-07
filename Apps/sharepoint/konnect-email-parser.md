@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Konnect eMail Parser、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6341fbe817009d86dbd92256fed54c72ff89161f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1af3a75f49bf10e0185ba80a289fd05524c8130e
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552468"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282120"
 ---
 # <a name="konnect-email-parser"></a>Konnect eMail Parser
 
@@ -35,7 +35,7 @@ Konnect eMail から Microsoft に提供される情報:
 | ID | WA200001893 |
 | Office 365サポートされているクライアント | SharePoint 2016 以降 |
 | パートナー会社名 | Konnect eMail |
-| パートナー Web サイトの URL | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
+| パートナー Web サイトの URL | [https://www.konnectemail.com](https://www.konnectemail.com) |
 | プライバシー ポリシーの URL | [https://www.konnectemail.com/privacy-policy-sharepoint-pars...](https://www.konnectemail.com/privacy-policy-sharepoint-parser-app) |
 | 利用規約の URL | [https://www.konnectemail.com/eula](https://www.konnectemail.com/eula) |
 
@@ -68,13 +68,13 @@ Konnect eMail から Microsoft に提供される情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->Azure Application Insights 内で 90 日間保持されるログ
+>Azure Application サーバー内で 90 日間保持されるログインサイト
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->該当なし
+>N/A
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 

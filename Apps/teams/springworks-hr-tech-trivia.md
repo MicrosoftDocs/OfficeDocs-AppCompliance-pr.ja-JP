@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: トリビアで利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: fbd1b9f5f308f3690a9d55a40993ba6122e8f81b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 6facd1d8622d78a616329030cef6ffa83bf3bec3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553848"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280899"
 ---
 # <a name="trivia"></a>Trivia
 
@@ -36,7 +36,7 @@ Springworks HR Tech から Microsoft に提供される情報:
 | ID | WA200001956 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Springworks HR Tech |
-| パートナー Web サイトの URL | [https://springworks.in/](https://springworks.in/) |
+| パートナー Web サイトの URL | [https://www.springworks.in](https://www.springworks.in) |
 | [アプリケーション情報Teamsページの URL | [https://www.springworks.in/trivia](https://www.springworks.in/trivia) |
 | プライバシー ポリシーの URL | [https://trivia.springworks.in/policy](https://trivia.springworks.in/policy) |
 | 利用規約の URL | [https://trivia.springworks.in/tnc](https://trivia.springworks.in/tnc) |

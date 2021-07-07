@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: monday.com、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 64fc8e948618b760a3f82ee9c1ac67a32de9afb6
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1252ff537b354a1a8bc068e9c6ac6779c7af3fc4
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552928"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281219"
 ---
 # <a name="mondaycom"></a>monday.com
 
@@ -36,8 +36,8 @@ Microsoft に提供される monday.com 情報:
 | ID | WA200001798 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | monday.com |
-| パートナー Web サイトの URL | [https://monday.com](https://monday.com) |
-| プライバシー ポリシーの URL | [https://monday.com/privacy](https://monday.com/privacy) |
+| パートナー Web サイトの URL | [https://monday.com/](https://monday.com/) |
+| プライバシー ポリシーの URL | [https://monday.com/terms/privacy](https://monday.com/terms/privacy) |
 | 利用規約の URL | [https://monday.com/terms/tos](https://monday.com/terms/tos) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -85,13 +85,13 @@ Microsoft に提供される monday.com 情報:
 >monday.com サービスは、北バージニア州の AWS インフラストラクチャ上で複数の可用性ゾーンでホストされ、DR サイトは別の地域に確立されます。 特定のバックアップ データは GCP (米国、複数地域) に保存されます。 monday.com サービスへのアクセスは、ユーザー組織の管理者によって制御され、次の機能を利用して実現されます。
 - ユーザーの種類
 - アカウント レベルのアクセス許可
-- Workspaces
+- ワークスペース
 - ボードの種類
 - ボード レベルのアクセス許可
 - 列レベルのアクセス許可は monday.com 認証方法をサポートしています。
 - 資格情報
 - Google SSO (Proプラン)
-- okta、OneLogin、およびカスタム SAML 2.0 (Enterprise プランの場合) 2FA は、携帯ショートメール 経由または認証アプリ経由で、プラットフォームの管理パネルを介してアカウント管理者がオプションで有効にできます。
+- OKTA、OneLogin、カスタム SAML 2.0 (Enterprise プランの場合) 2FA は、SMS 経由または認証アプリ経由で、プラットフォームの管理パネルを介してアカウント管理者がオプションで有効にできます。
 保存中のすべてのデータは、AES-256 を使用して暗号化されます。 開いているネットワーク間で転送中のすべてのデータは、TLS 1.3 (少なくとも TLS 1.2) を使用して暗号化されます。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Jira Cloud for Outlook (Official)、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e366abab2bef95cd0468c87945096ec9c22024cc
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b4c7c0bb245c602d1650f13fb231894a86b3e8b0
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552548"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281639"
 ---
 # <a name="jira-cloud-for-outlook-official"></a>Jira Cloud for Outlook (Official)
 
@@ -33,11 +33,11 @@ Microsoft に提供される Atlassian.com 情報:
 |:----------------|:-------------|
 | アプリ名 | Jira Cloud for Outlook (Official) |
 | ID | WA200000056 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の mac Windows、Outlook 2016 以降、iOS の Outlook、Android 上の Outlook、web Outlook |
+| Office 365サポートされているクライアント | Outlook 2013 以降の mac Windows、Outlook 2016 以降、iOS の Outlook、Android、Outlook Outlook on the web |
 | パートナー会社名 | Atlassian.com |
-| パートナー Web サイトの URL | [https://www.atlassian.com/](https://www.atlassian.com/) |
-| プライバシー ポリシーの URL | [https://www.atlassian.com/legal/privacy-policy](https://www.atlassian.com/legal/privacy-policy) |
-| 利用規約の URL | [https://www.atlassian.com/legal/cloud-terms-of-service](https://www.atlassian.com/legal/cloud-terms-of-service) |
+| パートナー Web サイトの URL | [https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira) |
+| プライバシー ポリシーの URL | [https://www.msteams-atlassian.com/privacy-policy/](https://www.msteams-atlassian.com/privacy-policy/) |
+| 利用規約の URL | [https://www.msteams-atlassian.com/legal/](https://www.msteams-atlassian.com/legal/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

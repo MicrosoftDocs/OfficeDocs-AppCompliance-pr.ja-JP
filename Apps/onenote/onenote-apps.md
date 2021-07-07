@@ -2,21 +2,21 @@
 title: Microsoft OneNoteアプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/18/2021
+ms.date: 07/02/2021
 ms.topic: article
 ms.service: attestation
 description: すべてのアプリで使用可能なすべてのセキュリティおよびコンプライアンス情報Microsoft OneNote。
 localization_priority: Normal
-ms.openlocfilehash: 65f850b61ac1106fc3144491d56a577b4fb46847
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 164a506a9d202a1c6af917e0bdc3575b807ce3ad
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553778"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281659"
 ---
 # <a name="microsoft-onenote-app-security-and-compliance"></a>Microsoft OneNoteアプリのセキュリティとコンプライアンス
 
-Microsoft は、開発者パートナー Microsoft 365協力して、組織が使用するアプリやアドインに関する意思決定を迅速に行い、OneNote情報を提供します。 この情報は、[Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) アプリ カタログの情報と、開発者がアプリケーションを送信するときに提供する情報で補足されます。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
+Microsoft は、Microsoft 365開発者パートナーと協力して、組織が使用するアプリやアドインに関する意思決定を迅速に行い、Microsoft OneNote情報を提供します。 この情報は、[Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) アプリ カタログの情報と、開発者がアプリケーションを送信するときに提供する情報で補足されます。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
 
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|

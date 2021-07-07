@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: BrainBot、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b5eec3d8d487cdc79f8ecd180fe848812889d19d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 2b2d399cc59b9df98708a41720514a6ecb2d6dea
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553378"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282010"
 ---
 # <a name="brainbot"></a>BrainBot
 
@@ -36,9 +36,9 @@ Biggerbrains から Microsoft に提供される情報:
 | ID | WA104381981 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Biggerbrains |
-| パートナー Web サイトの URL | [https://brainbot.ai](https://brainbot.ai) |
+| パートナー Web サイトの URL | [https://getbiggerbrains.com](https://getbiggerbrains.com) |
 | [アプリケーション情報Teamsページの URL | [https://brainbot.ai](https://brainbot.ai) |
-| プライバシー ポリシーの URL | [https://brainbot.ai/privacypolicy/](https://brainbot.ai/privacypolicy/) |
+| プライバシー ポリシーの URL | [https://www.brainbot.ai/privacypolicy/](https://www.brainbot.ai/privacypolicy/) |
 | 利用規約の URL | [https://brainbot.ai/terms/](https://brainbot.ai/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

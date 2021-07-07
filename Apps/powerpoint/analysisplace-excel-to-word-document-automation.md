@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Excel-to-Word ドキュメントオートメーション、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e3f7d7ec2b59ac21a44ca92737e9fbdba4cfdaaa
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 8dc1ac8d012545326f0d3c4f96764d5a2ed391b7
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553638"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281569"
 ---
 # <a name="excel-to-word-document-automation"></a>Excel-to-Word ドキュメントオートメーション
 
@@ -35,7 +35,7 @@ AnalysisPlace から Microsoft に提供される情報:
 | ID | WA104380955 |
 | Office 365サポートされているクライアント | Excel 2016、Excel 2016 以降の mac、Windows、Word 2016 Word 2016 以降の mac、Windows、PowerPoint 2016 以降の Windows、PowerPoint 2016 以降 、Windows、Excel on the web、Word on the web、PowerPoint on the web |
 | パートナー会社名 | AnalysisPlace |
-| パートナー Web サイトの URL | [https://analysisplace.com/](https://analysisplace.com/) |
+| パートナー Web サイトの URL | [https://analysisplace.com](https://analysisplace.com) |
 | プライバシー ポリシーの URL | [https://analysisplace.com/Privacy](https://analysisplace.com/Privacy) |
 | 利用規約の URL | [https://analysisplace.com/Terms](https://analysisplace.com/Terms) |
 
@@ -74,7 +74,7 @@ AnalysisPlace から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->該当なし
+>N/A
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Goodera で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 55b69d4abaedb8f838f201812e11db2cc9aac39f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 46dc2de8dc444591a42a0a3e4ecaa1c31232ebc3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552148"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281870"
 ---
 # <a name="goodera"></a>Goodera
 
@@ -36,8 +36,7 @@ Goodera から Microsoft に提供される情報:
 | ID | WA200002136 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Goodera |
-| パートナー Web サイトの URL | [https://about.goodera.com](https://about.goodera.com) |
-| [アプリケーション情報Teamsページの URL | [該当なし](N/A) |
+| パートナー Web サイトの URL | [https://goodera.com](https://goodera.com) |
 | プライバシー ポリシーの URL | [https://about.goodera.com/privacy](https://about.goodera.com/privacy) |
 | 利用規約の URL | [https://about.goodera.com/terms](https://about.goodera.com/terms) |
 
@@ -83,7 +82,7 @@ Goodera から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->該当なし
+>N/A
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 

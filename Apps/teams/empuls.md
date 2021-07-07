@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Empuls で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 213ea22e24ee4f6aa4efb08270d3715fda8ac097
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 4e0d3fd220ee2a068538073c7afe7fc522d9609f
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552208"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281299"
 ---
 # <a name="empuls"></a>Empuls
 
@@ -36,7 +36,7 @@ Empuls が Microsoft に提供する情報:
 | ID | WA200002483 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Empuls |
-| パートナー Web サイトの URL | [https://www.xoxoday.com/empuls/overview](https://www.xoxoday.com/empuls/overview) |
+| パートナー Web サイトの URL | [https://www.xoxoday.com](https://www.xoxoday.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.xoxoday.com/empuls](https://www.xoxoday.com/empuls) |
 | プライバシー ポリシーの URL | [https://www.xoxoday.com/privacy-policy](https://www.xoxoday.com/privacy-policy) |
 | 利用規約の URL | [https://www.xoxoday.com/terms-of-use](https://www.xoxoday.com/terms-of-use) |

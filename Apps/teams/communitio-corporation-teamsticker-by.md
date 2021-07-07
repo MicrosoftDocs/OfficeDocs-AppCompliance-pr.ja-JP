@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Communitio による TeamSticker で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 75509ae7266f44470530418c955ba70713126783
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 944fa2eaf8df347cf3ce1b96bad9cd8521dceed3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552258"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281940"
 ---
 # <a name="teamsticker-by-communitio"></a>TeamSticker by Communitio
 
@@ -36,7 +36,7 @@ Communitio Corporation から Microsoft に提供される情報:
 | ID | WA200000894 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Communitio Corporation |
-| パートナー Web サイトの URL | [https://www.teamsuite.biz/](https://www.teamsuite.biz/) |
+| パートナー Web サイトの URL | [https://www.teamsuite.biz](https://www.teamsuite.biz) |
 | [アプリケーション情報Teamsページの URL | [https://www.teamsuite.biz/feature/](https://www.teamsuite.biz/feature/) |
 | プライバシー ポリシーの URL | [https://www.teamsuite.biz/privacy/](https://www.teamsuite.biz/privacy/) |
 | 利用規約の URL | [https://www.teamsuite.biz/terms/](https://www.teamsuite.biz/terms/) |
@@ -98,7 +98,7 @@ Communitio Corporation から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->該当なし
+>N/A
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Cloverpop、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: eaee7a04f4d8e74f97eef1fae358f80a0c3e2249
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c6be013237c6368624687f7eb297a7149c28a548
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553228"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281349"
 ---
 # <a name="cloverpop"></a>Cloverpop
 
@@ -36,7 +36,7 @@ Cloverpop が Microsoft に提供する情報:
 | ID | WA200001803 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Cloverpop |
-| パートナー Web サイトの URL | [https://www.cloverpop.com](https://www.cloverpop.com) |
+| パートナー Web サイトの URL | [https://www.cloverpop.com/](https://www.cloverpop.com/) |
 | プライバシー ポリシーの URL | [https://www.cloverpop.com/privacy-policy/](https://www.cloverpop.com/privacy-policy/) |
 | 利用規約の URL | [https://www.cloverpop.com/terms-of-service](https://www.cloverpop.com/terms-of-service) |
 

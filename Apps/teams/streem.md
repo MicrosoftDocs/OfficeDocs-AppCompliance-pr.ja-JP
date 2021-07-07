@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Streem、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e2846048e24c525f55b3a51a5a5ce7c9fa2f862e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d4bedfee8b2a65a0164c845dba10ebf0c44c4eac
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553828"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280829"
 ---
 # <a name="streem"></a>Streem
 
@@ -36,10 +36,9 @@ Streem が Microsoft に提供する情報:
 | ID | WA200000197 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Streem |
-| パートナー Web サイトの URL | [https://streem.com.au](https://streem.com.au) |
-| [アプリケーション情報Teamsページの URL | [該当なし](N/A) |
-| プライバシー ポリシーの URL | [https://streem.com.au/privacy](https://streem.com.au/privacy) |
-| 利用規約の URL | [https://streem.com.au/terms/general](https://streem.com.au/terms/general) |
+| パートナー Web サイトの URL | [https://www.streem.com.au](https://www.streem.com.au) |
+| プライバシー ポリシーの URL | [https://www.streem.com.au/privacy](https://www.streem.com.au/privacy) |
+| 利用規約の URL | [https://www.streem.com.au/terms/general](https://www.streem.com.au/terms/general) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

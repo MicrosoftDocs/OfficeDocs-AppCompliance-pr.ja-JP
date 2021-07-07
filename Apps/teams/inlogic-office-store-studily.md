@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Studi.ly、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 26a89739809e0d398db2a823bd714aa06a2d210d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: bc3307db955cf9f124442f08fc315c1cd8158659
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553058"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281239"
 ---
 # <a name="studily"></a>Studi.ly
 
@@ -36,9 +36,9 @@ InLogic-Officeストアから Microsoft に提供される情報:
 | ID | WA200001668 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | inLogic-Office Store |
-| パートナー Web サイトの URL | [https://www.studi.ly](https://www.studi.ly) |
-| プライバシー ポリシーの URL | [https://www.studi.ly/Studily_Privacy_Statement.pdf](https://www.studi.ly/Studily_Privacy_Statement.pdf) |
-| 利用規約の URL | [https://www.studi.ly/Studily_Terms_Of_Use_v1.pdf](https://www.studi.ly/Studily_Terms_Of_Use_v1.pdf) |
+| パートナー Web サイトの URL | [https://www.inlogic.dk](https://www.inlogic.dk) |
+| プライバシー ポリシーの URL | [https://studi.ly/Studily_Privacy_Statement.pdf](https://studi.ly/Studily_Privacy_Statement.pdf) |
+| 利用規約の URL | [https://studi.ly/Studily_Terms_Of_Use_v1.pdf](https://studi.ly/Studily_Terms_Of_Use_v1.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: マーケティングの自動化、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する Zoho Campaigns ツールで利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e67de0ca2871d5432b5a29ead52194225bc51c9a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: e54e3313dcfa51542439775a0c3ca0cae38aca93
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553688"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281589"
 ---
 # <a name="zoho-campaigns-tool-for-marketing-automation"></a>マーケティング自動化のための Zoho キャンペーン ツール
 
@@ -33,11 +33,11 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 |:----------------|:-------------|
 | アプリ名 | マーケティング自動化のための Zoho キャンペーン ツール |
 | ID | WA104380835 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の Mac 上Outlook Web 上 |
+| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の場合は、Outlook on the web |
 | パートナー会社名 | Zoho Corporation Private Limited |
 | パートナー Web サイトの URL | [https://www.zoho.com/](https://www.zoho.com/) |
-| プライバシー ポリシーの URL | [https://zoho.com/privacy.html](https://zoho.com/privacy.html) |
-| 利用規約の URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| プライバシー ポリシーの URL | [https://www.zoho.com/privacy.html](https://www.zoho.com/privacy.html) |
+| 利用規約の URL | [https://www.zoho.com/campaigns/zc-terms.html](https://www.zoho.com/campaigns/zc-terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

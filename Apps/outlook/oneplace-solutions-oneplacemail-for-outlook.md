@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: onePlaceMail for Outlook、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5094d1ad5e7b028ac115529de16ddb9cbef2086f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 97c9b74768b11e3c63a302566a20a2cb762275a0
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552498"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281709"
 ---
 # <a name="oneplacemail-for-outlook"></a>OnePlaceMail for Outlook
 
@@ -33,11 +33,11 @@ OnePlace Solutions から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリ名 | OnePlaceMail for Outlook |
 | ID | WA104380723 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の mac Windows、Outlook 2016 以降、iOS の Outlook、Android 上の Outlook、web Outlook |
+| Office 365サポートされているクライアント | Outlook 2013 以降の mac Windows、Outlook 2016 以降、iOS の Outlook、Android、Outlook Outlook on the web |
 | パートナー会社名 | OnePlace ソリューション |
-| パートナー Web サイトの URL | [https://www.oneplacesolutions.com/](https://www.oneplacesolutions.com/) |
+| パートナー Web サイトの URL | [https://www.oneplacesolutions.com](https://www.oneplacesolutions.com) |
 | プライバシー ポリシーの URL | [https://www.oneplacesolutions.com/oneplacemailapp-privacy](https://www.oneplacesolutions.com/oneplacemailapp-privacy) |
-| 利用規約の URL | [https://www.oneplacesolutions.com/oneplacemailapp-eula](https://www.oneplacesolutions.com/oneplacemailapp-eula) |
+| 利用規約の URL | [https://www.oneplacesolutions.com/eula.html](https://www.oneplacesolutions.com/eula.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -86,7 +86,7 @@ OnePlace Solutions から Microsoft に提供される情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->EUII と OII はテレメトリに表示されます。 この情報は Application Insights に保存され、保存時に暗号化され、アクセスが制御され、90 日後に削除されます。
+>EUII と OII はテレメトリに表示されます。 この情報は Application インサイトに保存され、保存時に暗号化され、アクセスが制御され、90 日後に削除されます。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 

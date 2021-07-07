@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Yeeflow のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c8dc3fb5a23d480299aae331a9ccccae9641c66c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 9b1292e935d526947d689c9c5de9638589270957
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553438"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281459"
 ---
 # <a name="yeeflow"></a>Yeeflow
 
@@ -36,8 +36,8 @@ Akmii から Microsoft に提供される情報:
 | ID | WA200000089 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Akmii |
-| パートナー Web サイトの URL | [https://www.yeeflow.com](https://www.yeeflow.com) |
-| [アプリケーション情報Teamsページの URL | [www.yeeflow.com](www.yeeflow.com) |
+| パートナー Web サイトの URL | [https://www.akmii.com](https://www.akmii.com) |
+| [アプリケーション情報Teamsページの URL | [https://www.yeeflow.com](https://www.yeeflow.com) |
 | プライバシー ポリシーの URL | [https://www.yeeflow.com/privacy](https://www.yeeflow.com/privacy) |
 | 利用規約の URL | [https://www.yeeflow.com/terms](https://www.yeeflow.com/terms) |
 

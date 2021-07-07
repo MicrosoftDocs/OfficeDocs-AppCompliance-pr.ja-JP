@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: リ通知、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8e2124ed68b2e9d750c8bc6a229eca0ccad200b5
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 56999a3dc9723eab8b56fcdbc434283a7c864534
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552448"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282100"
 ---
 # <a name="remind"></a>Remind
 
@@ -36,9 +36,9 @@ ms.locfileid: "52552448"
 | ID | WA200001444 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | 88 Ventures Limited |
-| パートナー Web サイトの URL | [https://www.teamsreminder.app](https://www.teamsreminder.app) |
-| プライバシー ポリシーの URL | [https://www.teamsreminder.app/#privacy](https://www.teamsreminder.app/#privacy) |
-| 利用規約の URL | [https://www.teamsreminder.app/#terms](https://www.teamsreminder.app/#terms) |
+| パートナー Web サイトの URL | [https://moonbearapp.com](https://moonbearapp.com) |
+| プライバシー ポリシーの URL | [https://teamsreminder.app/#privacy](https://teamsreminder.app/#privacy) |
+| 利用規約の URL | [https://teamsreminder.app/#terms](https://teamsreminder.app/#terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
