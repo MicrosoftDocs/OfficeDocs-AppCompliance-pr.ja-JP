@@ -6,19 +6,19 @@ description: Microsoft 365認定の詳細
 keywords: アプリ構成証明 microsoft 365 認定 365 アンケート appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: a8abea4e9670f22583b8a7c718b3dec9883b9adb
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: 4322695ea694e30d42925e8316c848b867394f3b
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053471"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315077"
 ---
 # <a name="what-is-microsoft-365-certification"></a>認定とはMicrosoft 365ですか?
 
 Microsoft 365認定は、サード パーティ製アプリを使用する際に、データとプライバシーが適切に保護され、保護されているという保証を提供します。 認定は、アプリが「認定申請ガイド」で説明されている条件に準拠[Microsoft 365確認します](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide)。 検証に合格するアプリケーションは、認定Microsoft 365されます。
 アプリ認定は、資格のあるアナリストによる、アプリのセキュリティとコンプライアンスのフレームワーク、プロセス、および手順を中心にした包括的な評価のレビューと承認によって達成されます。 参加はオプションですが、認定を受けることは、アプリケーションと運用手順が集中的なセキュリティ レビューを受けていることを示す、不動の方法です。
 
-Microsoft 365認定は、WebApps および次の製品と統合しているすべてのアプリに適用されます。
+Microsoft 365認定は、WebApps および次の Microsoft 製品と統合しているすべてのアプリに適用されます。
 - Teams
 - Word
 - Excel

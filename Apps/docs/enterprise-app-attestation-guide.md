@@ -6,12 +6,12 @@ description: 構成証明プログラムのPublisher詳細
 keywords: アプリ構成証明認定 365 アンケート appSource Publisher
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 5b49b6aa06dffc0df6a87cf1e9b0824806a90cc2
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: 3479395605bd7e3ecc0ab618b8030987e67d2617
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053481"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315087"
 ---
 # <a name="what-is-publisher-attestation"></a>構成証明Publisherとは
 
@@ -20,7 +20,7 @@ Publisher構成証明は、アプリ コンプライアンス プログラムの
 > [!IMPORTANT]
 > Microsoft は、提供された情報を検証しません。 アプリ開発者は、公開構成証明で提供する情報に対して、一人で責任を負います。 
 
-Publisher の構成証明は、次の Microsoft プラットフォームと統合するアプリに適用されます。
+Publisher構成証明は、WebApps および次の Microsoft プラットフォームと統合するすべてのアプリに適用されます。
 - Teams
 - Word
 - Excel
@@ -29,7 +29,6 @@ Publisher の構成証明は、次の Microsoft プラットフォームと統�
 - SharePoint
 - Project
 - OneNote
-- Web アプリ
 
 ### <a name="benefits-for-it-admins"></a>IT 管理者のメリット
 IT 管理者向け構成証明のPublisherの利点は次のとおりです。

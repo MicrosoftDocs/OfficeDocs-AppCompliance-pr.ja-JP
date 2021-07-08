@@ -6,16 +6,16 @@ description: Microsoft 365認定の詳細の概要
 keywords: appSource のアプリ認定Microsoft 365証明
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 4c4f5b3ab20038eb1d21e9bf24d60d64fa6a02d9
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: e5696890f532589ae4fbec08aaf9f5be7b2e4590
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053461"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315097"
 ---
 # <a name="complete-microsoft-365-certification"></a>完全なMicrosoft 365認定
 
-## <a name="introduction"></a>はじめに
+## <a name="introduction"></a>概要
 
 認定Microsoft 365、セキュリティとコンプライアンスのプロセスと手順を評価する必要があります。 この評価では、証拠を確認して、アプリケーション セキュリティ、運用セキュリティ/セキュリティ保護展開、Microsoft 365 認定申請ガイドで説明されているデータ処理セキュリティとプライバシーの[3](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide)つのドメインにまたがる一連のセキュリティ制御を実行しているのを検証します。
 
@@ -34,6 +34,9 @@ ms.locfileid: "53053461"
 1. パートナー センターに移動し、完成した構成証明[Publisher確認]( https://docs.microsoft.com/microsoft-365-app-certification/docs/attestation)します。 必要に応じて、応答を編集および更新できます。ただし、承認を得る場合は、構成証明のドキュメントを再提出して承認する必要があります。 申請が 3 か月を超える場合は、レビューと検証のために、Publisherを再送信する必要があります。 
 1. 「認定申請ガイド[Microsoft 365」を](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide)注意深く読んで、必要なことを理解してください。 「認定申請ガイド」で指定されている制御[]( https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#app-certification-criteria)要件を満たMicrosoft 365してください。
 1. パートナー センター内で [認定の開始] をクリックします。 これにより、最初のドキュメント申請ポータルにアクセスできます。 最初のドキュメント [提出を送信します](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#initial-document-submission)。 これにより、アプリの設計方法と顧客データの処理方法に基づいて、評価の対象範囲を特定できます。 このページを頻繁に確認して、申請が受け付けられているか確認します。
+
+>[!NOTE]
+>すべての Office アプリについては、アプリ ユーザー ガイドOffice[参照できます](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide)。 すべての WebApp については [、SaaS アプリ](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide)ユーザー ガイドを参照できます。
 
 ### <a name="assessment"></a>評価
 1. 最初のドキュメント提出が受け入れられると、アプリに必要なセキュリティ制御のセットがポータルに自動的に表示されます。 その後、コントロールが配置されているという証拠を各コントロールに提出する必要があります。 すべての証拠を提出するために **60** 日間が与えられる点に気を付けください。 アナリストが証拠を確認し、コントロールを承認するか、新しい証拠または追加の証拠を要求します。 このページを頻繁に確認して、証拠が受け入れられらたか確認してください。

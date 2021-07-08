@@ -6,12 +6,12 @@ description: Microsoft 365認定申請ガイドの詳細なビュー
 keywords: アプリ認定チームMicrosoft 365コンプライアンス m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 1ee9ba43ffe793f38438a26365cbb8cbc05aa2f3
-ms.sourcegitcommit: d8a1524fc419a1ca33971b656197f0b6a5efe2b9
+ms.openlocfilehash: dd3a61b6b9768c278cd7d48dd88847ea9ee56421
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53125967"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315127"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365認定申請ガイド
 
@@ -48,10 +48,11 @@ Microsoft 365 認定プログラムに参加することで、これらの補足
 このドキュメントでは、ISV (独立ソフトウェア ベンダー) を対象に、Microsoft 365 認定プロセスに関する情報、プロセスを開始するための前提条件、および ISV に必要な特定のセキュリティ制御の詳細を提供します。  アプリ コンプライアンス プログラムのMicrosoft 365は、[アプリ コンプライアンス プログラム] ページMicrosoft 365参照[してください](https://docs.microsoft.com/microsoft-365-app-certification/overview)。 
 
 > [!IMPORTANT]
-> 現時点では、Microsoft 365認定は制限されています。
+> 現在、Microsoft 365認定は次のすべてに適用されます。
 >* Microsoft Teams (タブ、ボットなど) 。
 >* Sharepoint Apps/Add-ins
 >* Officeアドイン (Word、Excel、PowerPoint、Outlook、Project、OneNote)
+>* WebApps
 
 ## <a name="prerequisites"></a>前提条件
 
@@ -107,7 +108,7 @@ IaaS または PaaS が展開されている場合は、これらの展開の種
 |<5|1|
 |>5 & <10|2|
 |>9 & <25|3|
-|>24|4|
+|>24|4 |
 
 > [!NOTE]
 >最初のサンプルに含まれるデバイス間で不一致が特定された場合は、評価中にサンプル サイズが大きくなる可能性があります。 
@@ -116,12 +117,29 @@ IaaS または PaaS が展開されている場合は、これらの展開の種
 
 認定プロセスを開始する前に、証明書の構成証明を正常にPublisherがあります。 構成証明の応答は、認証プロセスのサポートMicrosoft 365に使用され、次のように処理されます。
 
-1.  現在の環境Publisher正確な状態を確認するには、構成証明に関するドキュメントを参照してください。
-2.  「認定Microsoft 365ガイド」を参照して、開始する前にすべてのコントロールを満たしてください。
-3.  パートナー センターで [認定の開始] をクリックし、最初のドキュメント提出を送信します。 ここでの回答は、評価の範囲を決定するのに役立ちます。
-4.  評価の証拠を提出する必要があるコントロールの完全な一覧が提供されます。
-5.  すべてのスコープ内認証コントロールが 60 日間Microsoft 365満たされたという証拠を提出します。
-6.  投稿を頻繁に確認して、コメントや、注意が必要な未解決の要求を確認します。 すべてのコントロールに対して証拠が承認されると、認定資格のMicrosoft 365されます。 
+## <a name="certification-process"></a>認定プロセス
+
+認定プロセスを開始する前に、証明書の構成証明をPublisherがあります。 発行元の構成証明が承認されると、認定資格への参加を招待する入門メールがMicrosoft 365されます。
+
+### <a name="preparation"></a>準備
+1. パートナー センターに移動し、完成した構成証明[Publisher確認]( https://docs.microsoft.com/microsoft-365-app-certification/docs/attestation)します。 必要に応じて、応答を編集および更新できます。ただし、承認を得る場合は、構成証明のドキュメントを再提出して承認する必要があります。 申請が 3 か月を超える場合は、レビューと検証のために、Publisherを再送信する必要があります。 
+1. 「認定申請ガイド[Microsoft 365」を](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide)注意深く読んで、必要なことを理解してください。 「認定申請ガイド」で指定されている制御[]( https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#app-certification-criteria)要件を満たMicrosoft 365してください。
+1. パートナー センター内で [認定の開始] をクリックします。 これにより、最初のドキュメント申請ポータルにアクセスできます。 最初のドキュメント [提出を送信します](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#initial-document-submission)。 これにより、アプリの設計方法と顧客データの処理方法に基づいて、評価の対象範囲を特定できます。 このページを頻繁に確認して、申請が受け付けられているか確認します。
+
+>[!NOTE]
+>すべての Office アプリについては、アプリ ユーザー ガイドOffice[参照できます](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide)。 すべての WebApp については [、SaaS アプリ](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide)ユーザー ガイドを参照できます。
+
+### <a name="assessment"></a>評価
+1. 最初のドキュメント提出が受け入れられると、アプリに必要なセキュリティ制御のセットがポータルに自動的に表示されます。 その後、コントロールが配置されているという証拠を各コントロールに提出する必要があります。 すべての証拠を提出するために **60** 日間が与えられる点に気を付けください。 アナリストが証拠を確認し、コントロールを承認するか、新しい証拠または追加の証拠を要求します。 このページを頻繁に確認して、証拠が受け入れられらたか確認してください。
+### <a name="certification"></a>認定
+1. 提出がアナリストによって検証された後、認定の決定が通知されます。 認定を受けるアプリは **、AppSource** および Microsoft ドキュメント ページ内のアプリケーションで **バッジを受け取** る。 認定の利点については、こちらを参照 [してください](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide#program-benefits)。
+
+## <a name="review-and-re-certification"></a>レビューと再認定
+アプリケーションが重要な変更を受けた[](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#significant-changes)場合は、いつでもお客様に通知する必要があります。
+
+また、年単位で再認定を行う必要があります。 これには、現在の環境に対するスコープ内コントロールの再評価が必要です。 このプロセスは、認定の有効期限の 90 日前まで開始できます。 再認定期間中は、既存の認定が期限切れになることはありません。 すべてのプログラムで再認定が期限切れになるのは、認定資格の 1 年Microsoft 365です。
+
+有効期限が切れ前に認定が更新されない場合、アプリの認定ステータスは取り消されます。 すべてのバッド、アイコン、および関連付けられた認定ブランド化はアプリから削除され、アプリを [認定済み] として広告Microsoft 365されます。
 
 
 > [!IMPORTANT]

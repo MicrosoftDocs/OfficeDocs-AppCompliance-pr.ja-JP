@@ -6,12 +6,12 @@ description: 構成証明プログラムのPublisher詳細
 keywords: アプリ構成証明認定 365 アンケート appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 4d5284beb199cc1c5a77bd6091bbc04428b545bd
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: abedb09bc280c0b643f037324178aa854f2f117f
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053431"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315107"
 ---
 # <a name="complete-publisher-attestation"></a>完全なPublisher構成証明
 
@@ -19,6 +19,16 @@ Publisher構成証明は、アプリのセキュリティ、データ処理、�
 
 > [!IMPORTANT]
 > Microsoft は、提供された情報を検証しません。 開発者は、自己評価で提供する情報に対して責任を負います。 
+
+**Publisher構成証明は、WebApps および次の Microsoft 製品と統合しているすべてのアプリに適用されます。**
+- Teams
+- Word
+- Excel
+- PowerPoint 
+- Outlook
+- SharePoint
+- Project
+- OneNote
 
 
 ## <a name="program-benefits"></a>プログラムの利点
@@ -28,17 +38,7 @@ Publisher構成証明は、アプリのセキュリティ、データ処理、�
 - ストア内の他のアプリとの差別化。 
 - AppSource、管理センター、Microsoft 管理センターのエントリからTeamsドキュメント ページにリンクします。 
 - 認定を開始するMicrosoft 365します。
-
-## <a name="publisher-attestation-applies-to-apps-that-integrate-with"></a>Publisher構成証明は、以下と統合するアプリに適用されます。
-- Teams
-- Word
-- Excel
-- PowerPoint 
-- Outlook
-- SharePoint
-- Project
-- OneNote
-- Web アプリ
+ 
 
 ## <a name="publisher-attestation-process"></a>Publisher構成証明プロセス
 
