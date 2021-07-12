@@ -43,6 +43,8 @@
           href: excel/iglobe-office2sharepoint-for-office.md
         - name: officeatwork |コンテンツの選択Office
           href: excel/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork |イメージの選択Office
+          href: excel/officeatwork-officeatworkimage-chooser-for-office.md
         - name: officeatwork |テンプレートのテンプレート選択Office
           href: excel/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: QuickCells グラフ
@@ -60,6 +62,8 @@
       items:
         - name: officeatwork |コンテンツの選択Office
           href: onenote/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork |イメージの選択Office
+          href: onenote/officeatwork-officeatworkimage-chooser-for-office.md
         - name: Wunder365 for Office
           href: onenote/jiji-technologies-private-limited-wunder365-for-office.md
     - name: Microsoft Outlook アプリ
@@ -126,6 +130,8 @@
           href: powerpoint/iglobe-office2sharepoint-for-office.md
         - name: officeatwork |コンテンツの選択Office
           href: powerpoint/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork |イメージの選択Office
+          href: powerpoint/officeatwork-officeatworkimage-chooser-for-office.md
         - name: officeatwork |スライドの選択Office
           href: powerpoint/officeatwork-officeatworkslide-chooser-for-office.md
         - name: officeatwork |テンプレートのテンプレート選択Office
@@ -616,6 +622,8 @@
           href: word/officeatwork-officeatworkcontent-chooser-for-office.md
         - name: officeatwork |デザイナー Office
           href: word/officeatwork-officeatworkdesigner-for-office.md
+        - name: officeatwork |イメージの選択Office
+          href: word/officeatwork-officeatworkimage-chooser-for-office.md
         - name: officeatwork |テンプレートのテンプレート選択Office
           href: word/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: officeatwork |ユーザーのアップロードOffice
@@ -653,6 +661,8 @@
           href: saas/appfluence-inc-priority-matrix.md
         - name: SalesTim
           href: saas/salestim.md
+        - name: スライドの選択
+          href: saas/officeatwork-slide-chooser.md
         - name: Template Chooser
           href: saas/officeatwork-template-chooser.md
         - name: テンプレート選択ブラウザー
