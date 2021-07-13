@@ -6,19 +6,19 @@ description: 構成証明プログラムのPublisher詳細
 keywords: アプリ構成証明認定 365 アンケート appSource Publisher
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 3479395605bd7e3ecc0ab618b8030987e67d2617
-ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
+ms.openlocfilehash: d91c11b53f1f807fbb4335918586a7748f14bf91
+ms.sourcegitcommit: a475d48e9538faa7ed682c11829c2e45ba675af6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53315087"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53383730"
 ---
 # <a name="what-is-publisher-attestation"></a>構成証明Publisherとは
 
 Publisher構成証明は、アプリ コンプライアンス プログラムの次Microsoft 365層です。 アプリ開発者は、ユーザーまたは IT 管理者がアプリのセキュリティとコンプライアンスを評価するときによく寄せられる質問を含む自己評価を完了する必要があります。 その後、Microsoft は、この情報を公開して、より簡単で、より時間の大きいな評価を行います。
 
 > [!IMPORTANT]
-> Microsoft は、提供された情報を検証しません。 アプリ開発者は、公開構成証明で提供する情報に対して、一人で責任を負います。 
+> Microsoft は、提供された情報の一部を検証する必要があります。 アプリ開発者は、発行元の構成証明で提供する情報に対して責任を負います。 
 
 Publisher構成証明は、WebApps および次の Microsoft プラットフォームと統合するすべてのアプリに適用されます。
 - Teams
