@@ -2,24 +2,24 @@
 title: デジタル マシンによる FormMachines のEnterprise情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 07/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: FormMachines、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: dbd881d2f718a0445aa6ffe4ef651ad017e68fd3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 36ee73c86e0ccb1d8943cbe04da24319789b31c7
+ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552198"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53456599"
 ---
 # <a name="formmachines"></a>FormMachines
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2020 年 11 月 3 日</p>
+<p>開発者が最終更新日: 2021 年 7 月 5 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/54d8b826-3e30-4589-a77a-ed99cfbbb4c9" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001217" target="_blank">AppSource での表示</a>
@@ -37,8 +37,9 @@ Microsoft にデジタル Enterpriseによって提供される情報:
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Enterprise Digital Machines |
 | パートナー Web サイトの URL | [https://www.formmachines.com](https://www.formmachines.com) |
-| プライバシー ポリシーの URL | [https://www.formmachines.com?dirKey=fm-privacy](https://www.formmachines.com?dirKey=fm-privacy) |
-| 利用規約の URL | [https://www.formmachines.com?dirKey=fm-terms-of-use](https://www.formmachines.com?dirKey=fm-terms-of-use) |
+| [アプリケーション情報Teamsページの URL | [https://www.FormMachines.com](https://www.FormMachines.com) |
+| プライバシー ポリシーの URL | [https://www.formmachines.com/dist/docs#/statements_and_agre...](https://www.formmachines.com/dist/docs#/statements_and_agreements/privacy) |
+| 利用規約の URL | [https://www.formmachines.com/dist/docs#/statements_and_agre...](https://www.formmachines.com/dist/docs#/statements_and_agreements/terms_of_service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -54,9 +55,7 @@ Microsoft にデジタル Enterpriseによって提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委任 | (ログイン、電子メール、Azure Guid、displayName、first_login_date_time) | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインを有効にし、各ユーザーを一意に識別できます | 8c87660f-d36f-41f6-b0ae-025253f380aa |
+>このアプリケーションでは、Microsoft アプリケーションをGraph。
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -76,13 +75,13 @@ Microsoft にデジタル Enterpriseによって提供される情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->. エラーのみをログに記録します。 エラー ログには、エラーに関連する情報のみをログに記録します。 特定のエラーをトリガーしたクライアントまたは顧客は収集されません。 サポート エンジニアだけがエラー ログにアクセスできます。 エラー ログはオンラインで表示され、ダウンロードおよび表示されません。 エラー ログは 30 日後に自動的に削除されます
+>エラー ログでは、通常、エラー自体に関連する情報のみをログに記録します。 ただし、特定の顧客を支援するために、関連するドメインを特定できますが、顧客自体は識別しません。 エラー ログはオンラインで表示され、ダウンロードおよび表示されません。 エラー ログは 90 日後に自動的に削除されます。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->. データは Azure US ベースのデータ センターに格納されます。 テンプレートや申請などのクライアントが提供するデータは、DB で暗号化されます。 添付ファイルはプライベート Azure BLOB コンテナーに格納され、ユーザーはアクセスする前に認証する必要があります。 トラブルシューティングと展開のために、運用資産にアクセスできる管理者は最大 2 人です。 これら 2 つの管理アカウントは、他のすべてのアカウントとは異なる方法でパーティション分割されます。 管理者アクセスの数が 2 を超えない
+>データは Azure US ベースのデータ センターに格納されます。 テンプレートや申請などのクライアントが提供するデータは、DB/BLOB で暗号化されます。 添付ファイルはプライベート Azure BLOB コンテナーに格納され、ユーザーはアクセスする前に認証する必要があります。 トラブルシューティングと展開のために、運用資産にアクセスできる管理者は最大 2 人です。 これら 2 つの管理アカウントは、他のすべてのアカウントとは異なる方法でパーティション分割されます。 管理者アクセスの数は 2 を超えない。 
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -106,3 +105,29 @@ Microsoft にデジタル Enterpriseによって提供される情報:
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 情報
+
+この情報は、このアプリEnterprise認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について、デジタル コンピューターから提供されています。
+
+| **Information** | **応答** |
+|:----------------|:-------------|
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
+| アプリはマルチテナントをサポートしていますか? | はい |
+| アプリに機密クライアントがありますか? | いいえ |
+| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリは Web API を公開していますか? | はい |
+| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
+| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリで非推奨の API を使用していますか? | いいえ |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
