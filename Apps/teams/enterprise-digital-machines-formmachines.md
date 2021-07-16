@@ -2,43 +2,44 @@
 title: デジタル マシンによる FormMachines のEnterprise情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 07/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: FormMachines、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: dbd881d2f718a0445aa6ffe4ef651ad017e68fd3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 36ee73c86e0ccb1d8943cbe04da24319789b31c7
+ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552198"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53456599"
 ---
-# <a name="formmachines"></a><span data-ttu-id="89e3f-103">FormMachines</span><span class="sxs-lookup"><span data-stu-id="89e3f-103">FormMachines</span></span>
+# <a name="formmachines"></a><span data-ttu-id="b3b4f-103">FormMachines</span><span class="sxs-lookup"><span data-stu-id="b3b4f-103">FormMachines</span></span>
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p><span data-ttu-id="89e3f-104">開発者が最終更新日: 2020 年 11 月 3 日</span><span class="sxs-lookup"><span data-stu-id="89e3f-104">Last updated by the developer on: November 3, 2020</span></span></p>
+<p><span data-ttu-id="b3b4f-104">開発者が最終更新日: 2021 年 7 月 5 日</span><span class="sxs-lookup"><span data-stu-id="b3b4f-104">Last updated by the developer on: July 5, 2021</span></span></p>
 
-* <span data-ttu-id="89e3f-105"><a href="https://teams.microsoft.com/l/app/54d8b826-3e30-4589-a77a-ed99cfbbb4c9" target="_blank">ストアでの表示Teamsする</a></span><span class="sxs-lookup"><span data-stu-id="89e3f-105"><a href="https://teams.microsoft.com/l/app/54d8b826-3e30-4589-a77a-ed99cfbbb4c9" target="_blank">View in Teams store</a></span></span>
-* <span data-ttu-id="89e3f-106"><a href="https://appsource.microsoft.com/product/office/WA200001217" target="_blank">AppSource での表示</a></span><span class="sxs-lookup"><span data-stu-id="89e3f-106"><a href="https://appsource.microsoft.com/product/office/WA200001217" target="_blank">View in AppSource</a></span></span>
+* <span data-ttu-id="b3b4f-105"><a href="https://teams.microsoft.com/l/app/54d8b826-3e30-4589-a77a-ed99cfbbb4c9" target="_blank">ストアでの表示Teamsする</a></span><span class="sxs-lookup"><span data-stu-id="b3b4f-105"><a href="https://teams.microsoft.com/l/app/54d8b826-3e30-4589-a77a-ed99cfbbb4c9" target="_blank">View in Teams store</a></span></span>
+* <span data-ttu-id="b3b4f-106"><a href="https://appsource.microsoft.com/product/office/WA200001217" target="_blank">AppSource での表示</a></span><span class="sxs-lookup"><span data-stu-id="b3b4f-106"><a href="https://appsource.microsoft.com/product/office/WA200001217" target="_blank">View in AppSource</a></span></span>
 
 ::: zone pivot="general"
 
-### <a name="general-information"></a><span data-ttu-id="89e3f-107">一般情報</span><span class="sxs-lookup"><span data-stu-id="89e3f-107">General information</span></span>
+### <a name="general-information"></a><span data-ttu-id="b3b4f-107">一般情報</span><span class="sxs-lookup"><span data-stu-id="b3b4f-107">General information</span></span>
 
-<span data-ttu-id="89e3f-108">Microsoft にデジタル Enterpriseによって提供される情報:</span><span class="sxs-lookup"><span data-stu-id="89e3f-108">Information provided by Enterprise Digital Machines to Microsoft:</span></span>
+<span data-ttu-id="b3b4f-108">Microsoft にデジタル Enterpriseによって提供される情報:</span><span class="sxs-lookup"><span data-stu-id="b3b4f-108">Information provided by Enterprise Digital Machines to Microsoft:</span></span>
 
-| <span data-ttu-id="89e3f-109">**Information**</span><span class="sxs-lookup"><span data-stu-id="89e3f-109">**Information**</span></span> | <span data-ttu-id="89e3f-110">**応答**</span><span class="sxs-lookup"><span data-stu-id="89e3f-110">**Response**</span></span> |
+| <span data-ttu-id="b3b4f-109">**Information**</span><span class="sxs-lookup"><span data-stu-id="b3b4f-109">**Information**</span></span> | <span data-ttu-id="b3b4f-110">**応答**</span><span class="sxs-lookup"><span data-stu-id="b3b4f-110">**Response**</span></span> |
 |:----------------|:-------------|
-| <span data-ttu-id="89e3f-111">アプリ名</span><span class="sxs-lookup"><span data-stu-id="89e3f-111">App name</span></span> | <span data-ttu-id="89e3f-112">FormMachines</span><span class="sxs-lookup"><span data-stu-id="89e3f-112">FormMachines</span></span> |
-| <span data-ttu-id="89e3f-113">ID</span><span class="sxs-lookup"><span data-stu-id="89e3f-113">ID</span></span> | <span data-ttu-id="89e3f-114">WA200001217</span><span class="sxs-lookup"><span data-stu-id="89e3f-114">WA200001217</span></span> |
-| <span data-ttu-id="89e3f-115">Office 365サポートされているクライアント</span><span class="sxs-lookup"><span data-stu-id="89e3f-115">Office 365 clients supported</span></span> | <span data-ttu-id="89e3f-116">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="89e3f-116">Microsoft Teams</span></span> |
-| <span data-ttu-id="89e3f-117">パートナー会社名</span><span class="sxs-lookup"><span data-stu-id="89e3f-117">Partner company name</span></span> | <span data-ttu-id="89e3f-118">Enterprise Digital Machines</span><span class="sxs-lookup"><span data-stu-id="89e3f-118">Enterprise Digital Machines</span></span> |
-| <span data-ttu-id="89e3f-119">パートナー Web サイトの URL</span><span class="sxs-lookup"><span data-stu-id="89e3f-119">URL of partner website</span></span> | [https://www.formmachines.com](https://www.formmachines.com) |
-| <span data-ttu-id="89e3f-120">プライバシー ポリシーの URL</span><span class="sxs-lookup"><span data-stu-id="89e3f-120">URL of Privacy Policy</span></span> | [https://www.formmachines.com?dirKey=fm-privacy](https://www.formmachines.com?dirKey=fm-privacy) |
-| <span data-ttu-id="89e3f-121">利用規約の URL</span><span class="sxs-lookup"><span data-stu-id="89e3f-121">URL of Terms of Use</span></span> | [https://www.formmachines.com?dirKey=fm-terms-of-use](https://www.formmachines.com?dirKey=fm-terms-of-use) |
+| <span data-ttu-id="b3b4f-111">アプリ名</span><span class="sxs-lookup"><span data-stu-id="b3b4f-111">App name</span></span> | <span data-ttu-id="b3b4f-112">FormMachines</span><span class="sxs-lookup"><span data-stu-id="b3b4f-112">FormMachines</span></span> |
+| <span data-ttu-id="b3b4f-113">ID</span><span class="sxs-lookup"><span data-stu-id="b3b4f-113">ID</span></span> | <span data-ttu-id="b3b4f-114">WA200001217</span><span class="sxs-lookup"><span data-stu-id="b3b4f-114">WA200001217</span></span> |
+| <span data-ttu-id="b3b4f-115">Office 365サポートされているクライアント</span><span class="sxs-lookup"><span data-stu-id="b3b4f-115">Office 365 clients supported</span></span> | <span data-ttu-id="b3b4f-116">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="b3b4f-116">Microsoft Teams</span></span> |
+| <span data-ttu-id="b3b4f-117">パートナー会社名</span><span class="sxs-lookup"><span data-stu-id="b3b4f-117">Partner company name</span></span> | <span data-ttu-id="b3b4f-118">Enterprise Digital Machines</span><span class="sxs-lookup"><span data-stu-id="b3b4f-118">Enterprise Digital Machines</span></span> |
+| <span data-ttu-id="b3b4f-119">パートナー Web サイトの URL</span><span class="sxs-lookup"><span data-stu-id="b3b4f-119">URL of partner website</span></span> | [https://www.formmachines.com](https://www.formmachines.com) |
+| <span data-ttu-id="b3b4f-120">[アプリケーション情報Teamsページの URL</span><span class="sxs-lookup"><span data-stu-id="b3b4f-120">URL of Teams application info page</span></span> | [https://www.FormMachines.com](https://www.FormMachines.com) |
+| <span data-ttu-id="b3b4f-121">プライバシー ポリシーの URL</span><span class="sxs-lookup"><span data-stu-id="b3b4f-121">URL of Privacy Policy</span></span> | [<span data-ttu-id="b3b4f-122"> https://www.formmachines.com/dist/docs#/statements_and_agre...</span><span class="sxs-lookup"><span data-stu-id="b3b4f-122">https://www.formmachines.com/dist/docs#/statements_and_agre...</span></span>](https://www.formmachines.com/dist/docs#/statements_and_agreements/privacy) |
+| <span data-ttu-id="b3b4f-123">利用規約の URL</span><span class="sxs-lookup"><span data-stu-id="b3b4f-123">URL of Terms of Use</span></span> | [<span data-ttu-id="b3b4f-124"> https://www.formmachines.com/dist/docs#/statements_and_agre...</span><span class="sxs-lookup"><span data-stu-id="b3b4f-124">https://www.formmachines.com/dist/docs#/statements_and_agre...</span></span>](https://www.formmachines.com/dist/docs#/statements_and_agreements/terms_of_service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -46,49 +47,47 @@ ms.locfileid: "52552198"
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a><span data-ttu-id="89e3f-122">アプリがデータを処理する方法</span><span class="sxs-lookup"><span data-stu-id="89e3f-122">How the app handles data</span></span>
+### <a name="how-the-app-handles-data"></a><span data-ttu-id="b3b4f-125">アプリがデータを処理する方法</span><span class="sxs-lookup"><span data-stu-id="b3b4f-125">How the app handles data</span></span>
 
-<span data-ttu-id="89e3f-123">この情報は、Enterprise が組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する情報を提供しています。</span><span class="sxs-lookup"><span data-stu-id="89e3f-123">This information has been provided by Enterprise Digital Machines about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
+<span data-ttu-id="b3b4f-126">この情報は、Enterprise が組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する情報を提供しています。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-126">This information has been provided by Enterprise Digital Machines about how this app collects and stores organizational data and the control that your organization will have over the data the app collects.</span></span>
 
-#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="89e3f-124">Microsoft サービスを使用したデータ アクセスGraph</span><span class="sxs-lookup"><span data-stu-id="89e3f-124">Data access using Microsoft Graph</span></span>
+#### <a name="data-access-using-microsoft-graph"></a><span data-ttu-id="b3b4f-127">Microsoft サービスを使用したデータ アクセスGraph</span><span class="sxs-lookup"><span data-stu-id="b3b4f-127">Data access using Microsoft Graph</span></span>
 
-<span data-ttu-id="89e3f-125">このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。</span><span class="sxs-lookup"><span data-stu-id="89e3f-125">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
+<span data-ttu-id="b3b4f-128">このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-128">List any [Microsoft Graph permissions](https://docs.microsoft.com/graph/permissions-reference) this app requires.</span></span>
 
->| <span data-ttu-id="89e3f-126">**アクセス許可**</span><span class="sxs-lookup"><span data-stu-id="89e3f-126">**Permission**</span></span>  | <span data-ttu-id="89e3f-127">**アクセス許可の種類 (委任/アプリケーション)**</span><span class="sxs-lookup"><span data-stu-id="89e3f-127">**Type of permission (Delegated/Application)**</span></span> | <span data-ttu-id="89e3f-128">**データは収集されますか?収集の正当性**</span><span class="sxs-lookup"><span data-stu-id="89e3f-128">**Is data collected? Justification for collecting it?**</span></span> | <span data-ttu-id="89e3f-129">**データは保存されますか?それを格納するための正当性?**</span><span class="sxs-lookup"><span data-stu-id="89e3f-129">**Is data stored? Justification for storing it?**</span></span> | <span data-ttu-id="89e3f-130">**Azure AD アプリ ID**</span><span class="sxs-lookup"><span data-stu-id="89e3f-130">**Azure AD App ID**</span></span> |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| <span data-ttu-id="89e3f-131">User.Read</span><span class="sxs-lookup"><span data-stu-id="89e3f-131">User.Read</span></span> | <span data-ttu-id="89e3f-132">委任</span><span class="sxs-lookup"><span data-stu-id="89e3f-132">delegated</span></span> | <span data-ttu-id="89e3f-133">(ログイン、電子メール、Azure Guid、displayName、first_login_date_time)</span><span class="sxs-lookup"><span data-stu-id="89e3f-133">(login, email, Azure Guid, displayName, first_login_date_time)</span></span> | <span data-ttu-id="89e3f-134">ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインを有効にし、各ユーザーを一意に識別できます</span><span class="sxs-lookup"><span data-stu-id="89e3f-134">allows user to sign in and gives app access to their UPN to enable silent login, enables us to unique identify each user</span></span> | <span data-ttu-id="89e3f-135">8c87660f-d36f-41f6-b0ae-025253f380aa</span><span class="sxs-lookup"><span data-stu-id="89e3f-135">8c87660f-d36f-41f6-b0ae-025253f380aa</span></span> |
+><span data-ttu-id="b3b4f-129">このアプリケーションでは、Microsoft アプリケーションをGraph。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-129">This application does not use Microsoft Graph.</span></span>
 
 
-#### <a name="non-microsoft-services-used"></a><span data-ttu-id="89e3f-136">非使用Microsoft サービス</span><span class="sxs-lookup"><span data-stu-id="89e3f-136">Non-Microsoft services used</span></span>
+#### <a name="non-microsoft-services-used"></a><span data-ttu-id="b3b4f-130">非使用Microsoft サービス</span><span class="sxs-lookup"><span data-stu-id="b3b4f-130">Non-Microsoft services used</span></span>
 
-<span data-ttu-id="89e3f-137">アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。</span><span class="sxs-lookup"><span data-stu-id="89e3f-137">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
+<span data-ttu-id="b3b4f-131">アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-131">If the app transfers or shares organizational data with non-Microsoft service, list the non-Microsoft service the app uses, what data is transferred, and include a justification for why the app needs to transfer this information.</span></span>
 
-><span data-ttu-id="89e3f-138">非Microsoft サービスは使用されません。</span><span class="sxs-lookup"><span data-stu-id="89e3f-138">Non-Microsoft services are not used.</span></span>
+><span data-ttu-id="b3b4f-132">非Microsoft サービスは使用されません。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-132">Non-Microsoft services are not used.</span></span>
 
-#### <a name="data-access-via-bots"></a><span data-ttu-id="89e3f-139">ボット経由のデータ アクセス</span><span class="sxs-lookup"><span data-stu-id="89e3f-139">Data access via bots</span></span>
+#### <a name="data-access-via-bots"></a><span data-ttu-id="b3b4f-133">ボット経由のデータ アクセス</span><span class="sxs-lookup"><span data-stu-id="b3b4f-133">Data access via bots</span></span>
 
-<span data-ttu-id="89e3f-140">このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。</span><span class="sxs-lookup"><span data-stu-id="89e3f-140">If this app contains a bot or a messaging extension, it can access end-user identifiable information (EUII): the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to.</span></span> <span data-ttu-id="89e3f-141">このアプリは、この機能を利用しますか?</span><span class="sxs-lookup"><span data-stu-id="89e3f-141">Does this app make use of this capability?</span></span>
+<span data-ttu-id="b3b4f-134">このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-134">If this app contains a bot or a messaging extension, it can access end-user identifiable information (EUII): the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to.</span></span> <span data-ttu-id="b3b4f-135">このアプリは、この機能を利用しますか?</span><span class="sxs-lookup"><span data-stu-id="b3b4f-135">Does this app make use of this capability?</span></span>
 
-><span data-ttu-id="89e3f-142">EUII にはアクセスされません。</span><span class="sxs-lookup"><span data-stu-id="89e3f-142">No EUII is accessed.</span></span>
+><span data-ttu-id="b3b4f-136">EUII にはアクセスされません。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-136">No EUII is accessed.</span></span>
 
 
-#### <a name="telemetry-data"></a><span data-ttu-id="89e3f-143">テレメトリ データ</span><span class="sxs-lookup"><span data-stu-id="89e3f-143">Telemetry data</span></span>
+#### <a name="telemetry-data"></a><span data-ttu-id="b3b4f-137">テレメトリ データ</span><span class="sxs-lookup"><span data-stu-id="b3b4f-137">Telemetry data</span></span>
 
-<span data-ttu-id="89e3f-144">組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか?</span><span class="sxs-lookup"><span data-stu-id="89e3f-144">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="89e3f-145">はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。</span><span class="sxs-lookup"><span data-stu-id="89e3f-145">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
+<span data-ttu-id="b3b4f-138">組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか?</span><span class="sxs-lookup"><span data-stu-id="b3b4f-138">Does any organizational identifiable information (OII) or end-user identifiable information (EUII) appear in this application's telemetry or logs?</span></span> <span data-ttu-id="b3b4f-139">はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-139">If yes, describe what data is stored and what are the retention and removal policies?</span></span>
 
-><span data-ttu-id="89e3f-146">.</span><span class="sxs-lookup"><span data-stu-id="89e3f-146">.</span></span> <span data-ttu-id="89e3f-147">エラーのみをログに記録します。</span><span class="sxs-lookup"><span data-stu-id="89e3f-147">We only log errors .</span></span> <span data-ttu-id="89e3f-148">エラー ログには、エラーに関連する情報のみをログに記録します。</span><span class="sxs-lookup"><span data-stu-id="89e3f-148">In our error log, we only log error related information.</span></span> <span data-ttu-id="89e3f-149">特定のエラーをトリガーしたクライアントまたは顧客は収集されません。</span><span class="sxs-lookup"><span data-stu-id="89e3f-149">Which client or customer triggered a particular error is not collected .</span></span> <span data-ttu-id="89e3f-150">サポート エンジニアだけがエラー ログにアクセスできます。</span><span class="sxs-lookup"><span data-stu-id="89e3f-150">Only support engineers have access to error logs .</span></span> <span data-ttu-id="89e3f-151">エラー ログはオンラインで表示され、ダウンロードおよび表示されません。</span><span class="sxs-lookup"><span data-stu-id="89e3f-151">Error logs are viewed online, not downloaded and viewed .</span></span> <span data-ttu-id="89e3f-152">エラー ログは 30 日後に自動的に削除されます</span><span class="sxs-lookup"><span data-stu-id="89e3f-152">Error logs are deleted automatically after 30 days</span></span>
+><span data-ttu-id="b3b4f-140">エラー ログでは、通常、エラー自体に関連する情報のみをログに記録します。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-140">In our error log, generally we only log information that's related to the error itself.</span></span> <span data-ttu-id="b3b4f-141">ただし、特定の顧客を支援するために、関連するドメインを特定できますが、顧客自体は識別しません。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-141">However, to assist a particular customer, we may identify the related domain, but not the customer itself.</span></span> <span data-ttu-id="b3b4f-142">エラー ログはオンラインで表示され、ダウンロードおよび表示されません。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-142">Error logs are viewed online, not downloaded and viewed .</span></span> <span data-ttu-id="b3b4f-143">エラー ログは 90 日後に自動的に削除されます。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-143">Error logs are deleted automatically after 90 days.</span></span>
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="89e3f-153">パートナーによって保存されるデータの組織的な制御</span><span class="sxs-lookup"><span data-stu-id="89e3f-153">Organizational controls for data stored by partner</span></span>
+#### <a name="organizational-controls-for-data-stored-by-partner"></a><span data-ttu-id="b3b4f-144">パートナーによって保存されるデータの組織的な制御</span><span class="sxs-lookup"><span data-stu-id="b3b4f-144">Organizational controls for data stored by partner</span></span>
 
-<span data-ttu-id="89e3f-154">組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。</span><span class="sxs-lookup"><span data-stu-id="89e3f-154">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
+<span data-ttu-id="b3b4f-145">組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-145">Describe how organization's administrators can control their information in partner systems? e.g. deletion, retention, auditing, archiving, end-user policy, etc.</span></span>
 
-><span data-ttu-id="89e3f-155">.</span><span class="sxs-lookup"><span data-stu-id="89e3f-155">.</span></span> <span data-ttu-id="89e3f-156">データは Azure US ベースのデータ センターに格納されます。</span><span class="sxs-lookup"><span data-stu-id="89e3f-156">Data is stored in Azure US-based data centers .</span></span> <span data-ttu-id="89e3f-157">テンプレートや申請などのクライアントが提供するデータは、DB で暗号化されます。</span><span class="sxs-lookup"><span data-stu-id="89e3f-157">Client provided data such as templates and submissions are encrypted in the DB .</span></span> <span data-ttu-id="89e3f-158">添付ファイルはプライベート Azure BLOB コンテナーに格納され、ユーザーはアクセスする前に認証する必要があります。</span><span class="sxs-lookup"><span data-stu-id="89e3f-158">File attachments are stored in private Azure BLOB containers, users must authenticate before accessing them .</span></span> <span data-ttu-id="89e3f-159">トラブルシューティングと展開のために、運用資産にアクセスできる管理者は最大 2 人です。</span><span class="sxs-lookup"><span data-stu-id="89e3f-159">We have maximum two admins who can access our production assets, for troubleshooting and deployment.</span></span> <span data-ttu-id="89e3f-160">これら 2 つの管理アカウントは、他のすべてのアカウントとは異なる方法でパーティション分割されます。</span><span class="sxs-lookup"><span data-stu-id="89e3f-160">These two admin accounts are partitioned differently to all other accounts.</span></span> <span data-ttu-id="89e3f-161">管理者アクセスの数が 2 を超えない</span><span class="sxs-lookup"><span data-stu-id="89e3f-161">The number of admin access will never exceed two</span></span>
+><span data-ttu-id="b3b4f-146">データは Azure US ベースのデータ センターに格納されます。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-146">Data is stored in Azure US-based data centers .</span></span> <span data-ttu-id="b3b4f-147">テンプレートや申請などのクライアントが提供するデータは、DB/BLOB で暗号化されます。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-147">Client provided data such as templates and submissions are encrypted in the DB/BLOB.</span></span> <span data-ttu-id="b3b4f-148">添付ファイルはプライベート Azure BLOB コンテナーに格納され、ユーザーはアクセスする前に認証する必要があります。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-148">File attachments are stored in private Azure BLOB containers, users must authenticate before accessing them.</span></span> <span data-ttu-id="b3b4f-149">トラブルシューティングと展開のために、運用資産にアクセスできる管理者は最大 2 人です。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-149">We have maximum two admins who can access our production assets, for troubleshooting and deployment.</span></span> <span data-ttu-id="b3b4f-150">これら 2 つの管理アカウントは、他のすべてのアカウントとは異なる方法でパーティション分割されます。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-150">These two admin accounts are partitioned differently to all other accounts.</span></span> <span data-ttu-id="b3b4f-151">管理者アクセスの数は 2 を超えない。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-151">The number of admin access will not exceed two.</span></span> 
 
-#### <a name="human-review-of-organizational-information"></a><span data-ttu-id="89e3f-162">組織情報の人間によるレビュー</span><span class="sxs-lookup"><span data-stu-id="89e3f-162">Human review of organizational information</span></span>
+#### <a name="human-review-of-organizational-information"></a><span data-ttu-id="b3b4f-152">組織情報の人間によるレビュー</span><span class="sxs-lookup"><span data-stu-id="b3b4f-152">Human review of organizational information</span></span>
 
-<span data-ttu-id="89e3f-163">人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?</span><span class="sxs-lookup"><span data-stu-id="89e3f-163">Are humans involved in reviewing or analyzing any organizational identifiable information (OII) data that is collected or stored by this app?</span></span>
+<span data-ttu-id="b3b4f-153">人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?</span><span class="sxs-lookup"><span data-stu-id="b3b4f-153">Are humans involved in reviewing or analyzing any organizational identifiable information (OII) data that is collected or stored by this app?</span></span>
 
-><span data-ttu-id="89e3f-164">はい</span><span class="sxs-lookup"><span data-stu-id="89e3f-164">Yes</span></span>
+><span data-ttu-id="b3b4f-154">はい</span><span class="sxs-lookup"><span data-stu-id="b3b4f-154">Yes</span></span>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -96,11 +95,11 @@ ms.locfileid: "52552198"
 
 ::: zone pivot="mcas"
 
-<span data-ttu-id="89e3f-165">以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。</span><span class="sxs-lookup"><span data-stu-id="89e3f-165">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
+<span data-ttu-id="b3b4f-155">以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-155">Information from the [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catalog appears below.</span></span>
 
-<iframe height='1020' title='<span data-ttu-id="89e3f-166">Microsoft Cloud App Security情報</span><span class="sxs-lookup"><span data-stu-id="89e3f-166">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36144' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="89e3f-167">
+<iframe height='1020' title='<span data-ttu-id="b3b4f-156">Microsoft Cloud App Security情報</span><span class="sxs-lookup"><span data-stu-id="b3b4f-156">Microsoft Cloud App Security Information</span></span>' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36144' frameborder='no' style='width: 100%;'></iframe><span data-ttu-id="b3b4f-157">
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36144" target="_blank">新しいタブで表示する</a></span><span class="sxs-lookup"><span data-stu-id="89e3f-167">
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36144" target="_blank">新しいタブで表示する</a></span><span class="sxs-lookup"><span data-stu-id="b3b4f-157">
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36144" target="_blank">View in a new tab</a></span></span>
 
@@ -108,3 +107,29 @@ ms.locfileid: "52552198"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a><span data-ttu-id="b3b4f-158">ID 情報</span><span class="sxs-lookup"><span data-stu-id="b3b4f-158">Identity information</span></span>
+
+<span data-ttu-id="b3b4f-159">この情報は、このアプリEnterprise認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について、デジタル コンピューターから提供されています。</span><span class="sxs-lookup"><span data-stu-id="b3b4f-159">This information has been provided by Enterprise Digital Machines about how this app handles authentication, authorization, application registration best practices, and other Identity criteria.</span></span>
+
+| <span data-ttu-id="b3b4f-160">**Information**</span><span class="sxs-lookup"><span data-stu-id="b3b4f-160">**Information**</span></span> | <span data-ttu-id="b3b4f-161">**応答**</span><span class="sxs-lookup"><span data-stu-id="b3b4f-161">**Response**</span></span> |
+|:----------------|:-------------|
+| <span data-ttu-id="b3b4f-162">Microsoft Identify Platform (Azure AD) と統合しますか?</span><span class="sxs-lookup"><span data-stu-id="b3b4f-162">Do you integrate with Microsoft Identify Platform (Azure AD)?</span></span>  | <span data-ttu-id="b3b4f-163">はい</span><span class="sxs-lookup"><span data-stu-id="b3b4f-163">Yes</span></span> |
+| <span data-ttu-id="b3b4f-164">統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?</span><span class="sxs-lookup"><span data-stu-id="b3b4f-164">Have you reviewed and complied with all applicable best practices outlined in the Microsoft identity platform integration checklist?</span></span>  | <span data-ttu-id="b3b4f-165">はい</span><span class="sxs-lookup"><span data-stu-id="b3b4f-165">Yes</span></span> |
+| <span data-ttu-id="b3b4f-166">アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか?</span><span class="sxs-lookup"><span data-stu-id="b3b4f-166">Does your app use MSAL (Microsoft Authentication Library) for authentication?</span></span> | <span data-ttu-id="b3b4f-167">はい</span><span class="sxs-lookup"><span data-stu-id="b3b4f-167">Yes</span></span> |
+| <span data-ttu-id="b3b4f-168">アプリは条件付きアクセス ポリシーをサポートしていますか?</span><span class="sxs-lookup"><span data-stu-id="b3b4f-168">Does your app support Conditional Access policies?</span></span> | <span data-ttu-id="b3b4f-169">いいえ</span><span class="sxs-lookup"><span data-stu-id="b3b4f-169">No</span></span> |
+| <span data-ttu-id="b3b4f-170">アプリがシナリオに対して最小特権のアクセス許可を要求していますか?</span><span class="sxs-lookup"><span data-stu-id="b3b4f-170">Does your app request least privilege permissions for your scenario?</span></span> | <span data-ttu-id="b3b4f-171">はい</span><span class="sxs-lookup"><span data-stu-id="b3b4f-171">Yes</span></span> |
+| <span data-ttu-id="b3b4f-172">アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか?</span><span class="sxs-lookup"><span data-stu-id="b3b4f-172">Does your app's statically registered permissions accurately reflect the permissions your app will request dynamically and incrementally?</span></span> | <span data-ttu-id="b3b4f-173">はい</span><span class="sxs-lookup"><span data-stu-id="b3b4f-173">Yes</span></span> |
+| <span data-ttu-id="b3b4f-174">アプリはマルチテナントをサポートしていますか?</span><span class="sxs-lookup"><span data-stu-id="b3b4f-174">Does your app support multi-tenancy?</span></span> | <span data-ttu-id="b3b4f-175">はい</span><span class="sxs-lookup"><span data-stu-id="b3b4f-175">Yes</span></span> |
+| <span data-ttu-id="b3b4f-176">アプリに機密クライアントがありますか?</span><span class="sxs-lookup"><span data-stu-id="b3b4f-176">Does your app have a confidential client?</span></span> | <span data-ttu-id="b3b4f-177">いいえ</span><span class="sxs-lookup"><span data-stu-id="b3b4f-177">No</span></span> |
+| <span data-ttu-id="b3b4f-178">アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか?</span><span class="sxs-lookup"><span data-stu-id="b3b4f-178">Do you own all of the redirect Unified Resource Identifier (URI) registered for your app?</span></span> | <span data-ttu-id="b3b4f-179">はい</span><span class="sxs-lookup"><span data-stu-id="b3b4f-179">Yes</span></span> |
+| <span data-ttu-id="b3b4f-180">アプリの場合、何を使用しないのですか?</span><span class="sxs-lookup"><span data-stu-id="b3b4f-180">For your app, what do you avoid using?</span></span> | <span data-ttu-id="b3b4f-181">- ワイルドカード リダイレクト URI、</span><span class="sxs-lookup"><span data-stu-id="b3b4f-181">- Wildcard redirect URIs,</span></span><br/><span data-ttu-id="b3b4f-182">- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む</span><span class="sxs-lookup"><span data-stu-id="b3b4f-182">- OAuth2 Implicit Flow, unless required for a SPA</span></span><br/><span data-ttu-id="b3b4f-183">- リソース所有者パスワード資格情報 (ROPC) フロー</span><span class="sxs-lookup"><span data-stu-id="b3b4f-183">- Resource Owner Password Credential (ROPC) flow</span></span> |
+| <span data-ttu-id="b3b4f-184">アプリは Web API を公開していますか?</span><span class="sxs-lookup"><span data-stu-id="b3b4f-184">Does your app expose any web APIs?</span></span> | <span data-ttu-id="b3b4f-185">はい</span><span class="sxs-lookup"><span data-stu-id="b3b4f-185">Yes</span></span> |
+| <span data-ttu-id="b3b4f-186">アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか?</span><span class="sxs-lookup"><span data-stu-id="b3b4f-186">Does your permission model only allow calls to succeed if the client app receives the proper consent?</span></span> | <span data-ttu-id="b3b4f-187">はい</span><span class="sxs-lookup"><span data-stu-id="b3b4f-187">Yes</span></span> |
+| <span data-ttu-id="b3b4f-188">アプリでプレビュー API を使用していますか?</span><span class="sxs-lookup"><span data-stu-id="b3b4f-188">Does your app use preview APIs?</span></span> | <span data-ttu-id="b3b4f-189">いいえ</span><span class="sxs-lookup"><span data-stu-id="b3b4f-189">No</span></span> |
+| <span data-ttu-id="b3b4f-190">アプリで非推奨の API を使用していますか?</span><span class="sxs-lookup"><span data-stu-id="b3b4f-190">Does your app use deprecated APIs?</span></span> | <span data-ttu-id="b3b4f-191">いいえ</span><span class="sxs-lookup"><span data-stu-id="b3b4f-191">No</span></span> |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
