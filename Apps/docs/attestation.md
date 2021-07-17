@@ -6,12 +6,12 @@ description: 構成証明プログラムのPublisher詳細
 keywords: アプリ構成証明認定 365 アンケート appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: abedb09bc280c0b643f037324178aa854f2f117f
-ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
+ms.openlocfilehash: 1d3652bb2f0eab3f1f533ce4acf3d13104843eea
+ms.sourcegitcommit: 98b9f17063c7ada0890b37af405990ad5eedd0b9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53315107"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53466027"
 ---
 # <a name="complete-publisher-attestation"></a>完全なPublisher構成証明
 
@@ -20,7 +20,7 @@ Publisher構成証明は、アプリのセキュリティ、データ処理、�
 > [!IMPORTANT]
 > Microsoft は、提供された情報を検証しません。 開発者は、自己評価で提供する情報に対して責任を負います。 
 
-**Publisher構成証明は、WebApps および次の Microsoft 製品と統合しているすべてのアプリに適用されます。**
+**Publisher構成証明は、Web アプリ (パートナー センターの商用マーケットプレースを通じて公開される SaaS アプリ)、および次の Microsoft 製品と統合するすべてのアプリに適用されます。**
 - Teams
 - Word
 - Excel
@@ -36,13 +36,13 @@ Publisher構成証明は、アプリのセキュリティ、データ処理、�
 - 企業組織のセキュリティとコンプライアンスの内部レビュータイムラインを加速する。
 - 透明度の向上。
 - ストア内の他のアプリとの差別化。 
-- AppSource、管理センター、Microsoft 管理センターのエントリからTeamsドキュメント ページにリンクします。 
+- AppSource のエントリ、Teams 管理センター、Microsoft 管理センター、Teams ストアからドキュメント ページにリンクします。 
 - 認定を開始するMicrosoft 365します。
  
 
 ## <a name="publisher-attestation-process"></a>Publisher構成証明プロセス
 
-1. **参加する**- Publisher構成証明がパートナー センターに統合されました。 構成証明は、パートナー センター内のすべてのユーザー フレンドリーなアンケートで完了できます。 手順については、 [ユーザー ガイド](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide) を参照してください。
+1. **参加する**- Publisher構成証明がパートナー センターに [統合されました](https://partner.microsoft.com)。 構成証明は、パートナー センター内のすべてのユーザー フレンドリーなアンケートで完了できます。 詳細な手順については[Officeストア](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide)と商用マーケットプレース[](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide)のユーザー ガイドを参照してください。
 
 2. **レビューのフィードバックと結果** を待つ - 整合性チェックのレビュー中に、アナリストが応答データが不十分ななどのブロックの問題を見つけた場合は、詳細について連絡を受ける必要があります。 アナリストは、プロセス全体を通じて、レビュー結果とフォローアップ提出の詳細を示すアプリ アクティビティ ログを維持します。 構成証明レポートが完了し、応答が受け入れられると判断されると、申請が承認されます。 承認の状態は、申請時から 1 年間有効です。
 
