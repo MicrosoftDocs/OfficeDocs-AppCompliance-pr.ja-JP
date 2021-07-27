@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: アセンブリで使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6cc680f1f7ec25df961d2453dcbfdc20afd0b2eb
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: f8d63c77c3fd9b52353ce22954dfa4dadb8dea2f
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852106"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522056"
 ---
 # <a name="assembly"></a>Assembly
 
@@ -35,7 +35,7 @@ ms.locfileid: "52852106"
 | アプリ名 | Assembly |
 | ID | WA200002271 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | キャロットHR Inc. |
+| パートナー会社名 | CarrotHR Inc. |
 | パートナー Web サイトの URL | [https://www.joinassembly.com](https://www.joinassembly.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.joinassembly.com/about](https://www.joinassembly.com/about) |
 | プライバシー ポリシーの URL | [https://joinassembly.com/privacy-policy](https://joinassembly.com/privacy-policy) |
@@ -56,14 +56,14 @@ ms.locfileid: "52852106"
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Channel.Create | 委任 | ユーザーがアプリから新しく作成したチャネルにアプリを割り当て許可する | アプリを正しいチャネルと同期するためにチャネル ID を保存します | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
->| Directory.Read.All | アプリケーション | Assembly でメンバーが適切に検索可能な状態でプロファイルを同期する | Assembly でメンバーを検索可能に保つために使用できる可能性があるその他のプロファイル情報 | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
->| Group.Read.All | 委任 | データを確認して、アプリを正しいグループに割り当て可能 | グループは保存しない | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
->| Teams.ReadBasic.All | アプリケーション | アプリを正しいチーム タブに割り当てる機能 | チームは、追加するチームを期待しているのを格納しない  | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
->| TeamsTab.Create | アプリケーション | これを使用して、アプリをチャネル/チームに適切に追加できます。 | タブ データを収集または保存していない | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
->| メール | 委任 | ユーザーの電子メールを使用して、ユーザーに特定のアカウントへのアクセス権を付与する | ユーザーの電子メールを使用して、特定のアカウントへのアクセス権を付与し、ID と一致する | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
->| profile | 委任 | アセンブリを自動入力し、アセンブリ内の変更と同期を維持するユーザー Microsoft Teams | ユーザーの完全な名前 | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Channel.Create | 委任 | ユーザーがアプリから新しく作成したチャネルにアプリを割り当て許可する | アプリを正しいチャネルと同期するためにチャネル ID を保存します | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| Directory.Read.All | アプリケーション | Assembly でメンバーが適切に検索可能な状態でプロファイルを同期する | Assembly でメンバーを検索可能に保つために使用できる可能性があるその他のプロファイル情報 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| Group.Read.All | 委任 | データを確認して、アプリを正しいグループに割り当て可能 | グループは保存しない | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| Teams.ReadBasic.All | アプリケーション | アプリを正しいチーム タブに割り当てる機能 | チームは、追加するチームを期待しているのを格納しない  | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| TeamsTab.Create | アプリケーション | これを使用して、アプリをチャネル/チームに適切に追加できます。 | タブ データを収集または保存していない | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| メール | 委任 | ユーザーの電子メールを使用して、ユーザーに特定のアカウントへのアクセス権を付与する | ユーザーの電子メールを使用して、特定のアカウントへのアクセス権を付与し、ID と一致する | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| profile | 委任 | アセンブリを自動入力し、アセンブリ内の変更と同期を維持するユーザー Microsoft Teams | ユーザーの完全な名前 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -95,7 +95,7 @@ ms.locfileid: "52852106"
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -123,17 +123,17 @@ ms.locfileid: "52852106"
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | なし |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
-| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | いいえ |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | なし |
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ブロードキャスト、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8037cdbb77a41979e369ec79decbaac8e6c6cae5
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: ab386fe99e96bbe2dae26d2045c8d46447d35fd5
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852110"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522040"
 ---
 # <a name="broadcast"></a>Broadcast
 
@@ -56,8 +56,8 @@ Cerkl が Microsoft に提供する情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委任 | ユーザーの電子メールは収集され、ユーザーが現在システムにいて、組織によって追加されたのか確認するために使用されます。 | アプリには、Microsoft の API から取得されたデータGraphされません。 | 74ef25ab-3685-446c-aa43-4e9cc251ed62 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委任 | ユーザーの電子メールは収集され、ユーザーが現在システムにいて、組織によって追加されたのか確認するために使用されます。 | アプリには、Microsoft の API から取得されたデータGraphされません。 | [74ef25ab-3685-446c-aa43-4e9cc251ed62](https://docs.microsoft.com/microsoft-365-app-certification/azure/74ef25ab-3685-446c-aa43-4e9cc251ed62) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -89,7 +89,7 @@ Cerkl が Microsoft に提供する情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

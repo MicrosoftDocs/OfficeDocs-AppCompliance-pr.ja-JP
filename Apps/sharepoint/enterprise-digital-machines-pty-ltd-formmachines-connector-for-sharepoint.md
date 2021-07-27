@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: formMachines Connector for SharePoint、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f550b89335a7ce75d23d01728478e121f10c6fd3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 56c08c242cb3822ebaea854026fb3f758768b7bf
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282693"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522230"
 ---
 # <a name="formmachines-connector-for-sharepoint"></a>FormMachines コネクタ for SharePoint
 
@@ -54,8 +54,8 @@ ENTERPRISE DIGITAL MACHINES PTY LTD から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委任 | (ログイン、電子メール、Azure Guid、displayName、first_login_date_time) | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインを有効にし、各ユーザーを一意に識別できます | 8c87660f-d36f-41f6-b0ae-025253f380aa |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委任 | (ログイン、電子メール、Azure Guid、displayName、first_login_date_time) | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインを有効にし、各ユーザーを一意に識別できます | [8c87660f-d36f-41f6-b0ae-025253f380aa](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c87660f-d36f-41f6-b0ae-025253f380aa) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス

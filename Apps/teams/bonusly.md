@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ボーナス、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 15448c84e8702cef69ed94ff69dba5343b7e2443
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 254237e2b21f4805eb059be373b184672cf7f853
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553298"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522057"
 ---
 # <a name="bonusly"></a>Bonusly
 
@@ -69,7 +69,7 @@ Bonusly が Microsoft に提供する情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| ユーザーのメールにアクセスして、システム内の関連ユーザーを検索します。 | ユーザーの電子メールはシステムに保存されますが、ユーザーがシステムに入力Teams。 |  |
 
 

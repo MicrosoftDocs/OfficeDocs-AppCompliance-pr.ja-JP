@@ -2,24 +2,24 @@
 title: Berrycast by Technologies Openmind Inc, Les のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/20/2021
+ms.date: 07/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Berrycast、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c3236368fbab418754e758f6009607335e593515
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 714db08e839b60403a567b2cab1af888c4cb7b6f
+ms.sourcegitcommit: c545fba57f8ca821caf6ef55f5b4b068b5f35984
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283421"
+ms.lasthandoff: 07/24/2021
+ms.locfileid: "53578233"
 ---
 # <a name="berrycast"></a>Berrycast
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2021 年 4 月 20 日</p>
+<p>開発者が最終更新日: 2021 年 7 月 23 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/c7cde650-1e32-11eb-af14-639b3a7d6491" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002798" target="_blank">AppSource での表示</a>
@@ -55,12 +55,12 @@ Technologies Openmind Inc, Les to Microsoft が提供する情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| People.Read | 委任 | すべてのユーザー連絡先を取得するには | 連絡先の電子メール、フィストネーム、姓、および画像は、レコードの迅速な共有アクセスを与えるために保存されます | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
->| User.Read | 委任 | 基本情報 (姓と名と画像) を使用してユーザーを識別するには | 名を表示するには。 lastname と picture into the application | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
->| メール | 委任 | ユーザーを識別するには | ログ記録用のユーザーを特定し、通知を送信するには | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
->| offline_access | 委任 | アクセス許可を付与したデータへのアクセスの維持 | N/A | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
->| openid | 委任 | ユーザーを識別するには | ログ記録のユーザーを識別するには | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| People.Read | 委任 | すべてのユーザー連絡先を取得するには | 連絡先の電子メール、フィストネーム、姓、および画像は、レコードの迅速な共有アクセスを与えるために保存されます | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
+>| User.Read | 委任 | 基本情報 (姓と名と画像) を使用してユーザーを識別するには | 名を表示するには。 lastname と picture into the application | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
+>| メール | 委任 | ユーザーを識別するには | ログ記録用のユーザーを特定し、通知を送信するには | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
+>| offline_access | 委任 | アクセス許可を付与したデータへのアクセスの維持 | 該当なし | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
+>| openid | 委任 | ユーザーを識別するには | ログ記録のユーザーを識別するには | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -68,7 +68,7 @@ Technologies Openmind Inc, Les to Microsoft が提供する情報:
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Stripe、Intercom、MixPanel、振幅 | 電子メール、ユーザー固有の ID、姓、姓  | 安全な支払いを処理し、マーケティング キャンペーンを実行し、効率的な顧客サービスを提供し、ユーザー分析を追跡して製品を改善するには |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
@@ -122,16 +122,16 @@ Technologies Openmind Inc, Les to Microsoft が提供する情報:
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | なし |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
-| アプリはマルチテナントをサポートしていますか? | いいえ |
-| アプリに機密クライアントがありますか? | いいえ |
+| アプリはマルチテナントをサポートしていますか? | なし |
+| アプリに機密クライアントがありますか? | なし |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリは Web API を公開していますか? | はい |
-| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | なし |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

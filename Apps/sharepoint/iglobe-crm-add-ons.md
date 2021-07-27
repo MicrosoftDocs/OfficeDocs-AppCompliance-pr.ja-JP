@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: iGlobe CRM アドオンに使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 251f417ae2aee8dce2e908d7b75a3ab462442422
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 67cfb36f4720e72e6cbd284aa86d5d7da4c785cb
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282130"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522200"
 ---
 # <a name="iglobe-crm-add-ons"></a>iGlobe CRM アドオン
 
@@ -53,42 +53,42 @@ iGlobe から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | canlendar から iGlobe に会議レポートを読み込むときに、ユーザーの予定表にアクセスする | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| Contacts.ReadWrite | 委任 |  Directory.AccessAsUser.All | サインインしているユーザーと同じように、アプリでディレクトリ内の情報にアクセスできるようにします。 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| Directory.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | アクセス許可を確認し、サイトとリストを取得します。 フォルダーを作成し、ファイルを取得し、ファイルを保存します。 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| Directory.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | サインインしているユーザーと同じように、アプリでディレクトリ内の情報にアクセスできるようにします。 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| Files.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、リスト、ライブラリ、ファイルSharePoint取得します。 ファイルとデータをリストに保存SharePointします。 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| Group.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、リスト、ライブラリ、ファイルSharePoint取得します。 ファイルをリストに保存SharePointします。 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| Group.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、リスト、ライブラリ、ファイルSharePoint取得します。 ファイルをリストに保存SharePointします。 iGlobe CRM Office 365 | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| Mail.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | eamil を iGlobe CRM に Svae し、iGlobe から新しい e-amil に informatiopn を取得する | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| Sites.Manage.All | 委任 | アプリケーション データベースにデータは格納されません。 | iGlobe CRM でアイテムとリストを作成、編集、および削除する | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| Sites.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | iGlobe CRM のアイテムの読み取り | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| Sites.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 |  iGlobe CRM のアイテムとリストを編集、削除する | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| Tasks.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | iGlobe CRM からプランナー タスクを作成する | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
->| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | speficic ユーザーの iGlobe CRM の情報を取得するには | 0bb1641a-3b3b-47f7-a11e-01279d92abfb |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | canlendar から iGlobe に会議レポートを読み込むときに、ユーザーの予定表にアクセスする | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Contacts.ReadWrite | 委任 |  Directory.AccessAsUser.All | サインインしているユーザーと同じように、アプリでディレクトリ内の情報にアクセスできるようにします。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Directory.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | アクセス許可を確認し、サイトとリストを取得します。 フォルダーを作成し、ファイルを取得し、ファイルを保存します。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Directory.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | サインインしているユーザーと同じように、アプリでディレクトリ内の情報にアクセスできるようにします。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Files.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、リスト、ライブラリ、ファイルSharePoint取得します。 ファイルとデータをリストに保存SharePointします。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Group.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、リスト、ライブラリ、ファイルSharePoint取得します。 ファイルをリストに保存SharePointします。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Group.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、リスト、ライブラリ、ファイルSharePoint取得します。 ファイルをリストに保存SharePointします。 iGlobe CRM Office 365 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Mail.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | eamil を iGlobe CRM に Svae し、iGlobe から新しい e-amil に informatiopn を取得する | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Sites.Manage.All | 委任 | アプリケーション データベースにデータは格納されません。 | iGlobe CRM でアイテムとリストを作成、編集、および削除する | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Sites.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | iGlobe CRM のアイテムの読み取り | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Sites.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 |  iGlobe CRM のアイテムとリストを編集、削除する | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Tasks.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | iGlobe CRM からプランナー タスクを作成する | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | speficic ユーザーの iGlobe CRM の情報を取得するには | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
 アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| Exchange - Calendars.ReadWrite.All | いいえ |  |  |  |  |
->| Exchange - Mail.Read.All | いいえ |  |  |  |  |
->| Exchange - Contacts.Read | いいえ |  |  |  |  |
->| Exchange - EWS。AccessAsUser.All | いいえ |  |  |  |  |
->| Exchange - Tasks.ReadWrite | いいえ |  |  |  |  |
->| SharePoint - AllSites.Manage | いいえ |  |  |  |  |
->| SharePoint - AllSites.Read | いいえ |  |  |  |  |
->|  SharePoint -AllSites.Write | いいえ |  |  |  |  |
->| SharePoint - MyFiles.Write | いいえ |  |  |  |  |
->| SharePoint - Sites.Manage.All | いいえ |  |  |  |  |
->| SharePoint - Sites.Read.All | いいえ |  |  |  |  |
->| SharePoint - Sites.ReadWrite.All | いいえ |  |  |  |  |
->| SharePoint - Sites.Search.All | いいえ |  |  |  |  |
->|  SharePoint - TermStore.Read.All | いいえ |  |  |  |  |
->| SharePoint - TermStore.ReadWrite.All | いいえ |  |  |  |  |
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
+>| Exchange - Calendars.ReadWrite.All | なし |  |  |  |  |
+>| Exchange - Mail.Read.All | なし |  |  |  |  |
+>| Exchange - Contacts.Read | なし |  |  |  |  |
+>| Exchange - EWS。AccessAsUser.All | なし |  |  |  |  |
+>| Exchange - Tasks.ReadWrite | なし |  |  |  |  |
+>| SharePoint - AllSites.Manage | なし |  |  |  |  |
+>| SharePoint - AllSites.Read | なし |  |  |  |  |
+>|  SharePoint -AllSites.Write | なし |  |  |  |  |
+>| SharePoint - MyFiles.Write | なし |  |  |  |  |
+>| SharePoint - Sites.Manage.All | なし |  |  |  |  |
+>| SharePoint - Sites.Read.All | なし |  |  |  |  |
+>| SharePoint - Sites.ReadWrite.All | なし |  |  |  |  |
+>| SharePoint - Sites.Search.All | なし |  |  |  |  |
+>|  SharePoint - TermStore.Read.All | なし |  |  |  |  |
+>| SharePoint - TermStore.ReadWrite.All | なし |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -116,7 +116,7 @@ iGlobe から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -144,7 +144,7 @@ iGlobe から Microsoft に提供される情報:
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | なし |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | セキュリティの既定値と、従来の認証をブロックする* [管理者に MFA を要求する] * [Azure 管理に MFA を要求する] * [すべてのユーザーに MFA を要求する] などの一般的なポリシー。 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
@@ -152,8 +152,8 @@ iGlobe から Microsoft に提供される情報:
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリは Web API を公開していますか? | なし |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

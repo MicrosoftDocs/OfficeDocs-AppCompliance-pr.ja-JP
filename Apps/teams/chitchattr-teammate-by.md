@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ChitChattr による TeamMate の利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4a01e90cbd14eefd9621e1ef93b8a992fc469efa
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 4278150de6faf97f3ce4ceb7361cc2d7bca651ee
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281970"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521990"
 ---
 # <a name="teammate-by-chitchattr"></a>TeamMate by ChitChattr
 
@@ -56,8 +56,8 @@ ChitChattr から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| People.Read | 委任 | このアプリを使用すると、管理者は特定のエクスペリエンスを対象とするユーザーを選択できます。そのため、ユーザーの名前、電子メール、および Azure AD オブジェクト ID を格納する必要があります。 | このアプリを使用すると、管理者は特定のエクスペリエンスを対象とするユーザーを選択できます。そのため、ユーザーの名前、電子メール、および Azure AD オブジェクト ID を格納する必要があります。 | a8e903c7-3b7f-4ec5-a474-b5d32e595f50 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| People.Read | 委任 | このアプリを使用すると、管理者は特定のエクスペリエンスを対象とするユーザーを選択できます。そのため、ユーザーの名前、電子メール、および Azure AD オブジェクト ID を格納する必要があります。 | このアプリを使用すると、管理者は特定のエクスペリエンスを対象とするユーザーを選択できます。そのため、ユーザーの名前、電子メール、および Azure AD オブジェクト ID を格納する必要があります。 | [a8e903c7-3b7f-4ec5-a474-b5d32e595f50](https://docs.microsoft.com/microsoft-365-app-certification/azure/a8e903c7-3b7f-4ec5-a474-b5d32e595f50) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -71,7 +71,7 @@ ChitChattr から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 問題が発生した場合、ボットはアプリで管理者として登録されたユーザーの名前と連絡先の詳細をユーザーに参照して表示します (基本的に管理者に問い合わせてください &quot; 。 &quot; | 名前、メール | 前のセクションで説明したように、対象となるエクスペリエンス (管理者による構成に基づく) のユーザーを識別し、ユーザーが自分の内部会社の管理者がアプリのユーザーを確認できる。 |
 
 
@@ -91,7 +91,7 @@ ChitChattr から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -130,7 +130,7 @@ ChitChattr から Microsoft に提供される情報:
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

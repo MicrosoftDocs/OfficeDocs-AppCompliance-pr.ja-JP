@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: AVA で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c55d372c0249302da425ea5b2483aba88f1a2e42
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 462181d4ba98d11e5aeae15a4827c6138bc80924
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281409"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522074"
 ---
 # <a name="ava"></a>AVA
 
@@ -56,17 +56,17 @@ AvePoint, Inc. から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Mail.ReadWrite.Shared | 委任 | なし | ユーザーのメールを検索し、指定したフォルダーにメールを移動する | 6f30434d-3cfa-4cf8-9810-6fcf79ae750a |
->| User.Read | 委任 |  ユーザーのアクセス トークン - ユーザーのデータの検索と復元に使用される | ユーザーがサインインし、アプリにアクセス トークンを与えるのを許可する | 6f30434d-3cfa-4cf8-9810-6fcf79ae750a |
->| User.ReadWrite | 委任 | DisplayName、UserPrincipalName、JobTitle、Organization、Country、MySiteUrl - アプリを使用したユーザーの基本情報を記録する | ユーザーの基本的なプロファイル情報を取得する | 6f30434d-3cfa-4cf8-9810-6fcf79ae750a |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Mail.ReadWrite.Shared | 委任 | なし | ユーザーのメールを検索し、指定したフォルダーにメールを移動する | [6f30434d-3cfa-4cf8-9810-6fcf79ae750a](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f30434d-3cfa-4cf8-9810-6fcf79ae750a) |
+>| User.Read | 委任 |  ユーザーのアクセス トークン - ユーザーのデータの検索と復元に使用される | ユーザーがサインインし、アプリにアクセス トークンを与えるのを許可する | [6f30434d-3cfa-4cf8-9810-6fcf79ae750a](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f30434d-3cfa-4cf8-9810-6fcf79ae750a) |
+>| User.ReadWrite | 委任 | DisplayName、UserPrincipalName、JobTitle、Organization、Country、MySiteUrl - アプリを使用したユーザーの基本情報を記録する | ユーザーの基本的なプロファイル情報を取得する | [6f30434d-3cfa-4cf8-9810-6fcf79ae750a](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f30434d-3cfa-4cf8-9810-6fcf79ae750a) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
 アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| SharePoint REST API | はい | ユーザーの個人用サイトのリサイクルでファイルを検索し、これらのファイルを復元します。 AllSites.Manage アクセス許可が必要です。 |  | なし |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -99,7 +99,7 @@ AvePoint, Inc. から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

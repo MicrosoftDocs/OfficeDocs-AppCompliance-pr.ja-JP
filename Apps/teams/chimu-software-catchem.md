@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内の CatchEm、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8f491e0b26c58392c2e791322603dc014fcf96ef
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: bdac27ddbc3148644562af20f8f6d415a56903d9
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281990"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522030"
 ---
 # <a name="catchem"></a>CatchEm
 
@@ -56,15 +56,15 @@ Chimu Software から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Chat.ReadBasic | 委任 | このアクセス許可は、アプリケーション ユーザーの連絡先を決定するために必要です。 AadObjectId: ユーザーを一意に識別します。 TenantId: 連絡先がユーザーの内部または外部かどうかを判断します。 DisplayName、GivenName、Surname: アプリケーション ユーザーへの連絡先を識別します。 メール、UserPrincipalName: 同じ名前の連絡先を区別し、クリックしてチャット機能 &quot; を &quot; 許可します。 最新のチャット ID: クリック &quot; してチャット機能を &quot; 有効にするには | このアクセス許可は、アプリケーション ユーザーの連絡先を決定するために必要です。 AadObjectId: ユーザーを一意に識別します。 TenantId: 連絡先がユーザーの内部または外部かどうかを判断します。 DisplayName、GivenName、Surname: アプリケーション ユーザーへの連絡先を識別します。 メール、UserPrincipalName: 同じ名前の連絡先を区別し、クリックしてチャット機能 &quot; を &quot; 許可します。 最新のチャット ID: クリック &quot; してチャット機能を &quot; 有効にするには | fc686a41-3bd0-45b3-a56d-f278888fd694 |
->| People.Read | 委任 | 外部連絡先のデータの精度を向上させる。 DisplayName: アプリケーション ユーザーへの連絡先を識別します。 | 外部連絡先のデータの精度を向上させる。 DisplayName: アプリケーション ユーザーへの連絡先を識別します。 | fc686a41-3bd0-45b3-a56d-f278888fd694 |
->| Presence.Read.All | 委任 | 連絡先の現在のプレゼンス状態 | N/A | fc686a41-3bd0-45b3-a56d-f278888fd694 |
->| TeamsActivity.Send | 両方とも | 連絡先のプレゼンス状態が変更された場合にユーザーに通知を送信するには | N/A | fc686a41-3bd0-45b3-a56d-f278888fd694 |
->| TeamsAppInstallation.ReadWriteSelfForUser | 委任 | アプリケーションの自動更新を有効にするには | N/A | fc686a41-3bd0-45b3-a56d-f278888fd694 |
->| User.Read | 委任 | AadObjectId: ユーザーを一意に識別します。 TenantId: 連絡先がユーザーの内部または外部かどうかを判断します。 DisplayName、GivenName、Surname: アプリケーション ユーザーへの連絡先を識別します。 メール、IM アドレス、UserPrincipalName: 同じ名前の連絡先を区別し、クリックしてチャット機能を &quot; &quot; 許可します。 CompanyName、Country: Analytics。 AccountEnabled、DeletedDateTime: 無効なユーザーのユーザー データの自動削除 | AadObjectId: ユーザーを一意に識別します。 TenantId: 連絡先がユーザーの内部または外部かどうかを判断します。 DisplayName、GivenName、Surname: アプリケーション ユーザーへの連絡先を識別します。 メール、IM アドレス、UserPrincipalName: 同じ名前の連絡先を区別し、クリックしてチャット機能を &quot; &quot; 許可します。 CompanyName、Country: Analytics。 AccountEnabled、DeletedDateTime: 無効なユーザーのユーザー データの自動削除 | fc686a41-3bd0-45b3-a56d-f278888fd694 |
->| User.ReadBasic.All | 委任 | 内部連絡先のデータの精度を向上させる。 AadObjectId: ユーザーを一意に識別します。 TenantId: 連絡先がユーザーの内部または外部かどうかを判断します。 DisplayName、GivenName、Surname: アプリケーション ユーザーへの連絡先を識別します。 メール、UserPrincipalName: 同じ名前の連絡先を区別し、クリックしてチャット機能 &quot; を &quot; 許可します。 | 内部連絡先のデータの精度を向上させる。 AadObjectId: ユーザーを一意に識別します。 TenantId: 連絡先がユーザーの内部または外部かどうかを判断します。 DisplayName、GivenName、Surname: アプリケーション ユーザーへの連絡先を識別します。 メール、UserPrincipalName: 同じ名前の連絡先を区別し、クリックしてチャット機能 &quot; を &quot; 許可します。 | fc686a41-3bd0-45b3-a56d-f278888fd694 |
->| offline_access | 委任 | Graphトークンを使用して、ユーザーがアプリケーションをアクティブに使用していないときに、アプリケーションが連絡先プレゼンスの変更を通知し、連絡先リストを更新する | Graphセキュリティ トークン | fc686a41-3bd0-45b3-a56d-f278888fd694 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Chat.ReadBasic | 委任 | このアクセス許可は、アプリケーション ユーザーの連絡先を決定するために必要です。 AadObjectId: ユーザーを一意に識別します。 TenantId: 連絡先がユーザーの内部または外部かどうかを判断します。 DisplayName、GivenName、Surname: アプリケーション ユーザーへの連絡先を識別します。 メール、UserPrincipalName: 同じ名前の連絡先を区別し、クリックしてチャット機能 &quot; を &quot; 許可します。 最新のチャット ID: クリック &quot; してチャット機能を &quot; 有効にするには | このアクセス許可は、アプリケーション ユーザーの連絡先を決定するために必要です。 AadObjectId: ユーザーを一意に識別します。 TenantId: 連絡先がユーザーの内部または外部かどうかを判断します。 DisplayName、GivenName、Surname: アプリケーション ユーザーへの連絡先を識別します。 メール、UserPrincipalName: 同じ名前の連絡先を区別し、クリックしてチャット機能 &quot; を &quot; 許可します。 最新のチャット ID: クリック &quot; してチャット機能を &quot; 有効にするには | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| People.Read | 委任 | 外部連絡先のデータの精度を向上させる。 DisplayName: アプリケーション ユーザーへの連絡先を識別します。 | 外部連絡先のデータの精度を向上させる。 DisplayName: アプリケーション ユーザーへの連絡先を識別します。 | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| Presence.Read.All | 委任 | 連絡先の現在のプレゼンス状態 | 該当なし | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| TeamsActivity.Send | 両方とも | 連絡先のプレゼンス状態が変更された場合にユーザーに通知を送信するには | 該当なし | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| TeamsAppInstallation.ReadWriteSelfForUser | 委任 | アプリケーションの自動更新を有効にするには | 該当なし | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| User.Read | 委任 | AadObjectId: ユーザーを一意に識別します。 TenantId: 連絡先がユーザーの内部または外部かどうかを判断します。 DisplayName、GivenName、Surname: アプリケーション ユーザーへの連絡先を識別します。 メール、IM アドレス、UserPrincipalName: 同じ名前の連絡先を区別し、クリックしてチャット機能を &quot; &quot; 許可します。 CompanyName、Country: Analytics。 AccountEnabled、DeletedDateTime: 無効なユーザーのユーザー データの自動削除 | AadObjectId: ユーザーを一意に識別します。 TenantId: 連絡先がユーザーの内部または外部かどうかを判断します。 DisplayName、GivenName、Surname: アプリケーション ユーザーへの連絡先を識別します。 メール、IM アドレス、UserPrincipalName: 同じ名前の連絡先を区別し、クリックしてチャット機能を &quot; &quot; 許可します。 CompanyName、Country: Analytics。 AccountEnabled、DeletedDateTime: 無効なユーザーのユーザー データの自動削除 | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| User.ReadBasic.All | 委任 | 内部連絡先のデータの精度を向上させる。 AadObjectId: ユーザーを一意に識別します。 TenantId: 連絡先がユーザーの内部または外部かどうかを判断します。 DisplayName、GivenName、Surname: アプリケーション ユーザーへの連絡先を識別します。 メール、UserPrincipalName: 同じ名前の連絡先を区別し、クリックしてチャット機能 &quot; を &quot; 許可します。 | 内部連絡先のデータの精度を向上させる。 AadObjectId: ユーザーを一意に識別します。 TenantId: 連絡先がユーザーの内部または外部かどうかを判断します。 DisplayName、GivenName、Surname: アプリケーション ユーザーへの連絡先を識別します。 メール、UserPrincipalName: 同じ名前の連絡先を区別し、クリックしてチャット機能 &quot; を &quot; 許可します。 | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| offline_access | 委任 | Graphトークンを使用して、ユーザーがアプリケーションをアクティブに使用していないときに、アプリケーションが連絡先プレゼンスの変更を通知し、連絡先リストを更新する | Graphセキュリティ トークン | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -78,7 +78,7 @@ Chimu Software から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| メッセージ機能のタグは、連絡先の表示名を使用してアプリケーション &quot; &quot; ユーザーに表示する必要があります。 | 連絡先の表示名 | 連絡先の名前をアプリケーション ユーザーに返せ |
 
 
@@ -92,7 +92,7 @@ Chimu Software から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->N/A
+>該当なし
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -127,9 +127,9 @@ Chimu Software から Microsoft に提供される情報:
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
-| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | いいえ |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | なし |
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
