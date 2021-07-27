@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Onsight Connect、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 647c6b2a4da987f5fef828ae4b8b3fb632e65c69
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 77ffbb55792b9b4a455674549feba1b316864a6a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282991"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521505"
 ---
 # <a name="onsight-connect"></a>Onsight Connect
 
@@ -62,7 +62,7 @@ Librestream から Microsoft に提供される情報:
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| onsight.librestream.com  | アプリ ログインのユーザー名の一部としてドメインを使用します。 | ドメインは、お客様が所有するドメイン名と一致します。 |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
@@ -82,7 +82,7 @@ Librestream から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->N/A
+>該当なし
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 

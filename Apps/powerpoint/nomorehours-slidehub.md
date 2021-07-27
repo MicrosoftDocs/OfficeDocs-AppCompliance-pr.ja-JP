@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SlideHub で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 39e3c631cdcd79de9eab484749f45354b87ca0cf
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7eca7f35cb46db8450f6805c9e8a4c2503934dd6
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282855"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527813"
 ---
 # <a name="slidehub"></a>SlideHub
 
@@ -54,8 +54,8 @@ Nomorehours が Microsoft に提供する情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | アプリケーション | メールと名前。 電子メールは、アプリケーションのユーザー名として使用されます。 電子メールを収集すると、アプリケーションの登録とログインを迅速に行うことができます。 名前は、登録イベントの場合に使用されます。 | この電子メールは、Office 365 経由でログインを有効にし、場合によっては、そのユーザーに代わって既に用語を承諾している組織の一部であるユーザーを登録するために使用されます。 | 33ccef75-8248-44e8-88d3-24526ca9c2d3 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | アプリケーション | メールと名前。 電子メールは、アプリケーションのユーザー名として使用されます。 電子メールを収集すると、アプリケーションの登録とログインを迅速に行うことができます。 名前は、登録イベントの場合に使用されます。 | この電子メールは、Office 365 経由でログインを有効にし、場合によっては、そのユーザーに代わって既に用語を承諾している組織の一部であるユーザーを登録するために使用されます。 | [33ccef75-8248-44e8-88d3-24526ca9c2d3](https://docs.microsoft.com/microsoft-365-app-certification/azure/33ccef75-8248-44e8-88d3-24526ca9c2d3) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -76,7 +76,7 @@ Nomorehours が Microsoft に提供する情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->N/A
+>該当なし
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 

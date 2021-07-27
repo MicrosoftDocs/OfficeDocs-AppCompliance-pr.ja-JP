@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ServiceDesk Plus for Email、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 759c59f93daa664dcc6b5b0b230a4b0fedfbf140
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 39ee4450c2545d1cc891464d7946cde4c4c3b53a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282391"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527863"
 ---
 # <a name="servicedesk-plus-for-email"></a>電子メール用 ServiceDesk Plus
 
@@ -54,16 +54,16 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | アプリケーション |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read | 委任 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read.Selected | 委任 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read | 委任 | ユーザーの電子メール ID。 | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインを有効にできます。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read.All | アプリケーション |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | 委任 | メール ID、名前、従業員 ID、役職、電話、モバイル、サイト、部署、ロケール、ユーザーのプロファイル写真。 | ユーザーの基本情報をユーザーからインポートAzure Active Directory。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| メール | 委任 | ユーザーの電子メール ID。 | ユーザーのメール アドレスを表示します。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| offline_access | 委任 |  | アクセス権を与えられたデータへのアクセスを維持します。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| profile | 委任 |  | ユーザーの基本的なプロファイルを表示します。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | アプリケーション |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read | 委任 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read.Selected | 委任 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read | 委任 | ユーザーの電子メール ID。 | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインを有効にできます。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read.All | アプリケーション |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.ReadBasic.All | 委任 | メール ID、名前、従業員 ID、役職、電話、モバイル、サイト、部署、ロケール、ユーザーのプロファイル写真。 | ユーザーの基本情報をユーザーからインポートAzure Active Directory。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| メール | 委任 | ユーザーの電子メール ID。 | ユーザーのメール アドレスを表示します。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| offline_access | 委任 |  | アクセス権を与えられたデータへのアクセスを維持します。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| profile | 委任 |  | ユーザーの基本的なプロファイルを表示します。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス

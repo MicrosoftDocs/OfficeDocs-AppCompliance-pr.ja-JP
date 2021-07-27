@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CI-Out-of-Office Lite、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 87a4d77deaac6281018befe1fc2de44f0fe20c35
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.openlocfilehash: de7d350bf6eda53a782872b3c4965235cfeca799
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275371"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521960"
 ---
 # <a name="ci-out-of-office-lite"></a>CI-Out-of-Office Lite
 
@@ -56,8 +56,8 @@ Ci ソリューション GmbH から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| メール | 委任 | ユーザーのメール アドレスの表示 | Es werden keine Daten gespeichert. | fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| メール | 委任 | ユーザーのメール アドレスの表示 | Es werden keine Daten gespeichert. | [fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -89,7 +89,7 @@ Ci ソリューション GmbH から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

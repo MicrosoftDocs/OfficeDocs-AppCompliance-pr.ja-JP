@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Wide Ideas、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 05daba10da032e947976d99411e0e70982e17f00
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 1e73a7aebbaaffa12572717f7a4a9968fd5667f7
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279051"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528063"
 ---
 # <a name="wide-ideas"></a>Wide Ideas
 
@@ -55,10 +55,10 @@ Wide Ideas から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | アプリケーション | グループ ID と、どのユーザーが属するグループを保存します。 | アプリで、ユーザーやグループなどの顧客組織のディレクトリ内のデータを読み取ります。  | 77baef51-6387-4aff-9b3f-23e4654c30cd |
->| Group.ReadWrite.All | アプリケーション | グループに関連付けられているチャネル ID を保存します。 | ユーザーは、カスタマー ポータルからチーム、チャネル、Microsoft Teamsを作成できます。 これにより、ユーザーは既存のチームを顧客ポータルMicrosoft Teamsに同期することもできます。 | 77baef51-6387-4aff-9b3f-23e4654c30cd |
->| User.Read | 委任 | 名前のメールを保存 &amp; する | ユーザーが自分の代わりにサインインして Microsoft Graphアクセスを許可する | 77baef51-6387-4aff-9b3f-23e4654c30cd |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | アプリケーション | グループ ID と、どのユーザーが属するグループを保存します。 | アプリで、ユーザーやグループなどの顧客組織のディレクトリ内のデータを読み取ります。  | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
+>| Group.ReadWrite.All | アプリケーション | グループに関連付けられているチャネル ID を保存します。 | ユーザーは、カスタマー ポータルからチーム、チャネル、Microsoft Teamsを作成できます。 これにより、ユーザーは既存のチームを顧客ポータルMicrosoft Teamsに同期することもできます。 | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
+>| User.Read | 委任 | 名前のメールを保存 &amp; する | ユーザーが自分の代わりにサインインして Microsoft Graphアクセスを許可する | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -66,15 +66,15 @@ Wide Ideas から Microsoft に提供される情報:
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
->| メール通知に使用される Mailjet Email。 |  | N/A |
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
+>| メール通知に使用される Mailjet Email。 |  | 該当なし |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| バックエンドでユーザーを作成し、チームにリンクされたコンテンツにアクセスするためのアクセス許可を与えるために。 | 保存: 名前 - ユーザーの名前を表示するには、電子メール アドレス - ユーザーを識別します。 |  |
 
 
@@ -99,7 +99,7 @@ Wide Ideas から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ScrumGenius、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fb8b30ddc27b512a5731ef3ec42cb76ed097c56c
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: be8873fecd5dc50ab4db6def68c7c25f73e677fd
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283051"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521040"
 ---
 # <a name="scrumgenius"></a>ScrumGenius
 
@@ -55,9 +55,9 @@ ScrumGenius が Microsoft に提供する情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | 委任 | ユーザーの予定表で設定された休暇の日付。 | ユーザーが休暇を ScrumGenius と同期する場合。 |  |
->| User.Read | 委任 | ユーザーの名前と電子メール アドレス。 | ユーザーが Microsoft Login でサインインを許可する。 |  |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | 委任 | ユーザーの予定表で設定された休暇の日付。 | ユーザーが休暇を ScrumGenius と同期する場合。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | 委任 | ユーザーの名前と電子メール アドレス。 | ユーザーが Microsoft Login でサインインを許可する。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -71,7 +71,7 @@ ScrumGenius が Microsoft に提供する情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| チーム名簿にアクセスします。チーム管理者がスクラムゲニウスをインストールすると、残りのチーム名簿をスクラムゲニウスと同期してプラットフォームにオンボードして、スタンドアップ レポートを構成し、レポートを取得するチームのメンバーを割り当てできます。 | 名、名、表示名、電子メール アドレス |  |
 
 
@@ -79,7 +79,7 @@ ScrumGenius が Microsoft に提供する情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->その必要はありません。 ログの内部 ID にユーザーを関連付けします。
+>いいえ。 ログの内部 ID にユーザーを関連付けします。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 

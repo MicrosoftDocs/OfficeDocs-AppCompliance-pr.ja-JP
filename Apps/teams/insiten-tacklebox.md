@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: タックルボックス、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3ca294c588f6447c5e54c53cf1dec33b1e849a47
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: bf5841d5b51470b6aaab29f303b1ee1c5c5a0141
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281830"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521465"
 ---
 # <a name="tacklebox"></a>TackleBox
 
@@ -56,12 +56,12 @@ Insiten が Microsoft に提供する情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.ReadWrite.All | 委任 | ユーザーがドライブ、フォルダー OneDriveファイルを参照できます。ファイルを TackleBox にリンクする。グラフExcel、テーブル、印刷領域、名前付き範囲を自動抽出するファイルを読み取る。これらのビジュアルを使用PowerPointファイルを作成Excel更新する | ドライブ ID、フォルダー ID、ファイル ID、ビュー リンク、作成日時、変更日、変更日、バージョン ID、ファイル名 | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
->| Sites.Read.All | 委任 | ユーザーがプライベート チャネルにExcelファイルを参照してリンクTeamsする | なし | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
->| User.Read | 委任 | アプリがサインインしているユーザーのプロファイルを読み取り、通知用に電子メール アドレスを再配信できます | メール | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
->| openid | 委任 | ユーザーがアカウントを使用してアプリケーションにログインMicrosoft 365する | ユーザーのテナント ID とオブジェクト ID | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
->| profile | 委任 | アプリでユーザーの基本的なプロファイル (名前、ユーザー名) を表示してコラボレーションを更新できます。 | UPN、名、名 | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.ReadWrite.All | 委任 | ユーザーがドライブ、フォルダー OneDriveファイルを参照できます。ファイルを TackleBox にリンクする。グラフExcel、テーブル、印刷領域、名前付き範囲を自動抽出するファイルを読み取る。これらのビジュアルを使用PowerPointファイルを作成Excel更新する | ドライブ ID、フォルダー ID、ファイル ID、ビュー リンク、作成日時、変更日、変更日、バージョン ID、ファイル名 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
+>| Sites.Read.All | 委任 | ユーザーがプライベート チャネルにExcelファイルを参照してリンクTeamsする | なし | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
+>| User.Read | 委任 | アプリがサインインしているユーザーのプロファイルを読み取り、通知用に電子メール アドレスを再配信できます | 電子メール | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
+>| openid | 委任 | ユーザーがアカウントを使用してアプリケーションにログインMicrosoft 365する | ユーザーのテナント ID とオブジェクト ID | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
+>| profile | 委任 | アプリでユーザーの基本的なプロファイル (名前、ユーザー名) を表示してコラボレーションを更新できます。 | UPN、名、名 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -93,7 +93,7 @@ Insiten が Microsoft に提供する情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -122,15 +122,15 @@ Insiten が Microsoft に提供する情報:
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | いいえ |
+| アプリに機密クライアントがありますか? | なし |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

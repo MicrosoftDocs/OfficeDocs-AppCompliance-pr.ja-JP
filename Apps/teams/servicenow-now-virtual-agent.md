@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Now Virtual Agent で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: bbd2b42fe7ad81e2ba0ba8157a34da67878e09c8
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1ac2988c550894341d5933afbc59de6f63c51b68
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551667"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521000"
 ---
 # <a name="now-virtual-agent"></a>Now Virtual Agent
 
@@ -56,8 +56,8 @@ ServiceNow から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委任 | ドメインは、将来のメッセージ ルーティングの目的でデータ センターに保存されます。 | ServiceNow 管理者が MS サーバーとの統合をインストールTeams、管理者は MS アカウントにログインTeamsがあります。 メール アドレス (完全な電子メール アドレスではない) からドメインを読み取ります。 |  |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委任 | ドメインは、将来のメッセージ ルーティングの目的でデータ センターに保存されます。 | ServiceNow 管理者が MS サーバーとの統合をインストールTeams、管理者は MS アカウントにログインTeamsがあります。 メール アドレス (完全な電子メール アドレスではない) からドメインを読み取ります。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: InStation で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 46b7c4131e1f3897036cf0b2180b2f99c2e6ff2c
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 1db56e204dc2fd83916a9ec6f2b20a13e02ed357
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282030"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521810"
 ---
 # <a name="instation"></a>InStation
 
@@ -55,17 +55,17 @@ ms.locfileid: "53282030"
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| OnlineMeetings.Read.All | 委任 | stores: id、join_url、join_web_url、chat_id。 アプリで会議の作成を許可する | stores: id、join_url、join_web_url、chat_id。 アプリで会議の作成を許可する | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| OnlineMeetings.ReadWrite.All | 委任 | stores: id、join_url、join_web_url、chat_id。 アプリで会議の作成を許可する | stores: id、join_url、join_web_url、chat_id。 アプリで会議の作成を許可する | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| Presence.Read | 委任 | アプリが最初の手順で組織にログインすることを許可する | アクティビティと操作性。 アプリがユーザーの状態をキャプチャできます。 | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| Presence.Read.All | 委任 | アプリが最初の手順で組織にログインすることを許可します。 | アクティビティと操作性。 アプリがユーザーの状態をキャプチャできます。 | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| User.Read | 委任 | ストア: ID、メール、表示名、姓、画像。 アプリでユーザー データを検索できます。 | ストア: ID、メール、表示名、姓、画像。 アプリでユーザー データを検索できます。 | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| User.Read.All | 委任 | ストア: ID、メール、表示名、姓、画像。 アプリでユーザー データを検索できます。 | ストア: ID、メール、表示名、姓、画像。 アプリでユーザー データを検索できます。 | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| メール | 委任 | アプリが最初のログイン時に管理者&#180;基本情報を取得できます | アプリが最初のログイン時に管理者&#180;基本情報を取得できます | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| offline_access | 委任 | stores: トークンと更新トークン。 アプリが MS トークンで更新を実行できます | stores: トークンと更新トークン。 アプリが MS トークンで更新を実行できます | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| openid | 委任 | アプリが最初の手順で組織にログインすることを許可する | アプリが最初の手順で組織にログインすることを許可する | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| profile | 委任 | アプリが最初のログインで管理者&#180;基本情報を取得できます。 | アプリが最初のログインで管理者&#180;基本情報を取得できます。 | 0c841985-9919-4c0a-b87d-b06b301148b3 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| OnlineMeetings.Read.All | 委任 | stores: id、join_url、join_web_url、chat_id。 アプリで会議の作成を許可する | stores: id、join_url、join_web_url、chat_id。 アプリで会議の作成を許可する | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| OnlineMeetings.ReadWrite.All | 委任 | stores: id、join_url、join_web_url、chat_id。 アプリで会議の作成を許可する | stores: id、join_url、join_web_url、chat_id。 アプリで会議の作成を許可する | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| Presence.Read | 委任 | アプリが最初の手順で組織にログインすることを許可する | アクティビティと操作性。 アプリがユーザーの状態をキャプチャできます。 | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| Presence.Read.All | 委任 | アプリが最初の手順で組織にログインすることを許可します。 | アクティビティと操作性。 アプリがユーザーの状態をキャプチャできます。 | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| User.Read | 委任 | ストア: ID、メール、表示名、姓、画像。 アプリでユーザー データを検索できます。 | ストア: ID、メール、表示名、姓、画像。 アプリでユーザー データを検索できます。 | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| User.Read.All | 委任 | ストア: ID、メール、表示名、姓、画像。 アプリでユーザー データを検索できます。 | ストア: ID、メール、表示名、姓、画像。 アプリでユーザー データを検索できます。 | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| メール | 委任 | アプリが最初のログイン時に管理者&#180;基本情報を取得できます | アプリが最初のログイン時に管理者&#180;基本情報を取得できます | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| offline_access | 委任 | stores: トークンと更新トークン。 アプリが MS トークンで更新を実行できます | stores: トークンと更新トークン。 アプリが MS トークンで更新を実行できます | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| openid | 委任 | アプリが最初の手順で組織にログインすることを許可する | アプリが最初の手順で組織にログインすることを許可する | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| profile | 委任 | アプリが最初のログインで管理者&#180;基本情報を取得できます。 | アプリが最初のログインで管理者&#180;基本情報を取得できます。 | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -97,7 +97,7 @@ ms.locfileid: "53282030"
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 動的シグナル、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 19f633362ac605ef5891b3d7e11f34a8ec04d74f
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 5b5906e8eee51821481de11c3cbd720600d4c36e
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281309"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521800"
 ---
 # <a name="dynamic-signal"></a>Dynamic Signal
 
@@ -56,11 +56,11 @@ Dynamic Signal から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委任 | 動的シグナルは、Azure ADからプラットフォームにユーザーを同期し、ユーザーのアクティブ化と非アクティブ化をリアルタイムで効率化します。 データは動的シグナル内に格納され、同期の実行中にユーザーがアプリケーションを使用できます。 | 特定のユーザーの読み取りアクセス許可を使用して、動的シグナル プラットフォーム のユーザーを Azure AD。 | 79ff4a2a-e22b-47d5-94dc-ef76fe46af75 |
->| User.Read.All | 委任 | 動的シグナルは、Azure ADからプラットフォームにユーザーを同期し、ユーザーのアクティブ化と非アクティブ化をリアルタイムで効率化します。 データは動的シグナル内に格納され、同期の実行中にユーザーがアプリケーションを使用できます。 | 特定のユーザーの読み取りアクセス許可を使用して、動的シグナル プラットフォーム のユーザーを Azure AD。 | 79ff4a2a-e22b-47d5-94dc-ef76fe46af75 |
->| offline_access | 委任 | 動的シグナルは、Azure ADからプラットフォームにユーザーを同期し、ユーザーのアクティブ化と非アクティブ化をリアルタイムで効率化します。 データは動的シグナル内に格納され、同期の実行中にユーザーがアプリケーションを使用できます。 | テナントのグループとチームへのアクセスを保持します。 | 79ff4a2a-e22b-47d5-94dc-ef76fe46af75 |
->| openid | 委任 | 動的シグナルは、Azure ADからプラットフォームにユーザーを同期し、ユーザーのアクティブ化と非アクティブ化をリアルタイムで効率化します。 データは動的シグナル内に格納され、同期の実行中にユーザーがアプリケーションを使用できます。 | 動的シグナル アプリケーションを使用してユーザーを認証します。 | 79ff4a2a-e22b-47d5-94dc-ef76fe46af75 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委任 | 動的シグナルは、Azure ADからプラットフォームにユーザーを同期し、ユーザーのアクティブ化と非アクティブ化をリアルタイムで効率化します。 データは動的シグナル内に格納され、同期の実行中にユーザーがアプリケーションを使用できます。 | 特定のユーザーの読み取りアクセス許可を使用して、動的シグナル プラットフォーム のユーザーを Azure AD。 | [79ff4a2a-e22b-47d5-94dc-ef76fe46af75](https://docs.microsoft.com/microsoft-365-app-certification/azure/79ff4a2a-e22b-47d5-94dc-ef76fe46af75) |
+>| User.Read.All | 委任 | 動的シグナルは、Azure ADからプラットフォームにユーザーを同期し、ユーザーのアクティブ化と非アクティブ化をリアルタイムで効率化します。 データは動的シグナル内に格納され、同期の実行中にユーザーがアプリケーションを使用できます。 | 特定のユーザーの読み取りアクセス許可を使用して、動的シグナル プラットフォーム のユーザーを Azure AD。 | [79ff4a2a-e22b-47d5-94dc-ef76fe46af75](https://docs.microsoft.com/microsoft-365-app-certification/azure/79ff4a2a-e22b-47d5-94dc-ef76fe46af75) |
+>| offline_access | 委任 | 動的シグナルは、Azure ADからプラットフォームにユーザーを同期し、ユーザーのアクティブ化と非アクティブ化をリアルタイムで効率化します。 データは動的シグナル内に格納され、同期の実行中にユーザーがアプリケーションを使用できます。 | テナントのグループとチームへのアクセスを保持します。 | [79ff4a2a-e22b-47d5-94dc-ef76fe46af75](https://docs.microsoft.com/microsoft-365-app-certification/azure/79ff4a2a-e22b-47d5-94dc-ef76fe46af75) |
+>| openid | 委任 | 動的シグナルは、Azure ADからプラットフォームにユーザーを同期し、ユーザーのアクティブ化と非アクティブ化をリアルタイムで効率化します。 データは動的シグナル内に格納され、同期の実行中にユーザーがアプリケーションを使用できます。 | 動的シグナル アプリケーションを使用してユーザーを認証します。 | [79ff4a2a-e22b-47d5-94dc-ef76fe46af75](https://docs.microsoft.com/microsoft-365-app-certification/azure/79ff4a2a-e22b-47d5-94dc-ef76fe46af75) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -74,7 +74,7 @@ Dynamic Signal から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| openid directory.readwrite.all access to the tenant's domain and groups, add a app to a team offline_access retain access to the tenant's groups and teams | openid 独立認証を許可します。 directory.readwrite.all access to the tenant's domain and groups, add a app to a team offline_access retain access to the tenant's groups and teams Note: Dynamic Signal のアプリケーションでは、Dynamic Signal 内で作成されたグループとアクセス許可を Teams に適用して、Dynamic Signal でアクティブなユーザーが Teams 内の同じグループとユーザーにアクセスできます。 |  |
 
 
@@ -94,7 +94,7 @@ Dynamic Signal から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリの Webex Call、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3c6552bd7b266f4c35d35dabefe3abbf7e407ea1
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: e4addbd6b3ad932c9c987f57cca03c1e6e77cfcd
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281960"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521930"
 ---
 # <a name="webex-call"></a>Webex Call
 
@@ -55,12 +55,12 @@ ms.locfileid: "53281960"
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Chat.Read | 委任 | チャット メンバーを取得して、Cisco WebEx とのプライベート チャットで他のメンバーを呼び出す | アプリはデータベースにデータを保存しない | 9a7ce614-bdc8-4640-aaea-d8c626c58966 |
->| Contacts.Read | 委任 | ユーザーの連絡先を取得して、ユーザーが Cisco WebEx で連絡先を呼び出す | アプリはデータベースにデータを保存しない | 9a7ce614-bdc8-4640-aaea-d8c626c58966 |
->| User.Read | 委任 | ユーザーの電子メール、電話を取得して、電子メールまたは電話を呼び出す Cisco WebEx を起動する | アプリはデータベースにデータを保存しない | 9a7ce614-bdc8-4640-aaea-d8c626c58966 |
->| User.ReadBasic.All | 委任 | ユーザーの電子メール、電話を取得して、電子メールまたは電話を呼び出す Cisco WebEx を起動する | アプリはデータベースにデータを保存しない | 9a7ce614-bdc8-4640-aaea-d8c626c58966 |
->| User.ReadWrite | 委任 | このアクセス許可は、短縮ダイヤル情報をユーザー内線番号に保存します。 | アプリはデータベースにデータを保存しない  | 9a7ce614-bdc8-4640-aaea-d8c626c58966 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Chat.Read | 委任 | チャット メンバーを取得して、Cisco WebEx とのプライベート チャットで他のメンバーを呼び出す | アプリはデータベースにデータを保存しない | [9a7ce614-bdc8-4640-aaea-d8c626c58966](https://docs.microsoft.com/microsoft-365-app-certification/azure/9a7ce614-bdc8-4640-aaea-d8c626c58966) |
+>| Contacts.Read | 委任 | ユーザーの連絡先を取得して、ユーザーが Cisco WebEx で連絡先を呼び出す | アプリはデータベースにデータを保存しない | [9a7ce614-bdc8-4640-aaea-d8c626c58966](https://docs.microsoft.com/microsoft-365-app-certification/azure/9a7ce614-bdc8-4640-aaea-d8c626c58966) |
+>| User.Read | 委任 | ユーザーの電子メール、電話を取得して、電子メールまたは電話を呼び出す Cisco WebEx を起動する | アプリはデータベースにデータを保存しない | [9a7ce614-bdc8-4640-aaea-d8c626c58966](https://docs.microsoft.com/microsoft-365-app-certification/azure/9a7ce614-bdc8-4640-aaea-d8c626c58966) |
+>| User.ReadBasic.All | 委任 | ユーザーの電子メール、電話を取得して、電子メールまたは電話を呼び出す Cisco WebEx を起動する | アプリはデータベースにデータを保存しない | [9a7ce614-bdc8-4640-aaea-d8c626c58966](https://docs.microsoft.com/microsoft-365-app-certification/azure/9a7ce614-bdc8-4640-aaea-d8c626c58966) |
+>| User.ReadWrite | 委任 | このアクセス許可は、短縮ダイヤル情報をユーザー内線番号に保存します。 | アプリはデータベースにデータを保存しない  | [9a7ce614-bdc8-4640-aaea-d8c626c58966](https://docs.microsoft.com/microsoft-365-app-certification/azure/9a7ce614-bdc8-4640-aaea-d8c626c58966) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -74,8 +74,8 @@ ms.locfileid: "53281960"
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
->| このメッセージ拡張機能は、チャット メンバーのメール/電話を読み取り、ユーザーが Cisco WebEx でそれらを呼び出す | いいえ |  |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| このメッセージ拡張機能は、チャット メンバーのメール/電話を読み取り、ユーザーが Cisco WebEx でそれらを呼び出す | なし |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -94,7 +94,7 @@ ms.locfileid: "53281960"
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

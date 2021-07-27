@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Zoho CRM で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5448307eeccd20e77b25282f299b52b094077b82
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 5408c7dd2ce3a7cd27c98905156bdbb45c6edede
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550507"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528013"
 ---
 # <a name="zoho-crm"></a>Zoho CRM
 
@@ -56,16 +56,16 @@ Zoho Corporation Pvt Ltd から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 委任 | 予定表フォルダー ID は、Zoho CRM から Microsoft に連絡先を同期するために &amp; 格納されます。その逆も同様です。 カレンダー情報 (event_name、event_location、participant_detailsなど) が格納されます。 | ユーザーが Office365 イベントを Zoho CRM と同期できます。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Contacts.ReadWrite | 委任 | 連絡先フォルダー ID は、Zoho CRM から Microsoft に連絡先を同期するために &amp; 格納されます。その逆も同様です。 連絡先の情報 (first_name、last_name、電子メール アドレスなど) が格納されます。 | ユーザーが Office365 連絡先を Zoho CRM と同期できます。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read | 委任 |  | ユーザーが Office365 ファイルを Zoho CRM にインポートできます。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read.All | 委任 |  | ユーザーが Office365 ファイルを Zoho CRM にインポートできます。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read.Selected | 委任 | UserPrincipalName は、ユーザー ID 用に格納されます。 | ユーザーが Office365 ファイルを Zoho CRM にインポートできます。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | 委任 | ユーザー プロパティ (first_name、last_name アドレスなど)。 | すべてのユーザーの基本プロファイルの読み取り | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| メール | 委任 | UserPrincipaName は、ユーザーのインデントのために格納されます。 | ユーザーのメール アドレスを表示する | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| offline_access | 委任 |  | アクセス許可を付与したデータへのアクセスの維持 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| profile | 委任 |  | ユーザーの基本的なプロファイルの表示 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 委任 | 予定表フォルダー ID は、Zoho CRM から Microsoft に連絡先を同期するために &amp; 格納されます。その逆も同様です。 カレンダー情報 (event_name、event_location、participant_detailsなど) が格納されます。 | ユーザーが Office365 イベントを Zoho CRM と同期できます。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Contacts.ReadWrite | 委任 | 連絡先フォルダー ID は、Zoho CRM から Microsoft に連絡先を同期するために &amp; 格納されます。その逆も同様です。 連絡先の情報 (first_name、last_name、電子メール アドレスなど) が格納されます。 | ユーザーが Office365 連絡先を Zoho CRM と同期できます。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read | 委任 |  | ユーザーが Office365 ファイルを Zoho CRM にインポートできます。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read.All | 委任 |  | ユーザーが Office365 ファイルを Zoho CRM にインポートできます。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read.Selected | 委任 | UserPrincipalName は、ユーザー ID 用に格納されます。 | ユーザーが Office365 ファイルを Zoho CRM にインポートできます。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.ReadBasic.All | 委任 | ユーザー プロパティ (first_name、last_name アドレスなど)。 | すべてのユーザーの基本プロファイルの読み取り | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| メール | 委任 | UserPrincipaName は、ユーザーのインデントのために格納されます。 | ユーザーのメール アドレスを表示する | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| offline_access | 委任 |  | アクセス許可を付与したデータへのアクセスの維持 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| profile | 委任 |  | ユーザーの基本的なプロファイルの表示 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス

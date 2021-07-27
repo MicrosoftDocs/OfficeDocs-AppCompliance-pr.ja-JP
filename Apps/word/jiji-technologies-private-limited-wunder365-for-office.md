@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Wunder365 for Office、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 85e7b014e9bbc5754016bd83a7734ff2481aa8dc
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: ab9ea33824f66afecc8af8df74754fc7f2dd6d43
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283291"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527993"
 ---
 # <a name="wunder365-for-office"></a>Wunder365 for Office
 
@@ -54,12 +54,12 @@ JiJi Technologies Private Limited to Microsoft が提供する情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | 委任 | データは保存されません。 | Planner タスクの取得および更新を行う場合は、チーム チャネルでタスクの更新を投稿します。 | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
->| Mail.Send | 委任 | データは保存されません。 | アプリがユーザーに電子メール通知を送信するを許可する | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
->| offline_access | 委任 | データは保存されません。 | ユーザーのログインを維持する。 | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
->| openid | 委任 | データは保存されません。 | ユーザーが組織アカウントでログインできます | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
->| profile | 委任 | UPN、User ID、Email ID、ライセンス検証用テナント ID、無料ライセンス。 | ユーザーが組織アカウントでログインできます | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Group.ReadWrite.All | 委任 | データは保存されません。 | Planner タスクの取得および更新を行う場合は、チーム チャネルでタスクの更新を投稿します。 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
+>| Mail.Send | 委任 | データは保存されません。 | アプリがユーザーに電子メール通知を送信するを許可する | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
+>| offline_access | 委任 | データは保存されません。 | ユーザーのログインを維持する。 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
+>| openid | 委任 | データは保存されません。 | ユーザーが組織アカウントでログインできます | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
+>| profile | 委任 | UPN、User ID、Email ID、ライセンス検証用テナント ID、無料ライセンス。 | ユーザーが組織アカウントでログインできます | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -88,7 +88,7 @@ JiJi Technologies Private Limited to Microsoft が提供する情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -125,7 +125,7 @@ JiJi Technologies Private Limited to Microsoft が提供する情報:
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
-| アプリは Web API を公開していますか? | いいえ |
+| アプリは Web API を公開していますか? | なし |
 | アプリでプレビュー API を使用していますか? | はい |
 | アプリで非推奨の API を使用していますか? | なし |
 

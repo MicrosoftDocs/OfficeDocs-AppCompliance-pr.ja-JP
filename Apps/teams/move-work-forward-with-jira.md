@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Jira を使用して作業を進め、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2f0f51e841a3b22c1fe1670defe99948cc99f5a3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7120519c2ecb0643465760677b2bef895b1e2f4d
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282961"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521288"
 ---
 # <a name="move-work-forward-with-jira"></a>Move Work Forward with Jira
 
@@ -56,13 +56,13 @@ Work Forward to Microsoft から提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Channel.Create | 委任 | 問題のディスカッション チャネルを作成するために使用します。 | 新しく作成されたチャネルの Web URL が Jira に表示され、ディスカッション チャネルにすばやくアクセスMicrosoft Teamsされます。 | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
->| Channel.ReadBasic.All | 委任 | チャネル名と ID は、Jira からユーザーに通知を送信Microsoft Teams。 | チャネル ID と名前は、Jira からユーザーへの通知を構成するためにMicrosoft Teams。 | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
->| Team.ReadBasic.All | 委任 | このアクセス許可は、ユーザーが Jira でこの参加チームの 1 つを選択するために使用されます。 | Jira の [構成] 画面に表示するチーム ID と名前。 | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
->| TeamsAppInstallation.ReadForTeam | 委任 | Teams にインストールTeamsアプリを読み取る。 配信を設定する際Microsoft TeamsボットがインストールされているアプリTeamsに送信できます。 | なし | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
->| User.Read | 委任 | ユーザーが同僚とディスカッション チャネルを作成し、チャネル メッセージで @-mention を実行できます。 | なし | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
->| メール | 委任 | 電子メールは、Atlassian と Microsoft ユーザーの一致に使用されます | 電子メールは保存されません。 一致するプロセスの間にのみ使用されます。 | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Channel.Create | 委任 | 問題のディスカッション チャネルを作成するために使用します。 | 新しく作成されたチャネルの Web URL が Jira に表示され、ディスカッション チャネルにすばやくアクセスMicrosoft Teamsされます。 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| Channel.ReadBasic.All | 委任 | チャネル名と ID は、Jira からユーザーに通知を送信Microsoft Teams。 | チャネル ID と名前は、Jira からユーザーへの通知を構成するためにMicrosoft Teams。 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| Team.ReadBasic.All | 委任 | このアクセス許可は、ユーザーが Jira でこの参加チームの 1 つを選択するために使用されます。 | Jira の [構成] 画面に表示するチーム ID と名前。 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| TeamsAppInstallation.ReadForTeam | 委任 | Teams にインストールTeamsアプリを読み取る。 配信を設定する際Microsoft TeamsボットがインストールされているアプリTeamsに送信できます。 | なし | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| User.Read | 委任 | ユーザーが同僚とディスカッション チャネルを作成し、チャネル メッセージで @-mention を実行できます。 | なし | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| メール | 委任 | 電子メールは、Atlassian と Microsoft ユーザーの一致に使用されます | 電子メールは保存されません。 一致するプロセスの間にのみ使用されます。 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -76,8 +76,8 @@ Work Forward to Microsoft から提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
->| アプリのインストール時に名前でユーザーに挨拶します。 ユーザー Microsoft Teamsユーザーと一致します。 | いいえ |  |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| アプリのインストール時に名前でユーザーに挨拶します。 ユーザー Microsoft Teamsユーザーと一致します。 | なし |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -96,7 +96,7 @@ Work Forward to Microsoft から提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -125,15 +125,15 @@ Work Forward to Microsoft から提供される情報:
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | いいえ |
+| アプリに機密クライアントがありますか? | なし |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/><br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
-| アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリは Web API を公開していますか? | なし |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

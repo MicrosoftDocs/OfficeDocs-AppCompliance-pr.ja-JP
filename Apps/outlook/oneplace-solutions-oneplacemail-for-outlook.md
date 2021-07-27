@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: onePlaceMail for Outlook、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 97c9b74768b11e3c63a302566a20a2cb762275a0
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 18dc1ab4ba71102564c1c85f7ed3846d9f4f1700
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281709"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527933"
 ---
 # <a name="oneplacemail-for-outlook"></a>OnePlaceMail for Outlook
 
@@ -54,22 +54,22 @@ OnePlace Solutions から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | 委任 | 現在のユーザー Teamsのメンバーを特定するために必要です。 | なし | 44a72516-136f-4a55-ae26-ef09977230be |
->| Mail.ReadWrite.Shared | 委任 | メール のプロパティにアクセスして、SharePoint列を設定し、メール アイテムの [SharePointに転送] カテゴリを追加するために必要 | なし | 44a72516-136f-4a55-ae26-ef09977230be |
->| MailboxSettings.ReadWrite | 委任 | 収集または使用されるデータがない場合、ユーザー メールボックスのマスター カテゴリ リストにカテゴリを追加するために使用されます。 | なし | 44a72516-136f-4a55-ae26-ef09977230be |
->| Sites.ReadWrite.All | 委任 | アプリがアップロードしたアイテムのプロパティを設定するために必要SharePoint。 | なし | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.Read | 委任 | Microsoft サーバーへの認証にGraph。 | 次のデータは、アプリによってデータベースに格納され、サブスクリプションとユーザー ライセンスの追跡に使用されます。ユーザー ID、メール、名。 | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.ReadBasic.All | 委任 | ユーザー選択フィールドにユーザー プロファイル イメージを表示するために必要です。 | なし | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.ReadBasic.All | 委任 | ユーザー選択フィールドにユーザー プロファイル イメージを表示するために必要です。 | なし | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.ReadWrite.All | 委任 | テナントのユーザー内で Teamsサービスが有効になっているかどうかを確認Office 365必要です。 | なし | 44a72516-136f-4a55-ae26-ef09977230be |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Group.ReadWrite.All | 委任 | 現在のユーザー Teamsのメンバーを特定するために必要です。 | なし | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| Mail.ReadWrite.Shared | 委任 | メール のプロパティにアクセスして、SharePoint列を設定し、メール アイテムの [SharePointに転送] カテゴリを追加するために必要 | なし | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| MailboxSettings.ReadWrite | 委任 | 収集または使用されるデータがない場合、ユーザー メールボックスのマスター カテゴリ リストにカテゴリを追加するために使用されます。 | なし | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| Sites.ReadWrite.All | 委任 | アプリがアップロードしたアイテムのプロパティを設定するために必要SharePoint。 | なし | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| User.Read | 委任 | Microsoft サーバーへの認証にGraph。 | 次のデータは、アプリによってデータベースに格納され、サブスクリプションとユーザー ライセンスの追跡に使用されます。ユーザー ID、メール、名。 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| User.ReadBasic.All | 委任 | ユーザー選択フィールドにユーザー プロファイル イメージを表示するために必要です。 | なし | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| User.ReadBasic.All | 委任 | ユーザー選択フィールドにユーザー プロファイル イメージを表示するために必要です。 | なし | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| User.ReadWrite.All | 委任 | テナントのユーザー内で Teamsサービスが有効になっているかどうかを確認Office 365必要です。 | なし | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
 アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| SharePoint | はい | SharePointURL、ライブラリ名、リスト名、フォルダー名 | アクセスされる組織の情報は、電子メールや添付ファイルをユーザーからユーザーに保存するプロセスExchangeにSharePoint。 この追加のデータは保存され、転送中に暗号化されます。 このデータの例には、Choice SharePoint、分類値、コンテンツ タイプ名、フォルダー名、サイト名などの列の値が含まれます。  | このデータはアプリによって保存または収集されませんが、テレメトリ/ログに表示され、90 日間保持されます。 | データが保存されない |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -77,7 +77,7 @@ OnePlace Solutions から Microsoft に提供される情報:
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 課金サービスは、サブスクリプションの管理と請求に使用されます。 アプリ内 (無料) サブスクリプションの作成では、ユーザーの名、名、電子メール アドレスが Chargify と共有されます。 購入したサブスクリプション (複数のライセンスユーザーをサポート) の場合、個々のユーザーの詳細は Chargify サービスと共有されません。 | 電子メール アドレス | サブスクリプション ライフサイクル イベントをユーザーに伝達するには |
 
 
@@ -127,7 +127,7 @@ OnePlace Solutions から Microsoft に提供される情報:
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
@@ -136,7 +136,7 @@ OnePlace Solutions から Microsoft に提供される情報:
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

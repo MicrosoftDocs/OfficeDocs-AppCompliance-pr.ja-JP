@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Hibob のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6b35068bec11d40cf7cf1c21a77f12f526bc35ce
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 9168d876cfdf6abc2839311d3820ec8a024f29d1
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283041"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521620"
 ---
 # <a name="hibob"></a>Hibob
 
@@ -68,7 +68,7 @@ Hibob Inc. から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| rooster は、電子メールに従ってユーザー Teams bob ユーザーと一致するために使用されます。 照合は、ID、通知、およびプロファイルへのリンクにTeamsされます。 | UPN プロパティだけが使用され、保存されます。 |  |
 
 
@@ -91,7 +91,7 @@ Hibob Inc. から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

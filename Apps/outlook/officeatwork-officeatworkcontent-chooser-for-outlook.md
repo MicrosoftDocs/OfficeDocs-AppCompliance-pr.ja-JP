@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: officeatwork サービスで使用可能なすべてのセキュリティおよびコンプライアンス情報|CSA STAR レジストリOutlook、データ処理ポリシー、アプリ カタログMicrosoft Cloud App Security情報、およびセキュリティ/コンプライアンス情報のコンテンツ選択機能。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e4218aa4ef1cf61734b1234859e1203493b6e3b8
-ms.sourcegitcommit: 758b31a15dcb9224b8a3b6f367d501438c6e422c
+ms.openlocfilehash: 6ffd0bebb5fb27288434271c962c9b1bc3f26237
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2021
-ms.locfileid: "53366146"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527943"
 ---
 # <a name="officeatwork--content-chooser-for-outlook"></a>officeatwork |コンテンツの選択Outlook
 
@@ -53,25 +53,25 @@ officeatwork から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.ReadWrite.All | 委任 | データは保存されません。 | お気に入り: ユーザーにデータを読み書きOneDrive。 | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| Files.ReadWrite.All | 委任 | データは保存されません。 | OneDrive: ユーザーに対してデータの読み取りおよび書き込みを行OneDrive。 | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| Group.ReadWrite.All | 委任 | データは保存されません。 | Teams: グループに対してデータの読み取りおよび書き込みを行える。 | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| GroupMember.Read.All | 委任 | データは保存されません。 | SharePointOnline - セキュリティ グループのサポート: アプリがグループの一覧を表示し、基本的なグループ プロパティを読み取り、サインインしているユーザーがアクセスできるすべてのグループのメンバーシップを読み取る | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| Sites.Read.All | 委任 | データは保存されません。 | SharePointオンライン: オンラインからデータを読み取SharePointします。 | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| User.Read | 委任 | データは保存されません。 | Sing-In: officeatwork アプリがユーザーの基本的なプロパティを読み取ることができます。 | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| User.Read.All | 委任 | データは保存されません。 | Teams: ユーザーが属するグループを確認します。 | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| offline_access | 委任 | データは保存されません。 | Sing-In: 更新トークンを介して自動サインインを有効にするには、ユーザーが officeatwork アプリを起動する度に手動でサインインする必要があります。 このスコープは、SSO が有効でないホスト アプリケーションでのみ必要です。 | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| openid | 委任 | データは保存されません。 | Sing-In: ユーザーが組織または Microsoft アカウントで officeatwork アプリにサインインできます。 | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| profile | 委任 | データは保存されません。 | Sing-In: サインインしているユーザーを officeatwork アプリに表示します。 これにより、officeatwork アプリへのサインインに使用されたアカウントをユーザーに確認/確認できます。 | edb24f8f-38af-4b3e-9475-0da243678d5a |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.ReadWrite.All | 委任 | データは保存されません。 | お気に入り: ユーザーにデータを読み書きOneDrive。 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| Files.ReadWrite.All | 委任 | データは保存されません。 | OneDrive: ユーザーに対してデータの読み取りおよび書き込みを行OneDrive。 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| Group.ReadWrite.All | 委任 | データは保存されません。 | Teams: グループに対してデータの読み取りおよび書き込みを行える。 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| GroupMember.Read.All | 委任 | データは保存されません。 | SharePointOnline - セキュリティ グループのサポート: アプリがグループの一覧を表示し、基本的なグループ プロパティを読み取り、サインインしているユーザーがアクセスできるすべてのグループのメンバーシップを読み取る | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| Sites.Read.All | 委任 | データは保存されません。 | SharePointオンライン: オンラインからデータを読み取SharePointします。 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| User.Read | 委任 | データは保存されません。 | Sing-In: officeatwork アプリがユーザーの基本的なプロパティを読み取ることができます。 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| User.Read.All | 委任 | データは保存されません。 | Teams: ユーザーが属するグループを確認します。 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| offline_access | 委任 | データは保存されません。 | Sing-In: 更新トークンを介して自動サインインを有効にするには、ユーザーが officeatwork アプリを起動する度に手動でサインインする必要があります。 このスコープは、SSO が有効でないホスト アプリケーションでのみ必要です。 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| openid | 委任 | データは保存されません。 | Sing-In: ユーザーが組織または Microsoft アカウントで officeatwork アプリにサインインできます。 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| profile | 委任 | データは保存されません。 | Sing-In: サインインしているユーザーを officeatwork アプリに表示します。 これにより、officeatwork アプリへのサインインに使用されたアカウントをユーザーに確認/確認できます。 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
 アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| SharePoint REST API | いいえ |  |  |  |  |
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
+>| SharePoint REST API | なし |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -97,7 +97,7 @@ officeatwork から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -125,18 +125,18 @@ officeatwork から Microsoft に提供される情報:
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | なし |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | セキュリティの既定値 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
-| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | いいえ |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | なし |
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
-| アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
-| アプリで非推奨の API を使用していますか? | いいえ |
+| アプリは Web API を公開していますか? | なし |
+| アプリでプレビュー API を使用していますか? | なし |
+| アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

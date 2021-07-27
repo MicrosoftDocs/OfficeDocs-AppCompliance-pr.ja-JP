@@ -1,22 +1,22 @@
 ---
-title: SaaS アプリのセキュリティとコンプライアンス - すべてのアプリ
+title: SaaS Apps のセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/08/2021
+ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
 description: すべての SaaS アプリで使用可能なすべてのセキュリティおよびコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 665872455f297a8dda77c1a039c0daa2d5d590b8
-ms.sourcegitcommit: 3583fc1d7037a9a9d9d463913e34ffbbd65042f1
+ms.openlocfilehash: 0016e4102d0c26bc5c57e657eaa5d635425df511
+ms.sourcegitcommit: 2785ea8a6c1b1af129dea2cbe833de98659e3b2d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53341143"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53547875"
 ---
-# <a name="saas-app-security-and-compliance"></a>SaaS アプリのセキュリティとコンプライアンス
+# <a name="saas-apps-security-and-compliance"></a>SaaS Apps のセキュリティとコンプライアンス
 
-Microsoft は、Microsoft 365パートナーと協力して、組織が使用する SaaS アプリやアドインに関する意思決定を迅速に行い、通知するために必要な情報を提供します。 この情報は、[Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) アプリ カタログの情報と、開発者がアプリケーションを送信するときに提供する情報で補足されます。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
+Microsoft は、Microsoft 365パートナーと協力して、組織が使用する SaaS アプリとアドインに関する意思決定を迅速に行い、通知するために必要な情報を提供します。 この情報は、[Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) アプリ カタログの情報と、開発者がアプリケーションを送信するときに提供する情報で補足されます。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
 
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|

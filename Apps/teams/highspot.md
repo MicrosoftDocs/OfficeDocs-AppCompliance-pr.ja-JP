@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Highspot のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: edf40b51503f3de332205180d3d4ded47ab5523f
-ms.sourcegitcommit: 1b9ad544fd91bb0fb25e467baf2d368a812dc476
+ms.openlocfilehash: bbf47f6b42e1f77fefed8de24ce23858e5cb52fd
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52927272"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521600"
 ---
 # <a name="highspot"></a>Highspot
 
@@ -62,15 +62,15 @@ Highspot から Microsoft に提供される情報:
 アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| Microsoft teams API | いいえ |  |  |  |  |
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
+>| Microsoft teams API | なし |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| https://engage.highspot.com/viewer/5e0f9071628ba277fd1c3dc5?iid=5e1fb2a5b7b7391d951d4c86 | https://engage.highspot.com/viewer/5e0f9071628ba277fd1c3dc5?iid=5e1fb2a5b7b7391d951d4c86 | https://engage.highspot.com/viewer/5e0f9071628ba277fd1c3dc5?iid=5e1fb2a5b7b7391d951d4c86 |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
@@ -78,8 +78,8 @@ Highspot から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
->| ウェルカム メッセージの場合は、エンド ユーザー名が使用されます。 | いいえ |  |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| ウェルカム メッセージの場合は、エンド ユーザー名が使用されます。 | なし |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -98,7 +98,7 @@ Highspot から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

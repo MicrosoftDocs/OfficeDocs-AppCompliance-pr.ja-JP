@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Connect+、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 831f29b4b5a7f15dbaf9f7672d0dece4fc50c645
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.openlocfilehash: 573f6bbf833f08720b6ace0fe6d1f0b92bcc4a53
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275332"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521180"
 ---
 # <a name="connect"></a>Connect+
 
@@ -35,7 +35,7 @@ ms.locfileid: "53275332"
 | アプリ名 | Connect+ |
 | ID | WA200002611 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | リワード ゲートウェイ |
+| パートナー会社名 | Reward Gateway |
 | パートナー Web サイトの URL | [https://www.rewardgateway.com](https://www.rewardgateway.com) |
 | [アプリケーション情報Teamsページの URL | [https://success.rewardgateway.com/hc/en-us/articles/3600158...](https://success.rewardgateway.com/hc/en-us/articles/360015834078-Installing-the-MS-Teams-Integration) |
 | プライバシー ポリシーの URL | [https://policies.rewardgateway.net/ms-teams-connect-plus/pr...](https://policies.rewardgateway.net/ms-teams-connect-plus/privacy-policy/) |
@@ -56,8 +56,8 @@ ms.locfileid: "53275332"
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| AppCatalog.Read.All | 委任 | データは収集されません | 各ユーザーの aadObjectId を保存して、少なくとも 1 回はアプリにログインしたと追跡できます。 | 5e4dadf5-9f90-449b-9e39-934fd10b7c23 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| AppCatalog.Read.All | 委任 | データは収集されません | 各ユーザーの aadObjectId を保存して、少なくとも 1 回はアプリにログインしたと追跡できます。 | [5e4dadf5-9f90-449b-9e39-934fd10b7c23](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e4dadf5-9f90-449b-9e39-934fd10b7c23) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -89,7 +89,7 @@ ms.locfileid: "53275332"
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

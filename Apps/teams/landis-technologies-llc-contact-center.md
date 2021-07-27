@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 連絡先センター、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 121d59640731b43137d1b2e9d7df987a2a78fe01
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 57fd0d98d6c7139c6356b4c23a6ac8a21c48e6b6
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283001"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521500"
 ---
 # <a name="contact-center"></a>コンタクト センター
 
@@ -55,25 +55,25 @@ Landis Technologies LLC から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calls.AccessMedia.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話キュー、IVRs レポートを &amp; 許可する | 341e195c-b261-4b05-8ba5-dd4a89b1f3e7 |
->| Calls.Initiate.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話キュー、IVRs レポートを &amp; 許可する | 341e195c-b261-4b05-8ba5-dd4a89b1f3e7 |
->| Calls.InitiateGroupCall.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話キュー、IVRs レポートを &amp; 許可する | 341e195c-b261-4b05-8ba5-dd4a89b1f3e7 |
->| Calls.JoinGroupCall.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話キュー、IVRs レポートを &amp; 許可する | 341e195c-b261-4b05-8ba5-dd4a89b1f3e7 |
->| Calls.JoinGroupCallAsGuest.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話キュー、IVRs レポートを &amp; 許可する | 341e195c-b261-4b05-8ba5-dd4a89b1f3e7 |
->| OnlineMeetings.Read.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話キュー、IVRs レポートを &amp; 許可する | 341e195c-b261-4b05-8ba5-dd4a89b1f3e7 |
->| OnlineMeetings.ReadWrite.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話キュー、IVRs レポートを &amp; 許可する | 341e195c-b261-4b05-8ba5-dd4a89b1f3e7 |
->| User.Read | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話キュー、IVRs レポートを &amp; 許可する | 341e195c-b261-4b05-8ba5-dd4a89b1f3e7 |
->| User.Read.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話キュー、IVRs レポートを &amp; 許可する | 341e195c-b261-4b05-8ba5-dd4a89b1f3e7 |
->| Calls.AccessMedia.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話記録の &amp; センチメント追跡を許可する | 3a08b250-02ce-4316-94f7-069f4ae0c41b |
->| Calls.Initiate.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話記録の &amp; センチメント追跡を許可する | 3a08b250-02ce-4316-94f7-069f4ae0c41b |
->| Calls.InitiateGroupCall.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話記録の &amp; センチメント追跡を許可する | 3a08b250-02ce-4316-94f7-069f4ae0c41b |
->| Calls.JoinGroupCall.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話記録の &amp; センチメント追跡を許可する | 3a08b250-02ce-4316-94f7-069f4ae0c41b |
->| Calls.JoinGroupCallAsGuest.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話記録の &amp; センチメント追跡を許可する | 3a08b250-02ce-4316-94f7-069f4ae0c41b |
->| OnlineMeetings.Read.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話記録の &amp; センチメント追跡を許可する | 3a08b250-02ce-4316-94f7-069f4ae0c41b |
->| OnlineMeetings.ReadWrite.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話記録の &amp; センチメント追跡を許可する | 3a08b250-02ce-4316-94f7-069f4ae0c41b |
->| User.Read | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話記録の &amp; センチメント追跡を許可する | 3a08b250-02ce-4316-94f7-069f4ae0c41b |
->| User.Read | 委任 | ユーザーのプロフィール | ユーザーがサインインを許可する | c22c3a9e-5d2c-4177-8ea1-1c53c5af36b8 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calls.AccessMedia.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話キュー、IVRs レポートを &amp; 許可する | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| Calls.Initiate.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話キュー、IVRs レポートを &amp; 許可する | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| Calls.InitiateGroupCall.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話キュー、IVRs レポートを &amp; 許可する | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| Calls.JoinGroupCall.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話キュー、IVRs レポートを &amp; 許可する | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| Calls.JoinGroupCallAsGuest.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話キュー、IVRs レポートを &amp; 許可する | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| OnlineMeetings.Read.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話キュー、IVRs レポートを &amp; 許可する | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| OnlineMeetings.ReadWrite.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話キュー、IVRs レポートを &amp; 許可する | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| User.Read | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話キュー、IVRs レポートを &amp; 許可する | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| User.Read.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話キュー、IVRs レポートを &amp; 許可する | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| Calls.AccessMedia.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話記録の &amp; センチメント追跡を許可する | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| Calls.Initiate.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話記録の &amp; センチメント追跡を許可する | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| Calls.InitiateGroupCall.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話記録の &amp; センチメント追跡を許可する | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| Calls.JoinGroupCall.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話記録の &amp; センチメント追跡を許可する | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| Calls.JoinGroupCallAsGuest.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話記録の &amp; センチメント追跡を許可する | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| OnlineMeetings.Read.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話記録の &amp; センチメント追跡を許可する | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| OnlineMeetings.ReadWrite.All | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話記録の &amp; センチメント追跡を許可する | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| User.Read | アプリケーション | 通話の詳細レポート、通話のセンチメント &amp; 記録 | 通話記録の &amp; センチメント追跡を許可する | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| User.Read | 委任 | ユーザーのプロフィール | ユーザーがサインインを許可する | [c22c3a9e-5d2c-4177-8ea1-1c53c5af36b8](https://docs.microsoft.com/microsoft-365-app-certification/azure/c22c3a9e-5d2c-4177-8ea1-1c53c5af36b8) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -87,7 +87,7 @@ Landis Technologies LLC から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 通話レポートとユーザー分析を提供します。 | 姓、姓、および UPN または電話番号。 この情報は、通話の詳細レポートとユーザー アクティビティ分析で使用されます。 |  |
 
 

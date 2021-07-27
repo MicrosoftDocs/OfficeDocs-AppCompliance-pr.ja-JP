@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Fusion Remote で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 67518ab9859fa9643eea4f6cc40d97dbd40a9109
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: b920e0fa93512c7cc9429b02dcecd9c0e3fe27b6
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281810"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521504"
 ---
 # <a name="fusion-remote"></a>Fusion Remote
 
@@ -55,21 +55,21 @@ Jujo Inc. から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.Read | 委任 | ユーザー ファイルの読み取り | ユーザー ファイルの読み取り | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| Files.Read.All | 委任 | ユーザーがアクセスできるすべてのファイルの読み取り | ユーザーがアクセスできるすべてのファイルの読み取り | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| Files.Read.Selected | 委任 | ユーザーが選んだファイルの読み取り | ユーザーが選んだファイルの読み取り | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| Files.ReadWrite | 委任 | ユーザー ファイルへのフル アクセスを持つ | ユーザー ファイルへのフル アクセスを持つ | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| Files.ReadWrite.All | 委任 | ユーザーがアクセスできるすべてのファイルへのフル アクセス | ユーザーがアクセスできるすべてのファイルへのフル アクセス | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| Files.ReadWrite.AppFolder | 委任 | アプリケーションのフォルダーへのフル アクセス (プレビュー) | アプリケーションのフォルダーへのフル アクセス (プレビュー) | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| Files.ReadWrite.Selected | 委任 | ユーザーが選んだファイルの読み取りと書き込み | ユーザーが選んだファイルの読み取りと書き込み | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| User.Read | 委任 | サインインおよびユーザー プロファイルの読み取り | サインインおよびユーザー プロファイルの読み取り | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| User.Read.All | 委任 | すべてのユーザーの完全なプロファイルの読み取り | すべてのユーザーの完全なプロファイルの読み取り | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| User.ReadBasic.All | 委任 | すべてのユーザーの基本プロファイルの読み取り | すべてのユーザーの基本プロファイルの読み取り | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| User.ReadWrite | 委任 | ユーザーのプロファイルの読み取りおよび書き込みアクセス許可 | ユーザーのプロファイルの読み取りおよび書き込みアクセス許可 | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| User.ReadWrite.All | 委任 | すべてのユーザーの完全なプロファイルの読み取りと書き込み | すべてのユーザーの完全なプロファイルの読み取りと書き込み | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| offline_access | 委任 | アクセス許可を付与したデータへのアクセスの維持 | アクセス許可を付与したデータへのアクセスの維持 | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| openid | 委任 | ユーザーのサインイン | ユーザーのサインイン | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.Read | 委任 | ユーザー ファイルの読み取り | ユーザー ファイルの読み取り | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| Files.Read.All | 委任 | ユーザーがアクセスできるすべてのファイルの読み取り | ユーザーがアクセスできるすべてのファイルの読み取り | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| Files.Read.Selected | 委任 | ユーザーが選んだファイルの読み取り | ユーザーが選んだファイルの読み取り | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| Files.ReadWrite | 委任 | ユーザー ファイルへのフル アクセスを持つ | ユーザー ファイルへのフル アクセスを持つ | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| Files.ReadWrite.All | 委任 | ユーザーがアクセスできるすべてのファイルへのフル アクセス | ユーザーがアクセスできるすべてのファイルへのフル アクセス | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| Files.ReadWrite.AppFolder | 委任 | アプリケーションのフォルダーへのフル アクセス (プレビュー) | アプリケーションのフォルダーへのフル アクセス (プレビュー) | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| Files.ReadWrite.Selected | 委任 | ユーザーが選んだファイルの読み取りと書き込み | ユーザーが選んだファイルの読み取りと書き込み | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| User.Read | 委任 | サインインおよびユーザー プロファイルの読み取り | サインインおよびユーザー プロファイルの読み取り | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| User.Read.All | 委任 | すべてのユーザーの完全なプロファイルの読み取り | すべてのユーザーの完全なプロファイルの読み取り | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| User.ReadBasic.All | 委任 | すべてのユーザーの基本プロファイルの読み取り | すべてのユーザーの基本プロファイルの読み取り | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| User.ReadWrite | 委任 | ユーザーのプロファイルの読み取りおよび書き込みアクセス許可 | ユーザーのプロファイルの読み取りおよび書き込みアクセス許可 | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| User.ReadWrite.All | 委任 | すべてのユーザーの完全なプロファイルの読み取りと書き込み | すべてのユーザーの完全なプロファイルの読み取りと書き込み | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| offline_access | 委任 | アクセス許可を付与したデータへのアクセスの維持 | アクセス許可を付与したデータへのアクセスの維持 | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| openid | 委任 | ユーザーのサインイン | ユーザーのサインイン | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -83,7 +83,7 @@ Jujo Inc. から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 会議の名簿 | DB に格納されているデータがない |  |
 
 
@@ -91,7 +91,7 @@ Jujo Inc. から Microsoft に提供される情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->いいえ
+>なし
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
@@ -103,7 +103,7 @@ Jujo Inc. から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

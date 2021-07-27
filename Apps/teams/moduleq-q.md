@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3444110a1d98a1a9a1157c21e76774373782b8c2
-ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
+ms.openlocfilehash: a1a9995b6b723d7ed712f9a0fdbe9315ee53c7f0
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53456593"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521301"
 ---
 # <a name="q"></a>Q
 
@@ -56,12 +56,12 @@ ModuleQ から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | アプリケーション | メッセージ本文と添付ファイルを除く会議データを格納する | アプリケーションがユーザーの予定表イベントを読み取って、ユーザーのビジネスの優先順位をインテリジェントに理解できます。 | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| Group.Read.All | 委任 | なし | アプリがチームでコンテンツを共有するための操作を許可します。 | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| Mail.Read | アプリケーション | メッセージ本文と添付ファイル以外の電子メール データを格納する | アプリケーションがユーザーのメールを読み取って、ユーザーのビジネスの優先順位をインテリジェントに理解できます。 | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| User.Read | 委任 | ユーザーの電子メールトークンと認証トークン | ユーザーが自分のアカウントにサインインして、自分のアカウントOffice 365 ModuleQ アカウントにリンクできます。 | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| User.Read.All | 委任 | なし | アプリで、ユーザーが参加しているTeams一覧を取得できます。 共有にのみ使用  | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | アプリケーション | メッセージ本文と添付ファイルを除く会議データを格納する | アプリケーションがユーザーの予定表イベントを読み取って、ユーザーのビジネスの優先順位をインテリジェントに理解できます。 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
+>| Group.Read.All | 委任 | なし | アプリがチームでコンテンツを共有するための操作を許可します。 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
+>| Mail.Read | アプリケーション | メッセージ本文と添付ファイル以外の電子メール データを格納する | アプリケーションがユーザーのメールを読み取って、ユーザーのビジネスの優先順位をインテリジェントに理解できます。 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
+>| User.Read | 委任 | ユーザーの電子メールトークンと認証トークン | ユーザーが自分のアカウントにサインインして、自分のアカウントOffice 365 ModuleQ アカウントにリンクできます。 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
+>| User.Read.All | 委任 | なし | アプリで、ユーザーが参加しているTeams一覧を取得できます。 共有にのみ使用  | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -121,18 +121,18 @@ ModuleQ から Microsoft に提供される情報:
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | なし |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | いいえ |
+| アプリに機密クライアントがありますか? | なし |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/><br/> |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
-| アプリで非推奨の API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | なし |
+| アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

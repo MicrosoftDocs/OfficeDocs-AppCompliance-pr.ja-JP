@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ecBooking で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b1806ca26bb20d1f4f24d87d7b617ad9ff108397
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: f36edd400f35d7e4ccbfef5edd0225855f73ab69
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281880"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521730"
 ---
 # <a name="ecbooking"></a>ecBooking
 
@@ -56,13 +56,13 @@ ms.locfileid: "53281880"
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | アプリケーション | ユーザー メール、ユーザー イベントなどのデータが格納されます。 ユーザー イベントは、会議室の可用性を確認し、イベントを作成する際に収集されます。 | Users イベントの ID、場所名、その他のイベントの詳細が保存されます。 会議室の空き時間情報を確認し、イベントを作成するためのデータが収集されます。 | a85d5d70-9b9c-46e4-bdd6-d139f1648dea |
->| Mail.Send | アプリケーション | ユーザーメールなどのデータ。 ユーザーメールは、ルーム予約通知メールの送信用に収集されます。 | ユーザーメールなどのデータ。 ユーザーメールは、ルーム予約通知メールの送信用に収集されます。 | a85d5d70-9b9c-46e4-bdd6-d139f1648dea |
->| User.Read | 委任 | ユーザー ID、名前、電子メールなどのデータ。 ユーザー データは、アプリケーションでのサインイン ユーザーのために収集されます。 | ユーザー ID、名前、電子メールなどのデータ。 ユーザー データは、アプリケーションでのサインイン ユーザーのために収集されます。 | a85d5d70-9b9c-46e4-bdd6-d139f1648dea |
->| User.Read.All | アプリケーション | ユーザー ID、名前、電子メールなどのデータ。 ユーザー データは、アプリケーションでのサインイン ユーザーのために収集されます。 | ユーザー ID、名前、電子メールなどのデータ。 ユーザー データは、アプリケーションでのサインイン ユーザーのために収集されます。 | a85d5d70-9b9c-46e4-bdd6-d139f1648dea |
->| メール | 委任 | ユーザーメールなどのデータ。 User Emailare は、ユーザーの可用性を確認し、イベントを作成するための収集を行います。 | ユーザーメールなどのデータ。 User Emailare は、ユーザーの可用性を確認し、イベントを作成するための収集を行います。 | a85d5d70-9b9c-46e4-bdd6-d139f1648dea |
->| openid | 委任 | ユーザーがアプリケーションにログインする openid inorder。 | ユーザーがアプリケーションにログインする openid inorder。 | a85d5d70-9b9c-46e4-bdd6-d139f1648dea |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | アプリケーション | ユーザー メール、ユーザー イベントなどのデータが格納されます。 ユーザー イベントは、会議室の可用性を確認し、イベントを作成する際に収集されます。 | Users イベントの ID、場所名、その他のイベントの詳細が保存されます。 会議室の空き時間情報を確認し、イベントを作成するためのデータが収集されます。 | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
+>| Mail.Send | アプリケーション | ユーザーメールなどのデータ。 ユーザーメールは、ルーム予約通知メールの送信用に収集されます。 | ユーザーメールなどのデータ。 ユーザーメールは、ルーム予約通知メールの送信用に収集されます。 | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
+>| User.Read | 委任 | ユーザー ID、名前、電子メールなどのデータ。 ユーザー データは、アプリケーションでのサインイン ユーザーのために収集されます。 | ユーザー ID、名前、電子メールなどのデータ。 ユーザー データは、アプリケーションでのサインイン ユーザーのために収集されます。 | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
+>| User.Read.All | アプリケーション | ユーザー ID、名前、電子メールなどのデータ。 ユーザー データは、アプリケーションでのサインイン ユーザーのために収集されます。 | ユーザー ID、名前、電子メールなどのデータ。 ユーザー データは、アプリケーションでのサインイン ユーザーのために収集されます。 | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
+>| メール | 委任 | ユーザーメールなどのデータ。 User Emailare は、ユーザーの可用性を確認し、イベントを作成するための収集を行います。 | ユーザーメールなどのデータ。 User Emailare は、ユーザーの可用性を確認し、イベントを作成するための収集を行います。 | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
+>| openid | 委任 | ユーザーがアプリケーションにログインする openid inorder。 | ユーザーがアプリケーションにログインする openid inorder。 | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -122,17 +122,17 @@ ms.locfileid: "53281880"
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | なし |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | いいえ |
+| アプリに機密クライアントがありますか? | なし |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/><br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内の Qualified、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6b4f5f034fbdca44cd71c74b0530cfd15664a1c8
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: d47e6f2919fb97eb1c9a162f2ade8c1a1bf485a8
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852093"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521140"
 ---
-# <a name="qualified"></a>修飾
+# <a name="qualified"></a>Qualified
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Qualified to Microsoft から提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | 修飾 |
+| アプリ名 | Qualified |
 | ID | WA200002720 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | 修飾 |
+| パートナー会社名 | Qualified |
 | パートナー Web サイトの URL | [https://www.qualified.com](https://www.qualified.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.qualified.com/university-guide/microsoft-teams-...](https://www.qualified.com/university-guide/microsoft-teams-integration) |
 | プライバシー ポリシーの URL | [https://www.qualified.com/legal/privacy](https://www.qualified.com/legal/privacy) |
@@ -56,16 +56,16 @@ Qualified to Microsoft から提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Channel.ReadBasic.All | アプリケーション | 通知するチャネルを選択できます | 電子メール アドレス、テナント ID、oauth 更新トークン | 2c951ed5-c5c6-493f-9b02-4b42e3ba536c |
->| Team.ReadBasic.All | アプリケーション | すべてのチームからすべてのチャネルを見つけ、通知するチャネルを選択できます | 電子メール アドレス、テナント ID、oauth 更新トークン | 2c951ed5-c5c6-493f-9b02-4b42e3ba536c |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Channel.ReadBasic.All | アプリケーション | 通知するチャネルを選択できます | 電子メール アドレス、テナント ID、oauth 更新トークン | [2c951ed5-c5c6-493f-9b02-4b42e3ba536c](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c) |
+>| Team.ReadBasic.All | アプリケーション | すべてのチームからすべてのチャネルを見つけ、通知するチャネルを選択できます | 電子メール アドレス、テナント ID、oauth 更新トークン | [2c951ed5-c5c6-493f-9b02-4b42e3ba536c](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
 アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| ボット フレームワーク API | はい | テナント ID、チーム ID、チャネル ID | テナント ID: ボット フレームワーク api 呼びservice_urlを決定します。チーム ID の + チャネル ID: ボットが追加されたチーム/チャネルを決定する | テナント ID、チーム ID、チャネル ID | テナント ID: ボット フレームワーク api 呼びservice_urlを決定します。チーム ID の + チャネル ID: ボットが追加されたチーム/チャネルを決定する |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -73,7 +73,7 @@ Qualified to Microsoft から提供される情報:
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Heroku, Sentry, Papertrail | 名前、電子メール アドレス、IP | これらのシステムは、実稼働サービスをホストおよび監視します。 |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
@@ -127,16 +127,16 @@ Qualified to Microsoft から提供される情報:
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | なし |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
-| アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリは Web API を公開していますか? | なし |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

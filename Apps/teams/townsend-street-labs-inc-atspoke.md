@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: atSpoke で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b3e3027c83c78373347a972124853add6214ee8d
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 2d72ea33577e386c61be6bcd09feeba813e9e1f5
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283391"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528103"
 ---
 # <a name="atspoke"></a>atSpoke
 
@@ -55,10 +55,10 @@ Townsend Street Labs, Inc. から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | 委任 | atSpoke は Microsoft グループ ID を格納します。 | atSpoke と Microsoft Teams の間でグループ情報の読み取りおよびMicrosoft Teams。  | dfaf15dc-4e94-4484-a25d-79358fe70d8b |
->| User.ReadWrite.All | 委任 | atSpoke は、ユーザーの電子メールとユーザー ID を格納します。 | atSpoke と Microsoft Teams の間でユーザー情報の読み取りおよびMicrosoft Teams。 | dfaf15dc-4e94-4484-a25d-79358fe70d8b |
->| offline_access | 委任 | atSpoke はこのためのデータを格納していない。 | これは、バックグラウンド同期に使用されます。 | dfaf15dc-4e94-4484-a25d-79358fe70d8b |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Group.ReadWrite.All | 委任 | atSpoke は Microsoft グループ ID を格納します。 | atSpoke と Microsoft Teams の間でグループ情報の読み取りおよびMicrosoft Teams。  | [dfaf15dc-4e94-4484-a25d-79358fe70d8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/dfaf15dc-4e94-4484-a25d-79358fe70d8b) |
+>| User.ReadWrite.All | 委任 | atSpoke は、ユーザーの電子メールとユーザー ID を格納します。 | atSpoke と Microsoft Teams の間でユーザー情報の読み取りおよびMicrosoft Teams。 | [dfaf15dc-4e94-4484-a25d-79358fe70d8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/dfaf15dc-4e94-4484-a25d-79358fe70d8b) |
+>| offline_access | 委任 | atSpoke はこのためのデータを格納していない。 | これは、バックグラウンド同期に使用されます。 | [dfaf15dc-4e94-4484-a25d-79358fe70d8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/dfaf15dc-4e94-4484-a25d-79358fe70d8b) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -66,7 +66,7 @@ Townsend Street Labs, Inc. から Microsoft に提供される情報:
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| はい、運用効率を高めるサードパーティのサービスを使用しています。 Google, Inc.: 論理ボリュームに保存されたデータ、ネイティブの Google クラウド ネットワーク内のストレージ バックアップ、サービスログと API ログ、またはアプリケーション ログ。 ログに記録されたトランザクション イベントには、ユーザー識別子、連絡先情報、顧客コンテンツが含まれる場合があります。 MongoDB, Inc.: クラウドベースのデータベース コレクションに格納されているデータ。 - ユーザーがファイルした要求、ユーザーが追加した要求への応答、ユーザーが追加したナレッジ記事を含む顧客コンテンツ。 - ユーザー識別子 (スポーク ユーザー アカウントの作成に使用される名前、電子メール、アバター、電話番号)。 Mailgun Technologies, Inc.: 電子メール通信を送信するユーザー識別子と連絡先情報 (名前と電子メール)。 Twilio, Inc.: ユーザーの電話番号と顧客コンテンツ: Twilio&#8217;s Services を使用して交換されるコンテンツ (テキスト、メッセージ本文、音声およびビデオ メディア、画像、サウンドなど)。 Mixpanel, Inc.: 転送される個人データには、名前、電子メール、IP アドレス、およびメッセージ コンテンツに含まれる個人データが含まれます。 Cloudinary, Inc.: エンドユーザーが提出したファイルベースの顧客コンテンツ。 Elasticsearch, Inc.: ログに記録されたアプリケーショントランザクション イベントには、顧客コンテンツから切り捨てられたテキストが含まれている場合があります。 Stitch, Inc.: 連絡先情報、利用状況情報、購読者の承認済みユーザーの非従来の識別子、およびサブスクライバーまたは認定ユーザーがプラットフォームに提出するその他の個人データ。 Mode Analytics, Inc.: ユーザーごとの分析を提供するユーザー識別子の情報。 DataDog: ログに記録されたアプリケーショントランザクション イベントには、顧客コンテンツから切り捨てられたテキストが含まれる場合があります。ログの保持期間は 14 日です。 Fullstory, Inc.: Web ユーザー インターフェイスで実行されたアクションの記録。識別の目的でスポークのユーザー アカウントが含まれます。 |  | ボット フレームワーク REST API を使用しています。 この API を使用して、askSpoke ボット サービスにメッセージを送受信します。 |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
@@ -74,7 +74,7 @@ Townsend Street Labs, Inc. から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| atSpoke では、ユーザーをユーザーから同期Microsoft Teams作成し、アクセス許可を定義できます。 | atSpoke は電子メールのみを保存Microsoft Teamsユーザーが有効なユーザーとして atSpoke にログインできます。 |  |
 
 

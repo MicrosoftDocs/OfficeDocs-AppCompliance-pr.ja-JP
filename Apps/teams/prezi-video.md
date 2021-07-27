@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Prezi Video で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8bd0c290442e01f6f7a07f39bc38f2f7ece2123b
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 8e7e9c70ee848fd284e3297a915ec9847d3ef1ee
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283141"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521268"
 ---
 # <a name="prezi-video"></a>Prezi Video
 
@@ -62,7 +62,7 @@ Prezi から Microsoft に提供される情報:
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 詳細については、次のページをご覧ください。 https://prezi.com/privacy-policy/ |  | 次の API/SDK は、1 と共に統合するために使用されます。 Botbuilder-SDK (python): この SDK を使用して、Azure Active Directory オブジェクト ID (API によって参照される) をaad_object_id。 この情報は、ユーザーのユーザーをMicrosoft Teamsに作成された Prezi Video 関連コンテンツにマップ prezi.com。  2. Botbuilder-js (javascript): この SDK をMicrosoft Teams特定のデータは収集されません。 |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
@@ -70,7 +70,7 @@ Prezi から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| ボットは、前述の名簿情報にアクセスしない。 | ボットは、前述の名簿情報にアクセスしない。 |  |
 
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 巧妙な広告、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d0ef9f59476133e673a0bf9edf99e63cfc424559
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7880682782fe62fad68426bb59b74e3997bb7f64
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281950"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521880"
 ---
 # <a name="clever-ads"></a>Clever Ads
 
@@ -55,8 +55,8 @@ Microsoft に巧妙な広告によって提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委任 | User.Read: ユーザーを識別するために UPN、AzureObjectId を格納します。 | User.Read を使用すると、ユーザーはアプリ ダッシュボードにサインインできます。 ユーザーのサインインには UPN、AzureObjectId を使用します。 | ac2b56c0-f2a5-4e90-b618-882f8d3596f0 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委任 | User.Read: ユーザーを識別するために UPN、AzureObjectId を格納します。 | User.Read を使用すると、ユーザーはアプリ ダッシュボードにサインインできます。 ユーザーのサインインには UPN、AzureObjectId を使用します。 | [ac2b56c0-f2a5-4e90-b618-882f8d3596f0](https://docs.microsoft.com/microsoft-365-app-certification/azure/ac2b56c0-f2a5-4e90-b618-882f8d3596f0) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -70,7 +70,7 @@ Microsoft に巧妙な広告によって提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| アプリは名簿にアクセスして、ユーザーがチームに属していないか識別し、ユーザーがスケジュールしたメッセージを自分のチームに送信します。 | ユーザー ID、azureObjectId、UPN、tenantId、conversationId、serviceUrl を保存して、ユーザーまたはチームにメッセージを送信し、ダッシュボード タブにアクセスするときにユーザーを特定できます。 |  |
 
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: マーケティングの自動化、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する Zoho Campaigns ツールで利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e54e3313dcfa51542439775a0c3ca0cae38aca93
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: b6b0137447f5de7d7ef2394c32eb6996772852ad
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281589"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527893"
 ---
 # <a name="zoho-campaigns-tool-for-marketing-automation"></a>マーケティング自動化のための Zoho キャンペーン ツール
 
@@ -54,16 +54,16 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | 委任 | カレンダー ID は、Zoho キャンペーンからその予定表にイベントを作成するために格納されます。 | ユーザーが Office365 カレンダー イベントを Zoho キャンペーンにインポートできます。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Calendars.ReadWrite | 委任 |  | ユーザーが Office365 カレンダーに Zoho キャンペーン イベントを追加できます。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Contacts.Read | 委任 |  連絡先情報を保存します。 | ユーザーが Office365 連絡先を Zoho キャンペーンにインポートできます。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Contacts.ReadWrite | 委任 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read | 委任 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | 委任 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| メール | 委任 | 電子メールは、ユーザー識別のために保存されます。 |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| offline_access | 委任 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| profile | 委任 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | 委任 | カレンダー ID は、Zoho キャンペーンからその予定表にイベントを作成するために格納されます。 | ユーザーが Office365 カレンダー イベントを Zoho キャンペーンにインポートできます。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Calendars.ReadWrite | 委任 |  | ユーザーが Office365 カレンダーに Zoho キャンペーン イベントを追加できます。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Contacts.Read | 委任 |  連絡先情報を保存します。 | ユーザーが Office365 連絡先を Zoho キャンペーンにインポートできます。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Contacts.ReadWrite | 委任 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read | 委任 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.ReadBasic.All | 委任 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| メール | 委任 | 電子メールは、ユーザー識別のために保存されます。 |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| offline_access | 委任 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| profile | 委任 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス

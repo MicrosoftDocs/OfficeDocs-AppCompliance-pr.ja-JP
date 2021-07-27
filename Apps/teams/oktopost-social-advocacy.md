@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Social Advocacy、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e38ae1ab7bfe01792293819ef6bc57a13ba101d3
-ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
+ms.openlocfilehash: 376dae946bfd5bf8fafcf10d33f2e7ae4e20a706
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987899"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521258"
 ---
-# <a name="social-advocacy"></a>Social Advocacy
+# <a name="social-advocacy"></a>ソーシャル アドボカシー
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Oktopost から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | Social Advocacy |
+| アプリ名 | ソーシャル アドボカシー |
 | ID | WA200002598 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Oktopost |
@@ -69,7 +69,7 @@ Oktopost から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| PII は、認証および承認の目的で使用されます。 | 名前、電子メール、セッション データ (IP、場所) | PII は、認証、承認、およびログ記録の目的で使用されます。 |
 
 
@@ -89,7 +89,7 @@ Oktopost から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Workday で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f85cc0ccc778f7ed3440e85795574faad3868d24
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 71a16c42f8676ac12ed4de34ccbdf010de009453
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279009"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528043"
 ---
 # <a name="workday"></a>Workday
 
@@ -56,9 +56,9 @@ Workday から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| TeamsAppInstallation.ReadWriteForUser.All | アプリケーション | アプリ ID の再取得、App for User のインストール、AAD Teamsライセンスの詳細の取得 | この機能に関連するデータは保存しない。  これにより、ユーザー用のアプリをインストールできます。 | 0209ae9c-8d92-4fb8-9c77-4dc29fd371e0 |
->| User.Read.All | アプリケーション | ユーザーメッセージを送信するためにユーザー AAID を取得します。 | AAID と AAID Teamsだけ  | 0209ae9c-8d92-4fb8-9c77-4dc29fd371e0 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| TeamsAppInstallation.ReadWriteForUser.All | アプリケーション | アプリ ID の再取得、App for User のインストール、AAD Teamsライセンスの詳細の取得 | この機能に関連するデータは保存しない。  これにより、ユーザー用のアプリをインストールできます。 | [0209ae9c-8d92-4fb8-9c77-4dc29fd371e0](https://docs.microsoft.com/microsoft-365-app-certification/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0) |
+>| User.Read.All | アプリケーション | ユーザーメッセージを送信するためにユーザー AAID を取得します。 | AAID と AAID Teamsだけ  | [0209ae9c-8d92-4fb8-9c77-4dc29fd371e0](https://docs.microsoft.com/microsoft-365-app-certification/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -66,16 +66,16 @@ Workday から Microsoft に提供される情報:
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
->| 組織データは、Workday Services と Microsoft の間で共有されます。 詳細については、Workday との契約条件を参照してください。 | 組織データは、Workday Services と Microsoft の間で共有されます。 詳細については、Workday との契約条件を参照してください。 | N/A |
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
+>| 組織データは、Workday Services と Microsoft の間で共有されます。 詳細については、Workday との契約条件を参照してください。 | 組織データは、Workday Services と Microsoft の間で共有されます。 詳細については、Workday との契約条件を参照してください。 | 該当なし |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
->| 名簿データは、Workday アプリとのユーザーのやり取りをカスタマイズするために使用されます。 | いいえ |  |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| 名簿データは、Workday アプリとのユーザーのやり取りをカスタマイズするために使用されます。 | なし |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -94,7 +94,7 @@ Workday から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

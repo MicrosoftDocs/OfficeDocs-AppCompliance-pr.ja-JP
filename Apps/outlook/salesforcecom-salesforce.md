@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Salesforce で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b5999dd08ed27ce75bc958e431c0974e10830a3c
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d0490ea422179e064443f7fad12abb64bc6efa47
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281699"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527913"
 ---
 # <a name="salesforce"></a>Salesforce
 
@@ -60,7 +60,7 @@ Microsoft に提供される salesforce.com 情報:
 アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| JavaScript API for Office | はい | このアドインは、Office.js および EWS の関数を使用して、ユーザーが Salesforce にログインすることを決定した電子メールに関するOutlook添付ファイルをコピーします。 予定表側でも同様の機能を使用して、予定を Salesforce に記録します。 |  | アドインは getUserIdentityTokenAsync のような関数を使用して、現在のユーザー id をOutlook取得します。 GetItem (.js と EWS) を使用して、Salesforce レコードに保存する場合の AdditionalProperties と現在の電子メール メッセージの内容を設定し、getAttachment (EWS) を使用して、Exchange から添付ファイルを取得し、ペアの Salesforce 電子メール UpdateItem (.js)、GetFolder (.js) に追加して下書きメッセージを作成するために使用する下書きフォルダー CreateItem (.js) を取得します。 |  |
 >| Exchange Web サービス (EWS) | はい | このアドインは、Office.js および EWS の関数を使用して、ユーザーが Salesforce にログインすることを決定した電子メールに関するOutlook添付ファイルをコピーします。 予定表側でも同様の機能を使用して、予定を Salesforce に記録します。 |  | アドインは getUserIdentityTokenAsync のような関数を使用して、現在のユーザー id をOutlook取得します。 GetItem (.js と EWS) を使用して、Salesforce レコードに保存する場合の AdditionalProperties と現在の電子メール メッセージの内容を設定し、getAttachment (EWS) を使用して、Exchange から添付ファイルを取得し、ペアの Salesforce 電子メール UpdateItem (.js)、GetFolder (.js) に追加して下書きメッセージを作成するために使用する下書きフォルダー CreateItem (.js) を取得します。 |  |
 
@@ -76,7 +76,7 @@ Microsoft に提供される salesforce.com 情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->いいえ
+>なし
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
@@ -88,7 +88,7 @@ Microsoft に提供される salesforce.com 情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
