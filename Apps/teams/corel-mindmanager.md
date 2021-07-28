@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MindManager で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 69efbc45560d3271f03f8af8e9cfeb1aa7c89e5d
-ms.sourcegitcommit: 41be194e2be4de3cdb686daee7a8f6e4d1fc765a
+ms.openlocfilehash: 7a431ae7736e2efa22a2d75ff3a1cfc2e1e2234f
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52904543"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525741"
 ---
 # <a name="mindmanager"></a>MindManager
 
@@ -55,13 +55,13 @@ Corel が Microsoft に提供する情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ChannelMessage.Send | 委任 | メッセージとして投稿できる MindManager ファイル内で行われた変更に関する情報 | ファイル メタデータ、ファイル コンテンツ - ファイル ブラウザーの場合、ユーザーはファイルを参照して MindManager (.mmap) ファイルを開きます。 | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| Chat.Send | 委任 | メッセージとして投稿できる MindManager ファイル内で行われた変更に関する情報 | ファイル メタデータ、ファイル コンテンツ - ファイル ブラウザーの場合、ユーザーはファイルを参照して MindManager (.mmap) ファイルを開きます。 | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| Files.ReadWrite | 委任 | サイト一覧、フォルダー一覧、ファイル メタデータ、ファイル コンテンツ - ファイル ブラウザーの場合、ユーザーはファイルを参照して MindManager (.mmap) ファイルを開きます。 | - プロファイル データ: ユーザーを識別し、そのユーザーのプロファイルを表示する - ファイル コンテンツ: 共同編集セッション中 (MindManager .mmap ファイルのリアルタイム共同編集) | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| Sites.ReadWrite.All | 委任 | サイト一覧、フォルダー一覧、ファイル メタデータ、ファイル コンテンツ - ファイル ブラウザーの場合、ユーザーはファイルを参照して MindManager (.mmap) ファイルを開きます。 | ファイルコンテンツ: 共同編集セッション中 (MindManager .mmap ファイルのリアルタイム共同編集) | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| User.Read | 委任 | プロファイル データ: ユーザーを識別してプロファイルを表示する | プロファイル データ: ユーザーを識別してプロファイルを表示する | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| offline_access | 委任 | これにより、必要に応じて後でユーザーの代わりにファイルを元の場所に保存できます。 | ファイルコンテンツ: 共同編集セッション中 (MindManager .mmap ファイルのリアルタイム共同編集) | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ChannelMessage.Send | 委任 | メッセージとして投稿できる MindManager ファイル内で行われた変更に関する情報 | ファイル メタデータ、ファイル コンテンツ - ファイル ブラウザーの場合、ユーザーはファイルを参照して MindManager (.mmap) ファイルを開きます。 | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| Chat.Send | 委任 | メッセージとして投稿できる MindManager ファイル内で行われた変更に関する情報 | ファイル メタデータ、ファイル コンテンツ - ファイル ブラウザーの場合、ユーザーはファイルを参照して MindManager (.mmap) ファイルを開きます。 | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| Files.ReadWrite | 委任 | サイト一覧、フォルダー一覧、ファイル メタデータ、ファイル コンテンツ - ファイル ブラウザーの場合、ユーザーはファイルを参照して MindManager (.mmap) ファイルを開きます。 | - プロファイル データ: ユーザーを識別し、そのユーザーのプロファイルを表示する - ファイル コンテンツ: 共同編集セッション中 (MindManager .mmap ファイルのリアルタイム共同編集) | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| Sites.ReadWrite.All | 委任 | サイト一覧、フォルダー一覧、ファイル メタデータ、ファイル コンテンツ - ファイル ブラウザーの場合、ユーザーはファイルを参照して MindManager (.mmap) ファイルを開きます。 | ファイルコンテンツ: 共同編集セッション中 (MindManager .mmap ファイルのリアルタイム共同編集) | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| User.Read | 委任 | プロファイル データ: ユーザーを識別してプロファイルを表示する | プロファイル データ: ユーザーを識別してプロファイルを表示する | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| offline_access | 委任 | これにより、必要に応じて後でユーザーの代わりにファイルを元の場所に保存できます。 | ファイルコンテンツ: 共同編集セッション中 (MindManager .mmap ファイルのリアルタイム共同編集) | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -69,8 +69,8 @@ Corel が Microsoft に提供する情報:
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
->| Amazon Web Services | 組織名、組織ドメイン | 組織内でアプリケーションを使用するには、アプリケーション インフラストラクチャ内でアカウントのセットアップが必要Teams |
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
+>| Amazon Web Services (AWS) | 組織名、組織ドメイン | 組織内でアプリケーションを使用するには、アプリケーション インフラストラクチャ内でアカウントのセットアップが必要Teams |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
@@ -95,7 +95,7 @@ Corel が Microsoft に提供する情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -123,8 +123,8 @@ Corel が Microsoft に提供する情報:
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | なし |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
@@ -133,7 +133,7 @@ Corel が Microsoft に提供する情報:
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

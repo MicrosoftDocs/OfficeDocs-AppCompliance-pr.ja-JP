@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内の DBit、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: dbdb857d15f33848c459bc817fa9c2c55da8e6b4
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: f3adc828ee3a7b77b54d49c401375a9671a496e6
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281319"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525721"
 ---
 # <a name="dbit"></a>DBit
 
@@ -55,12 +55,12 @@ Diamondsoft Solutions,LLC から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委任 | システムまたはデータベースにはGraph情報は保存されません。 | サインインおよびユーザー プロファイルの読み取り | 1533d702-7604-463a-9fa3-63077c425e76 |
->| メール | 委任 | システムまたはデータベースにはGraph情報は保存されません。 | ユーザーのメール アドレスの表示 | 1533d702-7604-463a-9fa3-63077c425e76 |
->| offline_access | 委任 | システムまたはデータベースにはGraph情報は保存されません。 | アクセス許可を付与したデータへのアクセスの維持 | 1533d702-7604-463a-9fa3-63077c425e76 |
->| openid | 委任 | システムまたはデータベースにはGraph情報は保存されません。 | ユーザーのサインイン | 1533d702-7604-463a-9fa3-63077c425e76 |
->| profile | 委任 | システムまたはデータベースにはGraph情報は保存されません。 | ユーザーの基本プロファイルの表示 | 1533d702-7604-463a-9fa3-63077c425e76 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委任 | システムまたはデータベースにはGraph情報は保存されません。 | サインインおよびユーザー プロファイルの読み取り | [1533d702-7604-463a-9fa3-63077c425e76](https://docs.microsoft.com/microsoft-365-app-certification/azure/1533d702-7604-463a-9fa3-63077c425e76) |
+>| メール | 委任 | システムまたはデータベースにはGraph情報は保存されません。 | ユーザーのメール アドレスの表示 | [1533d702-7604-463a-9fa3-63077c425e76](https://docs.microsoft.com/microsoft-365-app-certification/azure/1533d702-7604-463a-9fa3-63077c425e76) |
+>| offline_access | 委任 | システムまたはデータベースにはGraph情報は保存されません。 | アクセス許可を付与したデータへのアクセスの維持 | [1533d702-7604-463a-9fa3-63077c425e76](https://docs.microsoft.com/microsoft-365-app-certification/azure/1533d702-7604-463a-9fa3-63077c425e76) |
+>| openid | 委任 | システムまたはデータベースにはGraph情報は保存されません。 | ユーザーのサインイン | [1533d702-7604-463a-9fa3-63077c425e76](https://docs.microsoft.com/microsoft-365-app-certification/azure/1533d702-7604-463a-9fa3-63077c425e76) |
+>| profile | 委任 | システムまたはデータベースにはGraph情報は保存されません。 | ユーザーの基本プロファイルの表示 | [1533d702-7604-463a-9fa3-63077c425e76](https://docs.microsoft.com/microsoft-365-app-certification/azure/1533d702-7604-463a-9fa3-63077c425e76) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -74,7 +74,7 @@ Diamondsoft Solutions,LLC から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| ウェルカム メッセージを作成するには | システムまたはデータベースには名簿情報は保存されません。 |  |
 
 
@@ -94,7 +94,7 @@ Diamondsoft Solutions,LLC から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

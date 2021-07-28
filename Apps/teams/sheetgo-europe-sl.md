@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sheetgo、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7061510a0fb54a3e46e9ca80032a93e97a0e5868
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: a91a3ac8e1d7ead5a469a88787b4b5809d48615a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281059"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53524732"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
@@ -62,7 +62,7 @@ SHEETGO EUROPE SL から Microsoft に提供される情報:
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| MongoDB: 機能するためにシステムとユーザー データを記録する, Google BigQuery: レコード システム ログの使用状況, Google Firestore: マイクロサービスの状態を維持および調整するシステム, Stripe: Payment system |  | これらのアプリケーションは、追加の Microsoft API を使用しない |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス

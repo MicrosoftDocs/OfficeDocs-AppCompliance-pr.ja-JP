@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MailClark、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9d21ca3fe09b49a66725b0e7195fe08836d3d125
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3e9c01b76c513fd0786b27a0447a70c1f9c9d7e0
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552958"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525501"
 ---
 # <a name="mailclark"></a>MailClark
 
@@ -56,13 +56,13 @@ MailClark から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Mail.ReadWrite | アプリケーション |  | 読み取り: 受信メールのプッシュ通知をサブスクライブします。 書き込み: 下書きを作成します。 |  |
->| Mail.Send | アプリケーション |  | 下書きを送信する。 |  |
->| User.Read | アプリケーション | アカウントの詳細 (メール アドレスなど)。 | アカウントを識別します。 |  |
->| offline_access | アプリケーション | refreshtoken | アカウントが切断されるまで認証を更新するには。 |  |
->| openid | アプリケーション |  | 認証に必要です。 |  |
->| profile | アプリケーション |  | ユーザーを認証します。 |  |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Mail.ReadWrite | アプリケーション |  | 読み取り: 受信メールのプッシュ通知をサブスクライブします。 書き込み: 下書きを作成します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Mail.Send | アプリケーション |  | 下書きを送信する。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | アプリケーション | アカウントの詳細 (メール アドレスなど)。 | アカウントを識別します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| offline_access | アプリケーション | refreshtoken | アカウントが切断されるまで認証を更新するには。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| openid | アプリケーション |  | 認証に必要です。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| profile | アプリケーション |  | ユーザーを認証します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -76,7 +76,7 @@ MailClark から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 会話にユーザーを割り当てるには | 名、名、表示名、電子メール アドレス |  |
 
 

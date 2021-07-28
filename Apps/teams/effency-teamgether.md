@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: TeamGether、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1c992ffe3240ed8775832240ab9107debe12b9f2
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 6d52f732a372663b3bb089ee57d43fb5f46299ca
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281910"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525691"
 ---
 # <a name="teamgether"></a>TeamGether
 
@@ -69,7 +69,7 @@ EFFENCY が Microsoft に提供する情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| ユーザーの名前を使用してメッセージをカスタマイズし、ユーザーの電子メール アドレスがデータベースに保存され、必要に応じて電子メールを送信できます。 | 名、名、電子メール アドレス | ユーザーの名前を使用してメッセージをカスタマイズし、ユーザーの電子メール アドレスがデータベースに保存され、必要に応じて電子メールを送信できます。 |
 
 
@@ -89,7 +89,7 @@ EFFENCY が Microsoft に提供する情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

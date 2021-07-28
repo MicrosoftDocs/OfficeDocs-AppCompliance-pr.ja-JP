@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Studi.ly、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: bc3307db955cf9f124442f08fc315c1cd8158659
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d682e758d9632a2c3ac19296dda7083dc8379689
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281239"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525571"
 ---
 # <a name="studily"></a>Studi.ly
 
@@ -55,20 +55,20 @@ InLogic-Officeストアから Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 委任 | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 |  | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| Directory.Read.All | 委任 | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | 割り当てと資料のグループにディレクトリを記述します。 | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| Directory.ReadWrite.All | アプリケーション | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | 割り当てと資料のグループにディレクトリを記述します。 | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| EduRoster.Read.All | アプリケーション | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。 教育 API からデータベースへの時間ベースのイベントで同期します。 | 「Education Classes,School,Members and Terms.Get all classes and schools of a tenant for synchronization of app database. | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| EduRoster.ReadBasic | 委任 | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | 「Education Classes,School,Members and Terms.Get all classes and schools of a tenant for synchronization of app database. | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| EduRoster.ReadWrite.All | アプリケーション | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | 「Education Classes,School,Members and Terms.Get all classes and schools of a tenant for synchronization of app database. | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| Files.ReadWrite.All | 委任 | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | 1 つのドライブからの ReadWrite ファイル | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| Group.Read.All | 委任 | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | このアクセス許可により、アプリはテナントのグループに対して異なるクレンダー イベントを取得できます。subject、start、end、extensions | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| Group.ReadWrite.All | 両方とも | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | このアクセス許可により、アプリはテナントのグループに対して異なるクレンダー イベントを取得できます。subject、start、end、extensions | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| Member.Read.Hidden | アプリケーション |  |  | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| Sites.ReadWrite.All | 両方とも | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | 1 つのドライブからの ReadWrite ファイル | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| User.Read | 委任 | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | ユーザー情報の読み取り | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| User.ReadBasic.All | 委任 | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | ユーザー情報の読み取り | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 委任 | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 |  | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| Directory.Read.All | 委任 | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | 割り当てと資料のグループにディレクトリを記述します。 | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| Directory.ReadWrite.All | アプリケーション | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | 割り当てと資料のグループにディレクトリを記述します。 | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| EduRoster.Read.All | アプリケーション | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。 教育 API からデータベースへの時間ベースのイベントで同期します。 | 「Education Classes,School,Members and Terms.Get all classes and schools of a tenant for synchronization of app database. | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| EduRoster.ReadBasic | 委任 | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | 「Education Classes,School,Members and Terms.Get all classes and schools of a tenant for synchronization of app database. | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| EduRoster.ReadWrite.All | アプリケーション | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | 「Education Classes,School,Members and Terms.Get all classes and schools of a tenant for synchronization of app database. | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| Files.ReadWrite.All | 委任 | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | 1 つのドライブからの ReadWrite ファイル | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| Group.Read.All | 委任 | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | このアクセス許可により、アプリはテナントのグループに対して異なるクレンダー イベントを取得できます。subject、start、end、extensions | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| Group.ReadWrite.All | 両方とも | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | このアクセス許可により、アプリはテナントのグループに対して異なるクレンダー イベントを取得できます。subject、start、end、extensions | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| Member.Read.Hidden | アプリケーション |  |  | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| Sites.ReadWrite.All | 両方とも | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | 1 つのドライブからの ReadWrite ファイル | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| User.Read | 委任 | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | ユーザー情報の読み取り | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| User.ReadBasic.All | 委任 | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | ユーザー情報の読み取り | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -100,7 +100,7 @@ InLogic-Officeストアから Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

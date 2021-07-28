@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ボード Connect、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7c67ece1e55b265152c8a7664b8f714926d9caff
-ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
+ms.openlocfilehash: c04b8be94b4d9a6367c8baa2b3370d82c2bdff5c
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53456605"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525671"
 ---
 # <a name="board-connect"></a>Board Connect
 
@@ -56,13 +56,13 @@ Engage Squared から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 委任 | アプリがユーザーカレンダーを更新して、アプリを介して提出された会議出席応答を反映するように許可する。 | Azure テーブル ストレージ内にデータが格納されません | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| Group.ReadWrite.All | 委任 | アプリがグループ予定表イベントを作成、更新、削除を許可する。 | グループの ID をテナント ID と共に格納します。これは、組織が Board Connect のライセンスを受け取っているのを検証するために、ライセンスの観点から保存および使用されます。 また、これを使用して、テナント内のアプリケーションのインストール数を追跡します。これはライセンス モデルとインラインです。 | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| Sites.Manage.All | 委任 | アプリがリストとライブラリを作成するには、リスト アイテムを管理し、チーム サイト コレクションでドキュメントを管理します。 | なし | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| User.Read | 委任 | ユーザーがアプリにサインインし、アプリが現在サインインしているユーザーのプロファイルを読み取るのを許可する。 | このエンドポイントからのデータは Azure テーブル ストレージに格納されません | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| User.ReadBasic.All | 委任 | サインインしているユーザーの代わりに他のユーザーのプロファイル プロパティの基本的なセットをアプリで読み取り、これをアプリに表示できます。 これには、表示名、名と名、電子メール アドレス、写真が含まれます。 | なし、データは Azure テーブル ストレージに格納されません | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| offline_access | 委任 | アプリが更新トークンを取得するには、現在のトークンが期限切れになったときに新しいアクセス トークンを取得するために使用できます。 | なし、データは Azure テーブル ストレージ内に格納されません | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 委任 | アプリがユーザーカレンダーを更新して、アプリを介して提出された会議出席応答を反映するように許可する。 | Azure テーブル ストレージ内にデータが格納されません | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
+>| Group.ReadWrite.All | 委任 | アプリがグループ予定表イベントを作成、更新、削除を許可する。 | グループの ID をテナント ID と共に格納します。これは、組織が Board Connect のライセンスを受け取っているのを検証するために、ライセンスの観点から保存および使用されます。 また、これを使用して、テナント内のアプリケーションのインストール数を追跡します。これはライセンス モデルとインラインです。 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
+>| Sites.Manage.All | 委任 | アプリがリストとライブラリを作成するには、リスト アイテムを管理し、チーム サイト コレクションでドキュメントを管理します。 | なし | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
+>| User.Read | 委任 | ユーザーがアプリにサインインし、アプリが現在サインインしているユーザーのプロファイルを読み取るのを許可する。 | このエンドポイントからのデータは Azure テーブル ストレージに格納されません | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
+>| User.ReadBasic.All | 委任 | サインインしているユーザーの代わりに他のユーザーのプロファイル プロパティの基本的なセットをアプリで読み取り、これをアプリに表示できます。 これには、表示名、名と名、電子メール アドレス、写真が含まれます。 | なし、データは Azure テーブル ストレージに格納されません | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
+>| offline_access | 委任 | アプリが更新トークンを取得するには、現在のトークンが期限切れになったときに新しいアクセス トークンを取得するために使用できます。 | なし、データは Azure テーブル ストレージ内に格納されません | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -94,7 +94,7 @@ Engage Squared から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -123,17 +123,17 @@ Engage Squared から Microsoft に提供される情報:
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | いいえ |
+| アプリに機密クライアントがありますか? | なし |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/> |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
-| アプリで非推奨の API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | なし |
+| アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

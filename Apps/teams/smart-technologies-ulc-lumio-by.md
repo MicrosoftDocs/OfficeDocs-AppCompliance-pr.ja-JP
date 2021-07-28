@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Lumio by SMART で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 50cde4ecae9abf39b199b381bcf8e5da33b345e6
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7f97e53eb5b4c27aa8bf2be4c97760f8a536cd06
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283304"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53520990"
 ---
-# <a name="lumio-by-smart"></a>Lumio by SMART
+# <a name="lumio-by-smart"></a>SMART による Lumio
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ SMART Technologies ULC から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | Lumio by SMART |
+| アプリ名 | SMART による Lumio |
 | ID | WA200001874 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | SMART Technologies ULC |
@@ -56,9 +56,9 @@ SMART Technologies ULC から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | 委任 | データは、グループのアクセス許可を確認するために使用され、データは収集されません。  | データベースにディレクトリ データが格納されません | 14cf575a-fae2-48e2-af39-e3448d3a48bb |
->| Group.Read.All | 委任 | どのグループが適切か、これは、機能を決定するための学生または教師グループの一部である確認に使用されます。 収集されたデータはありません。  | 保存されているデータだけがクライアントの一意の ID です | 14cf575a-fae2-48e2-af39-e3448d3a48bb |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | 委任 | データは、グループのアクセス許可を確認するために使用され、データは収集されません。  | データベースにディレクトリ データが格納されません | [14cf575a-fae2-48e2-af39-e3448d3a48bb](https://docs.microsoft.com/microsoft-365-app-certification/azure/14cf575a-fae2-48e2-af39-e3448d3a48bb) |
+>| Group.Read.All | 委任 | どのグループが適切か、これは、機能を決定するための学生または教師グループの一部である確認に使用されます。 収集されたデータはありません。  | 保存されているデータだけがクライアントの一意の ID です | [14cf575a-fae2-48e2-af39-e3448d3a48bb](https://docs.microsoft.com/microsoft-365-app-certification/azure/14cf575a-fae2-48e2-af39-e3448d3a48bb) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -90,7 +90,7 @@ SMART Technologies ULC から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

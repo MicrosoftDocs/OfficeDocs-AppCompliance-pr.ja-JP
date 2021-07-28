@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MindMeister で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: bc3c15dabdcf5b01503d835f8cc45dccf8909539
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 75177ef60be80889a14c75fbb76bc1d4aaa9aa49
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282971"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525481"
 ---
 # <a name="mindmeister"></a>MindMeister
 
@@ -56,8 +56,8 @@ MeisterLabs GmbH から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委任 | AAD ID、テナント ID、メール、displayName - アプリケーション内の各ユーザーを識別し、MindMeister 特定のデータを Microsoft ユーザーとリンクできる (つまり、どのマップがユーザーに属しているか) | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインを有効にできます。 | d312ff80-0c2b-42ad-887b-c6392bcf6353 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委任 | AAD ID、テナント ID、メール、displayName - アプリケーション内の各ユーザーを識別し、MindMeister 特定のデータを Microsoft ユーザーとリンクできる (つまり、どのマップがユーザーに属しているか) | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインを有効にできます。 | [d312ff80-0c2b-42ad-887b-c6392bcf6353](https://docs.microsoft.com/microsoft-365-app-certification/azure/d312ff80-0c2b-42ad-887b-c6392bcf6353) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -71,7 +71,7 @@ MeisterLabs GmbH から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| MindMeister Teams既にリンクを持つユーザーを識別し、ボットがインストールされていることを通知します。 | チーム名簿のデータは保存しない |  |
 
 
@@ -91,7 +91,7 @@ MeisterLabs GmbH から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

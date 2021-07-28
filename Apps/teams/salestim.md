@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: SalesTim のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ada23e0899e67432b0718ec34f32c236e8768a18
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: b15cf2f87b6707b6fa82dfc3968444d7cad85e8a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283071"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53524760"
 ---
 # <a name="salestim"></a>SalesTim
 
@@ -54,14 +54,14 @@ SalesTim から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| AppCatalog.ReadWrite.All | 委任 | 動作しない | アプリが企業アプリ カタログに独自のパッケージをインストールして更新できます。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| Directory.AccessAsUser.All | 委任 | プロファイル データ&#8217;、一部のユーザーの ID のみを保存する必要があります。 | ユーザーは、ワークフロー内の承認者の選択など、アプリケーションのさまざまな場所で他のユーザーを選択できます。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| Group.ReadWrite.All | 委任 | グループ&#8217;チームの ID のみを保存する必要があります。&#8217;/チームのコンテンツは保存されません。 | サインインしているユーザーに代わって、アプリがグループを作成し、すべてのグループ プロパティとメンバーシップを読み取ることができます。 さらに、グループの所有者が自身のグループを管理できるよう、またグループ メンバーがグループのコンテンツを更新できるようにします。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| Mail.Send | 委任 | 通知&#8217;、受信者 (ID のみ)、要求 ID など、このアクションのメタデータを再格納する必要があります。 | アプリが承認ワークフロー中に、たとえば通知メールを送信できます。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| Sites.ReadWrite.All | 委任 | Azure サービスの一部を使用してデータを格納しています。特に Azure および DB 上の Redis Cosmosしています | チームのプロビジョニング プロセス中に、チームに関連付けられたドライブ (ファイルとフォルダー) を管理できます。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| User.Read.All | 委任 | プロファイル データ&#8217;、一部のユーザーの ID のみを保存する必要があります。 | アプリが、すべてのユーザーのプロファイル プロパティ、レポート、および管理者の完全なセットを読み取ることができます。 これは、現在のユーザー プロファイルに基づいてコンテンツをフィルター処理するために、特に対象ユーザーのターゲット設定プロセス中に使用されます。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| offlineaccess | 委任 | いいえ | アプリがユーザーとしていくつかのバックグラウンド操作とアクションを実行できます。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| AppCatalog.ReadWrite.All | 委任 | 動作しない | アプリが企業アプリ カタログに独自のパッケージをインストールして更新できます。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| Directory.AccessAsUser.All | 委任 | プロファイル データ&#8217;、一部のユーザーの ID のみを保存する必要があります。 | ユーザーは、ワークフロー内の承認者の選択など、アプリケーションのさまざまな場所で他のユーザーを選択できます。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| Group.ReadWrite.All | 委任 | グループ&#8217;チームの ID のみを保存する必要があります。&#8217;/チームのコンテンツは保存されません。 | サインインしているユーザーに代わって、アプリがグループを作成し、すべてのグループ プロパティとメンバーシップを読み取ることができます。 さらに、グループの所有者が自身のグループを管理できるよう、またグループ メンバーがグループのコンテンツを更新できるようにします。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| Mail.Send | 委任 | 通知&#8217;、受信者 (ID のみ)、要求 ID など、このアクションのメタデータを再格納する必要があります。 | アプリが承認ワークフロー中に、たとえば通知メールを送信できます。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| Sites.ReadWrite.All | 委任 | Azure サービスの一部を使用してデータを格納しています。特に Azure および DB 上の Redis Cosmosしています | チームのプロビジョニング プロセス中に、チームに関連付けられたドライブ (ファイルとフォルダー) を管理できます。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| User.Read.All | 委任 | プロファイル データ&#8217;、一部のユーザーの ID のみを保存する必要があります。 | アプリが、すべてのユーザーのプロファイル プロパティ、レポート、および管理者の完全なセットを読み取ることができます。 これは、現在のユーザー プロファイルに基づいてコンテンツをフィルター処理するために、特に対象ユーザーのターゲット設定プロセス中に使用されます。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| offlineaccess | 委任 | なし | アプリがユーザーとしていくつかのバックグラウンド操作とアクションを実行できます。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -69,7 +69,7 @@ SalesTim から Microsoft に提供される情報:
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| メイン サポート アプリケーションとして Intercom を使用しています。 Intercom には、次の説明に従って、いくつかの基本的なユーザー プロファイル情報が含まれている場合があります。 https://developers.salestim.com/platform/datamanagement.html#support-data |  | この API を使用GitHub、実稼働環境から自動的に問題を生成します。 また、いくつかの技術的なログを GitHubに格納します (以下で説明します https://developers.salestim.com/platform/datamanagement.html#error-reporting-data) )。 これらの問題とログには、いくつかの基本的なユーザー プロファイル情報が含まれている場合があります。 これらの問題とログは、15 日ごとに自動的に削除されます。 |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: monday.com、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1252ff537b354a1a8bc068e9c6ac6779c7af3fc4
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7d929b4d9c66aea657d2beb64fa77f31921f59ac
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281219"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525461"
 ---
 # <a name="mondaycom"></a>monday.com
 
@@ -62,7 +62,7 @@ Microsoft に提供される monday.com 情報:
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| monday.com は、サービスのパフォーマンスに次のサブプロセッサを使用します。&#160;https://monday.com/terms/subprocessors |  | monday.com API は使用しない。 サービスのパフォーマンスには、次の Microsoft フレームワークを使用します (上記の応答で詳細に説明します)。 &#8216;botbuilder&#8217; &#8216;botframework-connector&#8217; &#8216;@micorosft/teams-js&#8217; |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス

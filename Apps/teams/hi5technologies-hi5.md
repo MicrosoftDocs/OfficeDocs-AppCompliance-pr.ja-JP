@@ -2,24 +2,24 @@
 title: Hi5Technologies による Hi5 のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 07/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Hi5 で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 983f86210f224bc492f54a7ab65192dee5b4ad6c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 1356b3e31e309379e1943dc5ca59e10c72c23410
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552118"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525601"
 ---
 # <a name="hi5"></a>Hi5
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2020 年 11 月 3 日</p>
+<p>開発者が最終更新日: 2021 年 7 月 21 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/ca334a56-72b5-4613-81d4-77b1148df03c" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001610" target="_blank">AppSource での表示</a>
@@ -36,7 +36,8 @@ Hi5Technologies から Microsoft に提供される情報:
 | ID | WA200001610 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Hi5Technologies |
-| パートナー Web サイトの URL | [https://www.get5.io/](https://www.get5.io/) |
+| パートナー Web サイトの URL | [https://www.get5.io](https://www.get5.io) |
+| [アプリケーション情報Teamsページの URL | [https://help.get5.io](https://help.get5.io) |
 | プライバシー ポリシーの URL | [https://www.get5.io/privacy](https://www.get5.io/privacy) |
 | 利用規約の URL | [https://www.get5.io/terms](https://www.get5.io/terms) |
 
@@ -55,12 +56,12 @@ Hi5Technologies から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委任 | ユーザーのセッション情報は、Teamsからのみ保存され、ユーザーは通知を追加して承認する必要があります (いつでも削除できます)。 他の情報は保存されません。 | サーバーに対する SSO ログインと認証に必要 | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
->| メール | 委任 | ユーザーのセッション情報は、Teamsからのみ保存され、ユーザーは通知を追加して承認する必要があります (いつでも削除できます)。 他の情報は保存されません。 | サーバーに対する SSO ログインと認証に必要 | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
->| offline_access | 委任 | ユーザーのセッション情報は、Teamsからのみ保存され、ユーザーは通知を追加して承認する必要があります (いつでも削除できます)。 他の情報は保存されません。 | ユーザーが正しい情報を表示していることを維持し、同じ会社/ワークスペースに参加している他のユーザーに正しい情報を送信できます。 | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
->| openid | 委任 | ユーザーのセッション情報は、Teamsからのみ保存され、ユーザーは通知を追加して承認する必要があります (いつでも削除できます)。 他の情報は保存されません。 | サーバーに対する SSO ログインと認証に必要 | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
->| profile | 委任 | ユーザーのセッション情報は、Teamsからのみ保存され、ユーザーは通知を追加して承認する必要があります (いつでも削除できます)。 他の情報は保存されません。 | サーバーに対する SSO ログインと認証に必要 | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委任 | ユーザーのセッション情報は、Teamsからのみ保存され、ユーザーは通知を追加して承認する必要があります (いつでも削除できます)。 他の情報は保存されません。 | サーバーに対する SSO ログインと認証に必要 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
+>| メール | 委任 | ユーザーのセッション情報は、Teamsからのみ保存され、ユーザーは通知を追加して承認する必要があります (いつでも削除できます)。 他の情報は保存されません。 | サーバーに対する SSO ログインと認証に必要 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
+>| offline_access | 委任 | ユーザーのセッション情報は、Teamsからのみ保存され、ユーザーは通知を追加して承認する必要があります (いつでも削除できます)。 他の情報は保存されません。 | ユーザーが正しい情報を表示していることを維持し、同じ会社/ワークスペースに参加している他のユーザーに正しい情報を送信できます。 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
+>| openid | 委任 | ユーザーのセッション情報は、Teamsからのみ保存され、ユーザーは通知を追加して承認する必要があります (いつでも削除できます)。 他の情報は保存されません。 | サーバーに対する SSO ログインと認証に必要 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
+>| profile | 委任 | ユーザーのセッション情報は、Teamsからのみ保存され、ユーザーは通知を追加して承認する必要があります (いつでも削除できます)。 他の情報は保存されません。 | サーバーに対する SSO ログインと認証に必要 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -74,8 +75,8 @@ Hi5Technologies から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
->| チャネル内のユーザーに Hi5 が与えられたと通知するには | 情報は保存されません。ユーザーはチャネルに送り返されたカードによって @ になるだけ |  |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| チャネル内のユーザーに Hi5 が与えられたと通知するには | 情報は保存されません。ユーザーはチャネルに送り返されたカードによって @ になるだけ | 情報は保存されません。ユーザーはチャネルに送り返されたカードによって @ になるだけ |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -98,7 +99,7 @@ Hi5Technologies から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -116,3 +117,28 @@ Hi5Technologies から Microsoft に提供される情報:
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 情報
+
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について Hi5Technologies によって提供されています。
+
+| **Information** | **応答** |
+|:----------------|:-------------|
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
+| アプリはマルチテナントをサポートしていますか? | なし |
+| アプリに機密クライアントがありますか? | はい |
+| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリは Web API を公開していますか? | なし |
+| アプリでプレビュー API を使用していますか? | はい |
+| アプリで非推奨の API を使用していますか? | なし |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

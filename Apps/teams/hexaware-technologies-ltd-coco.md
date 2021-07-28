@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: COCO で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5b1c7194ed42779d966c4d7d4f519374bbb78bb1
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 8a25a95b277f41f30477182c9eec0b3b25b9351e
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281259"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525611"
 ---
 # <a name="coco"></a>COCO
 
@@ -54,14 +54,14 @@ Hexaware Technologies Ltd. から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.AccessAsUser.All | 委任 | なし | サインインしているユーザーとしてディレクトリにアクセスする | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| Directory.Read.All | アプリケーション | なし | ディレクトリ データの読み取り | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| Directory.ReadWrite.All | 委任 | なし | ディレクトリ データの読み取りおよび書き込み | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| User.Read | 委任 | なし | サインインおよびユーザー プロファイルの読み取り | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| User.Read.All | アプリケーション | なし | すべてのユーザーの完全なプロファイルの読み取り | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| User.ReadWrite.All | 委任 | なし | すべてのユーザーの完全なプロファイルの読み取りと書き込み | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| openid | 委任 | なし | ユーザーのサインイン | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.AccessAsUser.All | 委任 | なし | サインインしているユーザーとしてディレクトリにアクセスする | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| Directory.Read.All | アプリケーション | なし | ディレクトリ データの読み取り | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| Directory.ReadWrite.All | 委任 | なし | ディレクトリ データの読み取りおよび書き込み | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| User.Read | 委任 | なし | サインインおよびユーザー プロファイルの読み取り | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| User.Read.All | アプリケーション | なし | すべてのユーザーの完全なプロファイルの読み取り | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| User.ReadWrite.All | 委任 | なし | すべてのユーザーの完全なプロファイルの読み取りと書き込み | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
+>| openid | 委任 | なし | ユーザーのサインイン | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -75,7 +75,7 @@ Hexaware Technologies Ltd. から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| セッション データを維持するには | 名前、電子メール ID |  |
 
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Evocom、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1a3be83c266ee993ad377a2489a85248bdafab67
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d83f806bcca3b0012dbe062763ec8118281cb995
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281289"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525651"
 ---
 # <a name="evocom"></a>Evocom
 
@@ -56,9 +56,9 @@ Evocom Informationssysteme GmbH から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委任 | 名前、電子メール アドレス、画像、ID。 パフォーマンス | 名前、電子メール アドレス、画像、ID。 パフォーマンス | 3e745135-a761-48a7-ab54-5c0277b2e642 |
->| User.ReadBasic.All | 委任 | 名前、電子メール アドレス、画像、ID。 パフォーマンス | 名前、電子メール アドレス、画像、ID。 パフォーマンス | 3e745135-a761-48a7-ab54-5c0277b2e642 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委任 | 名前、電子メール アドレス、画像、ID。 パフォーマンス | 名前、電子メール アドレス、画像、ID。 パフォーマンス | [3e745135-a761-48a7-ab54-5c0277b2e642](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e745135-a761-48a7-ab54-5c0277b2e642) |
+>| User.ReadBasic.All | 委任 | 名前、電子メール アドレス、画像、ID。 パフォーマンス | 名前、電子メール アドレス、画像、ID。 パフォーマンス | [3e745135-a761-48a7-ab54-5c0277b2e642](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e745135-a761-48a7-ab54-5c0277b2e642) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -72,7 +72,7 @@ Evocom Informationssysteme GmbH から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 個人用設定。 個人用通知、電子メール メッセージ。 | 名前、電子メール アドレス、画像、ID | パフォーマンス。 |
 
 
@@ -92,7 +92,7 @@ Evocom Informationssysteme GmbH から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -126,11 +126,11 @@ Evocom Informationssysteme GmbH から Microsoft に提供される情報:
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | いいえ |
+| アプリに機密クライアントがありますか? | なし |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

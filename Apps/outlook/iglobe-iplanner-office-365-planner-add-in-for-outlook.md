@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Outlook 用 iPlanner Office 365 Planner アドイン、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 787fb3af3390ade636524222e733fc47df7ce162
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d83a6a47904835cb723c09ffc67bcf43117b3296
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282901"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527403"
 ---
 # <a name="iplanner-office-365-planner-add-in-for-outlook"></a>iPlanner Office 365 Planner アドインのOutlook
 
@@ -53,30 +53,30 @@ iGlobe から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | プランナー タスクを取得し、新しいタスクを追加するには、特定のユーザーのバケットとスイム ラインを更新します。 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| Contacts.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | タスクの期日にユーザーの予定表に予定を作成するには | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| Directory.AccessAsUser.All | 委任 | アプリケーション データベースにデータは格納されません。 | サインインしているユーザーと同じように、アプリでディレクトリ内の情報にアクセスできるようにします。 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| Files.Read | 委任 | アプリケーション データベースにデータは格納されません。 | 添付ファイルとしてファイルにアクセスし、ファイルをタスクにアップロードするには | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| Files.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 選択したメールからメールの件名を取得します。 アプリが選択したメールから情報を取得できるようにし、説明フィールドをタスクの説明にコピーし、メールまたはメール自体からタスクに添付ファイルを保存できます。 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| Group.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 |  プランナー タスクを取得し、新しいタスクを追加すると、特定のユーザーのバケットとスイム ラインが更新されます。 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | プランナー タスクを取得し、新しいタスクを追加するには、特定のユーザーのバケットとスイム ラインを更新します。 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| User.ReadBasic.All | 委任 | アプリケーション データベースにデータは格納されません。 |  アクセス許可を確認し、プランナー タスクを取得し、新しいタスクを追加すると、特定のユーザーのバケットとスイム ラインが更新されます。 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| profile | 委任 | アプリケーション データベースにデータは格納されません。 | プランナー タスクを取得し、新しいタスクを追加するには、特定のユーザーのバケットとスイム ラインを更新します。 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | プランナー タスクを取得し、新しいタスクを追加するには、特定のユーザーのバケットとスイム ラインを更新します。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Contacts.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | タスクの期日にユーザーの予定表に予定を作成するには | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Directory.AccessAsUser.All | 委任 | アプリケーション データベースにデータは格納されません。 | サインインしているユーザーと同じように、アプリでディレクトリ内の情報にアクセスできるようにします。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Files.Read | 委任 | アプリケーション データベースにデータは格納されません。 | 添付ファイルとしてファイルにアクセスし、ファイルをタスクにアップロードするには | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Files.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 選択したメールからメールの件名を取得します。 アプリが選択したメールから情報を取得できるようにし、説明フィールドをタスクの説明にコピーし、メールまたはメール自体からタスクに添付ファイルを保存できます。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Group.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 |  プランナー タスクを取得し、新しいタスクを追加すると、特定のユーザーのバケットとスイム ラインが更新されます。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | プランナー タスクを取得し、新しいタスクを追加するには、特定のユーザーのバケットとスイム ラインを更新します。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| User.ReadBasic.All | 委任 | アプリケーション データベースにデータは格納されません。 |  アクセス許可を確認し、プランナー タスクを取得し、新しいタスクを追加すると、特定のユーザーのバケットとスイム ラインが更新されます。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| profile | 委任 | アプリケーション データベースにデータは格納されません。 | プランナー タスクを取得し、新しいタスクを追加するには、特定のユーザーのバケットとスイム ラインを更新します。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
 アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| Exchange - EWS。AccessAsUser.All | いいえ |  |  |  |  |
->| Exchange - Mail.Read.All | いいえ |  |  |  |  |
->| SharePoint - AllSites.Manage | いいえ |  |  |  |  |
->| SharePoint - AllSites.Read | いいえ |  |  |  |  |
->| SharePoint - AllSites.Write | いいえ |  |  |  |  |
->| SharePoint - MyFiles.Read | いいえ |  |  |  |  |
->| SharePoint - MyFiles.Write | いいえ |  |  |  |  |
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
+>| Exchange - EWS。AccessAsUser.All | なし |  |  |  |  |
+>| Exchange - Mail.Read.All | なし |  |  |  |  |
+>| SharePoint - AllSites.Manage | なし |  |  |  |  |
+>| SharePoint - AllSites.Read | なし |  |  |  |  |
+>| SharePoint - AllSites.Write | なし |  |  |  |  |
+>| SharePoint - MyFiles.Read | なし |  |  |  |  |
+>| SharePoint - MyFiles.Write | なし |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -104,7 +104,7 @@ iGlobe から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -132,7 +132,7 @@ iGlobe から Microsoft に提供される情報:
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | なし |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | セキュリティの既定値と、従来の認証をブロックする* [管理者に MFA を要求する] * [Azure 管理に MFA を要求する] * [すべてのユーザーに MFA を要求する] などの一般的なポリシー。 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
@@ -140,8 +140,8 @@ iGlobe から Microsoft に提供される情報:
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリは Web API を公開していますか? | なし |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

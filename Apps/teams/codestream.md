@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CodeStream、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9d47c0ffe0f8f23cf09b175fce24a8dcccfa87dd
-ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
+ms.openlocfilehash: 4875193923e2e34cf8e46d85437325128716bd47
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53459565"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525761"
 ---
 # <a name="codestream"></a>CodeStream
 
@@ -62,7 +62,7 @@ CodeStream から Microsoft に提供される情報:
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| sendgrid.com、segment.io、mixpanel.com、intercom.com、hubspot.com | 電子メール アドレス | 分析、CRM、アプリケーションサポート |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
@@ -114,7 +114,7 @@ CodeStream から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: LawToolBox、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2e97d65822a5baeb0cd78101660084e4142e98ea
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 9023d2321d5c6a6a62c8480538cc5bf8315b2fc9
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553008"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525521"
 ---
 # <a name="lawtoolbox"></a>LawToolBox
 
@@ -56,29 +56,29 @@ LawToolBox.com Inc. から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | 委任 |  | [省略可能]ユーザーの予定表を読み取ります。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Calendars.ReadWrite | 委任 |  | ユーザーの予定表への予定表の招待を作成するには。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Calendars.ReadWrite.Shared | 委任 |  | 共有予定表への予定表の招待を作成するには。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Contacts.ReadWrite | 委任 |  | [省略可能] - ユーザーの連絡先を読み取り、連絡先リストからグループにユーザーを接続します。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Contacts.ReadWrite.Shared | 委任 |  | [省略可能] - ユーザーの共有連絡先を読み取り、ケースに関連する連絡先の一覧を提供します。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Directory.AccessAsUser.All | 委任 |  | [省略可能]グループとユーザーの情報をユーザーとして読み取る。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Directory.ReadWrite.All | 委任 |  | [省略可能]グループとユーザーの情報をユーザーとして読み取る。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Files.Read | 委任 |  | [省略可能]ユーザーのページを読OneDrive。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Files.Read.All | 委任 |  | [Optional]-Read ユーザーのOneDrive。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Files.ReadWrite | 委任 |  | [Optional]-ユーザーのファイルを読み取り、変更OneDrive。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Files.ReadWrite.All | 委任 |  | [省略可能]Matter に関連付けられたユーザーのOneDriveファイルを読み取り/書き込み。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Group.ReadWrite.All | 委任 | GroupID、GroupName、GroupEmail | システムで作成された各問題に対してグループを作成します。 これにより、ユーザーは重要な情報をグループに保存し、データを自分のテナントに保存します。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Mail.Read | 委任 |  | [省略可能][InProgress]重要事項に関するユーザーのメールを読む。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Mail.ReadWrite | 委任 |  | [省略可能][InProgress]ユーザーの電子メールの読み取り/書き込み。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Mail.ReadWrite.Shared | 委任 |  | [省略可能][InProgress]ユーザーの電子メールの読み取り/書き込み。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Mail.Send | 委任 |  | [省略可能][InProgress]メールの期限をユーザーとして送信します。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Tasks.ReadWrite.Shared | 委任 |  | [省略可能]-[InProgress] ユーザーのタスクとして書き込み期限を読み取る。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| User.Read | 委任 |  | ユーザーの情報を読み取る。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| User.ReadWrite | 委任 |  | ユーザーの情報の読み取り/書き込み。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| User.ReadWrite.All | 委任 |  | ユーザーの情報の読み取り/書き込み。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| メール | 委任 | メール、Office365 UserID、ObjectID、TenantID。 | ユーザーのメール アドレスを読み取る。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| profile | 委任 |  | ユーザー プロファイル情報の読み取り。 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | 委任 |  | [省略可能]ユーザーの予定表を読み取ります。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Calendars.ReadWrite | 委任 |  | ユーザーの予定表への予定表の招待を作成するには。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Calendars.ReadWrite.Shared | 委任 |  | 共有予定表への予定表の招待を作成するには。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Contacts.ReadWrite | 委任 |  | [省略可能] - ユーザーの連絡先を読み取り、連絡先リストからグループにユーザーを接続します。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Contacts.ReadWrite.Shared | 委任 |  | [省略可能] - ユーザーの共有連絡先を読み取り、ケースに関連する連絡先の一覧を提供します。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Directory.AccessAsUser.All | 委任 |  | [省略可能]グループとユーザーの情報をユーザーとして読み取る。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Directory.ReadWrite.All | 委任 |  | [省略可能]グループとユーザーの情報をユーザーとして読み取る。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.Read | 委任 |  | [省略可能]ユーザーのページを読OneDrive。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.Read.All | 委任 |  | [Optional]-Read ユーザーのOneDrive。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.ReadWrite | 委任 |  | [Optional]-ユーザーのファイルを読み取り、変更OneDrive。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.ReadWrite.All | 委任 |  | [省略可能]Matter に関連付けられたユーザーのOneDriveファイルを読み取り/書き込み。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Group.ReadWrite.All | 委任 | GroupID、GroupName、GroupEmail | システムで作成された各問題に対してグループを作成します。 これにより、ユーザーは重要な情報をグループに保存し、データを自分のテナントに保存します。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.Read | 委任 |  | [省略可能][InProgress]重要事項に関するユーザーのメールを読む。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.ReadWrite | 委任 |  | [省略可能][InProgress]ユーザーの電子メールの読み取り/書き込み。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.ReadWrite.Shared | 委任 |  | [省略可能][InProgress]ユーザーの電子メールの読み取り/書き込み。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.Send | 委任 |  | [省略可能][InProgress]メールの期限をユーザーとして送信します。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Tasks.ReadWrite.Shared | 委任 |  | [省略可能]-[InProgress] ユーザーのタスクとして書き込み期限を読み取る。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.Read | 委任 |  | ユーザーの情報を読み取る。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.ReadWrite | 委任 |  | ユーザーの情報の読み取り/書き込み。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.ReadWrite.All | 委任 |  | ユーザーの情報の読み取り/書き込み。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| メール | 委任 | メール、Office365 UserID、ObjectID、TenantID。 | ユーザーのメール アドレスを読み取る。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| profile | 委任 |  | ユーザー プロファイル情報の読み取り。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -92,7 +92,7 @@ LawToolBox.com Inc. から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| チームに新しく追加されたユーザーを特定し、潜在顧客を確認するには | メール、UserId |  |
 
 

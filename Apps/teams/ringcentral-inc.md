@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: RingCentral で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2035f615146f8809d6113192d796d2760d87f50e
-ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
+ms.openlocfilehash: bb0787720195363368e3d822e45f173acee67870
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987874"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525401"
 ---
 # <a name="ringcentral"></a>RingCentral
 
@@ -56,11 +56,11 @@ RingCentral, Inc. から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 委任 |  アプリケーションが予定表を介して会議出席依頼イベントを送信できます | なし |  0dd4bfdf-dc86-4f05-9991-a14bc0144ebf |
->| offline_access | 委任 |  アプリケーションが oauth トークンを取得および更新できます |  アクセス トークン、MS Graph API にアクセスGraphトークン |  0dd4bfdf-dc86-4f05-9991-a14bc0144ebf |
->| User.Read | 委任 |  連絡先の一致を行&#8217;、アプリがユーザープロファイル (電子メール、名前) を読み取るのを許可します。 ユーザーがサインインし、O365 アカウントを RingCentral アカウントにリンクできます。 |  メール、名、名 | 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf |
->| User.Read.All | 委任 | アプリケーションは、サービスで電話をかかするために、電話番号を使用してユーザーの完全なプロファイルを読み取るを許可します。 | なし | 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 委任 |  アプリケーションが予定表を介して会議出席依頼イベントを送信できます | なし | [ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
+>| offline_access | 委任 |  アプリケーションが oauth トークンを取得および更新できます |  アクセス トークン、MS Graph API にアクセスGraphトークン | [ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
+>| User.Read | 委任 |  連絡先の一致を行&#8217;、アプリがユーザープロファイル (電子メール、名前) を読み取るのを許可します。 ユーザーがサインインし、O365 アカウントを RingCentral アカウントにリンクできます。 |  メール、名、名 | [0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
+>| User.Read.All | 委任 | アプリケーションは、サービスで電話をかかするために、電話番号を使用してユーザーの完全なプロファイルを読み取るを許可します。 | なし | [0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -92,7 +92,7 @@ RingCentral, Inc. から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

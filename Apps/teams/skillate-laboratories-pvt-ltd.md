@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e92d7e997ba94746820fde5daccb028fc246e255
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: c64088a0debbb7766a57631841c489a8d8ea1826
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281049"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53524710"
 ---
 # <a name="skillate"></a>Skillate
 
@@ -56,9 +56,9 @@ Skillate Laboratories Pvt によって提供される情報。 Ltd. to Microsoft
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| メール | 委任 | データは、Skillate でエンド ユーザーを承認するために収集されます。 | メール アドレスは、Skillate アプリにユーザーのアカウントを作成する場合にのみ保存されます。 | ed4df345-c860-4ffe-b614-0460d9106f0f |
->| openid | 委任 | API を使用して MICROSOFT でユーザーを SSO を使用して Skillate にログを記録する | エンド ユーザーの名と名のみを格納しています | ed4df345-c860-4ffe-b614-0460d9106f0f |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| メール | 委任 | データは、Skillate でエンド ユーザーを承認するために収集されます。 | メール アドレスは、Skillate アプリにユーザーのアカウントを作成する場合にのみ保存されます。 | [ed4df345-c860-4ffe-b614-0460d9106f0f](https://docs.microsoft.com/microsoft-365-app-certification/azure/ed4df345-c860-4ffe-b614-0460d9106f0f) |
+>| openid | 委任 | API を使用して MICROSOFT でユーザーを SSO を使用して Skillate にログを記録する | エンド ユーザーの名と名のみを格納しています | [ed4df345-c860-4ffe-b614-0460d9106f0f](https://docs.microsoft.com/microsoft-365-app-certification/azure/ed4df345-c860-4ffe-b614-0460d9106f0f) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -72,7 +72,7 @@ Skillate Laboratories Pvt によって提供される情報。 Ltd. to Microsoft
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| メール アドレスは、ユーザーがメッセージング拡張機能を使用する権限を与えた場合にのみ使用しています | アカウントの作成中に、メール、名、名を保存します。 ただし、アプリの使用中に、ユーザーは顧客の入力に基づいて変数を追加できます | アカウントの承認と作成を行うエンドユーザーの電子メール、名、および名のみを保存しています。  |
 
 
@@ -92,7 +92,7 @@ Skillate Laboratories Pvt によって提供される情報。 Ltd. to Microsoft
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -121,15 +121,15 @@ Skillate Laboratories Pvt によって提供される情報。 Ltd. to Microsoft
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | いいえ |
+| アプリに機密クライアントがありますか? | なし |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
-| アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリは Web API を公開していますか? | なし |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: DisasterTech DICE で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c9aceaf48c36012ad8c6eb062c1161746d55da6a
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d8eec2ad9c7047a33dae446943c3ab2d934cc78c
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281922"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525711"
 ---
 # <a name="disastertech-dice"></a>DisasterTech DICE
 
@@ -55,12 +55,12 @@ DisasterTech から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委任 | アクセス権を確立するために保存されたユーザーの電子メール アドレスと、名前でユーザーを識別するユーザー名 | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインと Teams ログインを有効にして、ユーザー名と電子メール アドレスを確立できます。 | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| メール | 委任 | なし | 単一のTeamsにSign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| offline_access | 委任 | なし | 単一のTeamsにSign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| openid | 委任 | なし | 単一のTeamsにSign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| profile | 委任 | なし | シングル サインオンTeamsに必要です。 | 36d23b76-c58b-4a34-a60f-dceac6962bad |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委任 | アクセス権を確立するために保存されたユーザーの電子メール アドレスと、名前でユーザーを識別するユーザー名 | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインと Teams ログインを有効にして、ユーザー名と電子メール アドレスを確立できます。 | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| メール | 委任 | なし | 単一のTeamsにSign-On | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| offline_access | 委任 | なし | 単一のTeamsにSign-On | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| openid | 委任 | なし | 単一のTeamsにSign-On | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| profile | 委任 | なし | シングル サインオンTeamsに必要です。 | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス

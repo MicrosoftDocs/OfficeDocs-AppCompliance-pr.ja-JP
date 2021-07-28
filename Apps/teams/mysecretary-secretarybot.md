@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SecretaryBot、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: bff3e6ebffc94861dc4112375ac943124b4fe386
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 8d7e2fce37cf43fe52cb050e85aa9e4fd5e00802
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551887"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525451"
 ---
 # <a name="secretarybot"></a>SecretaryBot
 
@@ -56,15 +56,15 @@ MySecretary が Microsoft に提供する情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read.Shared | 委任 |  | ユーザーとその同僚の空き時間情報を取得します。 |  |
->| Calendars.ReadWrite | 委任 |  | ユーザーではなく会議出席依頼を送信します。 |  |
->| MailboxSettings.Read | 委任 | 正しい言語を表示する言語を保存します。 MS カレンダー API を正しく呼び出Graphタイム ゾーンを節約する | ユーザーの言語とタイムゾーンの設定を取得します。 |  |
->| People.Read | 委任 |  | ユーザーと強い関係を持つ同僚を探してみてください。 |  |
->| User.Read | 委任 | ユーザー分析用のユーザー名、都市、国、および言語を保存します。 顧客に連絡するメールを保存します。 メール アドレスは一度も使用したことが、サポートに使用される場合があります。 | ユーザーの国と優先言語を検索してみてください。 MailboxSettings.Read のバックアップに使用されます。 |  |
->| メール | 委任 | 上記を参照してください。 | メールを保存する場合。 |  |
->| openid | 委任 |  | OpenID 認証の場合。 |  |
->| profile | 委任 | OID を保存して、MS ID システムでユーザーの一意の ID を識別します。 | ユーザー名と OID を取得します。 将来、OID を使用して addin Outlook接続してみてください。 |  |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read.Shared | 委任 |  | ユーザーとその同僚の空き時間情報を取得します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Calendars.ReadWrite | 委任 |  | ユーザーではなく会議出席依頼を送信します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| MailboxSettings.Read | 委任 | 正しい言語を表示する言語を保存します。 MS カレンダー API を正しく呼び出Graphタイム ゾーンを節約する | ユーザーの言語とタイムゾーンの設定を取得します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| People.Read | 委任 |  | ユーザーと強い関係を持つ同僚を探してみてください。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | 委任 | ユーザー分析用のユーザー名、都市、国、および言語を保存します。 顧客に連絡するメールを保存します。 メール アドレスは一度も使用したことが、サポートに使用される場合があります。 | ユーザーの国と優先言語を検索してみてください。 MailboxSettings.Read のバックアップに使用されます。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| メール | 委任 | 上記を参照してください。 | メールを保存する場合。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| openid | 委任 |  | OpenID 認証の場合。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| profile | 委任 | OID を保存して、MS ID システムでユーザーの一意の ID を識別します。 | ユーザー名と OID を取得します。 将来、OID を使用して addin Outlook接続してみてください。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -78,8 +78,8 @@ MySecretary が Microsoft に提供する情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
->| チーム会議のスケジュールを設定するには、この追加機能を使用します。 | いいえ |  |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| チーム会議のスケジュールを設定するには、この追加機能を使用します。 | なし |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ

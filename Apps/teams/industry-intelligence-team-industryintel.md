@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: IndustryIntel で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a213e68c58f2f3aea6f9bc1e6c8568fcbdefc141
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 71102c3a8720b8aa7c6d8cf3b9e329328e532d7d
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281249"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525581"
 ---
 # <a name="industryintel"></a>IndustryIntel
 
@@ -68,7 +68,7 @@ ms.locfileid: "53281249"
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| ユーザーが業界インテリジェンス ネットワークにアクセスできるかどうかを検証します。 ユーザーが正常に検証された場合、ユーザーはボットとメッセージング拡張機能の完全な機能を使用できます。 | Id w/ Industry Intelligence/internal user id をマッピングするチーム メンバー ID のみを格納しました。 |  |
 
 
@@ -76,7 +76,7 @@ ms.locfileid: "53281249"
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->その必要はありません。 ユーザーと SO ユーザー Teamsのマッピングは、SO Teams製品でTeamsされます。 MS Teams識別可能な ID を送信し、ユーザーをマップするために内部的に保存します。 さらに、MS Teamsボット要求用の JWT (要求偽造を防止) を送信し、タブ要求は SO Cookie を使用して検証します。
+>いいえ。 ユーザーと SO ユーザー Teamsのマッピングは、SO Teams製品でTeamsされます。 MS Teams識別可能な ID を送信し、ユーザーをマップするために内部的に保存します。 さらに、MS Teamsボット要求用の JWT (要求偽造を防止) を送信し、タブ要求は SO Cookie を使用して検証します。
 
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
@@ -89,7 +89,7 @@ ms.locfileid: "53281249"
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

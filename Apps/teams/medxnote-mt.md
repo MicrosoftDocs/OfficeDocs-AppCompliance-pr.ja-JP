@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Medxnote MT で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ee4a304ac2844bff1fcec309fe0c96edba04208f
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 5eff51e5045f299ad8fe9e8335b3c5dac41af919
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282981"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525491"
 ---
 # <a name="medxnote-mt"></a>Medxnote MT
 
@@ -55,9 +55,9 @@ Medxnote が Microsoft に提供する情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read.All | アプリケーション | 私たちは、ユーザーの特権をチェックするために病院側で使用される名前と電子メールをキャッシュしています | メッセージを送信するときに、名前と電子メール アドレスが追加された場合、サーバー側のデータをキャッシュしています。病院側でのオプションの特権チェックにも使用されます。 | fc70bbbe-91c4-4d8f-a9c9-a022068d5752 |
->| openid | 委任 | Task モジュールでユーザーにサインインするために使用されるセッション ID、ユーザー ID、ベアラー トークン、および電子メールをキャッシュしています | タスク モジュールでユーザーにサインインするためにそれを使用して、セッション ID、userid、電子メール、ベアラー トークンを保存しています | fc70bbbe-91c4-4d8f-a9c9-a022068d5752 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read.All | アプリケーション | 私たちは、ユーザーの特権をチェックするために病院側で使用される名前と電子メールをキャッシュしています | メッセージを送信するときに、名前と電子メール アドレスが追加された場合、サーバー側のデータをキャッシュしています。病院側でのオプションの特権チェックにも使用されます。 | [fc70bbbe-91c4-4d8f-a9c9-a022068d5752](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc70bbbe-91c4-4d8f-a9c9-a022068d5752) |
+>| openid | 委任 | Task モジュールでユーザーにサインインするために使用されるセッション ID、ユーザー ID、ベアラー トークン、および電子メールをキャッシュしています | タスク モジュールでユーザーにサインインするためにそれを使用して、セッション ID、userid、電子メール、ベアラー トークンを保存しています | [fc70bbbe-91c4-4d8f-a9c9-a022068d5752](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc70bbbe-91c4-4d8f-a9c9-a022068d5752) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス

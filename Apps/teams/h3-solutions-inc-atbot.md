@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: AtBot で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3f56d0b3eb19f5bed8f7092507c8605af936b911
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 94cc732dc5f6cf6416fd1b386271b3694d6f3698
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552138"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525621"
 ---
 # <a name="atbot"></a>AtBot
 
@@ -56,15 +56,15 @@ H3 Solutions, Inc. から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | アプリケーション | AAD グループ名、AAD グループ GUID、UPN | ボット スキルのセキュリティ トリミングを許可する AAD グループを列挙します。 ライセンスを適用できるユーザーを列挙します。 管理者/共同作成者として追加するユーザーを列挙する | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| Directory.Read.All | 委任 | AAD グループ名、AAD グループ GUID、UPN | ボット スキルのセキュリティ トリミングを許可する AAD グループを列挙します。 ライセンスを適用できるユーザーを列挙します。 管理者/共同作成者として追加するユーザーを列挙する | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| People.Read | 委任 | いいえ | [ユーザーの取得] アクションのユーザーをユーザーから列挙Flow。  ボットが Microsoft サーバーの /People エンドポイントからユーザーを取得Graph。 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| User.Read | 委任 | テナント ID、UPN | テナント ID と UPN&#8217;にアクセスして、作成したフロー/ロジック アプリを作成したユーザーに結び付けることができます。 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| メール | 委任 | いいえ | ユーザーのメール アドレスにアクセスできます。 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| offline_access | 委任 | アクセス/更新トークン。 | 更新トークンを使用して、ユーザーのログインを維持できます。 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| openid | 委任 | いいえ | ユーザーがログインできます。 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| profile | 委任 | UPN | ユーザーの UPN へのアクセス。 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | アプリケーション | AAD グループ名、AAD グループ GUID、UPN | ボット スキルのセキュリティ トリミングを許可する AAD グループを列挙します。 ライセンスを適用できるユーザーを列挙します。 管理者/共同作成者として追加するユーザーを列挙する | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| Directory.Read.All | 委任 | AAD グループ名、AAD グループ GUID、UPN | ボット スキルのセキュリティ トリミングを許可する AAD グループを列挙します。 ライセンスを適用できるユーザーを列挙します。 管理者/共同作成者として追加するユーザーを列挙する | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| People.Read | 委任 | なし | [ユーザーの取得] アクションのユーザーをユーザーから列挙Flow。  ボットが Microsoft サーバーの /People エンドポイントからユーザーを取得Graph。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| User.Read | 委任 | テナント ID、UPN | テナント ID と UPN&#8217;にアクセスして、作成したフロー/ロジック アプリを作成したユーザーに結び付けることができます。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| メール | 委任 | なし | ユーザーのメール アドレスにアクセスできます。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| offline_access | 委任 | アクセス/更新トークン。 | 更新トークンを使用して、ユーザーのログインを維持できます。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| openid | 委任 | なし | ユーザーがログインできます。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| profile | 委任 | UPN | ユーザーの UPN へのアクセス。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -78,15 +78,15 @@ H3 Solutions, Inc. から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
->| ボットによって生成されたチャット メッセージでのメンションの作成 | いいえ |  |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| ボットによって生成されたチャット メッセージでのメンションの作成 | なし |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->テナント ID、UPN Application Insights を使用し、ログは自動的にアーカイブされる前に 90 日間続きます。 (https://docs.microsoft.com/azure/azure-monitor/app/data-retention-privacy)
+>テナント ID、UPN アプリケーション インサイト使用し、ログは自動的にアーカイブされる前に 90 日間続きます。 (https://docs.microsoft.com/azure/azure-monitor/app/data-retention-privacy)
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
