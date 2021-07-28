@@ -2,24 +2,24 @@
 title: Berrycast by Technologies Openmind Inc, Les のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/23/2021
+ms.date: 04/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Berrycast、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 714db08e839b60403a567b2cab1af888c4cb7b6f
-ms.sourcegitcommit: c545fba57f8ca821caf6ef55f5b4b068b5f35984
+ms.openlocfilehash: 67b58bf2246c109bd58bbe15e9cf1c281e3ad51f
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2021
-ms.locfileid: "53578233"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528133"
 ---
 # <a name="berrycast"></a>Berrycast
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 7 月 23 日</p>
+<p>開発者による最終更新日: 2021 年 4 月 20 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/c7cde650-1e32-11eb-af14-639b3a7d6491" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002798" target="_blank">AppSource での表示</a>

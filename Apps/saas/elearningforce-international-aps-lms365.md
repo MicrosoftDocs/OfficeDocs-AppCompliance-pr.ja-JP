@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: LMS365 で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2fa9fb2637b40b439bc6450514e194e222415ec0
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: dbae54f25aa4b1a22917bc79c53724fd398b6ed2
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282835"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526001"
 ---
 # <a name="lms365"></a>LMS365
 
@@ -52,23 +52,23 @@ ELEARNINGFORCE International Aps から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| GroupMember.Read.All | アプリケーション | なし | ユーザーのグループをコースAD登録するために必要なグループ メンバーをアプリで展開できます。 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| Mail.Send | 委任 | なし | 通知用の電子メール アカウントの構成中に、アクセス許可が動的に要求されます。 アプリが通知メールを送信できます | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| RoleManagement.Read.Directory | アプリケーション | なし | テナントのプロビジョニング中にアプリSharePointドメインを取得できます。 ドメインは URL の構築に使用されます。 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| User.Invite.All | 委任 | なし | アプリが現在ログインしているユーザーに代わって外部ユーザーを招待できます | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| User.Read | 委任 | なし | サインインおよびユーザー プロファイルの読み取り。 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| User.Read.All | 委任 | なし | アプリが現在ログインしているユーザーの完全なプロファイルを読み取るを許可します。 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| User.Read.All | アプリケーション | アプリが完全なユーザー プロファイルを読み取るを許可します。 階層&#8217;作成するには、管理者のユーザー&#8217;読み取る必要があります。 | 次の個人データは、アプリケーション内の Learner Management Manager ダッシュボード機能に使用される各顧客の専用データベース &amp; に格納されます。 アカウント名、ユーザー表示名、メール アドレス、部署、役職、Office、国、市、マネージャー ID/メール | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| profile | 委任 | なし | ユーザーの基本的なプロファイルを表示します。 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| GroupMember.Read.All | アプリケーション | なし | ユーザーのグループをコースAD登録するために必要なグループ メンバーをアプリで展開できます。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| Mail.Send | 委任 | なし | 通知用の電子メール アカウントの構成中に、アクセス許可が動的に要求されます。 アプリが通知メールを送信できます | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| RoleManagement.Read.Directory | アプリケーション | なし | テナントのプロビジョニング中にアプリSharePointドメインを取得できます。 ドメインは URL の構築に使用されます。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| User.Invite.All | 委任 | なし | アプリが現在ログインしているユーザーに代わって外部ユーザーを招待できます | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| User.Read | 委任 | なし | サインインおよびユーザー プロファイルの読み取り。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| User.Read.All | 委任 | なし | アプリが現在ログインしているユーザーの完全なプロファイルを読み取るを許可します。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| User.Read.All | アプリケーション | アプリが完全なユーザー プロファイルを読み取るを許可します。 階層&#8217;作成するには、管理者のユーザー&#8217;読み取る必要があります。 | 次の個人データは、アプリケーション内の Learner Management Manager ダッシュボード機能に使用される各顧客の専用データベース &amp; に格納されます。 アカウント名、ユーザー表示名、メール アドレス、部署、役職、Office、国、市、マネージャー ID/メール | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| profile | 委任 | なし | ユーザーの基本的なプロファイルを表示します。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
 アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| SharePoint | いいえ |  |  |  |  |
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
+>| SharePoint | なし |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -94,7 +94,7 @@ ELEARNINGFORCE International Aps から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -128,11 +128,11 @@ ELEARNINGFORCE International Aps から Microsoft に提供される情報:
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | いいえ |
+| アプリに機密クライアントがありますか? | なし |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

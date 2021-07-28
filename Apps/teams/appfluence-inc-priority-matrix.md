@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Priority Matrix、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 93b64ae01c745f370af36bd6cb8a73787d39867a
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: e88ba3c98c9ab444f2500ed09013071a6b5ab2c3
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281439"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525901"
 ---
 # <a name="priority-matrix"></a>Priority Matrix
 
@@ -55,16 +55,16 @@ Appfluence Inc から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | 委任 | 新しいユーザーがアカウントに追加された場合にのみ、メールを保存します。 | 新しいアカウントの作成では、これを使用して他のチーム メンバーを提案します。 | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| User.ReadBasic.All | 委任 | 新しいユーザーがアカウントに追加された場合にのみ、メールを保存します。 | 新しいアカウントの作成では、これを使用して他のチーム メンバーを提案します。 | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| offline_access | 委任 | ユーザーに代わって要求を実行するためにログイン トークンを保存します | ユーザーに迷惑をかけることなくトークンを更新します。 (優先行列のTeams) | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| Files.Read.All | 委任 | ユーザーが元のファイルにリンクする Priority Matrix アイテムを明示的に作成しない限り、ファイル情報は保存しない。 | 1 対 1 の機能 (Web アプリと Outlook/Teams アドインで利用できます)では、この機能を使用して、会議と全体的な共同作業を促進する方法として、システム内の 2 人のユーザー間で共有される SharePoint/OneDrive ファイルを強調表示します。 | affadfb6-f17b-428f-97f9-9aae3b6175bc |
->| User.Read | 委任 | 基本的なユーザー プロファイル情報 (表示名、名、名、電子メール、アバター) は、私たちによって保存されます。 | ユーザーの名前、メール、アバターを取得して、アカウントをカスタマイズします。 | affadfb6-f17b-428f-97f9-9aae3b6175bc |
->| openid | 委任 | SSO 接続を保存して、ユーザーのログイン モードを示します。 | シングル サインオンを使用してユーザーにサインインする場合。 | affadfb6-f17b-428f-97f9-9aae3b6175bc |
->| Calendars.Read | 委任 | カレンダー イベントの数が少ない場合は、システムに格納されているタスクに変換されます。 | 予定表イベントを読み取り、1:1 ビューに表示できます。 また、新しいアカウントを初期化します。  | d76f016f-52c7-41b5-835b-900361d7040c |
->| Mail.Read | 委任 | システムで作成されたタスクを、元のメッセージへのリンクと一緒に保存します。 | メールをタスクOutlook、共有作業を 1:1 ビューで表示するために、このアドインで使用されます。 | d76f016f-52c7-41b5-835b-900361d7040c |
->| Tasks.Read | 委任 | 一部Outlook/Planner タスクは、新しいユーザーを支援するためにシステムにレプリケートされます。 | 新しいユーザー アカウントは、ユーザーのタスクGraphブートストラップします。 | d76f016f-52c7-41b5-835b-900361d7040c |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | 委任 | 新しいユーザーがアカウントに追加された場合にのみ、メールを保存します。 | 新しいアカウントの作成では、これを使用して他のチーム メンバーを提案します。 | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
+>| User.ReadBasic.All | 委任 | 新しいユーザーがアカウントに追加された場合にのみ、メールを保存します。 | 新しいアカウントの作成では、これを使用して他のチーム メンバーを提案します。 | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
+>| offline_access | 委任 | ユーザーに代わって要求を実行するためにログイン トークンを保存します | ユーザーに迷惑をかけることなくトークンを更新します。 (優先行列のTeams) | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
+>| Files.Read.All | 委任 | ユーザーが元のファイルにリンクする Priority Matrix アイテムを明示的に作成しない限り、ファイル情報は保存しない。 | 1 対 1 の機能 (Web アプリと Outlook/Teams アドインで利用できます)では、この機能を使用して、会議と全体的な共同作業を促進する方法として、システム内の 2 人のユーザー間で共有される SharePoint/OneDrive ファイルを強調表示します。 | [affadfb6-f17b-428f-97f9-9aae3b6175bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc) |
+>| User.Read | 委任 | 基本的なユーザー プロファイル情報 (表示名、名、名、電子メール、アバター) は、私たちによって保存されます。 | ユーザーの名前、メール、アバターを取得して、アカウントをカスタマイズします。 | [affadfb6-f17b-428f-97f9-9aae3b6175bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc) |
+>| openid | 委任 | SSO 接続を保存して、ユーザーのログイン モードを示します。 | シングル サインオンを使用してユーザーにサインインする場合。 | [affadfb6-f17b-428f-97f9-9aae3b6175bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc) |
+>| Calendars.Read | 委任 | カレンダー イベントの数が少ない場合は、システムに格納されているタスクに変換されます。 | 予定表イベントを読み取り、1:1 ビューに表示できます。 また、新しいアカウントを初期化します。  | [d76f016f-52c7-41b5-835b-900361d7040c](https://docs.microsoft.com/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c) |
+>| Mail.Read | 委任 | システムで作成されたタスクを、元のメッセージへのリンクと一緒に保存します。 | メールをタスクOutlook、共有作業を 1:1 ビューで表示するために、このアドインで使用されます。 | [d76f016f-52c7-41b5-835b-900361d7040c](https://docs.microsoft.com/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c) |
+>| Tasks.Read | 委任 | 一部Outlook/Planner タスクは、新しいユーザーを支援するためにシステムにレプリケートされます。 | 新しいユーザー アカウントは、ユーザーのタスクGraphブートストラップします。 | [d76f016f-52c7-41b5-835b-900361d7040c](https://docs.microsoft.com/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -78,8 +78,8 @@ Appfluence Inc から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
->| ボットはタスクを作成し、特定のチームメイトに割り当て、その名前を知る必要があります。 | いいえ |  |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| ボットはタスクを作成し、特定のチームメイトに割り当て、その名前を知る必要があります。 | なし |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -98,7 +98,7 @@ Appfluence Inc から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -126,8 +126,8 @@ Appfluence Inc から Microsoft に提供される情報:
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | なし |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
@@ -136,7 +136,7 @@ Appfluence Inc から Microsoft に提供される情報:
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/><br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

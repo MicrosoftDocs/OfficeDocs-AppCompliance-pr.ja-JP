@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Talla、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 18fe09766a0ab7becef2d4630fc458e97576d7d1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 38945ddbcda225652973de5a292c1f56575c3f6e
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553808"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528173"
 ---
 # <a name="talla"></a>Talla
 
@@ -69,7 +69,7 @@ Talla Inc. から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Talla には、Microsoft ユーザー ID、ユーザーの電子メール アドレス、名と名、表示名が格納されます。 これらは、ユーザーを強化し、ユーザーと通信するために使用されます。  | Talla は、Microsoft ユーザー ID、名と名、表示名、電子メール アドレスを含むユーザー プロファイルをデータベースに格納します。 |  |
 
 

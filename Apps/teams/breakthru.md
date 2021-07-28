@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Breakthru、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 916ab5e08cc7ae5266f3010512490bd648cf9afc
-ms.sourcegitcommit: 1b9ad544fd91bb0fb25e467baf2d368a812dc476
+ms.openlocfilehash: 488ff550ab43a398cc004a3224549e6ecdff36b1
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52927242"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527603"
 ---
 # <a name="breakthru"></a>Breakthru
 
@@ -69,7 +69,7 @@ Breakthru から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| ユーザーの履歴の統計情報を表示し、ユーザーが設定したアラームを配信する。 | 電子メールと TeamID。 | ユーザーが設定したリマインダーを配信する。 ユーザーに Breaks への参加のデータの視覚化を提供する。 |
 
 
@@ -89,7 +89,7 @@ Breakthru から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->必要
+>はい
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

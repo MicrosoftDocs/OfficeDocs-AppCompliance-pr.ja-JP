@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Tryane Analytics、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d5b5119f0c9897b6d59163ad03580744a7f822f0
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 2bfff7785dbad9398697aef468115cb8f7275acd
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283573"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527553"
 ---
 # <a name="tryane-analytics"></a>Tryane Analytics
 
@@ -55,15 +55,15 @@ Tryane から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ActivityFeed.Read | アプリケーション |  | チーム内のすべてのユーザーアクティビティを読み取る | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| Channel.ReadBasic.All | アプリケーション |  | [すべて] 名前、説明を含むすべてのチャネルを一覧表示する | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| ChannelMessage.Read.All | アプリケーション |  | メタデータのすべてのチャネル メッセージを&#8217;する | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| Directory.Read.All | アプリケーション |  | テナント内のチーム ライセンスを使用してユーザーを識別する | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| Member.Read.Hidden | アプリケーション |  | すべてのチーム、チーム メンバー、および非表示&#8217;の一覧を取得する | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| Reports.Read.All | アプリケーション |  | チーム内のすべてのユーザーアクティビティを読み取る | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| Team.ReadBasic.All | アプリケーション |  | すべてのチャネルとチームのプロパティを一覧表示する | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| User.Read | 委任 | ユーザー ID、名前、メール アドレス、作成日。このデータは、データの使用状況分析を提供するためにTeams | サブスクリプション中に現在のユーザーを識別する | 9b03f15d-1219-4b2f-9699-640be54e1319 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ActivityFeed.Read | アプリケーション |  | チーム内のすべてのユーザーアクティビティを読み取る | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| Channel.ReadBasic.All | アプリケーション |  | [すべて] 名前、説明を含むすべてのチャネルを一覧表示する | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| ChannelMessage.Read.All | アプリケーション |  | メタデータのすべてのチャネル メッセージを&#8217;する | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| Directory.Read.All | アプリケーション |  | テナント内のチーム ライセンスを使用してユーザーを識別する | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| Member.Read.Hidden | アプリケーション |  | すべてのチーム、チーム メンバー、および非表示&#8217;の一覧を取得する | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| Reports.Read.All | アプリケーション |  | チーム内のすべてのユーザーアクティビティを読み取る | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| Team.ReadBasic.All | アプリケーション |  | すべてのチャネルとチームのプロパティを一覧表示する | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| User.Read | 委任 | ユーザー ID、名前、メール アドレス、作成日。このデータは、データの使用状況分析を提供するためにTeams | サブスクリプション中に現在のユーザーを識別する | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -97,7 +97,7 @@ Tryane から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

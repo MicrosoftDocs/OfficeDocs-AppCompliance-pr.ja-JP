@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ChurnZero、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a0e92bdd9440e20ebf30cece47ee17e675b35656
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: 18ebf804bfc99fe0d31043aee77fa856f42dda7a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852101"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525801"
 ---
 # <a name="churnzero"></a>ChurnZero
 
@@ -55,8 +55,8 @@ ChurnZero から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委任 | 今後のボット セッション中にユーザーを識別して承認するために、委任ユーザーの Azure オブジェクト ID を ChurnZero ユーザーと関連付けます。 | 今後のボット セッション中にユーザーを識別して承認するために、委任ユーザーの Azure オブジェクト ID を ChurnZero ユーザーと関連付けます。 | c2e66b59-725d-4c56-8a0e-ee2587031d9f |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委任 | 今後のボット セッション中にユーザーを識別して承認するために、委任ユーザーの Azure オブジェクト ID を ChurnZero ユーザーと関連付けます。 | 今後のボット セッション中にユーザーを識別して承認するために、委任ユーザーの Azure オブジェクト ID を ChurnZero ユーザーと関連付けます。 | [c2e66b59-725d-4c56-8a0e-ee2587031d9f](https://docs.microsoft.com/microsoft-365-app-certification/azure/c2e66b59-725d-4c56-8a0e-ee2587031d9f) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -70,7 +70,7 @@ ChurnZero から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| クライアントが連絡先を名前で識別し、通常の業務操作の一環としてメールを送信できます。 ChurnZero は、コレクターではなく、そのデータのプロセッサです。 | クライアントが提供した連絡先の名、名、電子メール アドレス。 | クライアントが連絡先を名前で識別し、通常の業務操作の一環としてメールを送信できます。 ChurnZero は、コレクターではなく、そのデータのプロセッサです。 |
 
 
@@ -90,7 +90,7 @@ ChurnZero から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

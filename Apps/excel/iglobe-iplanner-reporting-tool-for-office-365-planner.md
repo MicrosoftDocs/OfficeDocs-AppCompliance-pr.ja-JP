@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Office 365 Planner の iPlanner レポート ツールで使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2b9797eb2b4ec271804711473a77f26a9cce4e13
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 3591c67721188d8dc70bf4f2cf0e34bdb9ffc506
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281149"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526053"
 ---
 # <a name="iplanner-reporting-tool-for-office-365-planner"></a>iPlanner レポート ツール for Office 365 Planner
 
@@ -53,18 +53,18 @@ iGlobe から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーにカレンダー エントリを作成するには、タスク&#8217;にカレンダーを追加します。 |  |
->| Directory.AccessAsUser.All | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーが同意を持ち、API を使用するアクセス権を持っている場合。 |  |
->| Directory.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | プランナー タスクを取得するには、Outlook To Doフラグを付け、それらを更新します。 新しい Planner タスクを作成するには。 |  |
->| Files.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 添付ファイルとしてファイルにアクセスし、ファイルをタスクにアップロードする。 |  |
->| Group.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | 計画リストを取得し、タスクを更新します。 |  |
->| Group.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | プランナー タスクを取得し、新しいタスクを追加するには、バケットとスイム ラインを更新します。 |  |
->| Mail.Read | 委任 | アプリケーション データベースにデータは格納されません。 | User.Read, to get planner task Outlook To Doフラグ付きメールと更新. 新しい Planner タスクを作成するには |  |
->| Mail.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | メールを表示し、メールを送信します。 |  |
->| Mail.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 選択したメールからメールの件名を取得します。 アプリが選択したメールから情報を取得できるようにし、説明フィールドをタスクの説明にコピーし、メールまたはメール自体からタスクに添付ファイルを保存できます。 通知を送信します。 |  |
->| Tasks.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | User.Read を使用してサインインOutlook To Doを取得し、User.Read を更新するには、プランナー タスクを取得し、Outlook To Doフラグを設定して更新します。 新しい Planner タスクを作成するには。 |  |
->| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | サインインおよびユーザー プロファイルの読み取り |  |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーにカレンダー エントリを作成するには、タスク&#8217;にカレンダーを追加します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Directory.AccessAsUser.All | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーが同意を持ち、API を使用するアクセス権を持っている場合。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Directory.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | プランナー タスクを取得するには、Outlook To Doフラグを付け、それらを更新します。 新しい Planner タスクを作成するには。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 添付ファイルとしてファイルにアクセスし、ファイルをタスクにアップロードする。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Group.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | 計画リストを取得し、タスクを更新します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Group.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | プランナー タスクを取得し、新しいタスクを追加するには、バケットとスイム ラインを更新します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Mail.Read | 委任 | アプリケーション データベースにデータは格納されません。 | User.Read, to get planner task Outlook To Doフラグ付きメールと更新. 新しい Planner タスクを作成するには | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Mail.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | メールを表示し、メールを送信します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Mail.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 選択したメールからメールの件名を取得します。 アプリが選択したメールから情報を取得できるようにし、説明フィールドをタスクの説明にコピーし、メールまたはメール自体からタスクに添付ファイルを保存できます。 通知を送信します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Tasks.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | User.Read を使用してサインインOutlook To Doを取得し、User.Read を更新するには、プランナー タスクを取得し、Outlook To Doフラグを設定して更新します。 新しい Planner タスクを作成するには。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | サインインおよびユーザー プロファイルの読み取り | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -93,7 +93,7 @@ iGlobe から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

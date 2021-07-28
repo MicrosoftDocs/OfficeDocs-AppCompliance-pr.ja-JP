@@ -2,21 +2,21 @@
 title: Microsoft Outlook アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/02/2021
+ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
-description: すべての Microsoft サービス アプリで使用可能なすべてのセキュリティとコンプライアンスOutlook情報。
+description: すべての Microsoft Outlook アプリで使用可能なすべてのセキュリティとコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 00e8b55b4cb0767405adc0bab02a084256df0418
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.openlocfilehash: c8c0a58ce6455b4853ad7042785b2963370f5abb
+ms.sourcegitcommit: 2785ea8a6c1b1af129dea2cbe833de98659e3b2d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53265773"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53547895"
 ---
-# <a name="microsoft-outlook-app-security-and-compliance"></a>Microsoft Outlook アプリのセキュリティとコンプライアンス
+# <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook アプリのセキュリティとコンプライアンス
 
-Microsoft は、microsoft Microsoft 365開発者パートナーと協力して、組織が使用する Microsoft Outlook アプリとアドインに関する意思決定を迅速化し、通知するために必要な情報を提供します。 この情報は、[Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) アプリ カタログの情報と、開発者がアプリケーションを送信するときに提供する情報で補足されます。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
+Microsoft は、microsoft Microsoft 365開発者パートナーと協力して、組織が使用する Microsoft Outlook アプリとアドインに関する決定を迅速に行い、通知するために必要な情報を提供します。 この情報は、[Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) アプリ カタログの情報と、開発者がアプリケーションを送信するときに提供する情報で補足されます。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
 
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|
@@ -39,7 +39,6 @@ Microsoft は、microsoft Microsoft 365開発者パートナーと協力して�
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
 | [電子メール用 ServiceDesk Plus](./zoho-corporation-private-limited-servicedesk-plus-for-email.md) | Zoho Corporation Private Limited | **✓** |  |
 | [StarLeaf アドイン for Outlook](./starleaf-add-in-for-outlook.md) | StarLeaf | **✓** |  |
-| [Wrike for Outlook](./wrike-inc-for-outlook.md) | Wrike Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Wunder365](./jiji-technologies-private-limited-wunder365.md) | JiJi Technologies Private Limited | **✓** |  |
 | [マーケティング自動化のための Zoho キャンペーン ツール](./zoho-corporation-private-limited-campaigns-tool-for-marketing-automation.md) | Zoho Corporation Private Limited | **✓** |  |
 | [Zoho CRM for email](./zoho-corporation-private-limited-crm-for-email.md) | Zoho Corporation Private Limited | **✓** |  |

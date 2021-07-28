@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Streem、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d4bedfee8b2a65a0164c845dba10ebf0c44c4eac
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 4e9121a1c131f8114e5451564f9975a19bda2093
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53280829"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528213"
 ---
 # <a name="streem"></a>Streem
 
@@ -68,8 +68,8 @@ Streem が Microsoft に提供する情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
->| Streem Teams顧客アカウントに対するユーザー名の照合 | いいえ |  |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| Streem Teams顧客アカウントに対するユーザー名の照合 | なし |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -88,7 +88,7 @@ Streem が Microsoft に提供する情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

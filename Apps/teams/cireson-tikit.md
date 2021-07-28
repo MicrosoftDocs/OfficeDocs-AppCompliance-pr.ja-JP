@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Tikit で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3c292fa0c8e0ae526c7258f7adc508fcccaeb9d8
-ms.sourcegitcommit: dafa6701f28c66f003efaf2e3a70d61dc3240955
+ms.openlocfilehash: c17273ad8e2cdc9bd2f60ce5a3157f1f8473bb88
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52789969"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525791"
 ---
 # <a name="tikit"></a>Tikit
 
@@ -56,25 +56,25 @@ Cireson から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Device.Read | アプリケーション | Teams ボット通信によるシングル サインオンに使用されるユーザー グラフ情報  | ユーザー の役割、ファミリ名、名前、電子メール、AAD ID、ユーザー ID Teams保存します。 この情報は、アプリケーション認証、セキュリティ、RBAC、チーム統合、チーム通知、およびユーザー関係マッピングに使用されます。   | b13c40ee-e073-459e-96b5-3f3cca046a37 |
->| Directory.AccessAsUser.All | 委任 | RBAC のグループ名と役割 | グループ名 &amp; 役割名、セキュリティで保護されたマップされたアクセス制御を提供する必要があります。 | b13c40ee-e073-459e-96b5-3f3cca046a37 |
->| Directory.Read.All | 委任 | RBAC のグループ名と役割 | グループ名 &amp; 役割名、セキュリティで保護されたマップされたアクセス制御を提供する必要があります。 | b13c40ee-e073-459e-96b5-3f3cca046a37 |
->| Group.Read.All | 両方とも | RBAC のグループ名と役割 | RBAC のグループ名と役割 | b13c40ee-e073-459e-96b5-3f3cca046a37 |
->| User.Read | 委任 | ユーザー の役割、ファミリ名、指定された名前、電子メール、AAD ID、Teams ID、認証に使用されるユーザー ID  | ユーザー の役割、ファミリ名、指定された名前、電子メール、AAD ID、Teams ID、認証に使用されるユーザー ID  | b13c40ee-e073-459e-96b5-3f3cca046a37 |
->| User.Read.All | アプリケーション | ユーザー の役割、ファミリ名、指定された名前、電子メール、AAD ID、Teams ID、認証に使用されるユーザー ID  | ユーザー の役割、ファミリ名、指定された名前、電子メール、AAD ID、Teams ID、認証に使用されるユーザー ID  | b13c40ee-e073-459e-96b5-3f3cca046a37 |
->| User.ReadBasic.All | 委任 | ユーザー の役割、ファミリ名、指定された名前、電子メール、AAD ID、Teams ID、認証に使用されるユーザー ID  | ユーザー の役割、ファミリ名、指定された名前、電子メール、AAD ID、Teams ID、認証に使用されるユーザー ID  | b13c40ee-e073-459e-96b5-3f3cca046a37 |
->| メール | 委任 | 関連するエンティティのログインと関連付けられた ID に使用されるユーザー 電子メール。 &quot;割り当てられたユーザー&quot; | 関連するエンティティのログインと関連付けられた ID に使用されるユーザー 電子メール。 &quot;割り当てられたユーザー&quot; | b13c40ee-e073-459e-96b5-3f3cca046a37 |
->| openid | 委任 | 要件ごとの MSAL による認証に使用される  | 要件ごとの MSAL による認証に使用される  | b13c40ee-e073-459e-96b5-3f3cca046a37 |
->| profile | 委任 | 要件ごとの MSAL による認証に使用される  | 要件ごとの MSAL による認証に使用される  | b13c40ee-e073-459e-96b5-3f3cca046a37 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Device.Read | アプリケーション | Teams ボット通信によるシングル サインオンに使用されるユーザー グラフ情報  | ユーザー の役割、ファミリ名、名前、電子メール、AAD ID、ユーザー ID Teams保存します。 この情報は、アプリケーション認証、セキュリティ、RBAC、チーム統合、チーム通知、およびユーザー関係マッピングに使用されます。   | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| Directory.AccessAsUser.All | 委任 | RBAC のグループ名と役割 | グループ名 &amp; 役割名、セキュリティで保護されたマップされたアクセス制御を提供する必要があります。 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| Directory.Read.All | 委任 | RBAC のグループ名と役割 | グループ名 &amp; 役割名、セキュリティで保護されたマップされたアクセス制御を提供する必要があります。 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| Group.Read.All | 両方とも | RBAC のグループ名と役割 | RBAC のグループ名と役割 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| User.Read | 委任 | ユーザー の役割、ファミリ名、指定された名前、電子メール、AAD ID、Teams ID、認証に使用されるユーザー ID  | ユーザー の役割、ファミリ名、指定された名前、電子メール、AAD ID、Teams ID、認証に使用されるユーザー ID  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| User.Read.All | アプリケーション | ユーザー の役割、ファミリ名、指定された名前、電子メール、AAD ID、Teams ID、認証に使用されるユーザー ID  | ユーザー の役割、ファミリ名、指定された名前、電子メール、AAD ID、Teams ID、認証に使用されるユーザー ID  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| User.ReadBasic.All | 委任 | ユーザー の役割、ファミリ名、指定された名前、電子メール、AAD ID、Teams ID、認証に使用されるユーザー ID  | ユーザー の役割、ファミリ名、指定された名前、電子メール、AAD ID、Teams ID、認証に使用されるユーザー ID  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| メール | 委任 | 関連するエンティティのログインと関連付けられた ID に使用されるユーザー 電子メール。 &quot;割り当てられたユーザー&quot; | 関連するエンティティのログインと関連付けられた ID に使用されるユーザー 電子メール。 &quot;割り当てられたユーザー&quot; | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| openid | 委任 | 要件ごとの MSAL による認証に使用される  | 要件ごとの MSAL による認証に使用される  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| profile | 委任 | 要件ごとの MSAL による認証に使用される  | 要件ごとの MSAL による認証に使用される  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
 アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| QnA Maker | いいえ |  |  |  |  |
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
+>| QnA Maker | なし |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -87,7 +87,7 @@ Cireson から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| ユーザー エンティティ関係の名前と電子メール &quot; チケット要求者&quot;  | 名前とメール  | ユーザー エンティティの関係の &quot; チケット要求者&quot;  |
 
 

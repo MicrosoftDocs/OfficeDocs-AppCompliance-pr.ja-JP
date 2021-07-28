@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Bright Poll、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4dc8177da248fffd18ab6a4667cb6f94ea8db07c
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: af6e29845108dee6504e87864c80b5ef5a11aa16
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852085"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525831"
 ---
-# <a name="bright-poll"></a>明るいポーリング
+# <a name="bright-poll"></a>Bright Poll
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "52852085"
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | 明るいポーリング |
+| アプリ名 | Bright Poll |
 | ID | WA200002562 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | チャット アプリ、LLC |
+| パートナー会社名 | Chat Apps, LLC |
 | パートナー Web サイトの URL | [https://brightpoll.app](https://brightpoll.app) |
 | プライバシー ポリシーの URL | [https://www.brightpoll.app/privacy](https://www.brightpoll.app/privacy) |
 | 利用規約の URL | [https://brightpoll.app/terms/](https://brightpoll.app/terms/) |
@@ -68,7 +68,7 @@ ms.locfileid: "52852085"
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| ポーリング機能を提供およびサポートするには、ユーザーの名前、一意の ID、および電子メール アドレスを格納する必要があります。 | チームとユーザーの一意の ID、名前、および電子メール アドレス。 | アプリの機能とアプリケーションをサポートするには、一意の ID、名前、および電子メール アドレスが必要です。 |
 
 

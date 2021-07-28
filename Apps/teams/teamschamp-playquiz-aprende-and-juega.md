@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: PlayQuiz で使用可能なすべてのセキュリティおよびコンプライアンス情報 - Aprende Juega、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報 &amp; 。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 76593cbcaa9d4284fab7b90e887090254d4ca414
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: 2d538edf2b96311ea7f2611a33d2362786453ee3
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852098"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528143"
 ---
 # <a name="playquiz---aprende-amp-juega"></a>PlayQuiz - Aprende &amp; Juega
 
@@ -56,11 +56,11 @@ TeamsChamp から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委任 | ユーザーの名前、電子メール、およびプロファイル画像 | 電子メール(アプリと名前を選択してアプリに表示する場合) | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
->| User.ReadBasic.All | 委任 | 名前、電子メール、およびプロファイル画像 | そのデータを保存しない場合は、leaderboad (アプリケーション) に表示するためにのみデータを読み取る | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
->| openid | 委任 | ユーザーの基本的なプロファイルを表示する | 電子メール(アプリでうたう、名前をアプリに表示する場合) | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
->| profile | 委任 | ユーザーの基本プロファイルの読み取り | 電子メール(アプリでうたう、名前をアプリに表示する場合) | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委任 | ユーザーの名前、電子メール、およびプロファイル画像 | 電子メール(アプリと名前を選択してアプリに表示する場合) | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
+>| User.ReadBasic.All | 委任 | 名前、電子メール、およびプロファイル画像 | そのデータを保存しない場合は、leaderboad (アプリケーション) に表示するためにのみデータを読み取る | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
+>| openid | 委任 | ユーザーの基本的なプロファイルを表示する | 電子メール(アプリでうたう、名前をアプリに表示する場合) | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
+>| profile | 委任 | ユーザーの基本プロファイルの読み取り | 電子メール(アプリでうたう、名前をアプリに表示する場合) | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -92,7 +92,7 @@ TeamsChamp から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -121,15 +121,15 @@ TeamsChamp から Microsoft に提供される情報:
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
-| アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリは Web API を公開していますか? | なし |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

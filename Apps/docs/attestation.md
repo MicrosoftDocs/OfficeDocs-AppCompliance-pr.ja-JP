@@ -6,12 +6,12 @@ description: 構成証明プログラムのPublisher詳細
 keywords: アプリ構成証明認定 365 アンケート appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 1d3652bb2f0eab3f1f533ce4acf3d13104843eea
-ms.sourcegitcommit: 98b9f17063c7ada0890b37af405990ad5eedd0b9
+ms.openlocfilehash: 285fb4c74f2f5bdda3defee92dafa22f07d94314
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53466027"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526113"
 ---
 # <a name="complete-publisher-attestation"></a>完全なPublisher構成証明
 
@@ -20,7 +20,7 @@ Publisher構成証明は、アプリのセキュリティ、データ処理、�
 > [!IMPORTANT]
 > Microsoft は、提供された情報を検証しません。 開発者は、自己評価で提供する情報に対して責任を負います。 
 
-**Publisher構成証明は、Web アプリ (パートナー センターの商用マーケットプレースを通じて公開される SaaS アプリ)、および次の Microsoft 製品と統合するすべてのアプリに適用されます。**
+Publisher構成証明は、Web アプリ (パートナー センターの商用マーケットプレースを通じて公開される SaaS アプリ) に適用されます。 SaaS アプリは現在プライベート プレビューに参加しています。参加に興味がある場合は、このフォームに記入 [してください](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR4cf3qxCU_RNtqjCSalFdSFUNDMzTVJKR0wzTEJRSFJVSk9OQUlOV0RJSyQlQCN0PWcu)。 構成証明には、次の Microsoft 製品と統合されるすべてのアプリも含まれます。
 - Teams
 - Word
 - Excel

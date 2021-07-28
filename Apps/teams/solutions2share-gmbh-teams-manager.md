@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Teams Manager、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fbca7409c87bed006a18b31d7de2fa43afd9b95f
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 0f135c14a96849a21ebf424b152a257df8e5e9e9
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283191"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528263"
 ---
 # <a name="teams-manager"></a>Teams Manager
 
@@ -55,12 +55,12 @@ Solutions2Share GmbH から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | 両方とも | テンプレートをマップするために TenantID と TeamId を格納しています。  | すべてのリストを許可Teams、また、Teams。 | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
->| Notes.ReadWrite.All | アプリケーション | なし | アプリで承認済みチームにノートブックを追加できます。 | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
->| User.Read | 委任 | なし | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインを有効にできます。 | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
->| User.Read.All | 両方とも | 承認者/管理者セクションに入力されたユーザーの ID を保存します。 | アプリ内のユーザーピッカーに表示するユーザーを一覧表示します。 | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
->| User.ReadBasic.All | 委任 | なし | アプリ内のユーザーピッカーに表示するユーザーを一覧表示します。 | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Group.ReadWrite.All | 両方とも | テンプレートをマップするために TenantID と TeamId を格納しています。  | すべてのリストを許可Teams、また、Teams。 | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
+>| Notes.ReadWrite.All | アプリケーション | なし | アプリで承認済みチームにノートブックを追加できます。 | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
+>| User.Read | 委任 | なし | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインを有効にできます。 | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
+>| User.Read.All | 両方とも | 承認者/管理者セクションに入力されたユーザーの ID を保存します。 | アプリ内のユーザーピッカーに表示するユーザーを一覧表示します。 | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
+>| User.ReadBasic.All | 委任 | なし | アプリ内のユーザーピッカーに表示するユーザーを一覧表示します。 | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -93,7 +93,7 @@ Solutions2Share GmbH から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

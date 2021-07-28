@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 予定表 BOT、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 597a368e36fab6036eb8aed34a1afe197d15d26c
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 9314d7712249dbbd8ad507e8c81eb47ddaa49ca9
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282060"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527653"
 ---
 # <a name="calendar-bot"></a>予定表ボット
 
@@ -55,13 +55,13 @@ Microsoft への承認済み連絡先によって提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 委任 | Calendar BOT では、複数のユーザーの空き時間を見つけ出す空き時間をユーザーに保存しています。  | 空き時間情報を読んで比較し、会議をスケジュールします。 | adef9811-448f-4dd5-88d9-68734050fe58 |
->| Contacts.Read | 委任 | はい、連絡先情報を保存します。 | 連絡先のインポートと同期。 | adef9811-448f-4dd5-88d9-68734050fe58 |
->| User.Read | 委任 | はい | 基本的なプロファイル情報。 | adef9811-448f-4dd5-88d9-68734050fe58 |
->| User.ReadBasic.All | 委任 | いいえ | 同僚のプロファイルの表示、空き時間の比較、会議室のスケジュール設定に使用されます。 | adef9811-448f-4dd5-88d9-68734050fe58 |
->| offline_access | 委任 | はい、オフライン ユーザーの空き時間。 | ユーザー Graphがサイトをアクティブに使用しない場合は、ユーザーに電話してください。 | adef9811-448f-4dd5-88d9-68734050fe58 |
->| openid | 委任 | いいえ | Office 365SSO。 | adef9811-448f-4dd5-88d9-68734050fe58 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 委任 | Calendar BOT では、複数のユーザーの空き時間を見つけ出す空き時間をユーザーに保存しています。  | 空き時間情報を読んで比較し、会議をスケジュールします。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
+>| Contacts.Read | 委任 | はい、連絡先情報を保存します。 | 連絡先のインポートと同期。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
+>| User.Read | 委任 | はい | 基本的なプロファイル情報。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
+>| User.ReadBasic.All | 委任 | なし | 同僚のプロファイルの表示、空き時間の比較、会議室のスケジュール設定に使用されます。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
+>| offline_access | 委任 | はい、オフライン ユーザーの空き時間。 | ユーザー Graphがサイトをアクティブに使用しない場合は、ユーザーに電話してください。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
+>| openid | 委任 | なし | Office 365SSO。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -75,7 +75,7 @@ Microsoft への承認済み連絡先によって提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| この名簿を使用して、チーム内のすべてのユーザーの空き時間を比較して、開いている時間に会議をスケジュールします。 | メール アドレスを保存するだけ。 | メール アドレスを保存して、空き時間を比較できます。 |
 
 
@@ -95,7 +95,7 @@ Microsoft への承認済み連絡先によって提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -124,14 +124,14 @@ Microsoft への承認済み連絡先によって提供される情報:
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | いいえ |
+| アプリに機密クライアントがありますか? | なし |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリは Web API を公開していますか? | なし |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

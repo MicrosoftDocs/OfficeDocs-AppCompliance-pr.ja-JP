@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: office2SharePoint for Office、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 85198f216bb99ab5d172886d7852878d0cf61be1
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: ccf31f36f748348a01a798c3222c3fcdd6cb4606
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283481"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527493"
 ---
 # <a name="office2sharepoint-for-office"></a>Office2SharePoint for Office
 
@@ -53,31 +53,31 @@ iGlobe から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.AccessAsUser.All | 委任 | アプリケーション データベースにデータは格納されません。 | サインインしているユーザーと同じように、アプリでディレクトリ内の情報にアクセスできるようにします。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Directory.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | アクセス許可を確認し、サイトとリストを取得します。 フォルダーを作成し、ファイルを取得し、ファイルを保存します。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Directory.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | アクセス許可を確認し、サイトとリストを取得します。 フォルダーを作成し、ファイルを取得し、ファイルを保存します。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Group.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーを取得するには、サイトをグループ化します。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Group.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 選択したメール/s にアクセスし、添付ファイルを取得します。 [メール] または [グループ] サイトSharePointからメールに追加します。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Mail.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | 選択したメール/s にアクセスし、添付ファイルを取得します。 [メール] または [グループ] サイトSharePointからメールに追加します。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Sites.Manage.All | 委任 | アプリケーション データベースにデータは格納されません。 | アプリケーションは、すべてのサイト コレクションにあるドキュメント ライブラリおよびリストを、サインインしたユーザーのために作成または削除することを許可されます。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Sites.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーをサイトにSharePointします。 選択したメールからファイルを取得し、添付ファイルを保存します。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Sites.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | リスト、SharePointファイルを取得します。 ファイルをリストに保存SharePointします。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーをサイト、SharePoint、グループ OneDrive取得します。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.AccessAsUser.All | 委任 | アプリケーション データベースにデータは格納されません。 | サインインしているユーザーと同じように、アプリでディレクトリ内の情報にアクセスできるようにします。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | アクセス許可を確認し、サイトとリストを取得します。 フォルダーを作成し、ファイルを取得し、ファイルを保存します。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | アクセス許可を確認し、サイトとリストを取得します。 フォルダーを作成し、ファイルを取得し、ファイルを保存します。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Group.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーを取得するには、サイトをグループ化します。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Group.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 選択したメール/s にアクセスし、添付ファイルを取得します。 [メール] または [グループ] サイトSharePointからメールに追加します。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Mail.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | 選択したメール/s にアクセスし、添付ファイルを取得します。 [メール] または [グループ] サイトSharePointからメールに追加します。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.Manage.All | 委任 | アプリケーション データベースにデータは格納されません。 | アプリケーションは、すべてのサイト コレクションにあるドキュメント ライブラリおよびリストを、サインインしたユーザーのために作成または削除することを許可されます。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーをサイトにSharePointします。 選択したメールからファイルを取得し、添付ファイルを保存します。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | リスト、SharePointファイルを取得します。 ファイルをリストに保存SharePointします。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーをサイト、SharePoint、グループ OneDrive取得します。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
 アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| Exchange - EWS。AccessAsUser.All | いいえ |  |  |  |  |
->| Exchange - Mail.ReadWrite | いいえ |  |  |  |  |
->| Exchange - MailboxSettings.ReadWrite | いいえ |  |  |  |  |
->| SharePoint- AllSites.Manage | いいえ |  |  |  |  |
->| SharePoint - AllSites.Write | いいえ |  |  |  |  |
->| SharePoint - MyFiles.Write | いいえ |  |  |  |  |
->| SharePoint - User.Read.All | いいえ |  |  |  |  |
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
+>| Exchange - EWS。AccessAsUser.All | なし |  |  |  |  |
+>| Exchange - Mail.ReadWrite | なし |  |  |  |  |
+>| Exchange - MailboxSettings.ReadWrite | なし |  |  |  |  |
+>| SharePoint- AllSites.Manage | なし |  |  |  |  |
+>| SharePoint - AllSites.Write | なし |  |  |  |  |
+>| SharePoint - MyFiles.Write | なし |  |  |  |  |
+>| SharePoint - User.Read.All | なし |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -104,7 +104,7 @@ iGlobe から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -132,7 +132,7 @@ iGlobe から Microsoft に提供される情報:
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | なし |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | セキュリティの既定値と、従来の認証をブロックする* [管理者に MFA を要求する] * [Azure 管理に MFA を要求する] * [すべてのユーザーに MFA を要求する] などの一般的なポリシー。 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
@@ -140,8 +140,8 @@ iGlobe から Microsoft に提供される情報:
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリは Web API を公開していますか? | なし |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Zoho Sprints のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fc19b083312c4c8222b894ae6bb35b0bbdd5314e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: cdc296898d2e9f6d18f01d9742ce8d0ca29c807b
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552678"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527513"
 ---
 # <a name="zoho-sprints"></a>Zoho Sprints
 
@@ -55,15 +55,15 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 委任 | alendar フォルダー ID は、Zoho Sprints から Microsoft に連絡先を同期するために &amp; 格納されます。その逆も同様です。 |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Contacts.ReadWrite | 委任 | 連絡先フォルダー ID は、連絡先を同期するために格納されます。 |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read.All | 委任 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read.Selected | 委任 | UserPrincipalName は、ユーザー識別のために格納されます。 | ユーザーが選んだファイルの読み取り | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read | 委任 |  | サインインおよびユーザー プロファイルの読み取り | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | 委任 |  | ユーザーが Office365 ユーザーを Zoho Sprints にインポートできます。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| メール | 委任 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| offline_access | 委任 |  | アクセス許可を付与したデータへのアクセスの維持 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 委任 | alendar フォルダー ID は、Zoho Sprints から Microsoft に連絡先を同期するために &amp; 格納されます。その逆も同様です。 |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Contacts.ReadWrite | 委任 | 連絡先フォルダー ID は、連絡先を同期するために格納されます。 |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read.All | 委任 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read.Selected | 委任 | UserPrincipalName は、ユーザー識別のために格納されます。 | ユーザーが選んだファイルの読み取り | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read | 委任 |  | サインインおよびユーザー プロファイルの読み取り | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.ReadBasic.All | 委任 |  | ユーザーが Office365 ユーザーを Zoho Sprints にインポートできます。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| メール | 委任 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| offline_access | 委任 |  | アクセス許可を付与したデータへのアクセスの維持 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス

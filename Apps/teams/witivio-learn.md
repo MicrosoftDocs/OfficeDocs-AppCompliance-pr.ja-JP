@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Learn、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 798bd76f786119863f9ff2046e72daa15bcb0696
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: f931e75f0a5736ffa49c7366d9928db774c4bdbf
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283351"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527533"
 ---
 # <a name="learn"></a>詳細
 
@@ -55,11 +55,11 @@ Witivio が Microsoft に提供する情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 委任 | N/A | 承認の UPN と AAD ID を収集します。 | 8c5c0060-2892-4355-b0db-661f206028a9 |
->| User.ReadBasic.All | 委任 | N/A | 承認の UPN と AAD ID を収集します。 | 8c5c0060-2892-4355-b0db-661f206028a9 |
->| openid | 委任 | N/A | 承認の UPN と AAD ID を収集します。 | 8c5c0060-2892-4355-b0db-661f206028a9 |
->| profile | 委任 | N/A | 承認の UPN と AAD ID を収集します。 | 8c5c0060-2892-4355-b0db-661f206028a9 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委任 | 該当なし | 承認の UPN と AAD ID を収集します。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
+>| User.ReadBasic.All | 委任 | 該当なし | 承認の UPN と AAD ID を収集します。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
+>| openid | 委任 | 該当なし | 承認の UPN と AAD ID を収集します。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
+>| profile | 委任 | 該当なし | 承認の UPN と AAD ID を収集します。 | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -73,7 +73,7 @@ Witivio が Microsoft に提供する情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 1) 承認 (ボットへのアクセス許可)、2) フレンドリーな UX を提供する名を検出する、3) ボットのビジネス管理者のチャットログを管理するには、次の名簿を使用します。 | N/A。 または、ボットは個人用のみ |  |
 
 

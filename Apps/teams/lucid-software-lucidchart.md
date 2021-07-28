@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Lucidchart、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 65a82c3e895af38dc719411c7729825acae2f9be
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 2f074d098f4a1819a7c5b2236e5e1a6e957f884c
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281770"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527583"
 ---
 # <a name="lucidchart"></a>Lucidchart
 
@@ -56,17 +56,17 @@ Lucid Software から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| メール | 委任 | 名前と電子メール アドレス。 | 電子メール、openid、およびプロファイルのアクセス許可を使用すると、Lucidchart はユーザーの openid トークンを生成し、必要に応じてユーザーに対して Lucidchart アカウントを登録するのに十分な基本的な情報を取得できます。 Microsoft から返されるデータを確認するために、応答に署名されている公開キーを取得する要求を行います。 その他のデータは、SSO フローの一部として Microsoft から受信または Microsoft に送信されません。 |  |
->| openid | 委任 | 名前と電子メール アドレス。 | 電子メール、openid、およびプロファイルのアクセス許可を使用すると、Lucidchart はユーザーの openid トークンを生成し、必要に応じてユーザーに対して Lucidchart アカウントを登録するのに十分な基本的な情報を取得できます。 Microsoft から返されるデータを確認するために、応答に署名されている公開キーを取得する要求を行います。 その他のデータは、SSO フローの一部として Microsoft から受信または Microsoft に送信されません。 |  |
->| profile | 委任 | 名前と電子メール アドレス。 | 電子メール、openid、およびプロファイルのアクセス許可を使用すると、Lucidchart はユーザーの openid トークンを生成し、必要に応じてユーザーに対して Lucidchart アカウントを登録するのに十分な基本的な情報を取得できます。 Microsoft から返されるデータを確認するために、応答に署名されている公開キーを取得する要求を行います。 その他のデータは、SSO フローの一部として Microsoft から受信または Microsoft に送信されません。 |  |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| メール | 委任 | 名前と電子メール アドレス。 | 電子メール、openid、およびプロファイルのアクセス許可を使用すると、Lucidchart はユーザーの openid トークンを生成し、必要に応じてユーザーに対して Lucidchart アカウントを登録するのに十分な基本的な情報を取得できます。 Microsoft から返されるデータを確認するために、応答に署名されている公開キーを取得する要求を行います。 その他のデータは、SSO フローの一部として Microsoft から受信または Microsoft に送信されません。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| openid | 委任 | 名前と電子メール アドレス。 | 電子メール、openid、およびプロファイルのアクセス許可を使用すると、Lucidchart はユーザーの openid トークンを生成し、必要に応じてユーザーに対して Lucidchart アカウントを登録するのに十分な基本的な情報を取得できます。 Microsoft から返されるデータを確認するために、応答に署名されている公開キーを取得する要求を行います。 その他のデータは、SSO フローの一部として Microsoft から受信または Microsoft に送信されません。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| profile | 委任 | 名前と電子メール アドレス。 | 電子メール、openid、およびプロファイルのアクセス許可を使用すると、Lucidchart はユーザーの openid トークンを生成し、必要に応じてユーザーに対して Lucidchart アカウントを登録するのに十分な基本的な情報を取得できます。 Microsoft から返されるデータを確認するために、応答に署名されている公開キーを取得する要求を行います。 その他のデータは、SSO フローの一部として Microsoft から受信または Microsoft に送信されません。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
 アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| JavaScript API for Office | はい | javascript SDK のOffice OneDriveを使用して、OneDrive.open() を使用OneDriveファイル選択ツールを開きます。 アクセス トークンは生成されないので、ユーザー自身がアクセスOneDrive要求を行う必要があります。ファイル選択OneDrive SDK は、この機能を使用します。 ユーザーが選択したファイル名だけが表示されます。 |  | ユーザーがファイル選択ツールを使用してファイルを選択OneDrive、ファイル名を保存します。 |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -74,7 +74,7 @@ Lucid Software から Microsoft に提供される情報:
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Lucidchart データは AWS に保存されます。 |  | Microsoft API は使用しない。 openID を使用して、SSO を実行するための基本的なユーザー データを取得します。 ファイル ピッカー API を使用しますが、ピッカーから送信されたファイル以外のユーザーのファイルにアクセスすることはできません。 |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
@@ -100,7 +100,7 @@ Lucid Software から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Standup Alice、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 033d62db333db7029c82b0e7ec7916af64eaf3e2
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 150d837b130b6ad2e75ddc0f8da82a1b90c2621f
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552358"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525871"
 ---
 # <a name="standup-alice"></a>Standup Alice
 
@@ -62,7 +62,7 @@ Bao Le Duc から Microsoft に提供される情報:
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Google クラウド - Google クラウドでボットをホストする |  | 該当なし |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
@@ -70,7 +70,7 @@ Bao Le Duc から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Web アプリとスタンドアップ レポートに表示する表示名を使用して、意味のあるものにしています。 無料試用版、支払いTeams管理者と連絡を取る場合があります。 | 表示名と電子メール アドレス。 |  |
 
 
@@ -90,7 +90,7 @@ Bao Le Duc から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

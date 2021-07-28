@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7171a8574efe7757d024f4d9dd93056e7c206519
-ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
+ms.openlocfilehash: 592194c022b276a07d7fb91d9c0253724d8f28e7
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53459568"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527643"
 ---
 # <a name="appspace"></a>Appspace
 
@@ -56,9 +56,9 @@ Appspace, Inc. から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Team.ReadBasic.All | 委任 | ユーザーが属するチームを取得します。 | アプリケーション キャッシュには、ユーザー/サービス アカウントがアクセスできるチームと ID が含まれている場合があります。 このデータは、ライフサイクル全体にわたって暗号化されたままです。 | a9a866c4-e5cf-47f2-932c-db14cb89008f |
->| User.ReadBasic.All | 委任 | サインインしているユーザーに代わって、組織内の他のユーザーの基本的なプロファイル プロパティを読み取る。 これには表示名、氏名、メール アドレス、オープン拡張機能、写真が含まれます。 また、アプリで、サインインしているユーザーの完全なプロファイルを読み取れるようにします。 | サインインしているユーザーのユーザー名は保持され、ユーザーが Appspace プラットフォームにリンクしたユーザーまたはサービス アカウントを識別できます。 | a9a866c4-e5cf-47f2-932c-db14cb89008f |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Team.ReadBasic.All | 委任 | ユーザーが属するチームを取得します。 | アプリケーション キャッシュには、ユーザー/サービス アカウントがアクセスできるチームと ID が含まれている場合があります。 このデータは、ライフサイクル全体にわたって暗号化されたままです。 | [a9a866c4-e5cf-47f2-932c-db14cb89008f](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9a866c4-e5cf-47f2-932c-db14cb89008f) |
+>| User.ReadBasic.All | 委任 | サインインしているユーザーに代わって、組織内の他のユーザーの基本的なプロファイル プロパティを読み取る。 これには表示名、氏名、メール アドレス、オープン拡張機能、写真が含まれます。 また、アプリで、サインインしているユーザーの完全なプロファイルを読み取れるようにします。 | サインインしているユーザーのユーザー名は保持され、ユーザーが Appspace プラットフォームにリンクしたユーザーまたはサービス アカウントを識別できます。 | [a9a866c4-e5cf-47f2-932c-db14cb89008f](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9a866c4-e5cf-47f2-932c-db14cb89008f) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -90,7 +90,7 @@ Appspace, Inc. から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -116,7 +116,7 @@ Appspace, Inc. から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

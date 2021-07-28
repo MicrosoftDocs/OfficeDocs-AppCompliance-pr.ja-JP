@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Live Chat で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 41df26af03dd56fb89ce316ecaa61d7af3ae7bf5
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d1e546a5cb1cd375ec3645fd70daa07791f88027
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53280929"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528273"
 ---
 # <a name="live-chat"></a>ライブ チャット
 
@@ -68,7 +68,7 @@ ms.locfileid: "53280929"
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| チーム メンバーが [チャットに参加] をクリックすると、メンバーのメールを使用して、チャットに同意したエージェント プロファイルを特定します。 | ライブ チャットを受け入れるチーム メンバーの電子メールと名前は、チャット履歴データベースに保存されます。 |  |
 
 

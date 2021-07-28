@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリの Cisco Webex Meetings、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 34db97485d4c25655075a838adb5ec998ca324a5
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: b46674ef9171747267a6f2142fa2d83c8cb7687b
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281359"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525781"
 ---
 # <a name="cisco-webex-meetings"></a>Cisco Webex Meetings
 
@@ -69,7 +69,7 @@ Cisco Webex Meetings から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| ユーザーの電子メール アドレスは、Cisco Webex サイトのユーザー固有の会議にアクセスまたはスケジュールするために使用されます。 | ボット サービスのデータベースにデータは格納されません。 |  |
 
 

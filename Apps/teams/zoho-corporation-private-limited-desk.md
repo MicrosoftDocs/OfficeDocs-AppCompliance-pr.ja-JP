@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Zoho Desk、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fd057117b21f9e99476356f1157301c19393a23d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 8e76f0cce92e7aa5bac28df505613ec461a3fc06
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550647"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528353"
 ---
 # <a name="zoho-desk"></a>Zoho Desk
 
@@ -56,14 +56,14 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.Read | 委任 |  | ユーザー ファイルの読み取り。 |  |
->| Files.Read.All | 委任 |  | ユーザーがアクセスできるすべてのファイルを読み取る。 |  |
->| User.Read | 委任 |  | サインインおよびユーザー プロファイルの読み取り。 |  |
->| User.ReadBasic.All | 委任 |  | すべてのユーザーの基本的なプロファイルを読み取る。 |  |
->| メール | 委任 |  | ユーザーのメール アドレスを表示します。 |  |
->| offline_access | 委任 |  | アクセス権を与えられたデータへのアクセスを維持します。 |  |
->| profile | 委任 |  | ユーザーの基本的なプロファイルを表示します。 |  |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.Read | 委任 |  | ユーザー ファイルの読み取り。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.Read.All | 委任 |  | ユーザーがアクセスできるすべてのファイルを読み取る。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | 委任 |  | サインインおよびユーザー プロファイルの読み取り。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.ReadBasic.All | 委任 |  | すべてのユーザーの基本的なプロファイルを読み取る。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| メール | 委任 |  | ユーザーのメール アドレスを表示します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| offline_access | 委任 |  | アクセス権を与えられたデータへのアクセスを維持します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| profile | 委任 |  | ユーザーの基本的なプロファイルを表示します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -83,7 +83,7 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->いいえ
+>なし
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 

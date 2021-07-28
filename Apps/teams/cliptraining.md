@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ClipTraining、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9eb5383b9bd372e1f46af30b838160bca88e308b
-ms.sourcegitcommit: 5cd33d38cc7376b28458ee47ebc2c2710ce7f113
+ms.openlocfilehash: 5d59d4cbd2d28f1c906e541e7ffc78311c12ffb6
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "53339833"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525771"
 ---
 # <a name="cliptraining"></a>ClipTraining
 
@@ -56,11 +56,11 @@ ClipTraining から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| メール | 委任 | ユーザー ログインと対応の電子メール アドレス、名、名。  | ユーザー ログインと対応の電子メール アドレス、名、名。  | af089bb5-48be-413d-ad34-53c32799da7d |
->| offline_access | 委任 | ユーザー ログインと対応の電子メール アドレス、名、名。  | ユーザー ログインと対応の電子メール アドレス、名、名。  | af089bb5-48be-413d-ad34-53c32799da7d |
->| openid | 委任 | ユーザー ログインと対応の電子メール アドレス、名、名。  | ユーザー ログインと対応の電子メール アドレス、名、名。  | af089bb5-48be-413d-ad34-53c32799da7d |
->| profile | 委任 | ユーザー ログインと対応の電子メール アドレス、名、名。  | ユーザー ログインと対応の電子メール アドレス、名、名。  | af089bb5-48be-413d-ad34-53c32799da7d |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| メール | 委任 | ユーザー ログインと対応の電子メール アドレス、名、名。  | ユーザー ログインと対応の電子メール アドレス、名、名。  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
+>| offline_access | 委任 | ユーザー ログインと対応の電子メール アドレス、名、名。  | ユーザー ログインと対応の電子メール アドレス、名、名。  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
+>| openid | 委任 | ユーザー ログインと対応の電子メール アドレス、名、名。  | ユーザー ログインと対応の電子メール アドレス、名、名。  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
+>| profile | 委任 | ユーザー ログインと対応の電子メール アドレス、名、名。  | ユーザー ログインと対応の電子メール アドレス、名、名。  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -68,7 +68,7 @@ ClipTraining から Microsoft に提供される情報:
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Microsoft 以外のホスティング サービス、非ホスト Microsoft CRM | 名、名、電子メール アドレス | 業務上の使用に必要 |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
@@ -120,7 +120,7 @@ ClipTraining から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

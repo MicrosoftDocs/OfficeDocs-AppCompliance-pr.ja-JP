@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Zoho Sign、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 356c8755ee40269ef4efe844d22ebbc20e53937d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f164b4afadb0d85971cdaa40ab1bb43828ecb290
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552718"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528333"
 ---
 # <a name="zoho-sign"></a>Zoho Sign
 
@@ -56,16 +56,16 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Contacts.ReadWrite | 委任 |  | ユーザーの連絡先にフル アクセスできます。 |  |
->| Contacts.ReadWrite.Shared | 委任 |  | ユーザーおよび共有連絡先の読み取りおよび書き込み。 |  |
->| Files.ReadWrite | 委任 |  | ユーザー ファイルへのフル アクセス権を持つ。 |  |
->| Files.ReadWrite.All | 委任 |  | ユーザーがアクセスできるすべてのファイルにフル アクセスできます。 |  |
->| Files.ReadWrite.Selected | 委任 |  | ユーザーが選択したファイルの読み取りおよび書き込み。 |  |
->| User.ReadBasic.All | 委任 |  | すべてのユーザーの基本的なプロファイルを読み取る。 |  |
->| メール | 委任 |  | ユーザーのメール アドレスを表示します。 |  |
->| offline_access | 委任 |  | アクセス権を与えられたデータへのアクセスを維持します。 |  |
->| profile | 委任 |  | ユーザーの基本的なプロファイルを表示します。 |  |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Contacts.ReadWrite | 委任 |  | ユーザーの連絡先にフル アクセスできます。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Contacts.ReadWrite.Shared | 委任 |  | ユーザーおよび共有連絡先の読み取りおよび書き込み。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.ReadWrite | 委任 |  | ユーザー ファイルへのフル アクセス権を持つ。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.ReadWrite.All | 委任 |  | ユーザーがアクセスできるすべてのファイルにフル アクセスできます。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.ReadWrite.Selected | 委任 |  | ユーザーが選択したファイルの読み取りおよび書き込み。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.ReadBasic.All | 委任 |  | すべてのユーザーの基本的なプロファイルを読み取る。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| メール | 委任 |  | ユーザーのメール アドレスを表示します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| offline_access | 委任 |  | アクセス権を与えられたデータへのアクセスを維持します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| profile | 委任 |  | ユーザーの基本的なプロファイルを表示します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス

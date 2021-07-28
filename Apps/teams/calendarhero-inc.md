@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CalendarHero、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f3609c1e5884a49e4b52077295108622e10e7ff5
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 41a7dd8a2cb7d900ac26b228c4cc2522d76da59c
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282000"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527593"
 ---
 # <a name="calendarhero"></a>CalendarHero
 
@@ -56,14 +56,14 @@ CalendarHero Inc から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 両方とも | 会議は Azure 上の mongoDB にキャッシュされますが、説明は暗号化されます。 | ユーザーの予定表イベントへのアクセス。 |  |
->| Contacts.ReadWrite | 両方とも | 連絡先の名前と電子メール アドレス。 | ユーザーの連絡先を読み取ります (会議に招待できます)。 |  |
->| Group.Read.All | 両方とも | グループ名とメンバー。 | (オプション) 企業のユーザー グループを読み取ります (グループを使用したスケジュール設定の場合)。 |  |
->| Mail.Read | 両方とも | 連絡先の電子メール/名前、対話の頻度/最新の情報。 | (省略可能) は、ユーザーの最も重要な連絡先が誰か (ユーザー経由で) 電子メールのメタデータを読み取Machine Learning。 |  |
->| MailboxSettings.ReadWrite | 両方とも | ユーザーのタイム ゾーン。 | ユーザーのタイム ゾーン。 |  |
->| User.Read.All | 両方とも | ユーザーの名前 &amp; の電子メール (連絡先として保存)。 | (オプション) 企業ユーザーの読み取り (同僚とのスケジュール設定用) |  |
->| offline_access | アプリケーション | いいえ | ユーザーが存在せずに、いつでもバック エンドを通じて読み書きする必要があります。 |  |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 両方とも | 会議は Azure 上の mongoDB にキャッシュされますが、説明は暗号化されます。 | ユーザーの予定表イベントへのアクセス。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Contacts.ReadWrite | 両方とも | 連絡先の名前と電子メール アドレス。 | ユーザーの連絡先を読み取ります (会議に招待できます)。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Group.Read.All | 両方とも | グループ名とメンバー。 | (オプション) 企業のユーザー グループを読み取ります (グループを使用したスケジュール設定の場合)。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Mail.Read | 両方とも | 連絡先の電子メール/名前、対話の頻度/最新の情報。 | (省略可能) は、ユーザーの最も重要な連絡先が誰か (ユーザー経由で) 電子メールのメタデータを読み取Machine Learning。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| MailboxSettings.ReadWrite | 両方とも | ユーザーのタイム ゾーン。 | ユーザーのタイム ゾーン。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read.All | 両方とも | ユーザーの名前 &amp; の電子メール (連絡先として保存)。 | (オプション) 企業ユーザーの読み取り (同僚とのスケジュール設定用) | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| offline_access | アプリケーション | なし | ユーザーが存在せずに、いつでもバック エンドを通じて読み書きする必要があります。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -77,7 +77,7 @@ CalendarHero Inc から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 同僚の名前/メールをインポートして、会議アシスタント ボットが会議をスケジュールできるよう | 名前 &amp; の電子メール。 どちらもデータベースに保存され、クイック ルックアップと部分的な名前の参照用に格納されます (たとえば、 Joe P と会う) |  |
 
 
@@ -97,7 +97,7 @@ CalendarHero Inc から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

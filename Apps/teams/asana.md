@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Asana で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0f2e4ff08367c5b8694ca9b6f2cfce1a530a64c9
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 14ec3eee9b8ae673565ef91a017019d23d524619
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282050"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525881"
 ---
 # <a name="asana"></a>Asana
 
@@ -62,7 +62,7 @@ Asana から Microsoft に提供される情報:
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| アドインは、ユーザーからの要求に応じて、基本的な電子メール情報 (送信者、再通知、件名、本文) と添付ファイルを Asana に転送します。 |  | [メール] - 作業ウィンドウに表示されている現在開いている電子メールを読み取ります。 - Asana タスクにアップロードする現在開いているメール添付ファイルを読み取ります。 - これにより、ユーザーは Asana のタスクをすばやく作成し、電子メールからの情報を得る機能を提供します。 |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
@@ -89,7 +89,7 @@ Asana 組織の管理者は、SAML、SCIM、Service アカウントをセット�
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

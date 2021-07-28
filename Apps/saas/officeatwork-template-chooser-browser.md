@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: テンプレート選択ブラウザー、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 630e587b1011007d6dbbd33bfad7364bd14f48b1
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 9b830813418b170e3802bee427490b33e2327214
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282709"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525971"
 ---
 # <a name="template-chooser-browser"></a>テンプレート選択ブラウザー
 
@@ -53,24 +53,24 @@ officeatwork から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.ReadWrite.All | 委任 | データは保存されません。 | お気に入り: ユーザーに対してデータの読み取りおよび書き込みを行OneDrive。OneDrive: ユーザーに対してデータの読み取りおよび書き込みを行OneDrive。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| Group.ReadWrite.All | 委任 | データは保存されません。 | Teams: グループに対してデータの読み取りおよび書き込みを行える。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| GroupMember.Read.All | 委任 | データは保存されません。 | SharePointオンライン: オンラインからデータを読み取るユーザー SharePointアクセス許可。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| Sites.Read.All | 委任 | データは保存されません。 | SharePointオンライン: オンラインからデータを読み取SharePointします。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| User.Read | 委任 | データは保存されません。 | Sing-In: officeatwork アプリがユーザーの基本的なプロパティを読み取ることができます。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| User.Read.All | 委任 | データは保存されません。 | Teams: ユーザーが属するグループを確認します。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| offline_access | 委任 | データは保存されません。 | Sing-In: 更新トークンを介して自動サインインを有効にするには、ユーザーが officeatwork アプリを起動する度に手動でサインインする必要があります。 このスコープは、SSO が有効でないホスト アプリケーションでのみ必要です。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| openid | 委任 | データは保存されません。 | Sing-In: 組織または Microsoft アカウントで officeatwork アプリにサインインするユーザーを有効にする | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| profile | 委任 | データは保存されません。 | Sing-In: サインインしているユーザーを officeatwork アプリに表示します。 これにより、officeatwork アプリへのサインインに使用されたアカウントをユーザーに確認/確認できます。 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.ReadWrite.All | 委任 | データは保存されません。 | お気に入り: ユーザーに対してデータの読み取りおよび書き込みを行OneDrive。OneDrive: ユーザーに対してデータの読み取りおよび書き込みを行OneDrive。 | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| Group.ReadWrite.All | 委任 | データは保存されません。 | Teams: グループに対してデータの読み取りおよび書き込みを行える。 | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| GroupMember.Read.All | 委任 | データは保存されません。 | SharePointオンライン: オンラインからデータを読み取るユーザー SharePointアクセス許可。 | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| Sites.Read.All | 委任 | データは保存されません。 | SharePointオンライン: オンラインからデータを読み取SharePointします。 | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| User.Read | 委任 | データは保存されません。 | Sing-In: officeatwork アプリがユーザーの基本的なプロパティを読み取ることができます。 | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| User.Read.All | 委任 | データは保存されません。 | Teams: ユーザーが属するグループを確認します。 | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| offline_access | 委任 | データは保存されません。 | Sing-In: 更新トークンを介して自動サインインを有効にするには、ユーザーが officeatwork アプリを起動する度に手動でサインインする必要があります。 このスコープは、SSO が有効でないホスト アプリケーションでのみ必要です。 | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| openid | 委任 | データは保存されません。 | Sing-In: 組織または Microsoft アカウントで officeatwork アプリにサインインするユーザーを有効にする | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| profile | 委任 | データは保存されません。 | Sing-In: サインインしているユーザーを officeatwork アプリに表示します。 これにより、officeatwork アプリへのサインインに使用されたアカウントをユーザーに確認/確認できます。 | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
 アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| SharePoint REST API | いいえ |  |  |  |  |
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
+>| SharePoint REST API | なし |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -96,7 +96,7 @@ officeatwork から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -124,17 +124,17 @@ officeatwork から Microsoft に提供される情報:
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | なし |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | セキュリティの既定値 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
-| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | いいえ |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | なし |
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
-| アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリは Web API を公開していますか? | なし |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

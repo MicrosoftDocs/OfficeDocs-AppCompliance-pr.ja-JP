@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Smartsheet で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c97f12b0e1f423318c98419f11e7569c5285830d
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 3b6f823a27352d3623826cf09f97c9a2f560307a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53280939"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528303"
 ---
 # <a name="smartsheet"></a>Smartsheet
 
@@ -56,20 +56,20 @@ Smartsheet から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| AppCatalog.ReadWrite.All | 委任 | なし。 | ユーザーに代わってアプリをインストールできます。 | c68947ae-a07f-44ce-9a13-7b559251731d |
->| Directory.Read.All | 委任 | ui に表示する情報を取得するための tenantId。 | このテナントが使用しているアプリを読み取り、アプリをインストールする必要がある場合に確認できます。 | c68947ae-a07f-44ce-9a13-7b559251731d |
->| Group.Read.All | 委任 | メッセージ配信用の teamId/groupId。 | グループ (またはチーム) に関する基本情報と会話Teamsアプリで読み取りを許可します。 | c68947ae-a07f-44ce-9a13-7b559251731d |
->| Group.ReadWrite.All | 委任 | メッセージ配信用の teamId/groupId。 | アプリがチームで新しい会話を開始できます。 このアクセス許可には上記の Read.All スコープも含まれますが、技術的な理由からこのスコープも必要です。 | c68947ae-a07f-44ce-9a13-7b559251731d |
->| User.Read.All | 委任 | userId。 | 認証プロセス中にユーザーに関する基本情報を読み取る事が可能です。 | c68947ae-a07f-44ce-9a13-7b559251731d |
->| offline_access | 委任 | refreshToken。 | アプリを使用すると、ユーザーに代わって更新トークンを受信し、認証トークンを更新できます。 | c68947ae-a07f-44ce-9a13-7b559251731d |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| AppCatalog.ReadWrite.All | 委任 | なし。 | ユーザーに代わってアプリをインストールできます。 | [c68947ae-a07f-44ce-9a13-7b559251731d](https://docs.microsoft.com/microsoft-365-app-certification/azure/c68947ae-a07f-44ce-9a13-7b559251731d) |
+>| Directory.Read.All | 委任 | ui に表示する情報を取得するための tenantId。 | このテナントが使用しているアプリを読み取り、アプリをインストールする必要がある場合に確認できます。 | [c68947ae-a07f-44ce-9a13-7b559251731d](https://docs.microsoft.com/microsoft-365-app-certification/azure/c68947ae-a07f-44ce-9a13-7b559251731d) |
+>| Group.Read.All | 委任 | メッセージ配信用の teamId/groupId。 | グループ (またはチーム) に関する基本情報と会話Teamsアプリで読み取りを許可します。 | [c68947ae-a07f-44ce-9a13-7b559251731d](https://docs.microsoft.com/microsoft-365-app-certification/azure/c68947ae-a07f-44ce-9a13-7b559251731d) |
+>| Group.ReadWrite.All | 委任 | メッセージ配信用の teamId/groupId。 | アプリがチームで新しい会話を開始できます。 このアクセス許可には上記の Read.All スコープも含まれますが、技術的な理由からこのスコープも必要です。 | [c68947ae-a07f-44ce-9a13-7b559251731d](https://docs.microsoft.com/microsoft-365-app-certification/azure/c68947ae-a07f-44ce-9a13-7b559251731d) |
+>| User.Read.All | 委任 | userId。 | 認証プロセス中にユーザーに関する基本情報を読み取る事が可能です。 | [c68947ae-a07f-44ce-9a13-7b559251731d](https://docs.microsoft.com/microsoft-365-app-certification/azure/c68947ae-a07f-44ce-9a13-7b559251731d) |
+>| offline_access | 委任 | refreshToken。 | アプリを使用すると、ユーザーに代わって更新トークンを受信し、認証トークンを更新できます。 | [c68947ae-a07f-44ce-9a13-7b559251731d](https://docs.microsoft.com/microsoft-365-app-certification/azure/c68947ae-a07f-44ce-9a13-7b559251731d) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
 アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| ボット フレームワーク API | はい | ボット フレームワーク API を使用して、Teams アプリのアプリとしてメッセージを配信します。 Smartsheet は、Smartsheet ボットが話しているユーザーを追跡するために userId 情報を格納します。 |  | なし |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -77,7 +77,7 @@ Smartsheet から Microsoft に提供される情報:
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Smartsheet は、Equinix でホストされる運用データセンター環境と AWS S3 の暗号化された保管状態に情報を保存し、顧客の添付ファイルをプライベート暗号化バケットに保存します。 |  | ボット フレームワーク API を使用して、Teams アプリのアプリとしてメッセージを配信します。 Smartsheet は、Smartsheet ボットが話しているユーザーを追跡するために userId 情報を格納します。 |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
@@ -85,7 +85,7 @@ Smartsheet から Microsoft に提供される情報:
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Smartsheet は、ボットが話しているユーザーを追跡するのに役立ちます。 最初の認証フローの間に、Smartsheet 通知システムでユーザーのボット レコードを作成します。 | Smartsheet for Teamsボットの場合、ボットが誰と話Teamsを追跡するために、ユーザーのメールと userId を保存します。  Smartsheet には、ユーザーがディレクトリに含むグループの一覧と、メッセージ配信用の groupId を格納します。 |  |
 
 
@@ -93,7 +93,7 @@ Smartsheet から Microsoft に提供される情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->いいえ
+>なし
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
@@ -105,7 +105,7 @@ Smartsheet から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>なし
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

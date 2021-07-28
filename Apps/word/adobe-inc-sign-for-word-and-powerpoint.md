@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Adobe Sign for Word および PowerPoint、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0c5ed86f2de8925a87b726db9c2a9946721e06c7
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 81a0012ebbc0e77af0fee9fa73a22f187972d13c
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283331"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527503"
 ---
 # <a name="adobe-sign-for-word-and-powerpoint"></a>Adobe Sign for Word and PowerPoint
 
@@ -53,12 +53,12 @@ Adobe Inc. から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Mail.ReadWrite | 委任 | 添付されたドキュメント、送信者と受信者の電子メール、およびメッセージ コンテンツを電子メールから Adobe 記号に入力して署名用に送信します。 これは、Adobe Sign でこれらのフィールドを再入力するユーザー時間を節約するために使用します。 契約が署名された後、ユーザーが電子メールを送信して、トランザクションが完了したことを受信者に通知する新しい電子メールを自動的に作成します。 | Adobe Sign は添付ファイルを一時ファイルとして保存します。有効期限は 24 時間です。 | 72d5ac5d-a427-408b-907d-72da3f33ddd1 |
->| People.Read | 委任 | 署名用に送信エクスペリエンスで電子メール アドレスを自動入力するには、最初の文字を入力して、ユーザーにメール全体を入力 &quot; &quot; する必要が生じかねない。 | Adobe Sign は、受信者の電子メールと displayName のみを契約に保存します。 | 72d5ac5d-a427-408b-907d-72da3f33ddd1 |
->| User.Read | 委任 | ユーザーのプロファイルを読み取り、自分のプロファイル (基本的には電子メールと userId) をデータベースに一致して、Adobe Sign を使用できます。 | ユーザーのプロファイルを読み取り、自分のプロファイル (基本的には電子メールと userId) をデータベースに一致して、Adobe Sign を使用できます。 | 72d5ac5d-a427-408b-907d-72da3f33ddd1 |
->| offline_access | 委任 | アクセス トークンを更新するには、現在のトークンの有効期限が切れています。 たとえば、ユーザーが署名用の送信ウィンドウで非アクティブな状態を長くする場合は、ユーザーがアクティブなときに新しいトークンを更新 &quot; &quot; する必要があります。 | アクセス トークンを更新するには、現在のトークンの有効期限が切れています。 たとえば、ユーザーが署名用の送信ウィンドウで非アクティブな状態を長くする場合は、ユーザーがアクティブなときに新しいトークンを更新 &quot; &quot; する必要があります。 | 72d5ac5d-a427-408b-907d-72da3f33ddd1 |
->| openid | 委任 | メールと UserId。 ユーザーにサインインして、Adobe Sign アプリの使用許可に対する同意を得る。  | 電子メールは、Adobe Sign のユーザーの一意の識別子です。 メール ID を保存して、そのユーザーのすべてのアクティビティを Adobe Sign レコードにマップできます。  | 72d5ac5d-a427-408b-907d-72da3f33ddd1 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Mail.ReadWrite | 委任 | 添付されたドキュメント、送信者と受信者の電子メール、およびメッセージ コンテンツを電子メールから Adobe 記号に入力して署名用に送信します。 これは、Adobe Sign でこれらのフィールドを再入力するユーザー時間を節約するために使用します。 契約が署名された後、ユーザーが電子メールを送信して、トランザクションが完了したことを受信者に通知する新しい電子メールを自動的に作成します。 | Adobe Sign は添付ファイルを一時ファイルとして保存します。有効期限は 24 時間です。 | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
+>| People.Read | 委任 | 署名用に送信エクスペリエンスで電子メール アドレスを自動入力するには、最初の文字を入力して、ユーザーにメール全体を入力 &quot; &quot; する必要が生じかねない。 | Adobe Sign は、受信者の電子メールと displayName のみを契約に保存します。 | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
+>| User.Read | 委任 | ユーザーのプロファイルを読み取り、自分のプロファイル (基本的には電子メールと userId) をデータベースに一致して、Adobe Sign を使用できます。 | ユーザーのプロファイルを読み取り、自分のプロファイル (基本的には電子メールと userId) をデータベースに一致して、Adobe Sign を使用できます。 | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
+>| offline_access | 委任 | アクセス トークンを更新するには、現在のトークンの有効期限が切れています。 たとえば、ユーザーが署名用の送信ウィンドウで非アクティブな状態を長くする場合は、ユーザーがアクティブなときに新しいトークンを更新 &quot; &quot; する必要があります。 | アクセス トークンを更新するには、現在のトークンの有効期限が切れています。 たとえば、ユーザーが署名用の送信ウィンドウで非アクティブな状態を長くする場合は、ユーザーがアクティブなときに新しいトークンを更新 &quot; &quot; する必要があります。 | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
+>| openid | 委任 | メールと UserId。 ユーザーにサインインして、Adobe Sign アプリの使用許可に対する同意を得る。  | 電子メールは、Adobe Sign のユーザーの一意の識別子です。 メール ID を保存して、そのユーザーのすべてのアクティビティを Adobe Sign レコードにマップできます。  | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -113,17 +113,17 @@ Adobe Inc. から Microsoft に提供される情報:
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | なし |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | いいえ |
+| アプリに機密クライアントがありますか? | なし |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | なし |
 | アプリで非推奨の API を使用していますか? | なし |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

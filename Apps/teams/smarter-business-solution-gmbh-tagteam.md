@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: タグチームで利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b4e3fcf89e816c115887fa5bd0df38cc95d4ae2f
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: cd1411cff3f80788bc9a5677f595caad620484e1
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53280949"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528313"
 ---
 # <a name="tagteam"></a>TagTeam
 
@@ -56,11 +56,11 @@ Smarter Business Solution GmbH から Microsoft に提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ChannelMessage.Read.All | 委任 | このデータは収集されません。タグ付き会話を表示する場合にのみ使用します。 検索 API に変更する必要がありますが、API Graphサポートしていない場合。  | なし | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
->| User.Read | 委任 | タブにUser-Information (名前など) を表示する | なし | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
->| User.ReadBasic.All | 委任 | タブにUser-Avatarsを表示する | なし | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
->| openid | 委任 | SignIn の場合のみ - データは保存されません | なし | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ChannelMessage.Read.All | 委任 | このデータは収集されません。タグ付き会話を表示する場合にのみ使用します。 検索 API に変更する必要がありますが、API Graphサポートしていない場合。  | なし | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
+>| User.Read | 委任 | タブにUser-Information (名前など) を表示する | なし | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
+>| User.ReadBasic.All | 委任 | タブにUser-Avatarsを表示する | なし | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
+>| openid | 委任 | SignIn の場合のみ - データは保存されません | なし | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -120,8 +120,8 @@ Smarter Business Solution GmbH から Microsoft に提供される情報:
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | なし |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |

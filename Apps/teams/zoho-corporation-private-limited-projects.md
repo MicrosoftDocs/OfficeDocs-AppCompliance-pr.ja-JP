@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Zoho Projects、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6e447efd8259b94dbc41eed731912a2288600a5f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: cb0d9ec4caabe3307474e0927adc4a793046a449
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552688"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528343"
 ---
 # <a name="zoho-projects"></a>Zoho Projects
 
@@ -56,17 +56,17 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 委任 |  | ユーザーカレンダーへのフル アクセス権を持つ。 | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| Files.Read | 委任 |  | すべてのファイルを読み取る。 | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| Files.Read.All | 委任 |  | ユーザーがアクセスできるすべてのファイルを読み取る。 | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| Files.Read.Selected | 委任 |  | ユーザーが選択したファイルを読み取る。 | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| Tasks.Read | 委任 |  | ユーザー タスクの読み取り。 | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| Tasks.ReadWrite | 委任 |  | ユーザー タスクとプロジェクトを作成、読み取り、更新、削除します。 | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| Tasks.ReadWrite.Shared | 委任 |  | ユーザータスクと共有タスクの読み取りおよび書き込み。 | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| User.Read | 委任 |  | サインインおよびユーザー プロファイルの読み取り。 | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| User.ReadBasic.All | 委任 |  | すべてのユーザーの基本的なプロファイルを読み取る。 | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| offline_access | 委任 |  | アクセス権を与えられたデータへのアクセスを維持します。 | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 委任 |  | ユーザーカレンダーへのフル アクセス権を持つ。 | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| Files.Read | 委任 |  | すべてのファイルを読み取る。 | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| Files.Read.All | 委任 |  | ユーザーがアクセスできるすべてのファイルを読み取る。 | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| Files.Read.Selected | 委任 |  | ユーザーが選択したファイルを読み取る。 | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| Tasks.Read | 委任 |  | ユーザー タスクの読み取り。 | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| Tasks.ReadWrite | 委任 |  | ユーザー タスクとプロジェクトを作成、読み取り、更新、削除します。 | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| Tasks.ReadWrite.Shared | 委任 |  | ユーザータスクと共有タスクの読み取りおよび書き込み。 | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| User.Read | 委任 |  | サインインおよびユーザー プロファイルの読み取り。 | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| User.ReadBasic.All | 委任 |  | すべてのユーザーの基本的なプロファイルを読み取る。 | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| offline_access | 委任 |  | アクセス権を与えられたデータへのアクセスを維持します。 | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
