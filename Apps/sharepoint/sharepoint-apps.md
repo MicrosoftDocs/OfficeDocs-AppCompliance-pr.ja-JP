@@ -2,17 +2,17 @@
 title: Microsoft SharePoint アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/22/2021
+ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft SharePoint アプリで使用可能なすべてのセキュリティとコンプライアンスに関する情報。
 localization_priority: Normal
-ms.openlocfilehash: 428ccb99998c5c20e3fc6507e7c5efb14d8d1600
-ms.sourcegitcommit: 2785ea8a6c1b1af129dea2cbe833de98659e3b2d
+ms.openlocfilehash: 147de4919d6286d69ac0e428b1899514fd979c9d
+ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53547845"
+ms.lasthandoff: 07/27/2021
+ms.locfileid: "53609807"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint アプリのセキュリティとコンプライアンス
 
@@ -27,3 +27,4 @@ Microsoft は、microsoft Microsoft 365開発者パートナーと協力して�
 | [iGlobe CRM Office 365 Microsoft Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Konnect eMail Parser](./konnect-email-parser.md) | Konnect eMail | **✓** |  |
 | [officeatwork | テンプレートの選択SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Power BIコラボレーション](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
