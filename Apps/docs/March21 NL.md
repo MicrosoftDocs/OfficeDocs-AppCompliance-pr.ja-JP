@@ -6,12 +6,12 @@ description: 2021 年 3 月ニュースレター
 keywords: コンプライアンスニュースレター
 ms.topic: Conceptual
 ms.service: Attestation
-ms.openlocfilehash: 5f93b5129d3a3081c01068183d4fa7d789b7e54f
-ms.sourcegitcommit: a5ee3422ab34a922bf592312cf2efc3143fcc9c9
+ms.openlocfilehash: e0d0dc1ca55b4644b807a31a70cbb04cf180c517255eeb4f565c18dd6b91582a
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "52676745"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54751827"
 ---
 # <a name="march-2021-microsoft-365-app-compliance-newsletter"></a>2021 年 3 月 Microsoft 365 アプリ コンプライアンス ニュースレター
 

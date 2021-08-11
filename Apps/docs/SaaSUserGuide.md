@@ -6,16 +6,16 @@ description: アプリ コンプライアンス プログラム SaaS Microsoft 3
 keywords: アプリ コンプライアンス プログラム SaaS Microsoft 365 ISV ユーザー ガイド
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: b3b8c37a1babf2f941f5764fddd30523319d9a34
-ms.sourcegitcommit: f6f3551bf1c00013efb6313ca3dc280de697137d
+ms.openlocfilehash: 39eed9158ab9cbaa5e26efe036c98fc2ab2b1695d615d8b28930f0d8d4735430
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "53202778"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54801495"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program---saas"></a>パートナーのユーザー ガイド for Microsoft 365 コンプライアンス プログラム - SaaS
 
-|フェーズ|タイトル|
+|段階|タイトル|
 |---|---|
 |フェーズ 1| Publisher の構成証明|
 |フェーズ 2| Microsoft 365 認定|
@@ -75,7 +75,7 @@ ms.locfileid: "53202778"
   
 **シナリオの承認と拒否:**
   
-回答。 Publisher構成証明の拒否
+A. Publisher構成証明の拒否
 - 拒否の場合、パートナーは次の機能を使用できます。
      - エラー レポートの表示
           - パートナーは電子メールで通知され、パートナー センターでエラー レポートを表示できます。

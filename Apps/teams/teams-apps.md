@@ -2,21 +2,21 @@
 title: Microsoft Teams アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/27/2021
+ms.date: 08/05/2021
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: 1c270d05dad7fe1cd00b141ed20436ff61792131
-ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
-ms.translationtype: MT
+ms.openlocfilehash: 8715b10a4f9325128fd21b7f9769062b3a8724f9a6f3c544fdc6d0f8956f008c
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53609817"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54749887"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
-Microsoft は、Microsoft 365 開発者パートナーと協力して、組織が使用する Microsoft Teams アプリとアドインに関する決定を迅速に行い通知するために必要な情報を提供します。 この情報は、[Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) アプリ カタログの情報と、開発者がアプリケーションを送信するときに提供する情報で補足されます。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
+Microsoft は、Microsoft 365 開発者パートナーと協力して、組織が使用する Microsoft Teams アプリとアドインに関する決定を迅速に行い通知するために必要な情報を提供します。 この情報は、[Microsoft Cloud App Security](https://www.microsoft.com/ja-JP/enterprise-mobility-security/cloud-app-security) アプリ カタログの情報と、開発者がアプリケーションを送信するときに提供する情報で補足されます。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
 
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|
@@ -30,6 +30,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Alvao Service Desk](./alvao-sro-service-desk.md) | ALVAO s.r.o. | **✓** |  |
 | [ApproveSimple](./capriza-inc-approvesimple.md) | Capriza, Inc | **✓** |  |
 | [Appspace](./appspace-inc.md) | Appspace, Inc. | **✓** |  |
+| [ArcGIS Maps](./esri-arcgis-maps.md) | Esri | **✓** |  |
 | [Asana](./asana.md) | Asana | **✓** |  |
 | [askR.ai](./askrai.md) | askR.ai | **✓** |  |
 | [Assembly](./carrothr-inc-assembly.md) | CarrotHR Inc. | **✓** |  |
@@ -42,6 +43,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Beekast](./beekast.md) | Beekast | **✓** |  |
 | [Beesy](./beesapps-beesy.md) | BeesApps | **✓** |  |
 | [Berrycast](./technologies-openmind-inc-les-berrycast.md) | Technologies Openmind Inc, Les | **✓** |  |
+| [BlackBerry AtHoc](./blackberry-athoc.md) | BlackBerry | **✓** |  |
 | [Board Connect](./engage-squared-board-connect.md) | Engage Squared | **✓** |  |
 | [Bonusly](./bonusly.md) | Bonusly | **✓** |  |
 | [BrainBot](./biggerbrains-brainbot.md) | Biggerbrains | **✓** |  |
@@ -80,6 +82,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Easy Projects](./logic-software-inc-easy-projects.md) | Logic Software Inc. | **✓** |  |
 | [ecBooking](./expert-systems-ivrasia-coltd-ecbooking.md) | Expert Systems IVR(Asia) Co.Ltd. | **✓** |  |
 | [EdMill](./my-serious-game-edmill.md) | My-Serious-Game | **✓** |  |
+| [Egnyte](./egnyte.md) | Egnyte | **✓** |  |
 | [elmah.io](./elmahio.md) | elmah.io | **✓** |  |
 | [Email TeamMate](./harmonie-email-teammate.md) | harmon.ie | **✓** |  |
 | [従業員トレーニング管理](./sharepointsapiens-employee-training-management.md) | SharePoint|Sapiens | **✓** |  |
@@ -98,6 +101,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Fusion Remote](./jujo-inc-fusion-remote.md) | Jujo Inc. | **✓** |  |
 | [GitHub](./microsoft-corporation-github.md) | Microsoft Corporation | **✓** |  |
 | [Go1](./go1.md) | Go1 | **✓** |  |
+| [Good4work](./good4work.md) | Good4work | **✓** |  |
 | [Goodera](./goodera.md) | Goodera | **✓** |  |
 | [Google Analytics Insights](./freevolut-ltd-google-analytics-insights.md) | Freevolut LTD | **✓** |  |
 | [GoToConnect](./logmein-inc-gotoconnect.md) | LogMeIn Inc. | **✓** |  |
@@ -131,6 +135,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [LuckyDraw](./tony-xia-luckydraw.md) | Tony Xia | **✓** |  |
 | [SMART による Lumio](./smart-technologies-ulc-lumio-by.md) | SMART Technologies ULC | **✓** |  |
 | [MailClark](./mailclark.md) | MailClark | **✓** |  |
+| [Marvel](./marvel.md) | Marvel | **✓** |  |
 | [Medxnote MT](./medxnote-mt.md) | Medxnote | **✓** |  |
 | [MeisterTask](./meisterlabs-gmbh-meistertask.md) | MeisterLabs GmbH | **✓** |  |
 | [MindManager](./corel-mindmanager.md) | Corel | **✓** |  |
@@ -156,6 +161,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [OpenAgora](./open-agora-openagora.md) | Open Agora | **✓** |  |
 | [Org@Work](./lundano-org@work.md) | Lundano | **✓** |  |
 | [Package Notifier](./qburst-technologies-pvt-ltd-package-notifier.md) | QBURST TECHNOLOGIES PVT LTD | **✓** |  |
+| [PandaDoc](./pandadoc.md) | PandaDoc | **✓** |  |
 | [Perfony](./perfony.md) | Perfony | **✓** |  |
 | [Piazza](./piazza.md) | Piazza | **✓** |  |
 | [Planyway Team Calendar](./rubius-planyway-team-calendar.md) | Rubius | **✓** |  |
@@ -177,6 +183,8 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Remind](./88-ventures-limited-remind.md) | 88 Ventures Limited | **✓** |  |
 | [Reminderz](./chitchattr-reminderz.md) | ChitChattr | **✓** |  |
 | [Retro](./baltic-amadeus-retro.md) | Baltic Amadeus | **✓** |  |
+| [Rezolve.ai](./actionable-science-rezolveai.md) | Actionable Science | **✓** |  |
+| [RFPIO ボット](./rfpio-bot.md) | RFPIO | **✓** |  |
 | [RingCentral](./ringcentral-inc.md) | RingCentral, Inc. | **✓** |  |
 | [RowShare](./rowshare.md) | RowShare | **✓** |  |
 | [RSpace](./researchspace-rspace.md) | ResearchSpace | **✓** |  |
@@ -246,8 +254,10 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Vacation Tracker](./vacation-tracker.md) | Vacation Tracker | **✓** |  |
 | [Viima](./viima-solutions-oy.md) | Viima Solutions Oy | **✓** |  |
 | [VisualSP](./visualsp.md) | VisualSP | **✓** |  |
+| [Vonage Business Communications](./vonage-business-communications.md) | Vonage | **✓** |  |
 | [Webex Call](./cisco-webex-call.md) | Cisco | **✓** |  |
 | [Wide Ideas](./wide-ideas.md) | Wide Ideas | **✓** |  |
+| [Wired2Perform](./wired2perform.md) | Wired2Perform | **✓** |  |
 | [Wisembly](./wisembly.md) | Wisembly | **✓** |  |
 | [Woobot](./woobot.md) | Woobot | **✓** |  |
 | [作業ボード](./workboard.md) | 作業ボード | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

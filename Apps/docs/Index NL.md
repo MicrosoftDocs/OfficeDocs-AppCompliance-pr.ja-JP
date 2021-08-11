@@ -6,12 +6,12 @@ description: コンプライアンスニュースレターのアーカイブ
 keywords: コンプライアンスニュースレター
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 352238084dbd19e4bf1eb97bb0bb32c27beb4e2c
-ms.sourcegitcommit: eb6a263d7c795d93d70dd1d5c0c91e65ebfbc649
+ms.openlocfilehash: a69495d35eaf69bee341efa7b15f479aa53e2ac0043e1aa8a422e1adc97cd83c
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52668328"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54751707"
 ---
 # <a name="newsletter-archive"></a>ニュースレター アーカイブ
 
@@ -19,7 +19,7 @@ ms.locfileid: "52668328"
 
 [2021 年 1 月](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/January%2021%20NL)
 
-[2020年12月](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/december%2020%20NL)
+[2020 年 12 月](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/december%2020%20NL)
 
 [2020 年 10 月](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/october%20NL)
 
