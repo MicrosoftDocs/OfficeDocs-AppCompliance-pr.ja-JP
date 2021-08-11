@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: すべてのアプリで使用可能なすべてのセキュリティおよびコンプライアンス情報Microsoft Word。
 localization_priority: Normal
-ms.openlocfilehash: 2ebfb70a47886b0d05c7d3c54e1e7624f65385f8ec575db816e76d4050c13390
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 6e8f743f8c0fdc282d0975a2e8f47497a3e5d3ec
+ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54748037"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53771754"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft WordApps のセキュリティとコンプライアンス
 
