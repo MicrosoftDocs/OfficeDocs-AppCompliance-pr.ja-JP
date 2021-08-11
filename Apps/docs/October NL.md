@@ -6,12 +6,12 @@ description: 2020 年 10 月ニュースレター
 keywords: コンプライアンスニュースレター
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 928206ab780ea24ea6212a0c2a5c62120e65f0fe
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 1a48d25b88590e08e631ea4807859854d8e50aa92ddf52f22c652facc5fcfd6b
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52071376"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54747717"
 ---
 # <a name="october-2020-microsoft-365-app-compliance-newsletter"></a>2020 年 10 月 Microsoft 365 アプリ コンプライアンス ニュースレター
 
