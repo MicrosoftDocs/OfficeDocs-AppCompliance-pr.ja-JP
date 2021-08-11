@@ -6,12 +6,12 @@ description: Microsoft 365認定の詳細
 keywords: アプリ構成証明 microsoft 365 認定 365 アンケート appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 64e4d36f58c36447c3af48cfde22de6ecc722998
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: 95fcd8707e7c485fb113d10ce9bb2e6091c6e4a2d2a3864082d1e493db9d3076
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53526093"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54801923"
 ---
 # <a name="what-is-microsoft-365-certification"></a>認定とはMicrosoft 365ですか?
 
@@ -60,7 +60,7 @@ Microsoft 365認定は、Web アプリ (パートナー センターの商用マ
 次のステートメントは、ロゴに付随する必要があります。"認定Microsoft 365付きアプリは、このアプリが認定を取得Microsoft 365します。 このプログラムでは、アプリのセキュリティに加えて、アプリ発行者が採用するプラクティスと手順を確認します。 顧客データはアプリ発行元の管理下にあるが、アプリが安全で安全な方法で処理されるという検証を Microsoft が行ったので安心できます。
 
 
-### <a name="learn-more"></a>詳細情報
+### <a name="learn-more"></a>さらに詳しくは
 * [Microsoft 365アプリ コンプライアンス プログラムの概要](~/overview.md)  
 * [完全なMicrosoft 365認定](~/docs/certification.md)  
 * [検証とはPublisherですか?](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview)
