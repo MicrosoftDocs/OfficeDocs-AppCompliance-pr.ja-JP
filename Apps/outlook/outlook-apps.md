@@ -2,17 +2,17 @@
 title: Microsoft Outlook アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/05/2021
+ms.date: 08/13/2021
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Outlook アプリで使用可能なすべてのセキュリティとコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 4d3b5dcf8a1cc2a14b58b97534cf87095a5283895fb7f3cf0cd58a6693571a23
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 8857774c62fabe43c3f62ea420351f07756d8644
+ms.sourcegitcommit: 89e0443433dfa6a727a657ca5962af8d4f8d3d58
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54750677"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58344055"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook アプリのセキュリティとコンプライアンス
 
@@ -25,6 +25,7 @@ Microsoft は、microsoft Microsoft 365開発者パートナーと協力して�
 | [承認済みの連絡先の予定表](./approved-contact-calendars.md) | 承認済みの連絡先 | **✓** |  |
 | [Asana for Outlook](./asana-for-outlook.md) | Asana | **✓** |  |
 | [CI-Signature](./ci-solution-gmbh-signature.md) | ci ソリューション GmbH | **✓** |  |
+| [CodeTwo for Outlook](./codetwo-for-outlook.md) | CodeTwo | **✓** |  |
 | [harmon.ie のOutlook](./harmonie-corporation-for-outlook.md) | harmon.ie 株式会社 | **✓** |  |
 | [請求書と時間の追跡 - Zoho 請求書](./zoho-corporation-private-limited-invoice-and-time-tracking.md) | Zoho Corporation Private Limited | **✓** |  |
 | [iPlanner Office 365 Planner アドインのOutlook](./iglobe-iplanner-office-365-planner-add-in-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
