@@ -2,24 +2,24 @@
 title: ソーシャル インテントによるライブ チャットのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 08/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Live Chat で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d1e546a5cb1cd375ec3645fd70daa07791f88027
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 52b8aa65ce11acbe157d61bd46a6f0fee67f9bc6
+ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53528273"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58243539"
 ---
 # <a name="live-chat"></a>ライブ チャット
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2019 年 12 月 16 日</p>
+<p>開発者による最終更新日: 2021 年 8 月 9 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/a55635a5-8def-48e7-bcff-230cd43d3405" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000440" target="_blank">AppSource での表示</a>
@@ -37,8 +37,9 @@ ms.locfileid: "53528273"
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Social Intents |
 | パートナー Web サイトの URL | [https://www.socialintents.com](https://www.socialintents.com) |
-| プライバシー ポリシーの URL | []() |
-| 利用規約の URL | []() |
+| [アプリケーション情報Teamsページの URL | [https://www.socialintents.com/teams-live-chat.jsp](https://www.socialintents.com/teams-live-chat.jsp) |
+| プライバシー ポリシーの URL | [https://www.socialintents.com/privacy.html](https://www.socialintents.com/privacy.html) |
+| 利用規約の URL | [https://www.socialintents.com/tos.html](https://www.socialintents.com/tos.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -69,14 +70,14 @@ ms.locfileid: "53528273"
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| チーム メンバーが [チャットに参加] をクリックすると、メンバーのメールを使用して、チャットに同意したエージェント プロファイルを特定します。 | ライブ チャットを受け入れるチーム メンバーの電子メールと名前は、チャット履歴データベースに保存されます。 |  |
+>| チーム メンバーが [チャットに参加] をクリックすると、メンバーのメールを使用して、チャットに同意したエージェント プロファイルを特定します。 | ライブ チャットを受け入れるチーム メンバーの電子メールと名前は、チャット履歴データベースに保存されます。 | 必要に応じて、顧客の使用のために情報が収集され、チャットの販売前の質問設定で顧客が完全に無効にすることができます。 |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->電子メールと名前は、毎日削除または削除される毎日のログに表示される場合があります。
+>メールと名前は、1 時間に 1 回削除または削除される毎日のログに表示される場合があります。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
@@ -84,6 +85,11 @@ ms.locfileid: "53528273"
 
 >データは、IP および 2FA によって制限されるセキュリティで保護された RDS インスタンスに格納されます。
 
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
+
+人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
+
+>はい
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -101,3 +107,16 @@ ms.locfileid: "53528273"
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 情報
+
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Social Intents によって提供されています。
+
+| **Information** | **応答** |
+|:----------------|:-------------|
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

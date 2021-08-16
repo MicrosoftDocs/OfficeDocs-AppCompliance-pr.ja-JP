@@ -1,45 +1,45 @@
 ---
-title: Bao Le Duc による Standup Alice のアプリケーション情報
+title: Egnyte による Egnyte のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/10/2021
+ms.date: 07/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Standup Alice、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: Egnyte、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5d1d075f16fed6e0a0029e3c90050068ca5bf9b5
+ms.openlocfilehash: 9c9ff10261730b8b1cc56cbb7aa23d55d5da8383
 ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/13/2021
-ms.locfileid: "58243534"
+ms.locfileid: "58241263"
 ---
-# <a name="standup-alice"></a>Standup Alice
+# <a name="egnyte"></a>Egnyte
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 8 月 10 日</p>
+<p>開発者が最終更新日: 2021 年 7 月 21 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/724b774e-aa53-4d2d-885b-6008c114cb37" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200000758" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/28b871ff-85bf-48a5-9bee-364f2b74d104" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381174" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Bao Le Duc から Microsoft に提供される情報:
+Egnyte が Microsoft に提供する情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | Standup Alice |
-| ID | WA200000758 |
+| アプリ名 | Egnyte |
+| ID | WA104381174 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | Bao Le Duc |
-| パートナー Web サイトの URL | [https://www.standupalice.com](https://www.standupalice.com) |
-| [アプリケーション情報Teamsページの URL | [https://www.standupalice.com](https://www.standupalice.com) |
-| プライバシー ポリシーの URL | [https://www.standupalice.com/privacy](https://www.standupalice.com/privacy) |
-| 利用規約の URL | [https://www.standupalice.com/terms](https://www.standupalice.com/terms) |
+| パートナー会社名 | Egnyte |
+| パートナー Web サイトの URL | [https://www.egnyte.com](https://www.egnyte.com) |
+| [アプリケーション情報Teamsページの URL | [https://helpdesk.egnyte.com/hc/en-us/articles/115000999611-...](https://helpdesk.egnyte.com/hc/en-us/articles/115000999611-Egnyte-for-Microsoft-Teams) |
+| プライバシー ポリシーの URL | [https://www.egnyte.com/corp/privacy_policy.html](https://www.egnyte.com/corp/privacy_policy.html) |
+| 利用規約の URL | [https://www.egnyte.com/terms-and-conditions/01-2020](https://www.egnyte.com/terms-and-conditions/01-2020) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +49,7 @@ Bao Le Duc から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関して、Bao Le Duc によって提供されています。
+この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Egnyte によって提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
@@ -62,9 +62,7 @@ Bao Le Duc から Microsoft に提供される情報:
 
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Google クラウド - Google クラウドでボットをホストする | Microsoft Teamsの TeamId | チームのメンバーを特定するには、TeamId がMicrosoft Teams &quot; 必要 &quot; です |
+>非Microsoft サービスは使用されません。
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
@@ -72,7 +70,7 @@ Bao Le Duc から Microsoft に提供される情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Web アプリとスタンドアップ レポートに表示する表示名を使用して、意味のあるものにしています。 無料試用版、支払いTeams管理者と連絡を取る場合があります。 | 表示名と電子メール アドレス。 | 表示名と電子メール アドレスを使用して、毎日のスタンドアップ レポートを作成します。  |
+>| ネイティブ統合のための Egnyte アプリケーションMicrosoft Teamsエクスペリエンス | いいえ |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -85,13 +83,13 @@ Bao Le Duc から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->これは Google クラウドに保存され、Google クラウドにアクセスするために 2FA があります。
+>削除、保持、監査、アーカイブ、エンドユーザー ポリシー
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>はい
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -101,9 +99,9 @@ Bao Le Duc から Microsoft に提供される情報:
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35837' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/15585' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35837" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/15585" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -113,7 +111,7 @@ Bao Le Duc から Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、Bao Le Duc によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Egnyte によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|

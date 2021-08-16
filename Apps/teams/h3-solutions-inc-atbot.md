@@ -2,24 +2,24 @@
 title: H3 Solutions, Inc. による AtBot のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: AtBot で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 94cc732dc5f6cf6416fd1b386271b3694d6f3698
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: d71404e66489ba3f1e81ca5f1a1a92c17b36f9e6
+ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525621"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58239750"
 ---
 # <a name="atbot"></a>AtBot
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2019 年 12 月 16 日</p>
+<p>開発者が最終更新日: 2021 年 8 月 10 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/7c01af81-ae7d-416e-98a3-c139cae8cfb0" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381219" target="_blank">AppSource での表示</a>
@@ -59,11 +59,11 @@ H3 Solutions, Inc. から Microsoft に提供される情報:
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.Read.All | アプリケーション | AAD グループ名、AAD グループ GUID、UPN | ボット スキルのセキュリティ トリミングを許可する AAD グループを列挙します。 ライセンスを適用できるユーザーを列挙します。 管理者/共同作成者として追加するユーザーを列挙する | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 >| Directory.Read.All | 委任 | AAD グループ名、AAD グループ GUID、UPN | ボット スキルのセキュリティ トリミングを許可する AAD グループを列挙します。 ライセンスを適用できるユーザーを列挙します。 管理者/共同作成者として追加するユーザーを列挙する | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
->| People.Read | 委任 | なし | [ユーザーの取得] アクションのユーザーをユーザーから列挙Flow。  ボットが Microsoft サーバーの /People エンドポイントからユーザーを取得Graph。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| People.Read | 委任 | いいえ | [ユーザーの取得] アクションのユーザーをユーザーから列挙Flow。  ボットが Microsoft サーバーの /People エンドポイントからユーザーを取得Graph。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 >| User.Read | 委任 | テナント ID、UPN | テナント ID と UPN&#8217;にアクセスして、作成したフロー/ロジック アプリを作成したユーザーに結び付けることができます。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
->| メール | 委任 | なし | ユーザーのメール アドレスにアクセスできます。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| メール | 委任 | 電子メール アドレスは、サポート システムを介してサポートに連絡するために使用されます。 | ユーザーのメール アドレスにアクセスできます。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 >| offline_access | 委任 | アクセス/更新トークン。 | 更新トークンを使用して、ユーザーのログインを維持できます。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
->| openid | 委任 | なし | ユーザーがログインできます。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| openid | 委任 | UPN、システム内のユーザーを識別する | ユーザーがログインできます。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 >| profile | 委任 | UPN | ユーザーの UPN へのアクセス。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 
 
@@ -79,14 +79,14 @@ H3 Solutions, Inc. から Microsoft に提供される情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| ボットによって生成されたチャット メッセージでのメンションの作成 | なし |  |
+>| ボットはユーザーの UPN にアクセスして、ユーザーを@mentionメッセージを送信できます。 | UPN | ユーザーがシステムにアクセスするには、UPN を保存する必要があります。 |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->テナント ID、UPN アプリケーション インサイト使用し、ログは自動的にアーカイブされる前に 90 日間続きます。 (https://docs.microsoft.com/azure/azure-monitor/app/data-retention-privacy)
+>テナント ID、UPN。 Application インサイトを使用し、ログは自動的にアーカイブされる前に 90 日間続きます。 (https://docs.microsoft.com/azure/azure-monitor/app/data-retention-privacy)
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
@@ -96,6 +96,11 @@ H3 Solutions, Inc. から Microsoft に提供される情報:
 サービスの取り消し時に、すべての UPN がライセンス データベースから削除されます。
 詳細については、「Azure Services」の「Data Residency」 を参照してください。  AtBot を使用して生成される顧客固有のデータの多くが顧客のテナントに格納され、そのテナントの管理者がデータを完全に制御できます。
 
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
+
+人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
+
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -113,3 +118,27 @@ H3 Solutions, Inc. から Microsoft に提供される情報:
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 情報
+
+この情報は、H3 Solutions, Inc. から、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について提供されています。
+
+| **Information** | **応答** |
+|:----------------|:-------------|
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
+| アプリはマルチテナントをサポートしていますか? | はい |
+| アプリに機密クライアントがありますか? | いいえ |
+| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
+| アプリは Web API を公開していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリで非推奨の API を使用していますか? | いいえ |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

@@ -1,45 +1,45 @@
 ---
-title: Bao Le Duc による Standup Alice のアプリケーション情報
+title: Vonage による Vonage Business Communications のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/10/2021
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Standup Alice、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: Vonage Business Communications、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5d1d075f16fed6e0a0029e3c90050068ca5bf9b5
+ms.openlocfilehash: 80665180e1abdd6783e7644a06b4d116dcedf6ae
 ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/13/2021
-ms.locfileid: "58243534"
+ms.locfileid: "58241816"
 ---
-# <a name="standup-alice"></a>Standup Alice
+# <a name="vonage-business-communications"></a>Vonage Business Communications
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 8 月 10 日</p>
+<p>開発者が最終更新日: 2021 年 6 月 23 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/724b774e-aa53-4d2d-885b-6008c114cb37" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200000758" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/47c6b242-a067-426c-9a02-0f680a42c488" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002988" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Bao Le Duc から Microsoft に提供される情報:
+Vonage から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | Standup Alice |
-| ID | WA200000758 |
+| アプリ名 | Vonage Business Communications |
+| ID | WA200002988 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | Bao Le Duc |
-| パートナー Web サイトの URL | [https://www.standupalice.com](https://www.standupalice.com) |
-| [アプリケーション情報Teamsページの URL | [https://www.standupalice.com](https://www.standupalice.com) |
-| プライバシー ポリシーの URL | [https://www.standupalice.com/privacy](https://www.standupalice.com/privacy) |
-| 利用規約の URL | [https://www.standupalice.com/terms](https://www.standupalice.com/terms) |
+| パートナー会社名 | Vonage |
+| パートナー Web サイトの URL | [https://www.vonage.com](https://www.vonage.com) |
+| [アプリケーション情報Teamsページの URL | [https://www.vonage.com/unified-communications/](https://www.vonage.com/unified-communications/) |
+| プライバシー ポリシーの URL | [https://www.vonage.com/legal/privacy-policy](https://www.vonage.com/legal/privacy-policy) |
+| 利用規約の URL | [https://www.vonage.com/legal/unified-communications/tos/glo...](https://www.vonage.com/legal/unified-communications/tos/global-vbc-tos/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,30 +49,29 @@ Bao Le Duc から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関して、Bao Le Duc によって提供されています。
+この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Vonage によって提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションでは、Microsoft アプリケーションをGraph。
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| TeamsActivity.Send | アプリケーション | このアクセス許可を持つデータは保存されません | このアクセス許可を持つデータは保存されません | [1d8a304e-ea67-4aa2-9345-2793419cf83f](https://docs.microsoft.com/microsoft-365-app-certification/azure/1d8a304e-ea67-4aa2-9345-2793419cf83f) |
+>| User.Read | 委任 | Azure ユーザー ID とテナント ID を取得して、後でこのユーザーに通知を送信できます。 |  Azure ユーザー ID とテナント ID を取得し、後で SMS/MMS を受信すると、このユーザーに通知を送信できます | [1d8a304e-ea67-4aa2-9345-2793419cf83f](https://docs.microsoft.com/microsoft-365-app-certification/azure/1d8a304e-ea67-4aa2-9345-2793419cf83f) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Google クラウド - Google クラウドでボットをホストする | Microsoft Teamsの TeamId | チームのメンバーを特定するには、TeamId がMicrosoft Teams &quot; 必要 &quot; です |
+>非Microsoft サービスは使用されません。
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
->| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Web アプリとスタンドアップ レポートに表示する表示名を使用して、意味のあるものにしています。 無料試用版、支払いTeams管理者と連絡を取る場合があります。 | 表示名と電子メール アドレス。 | 表示名と電子メール アドレスを使用して、毎日のスタンドアップ レポートを作成します。  |
+>EUII にはアクセスされません。
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -85,13 +84,13 @@ Bao Le Duc から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->これは Google クラウドに保存され、Google クラウドにアクセスするために 2FA があります。
+>aws のセキュリティで保護されたデータベースに usersId と tenantId を保存すると、ユーザーがログアウトすると情報が削除されます。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>はい
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -101,9 +100,9 @@ Bao Le Duc から Microsoft に提供される情報:
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35837' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/38766' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35837" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/38766" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -113,7 +112,7 @@ Bao Le Duc から Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、Bao Le Duc によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について Vonage によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|

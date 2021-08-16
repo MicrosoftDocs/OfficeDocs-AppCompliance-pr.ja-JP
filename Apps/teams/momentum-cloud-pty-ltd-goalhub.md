@@ -1,45 +1,45 @@
 ---
-title: Derdack SIGNL4 による SIGNL4 のアプリケーション情報
+title: 勢いのクラウド Pty Ltd による Goalhub のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/06/2021
+ms.date: 08/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: SIGNL4 で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: Goalhub で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4cf1eae6ef533a1e744ca3c2968764fed0227d00
+ms.openlocfilehash: 40639ecd98fcb754eef6286910cdc5972c3ebaf0
 ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/13/2021
-ms.locfileid: "58243518"
+ms.locfileid: "58245346"
 ---
-# <a name="signl4"></a>SIGNL4
+# <a name="goalhub"></a>Goalhub
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2021 年 8 月 6 日</p>
+<p>開発者による最終更新日: 2021 年 8 月 1 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/bd19c878-00b7-47cd-9b65-74a2def84427" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001239" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/593a90d6-6630-4376-8745-55d7c2c3f0c9" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002400" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Derdack SIGNL4 から Microsoft に提供される情報:
+モメンタム クラウド Pty Ltd から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | SIGNL4 |
-| ID | WA200001239 |
+| アプリ名 | Goalhub |
+| ID | WA200002400 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | Derdack SIGNL4 |
-| パートナー Web サイトの URL | [https://www.derdack.com](https://www.derdack.com) |
-| [アプリケーション情報Teamsページの URL | [https://www.signl4.com](https://www.signl4.com) |
-| プライバシー ポリシーの URL | [https://www.signl4.com/privacy-policy/](https://www.signl4.com/privacy-policy/) |
-| 利用規約の URL | [https://www.signl4.com/terms_of_use/](https://www.signl4.com/terms_of_use/) |
+| パートナー会社名 | モメンタム クラウド Pty Ltd |
+| パートナー Web サイトの URL | [https://www.momentumcloud.com.au](https://www.momentumcloud.com.au) |
+| [アプリケーション情報Teamsページの URL | [https://www.goalhub.com/about-1](https://www.goalhub.com/about-1) |
+| プライバシー ポリシーの URL | [https://www.goalhub.com/privacy-policy](https://www.goalhub.com/privacy-policy) |
+| 利用規約の URL | [https://www.goalhub.com/terms](https://www.goalhub.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +49,7 @@ Derdack SIGNL4 から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Derdack SIGNL4 によって提供されています。
+この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関して、Momentum Cloud Pty Ltd によって提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
@@ -62,9 +62,7 @@ Derdack SIGNL4 から Microsoft に提供される情報:
 
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| 再び、Twilio | アプリを使用している場合、請求通知を顧客に送信するには、電子メール アドレス、電子メール アドレスが必要です。 Twilio、電話番号、SMS テキスト メッセージを介してアラートを送信するコンテンツを通知する | Azure Management API、Azure Monitor Alerts が収集される、収集は、システムがこれらのアラートの通知を送信するために発生します |
+>非Microsoft サービスは使用されません。
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
@@ -77,20 +75,19 @@ Derdack SIGNL4 から Microsoft に提供される情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->電子メール アドレス情報はログに含まれます。 また、組織によって送信された追加のアラート コンテンツ データもログに含まれる場合があります。 これを防ぐために、組織はアプリでアカウントを終了できます。
-ログ内のデータは、お客様がアプリで抱えている問題のサポートとトラブルシューティングに必要です。
+>アプリケーションのテレメトリまたはログに OII または EUII は表示されません。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->データは、ヨーロッパの Azure データ センターに格納されます。 管理者はアクセスできます。 AAD 認証を使用する 2FA。 ストレージ アカウントへのアクセス キーは、アクセスの管理にも使用されます。
+>データ保護、保持、プライバシーに関する NSW Goverment 規制に準拠しています
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->はい
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -100,9 +97,9 @@ Derdack SIGNL4 から Microsoft に提供される情報:
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35955' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/42546' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35955" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/42546" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -112,7 +109,7 @@ Derdack SIGNL4 から Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Derdack SIGNL4 によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 基準を処理する方法について、Momentum Cloud Pty Ltd によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -120,16 +117,15 @@ Derdack SIGNL4 から Microsoft に提供される情報:
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
-| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | いいえ |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
-| アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | はい |
+| アプリはマルチテナントをサポートしていますか? | いいえ |
+| アプリに機密クライアントがありますか? | いいえ |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/><br/> |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
 | アプリでプレビュー API を使用していますか? | いいえ |
-| アプリで非推奨の API を使用していますか? | はい |
+| アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -2,24 +2,24 @@
 title: 電子メール TeamMate のアプリケーション情報 (harmon.ie
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: E メール TeamMate、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a5d84cc70ee039a4b2973fb5ec9bfd9f20a9a179
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: 1aecf8fedde78acae86eb654f066bb443ff387ed
+ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521660"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58239764"
 ---
 # <a name="email-teammate"></a>Email TeamMate
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2021 年 1 月 4 日</p>
+<p>開発者が最終更新日: 2021 年 8 月 10 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/3ae27f31-ceea-4d13-a212-cdc9d786eae1" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002338" target="_blank">AppSource での表示</a>
@@ -37,7 +37,7 @@ Microsoft に提供される harmon.ie 情報:
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | harmon.ie |
 | パートナー Web サイトの URL | [https://harmon.ie](https://harmon.ie) |
-| [アプリケーション情報Teamsページの URL | [https://emailteammate.com](https://emailteammate.com) |
+| [アプリケーション情報Teamsページの URL | [https://harmon.ie](https://harmon.ie) |
 | プライバシー ポリシーの URL | [https://harmon.ie/legal/privacy-policy](https://harmon.ie/legal/privacy-policy) |
 | 利用規約の URL | [https://harmon.ie/legal/teammate-eula](https://harmon.ie/legal/teammate-eula) |
 
@@ -94,7 +94,7 @@ Microsoft に提供される harmon.ie 情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->なし
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -123,17 +123,17 @@ Microsoft に提供される harmon.ie 情報:
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | なし |
+| アプリに機密クライアントがありますか? | いいえ |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
 | アプリでプレビュー API を使用していますか? | はい |
-| アプリで非推奨の API を使用していますか? | なし |
+| アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
