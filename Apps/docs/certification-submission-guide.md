@@ -6,12 +6,12 @@ description: Microsoft 365認定申請ガイドの詳細なビュー
 keywords: アプリ認定チームMicrosoft 365コンプライアンス m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 31c974a20e17daa0436826432429bd664a9a1f59dee6b351b587ae0b30cc6bac
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: b0a207bd8fbe1834e03c08eecb82d3552c75a182
+ms.sourcegitcommit: f33609288c6c59af423367dce2eac3e261c1d297
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54750543"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58373781"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365認定申請ガイド
 
@@ -39,7 +39,7 @@ ms.locfileid: "54750543"
 - [用語集](#glossary) 
 
 
-## <a name="introduction"></a>概要
+## <a name="introduction"></a>はじめに
 
 Microsoft 365 アプリ コンプライアンス プログラムの一部である Microsoft 365 認定は、サード パーティの開発者向けアプリ/アドインを Microsoft 365 プラットフォームに統合する際に、データとプライバシーが適切に保護され、保護されているという確信を企業組織に提供します。 検証に合格するアプリケーションとアドインは、Microsoft 365 **エコシステム** 全体Microsoft 365されます。 
 
@@ -105,9 +105,9 @@ IaaS または PaaS が展開されている場合は、これらの展開の種
 
 |母集団のサイズ              | サンプル                  |
 |---------------------------- |-------------------------|
-|<5|1|
-|>5 & <10|2|
-|>9 & <25|3|
+|<5|1 |
+|>5 & <10|2 |
+|>9 & <25|3 |
 |>24|4 |
 
 > [!NOTE]
@@ -115,11 +115,7 @@ IaaS または PaaS が展開されている場合は、これらの展開の種
 
 ## <a name="certification-process"></a>認定プロセス
 
-認定プロセスを開始する前に、証明書の構成証明を正常にPublisherがあります。 構成証明の応答は、認証プロセスのサポートMicrosoft 365に使用され、次のように処理されます。
-
-## <a name="certification-process"></a>認定プロセス
-
-認定プロセスを開始する前に、証明書の構成証明をPublisherがあります。 発行元の構成証明が承認されると、認定資格への参加を招待する入門メールがMicrosoft 365されます。
+認定プロセスを開始する前に、認証プロセスを正常に完了Publisherがあります。 完了すると、認定Microsoft 365次のように処理されます。
 
 ### <a name="preparation"></a>準備
 1. パートナー センターに移動し、完成した構成証明[Publisher確認]( https://docs.microsoft.com/microsoft-365-app-certification/docs/attestation)します。 必要に応じて、応答を編集および更新できます。ただし、承認を得る場合は、構成証明のドキュメントを再提出して承認する必要があります。 申請が 3 か月を超える場合は、レビューと検証のために、Publisherを再送信する必要があります。 
@@ -190,7 +186,7 @@ IaaS または PaaS が展開されている場合は、これらの展開の種
 * システム レポート
 
 評価プロセスを完了するために必要な証拠を収集するために、さまざまな方法が使用されます。  この証拠のコレクションは、次の形式の場合があります。 
-* Documents 
+* ドキュメント 
 * スクリーンショット 
 * インタビュー 
 * スクリーンシェアリング 
@@ -494,7 +490,7 @@ TLS 圧縮 **を無効** にする必要があります。
 
 &emsp;&#x2713; RSA を使用できます。 キー **は少** なくとも 2048 ビットである必要があります。また、OAEP パディングを使用する必要があります。 PKCS パディングの使用は、互換性上の理由でのみ許可されます。
 
-**Signatures**
+**署名**
 
 &emsp;&#x2713; RSA を使用できます。 キー **は** 2048 ビット以上である必要があります。PSS パディングを使用する必要があります。 PKCS パディングの使用は、互換性上の理由でのみ許可されます。
 
