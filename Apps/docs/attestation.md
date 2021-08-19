@@ -6,12 +6,12 @@ description: 構成証明プログラムのPublisher詳細
 keywords: アプリ構成証明認定 365 アンケート appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: ad059066c4685cf72e5d0b76b10b5d9ca22b6df9
-ms.sourcegitcommit: dc086ac579e488a38bad3dad10037d43af7efd55
+ms.openlocfilehash: 286d14e580bdb9f24ccf1754685ebeeaef6d0c11
+ms.sourcegitcommit: eae0e45c87fa8f1a87257e1e38122228e6970ba9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/18/2021
-ms.locfileid: "58385873"
+ms.locfileid: "58390461"
 ---
 # <a name="complete-publisher-attestation"></a>完全なPublisher構成証明
 
@@ -32,12 +32,12 @@ Publisher構成証明は、Web アプリ (パートナー センターの商用�
 
 
 ## <a name="program-benefits"></a>プログラムの利点
-- 時間の節約。 顧客にドキュメント ページを表示し、アプリケーションに関してよく聞く質問への回答を見つける
-- 企業組織のセキュリティとコンプライアンスの内部レビュータイムラインの高速化
-- 透明度の向上
-- ストア内の他のアプリとの差別化 
-- AppSource のエントリ、管理センター、Microsoft 管理センター、Teams ストアのエントリからドキュメント ページTeamsリンクする 
-- 認定を開始するMicrosoft 365認定
+- 時間の節約。 顧客にドキュメント ページを表示し、アプリケーションに関してよく聞く質問に対する回答を見つけ出します。
+- 企業組織のセキュリティとコンプライアンスの内部レビュータイムラインを加速する。
+- 透明度の向上。
+- ストア内の他のアプリとの差別化。 
+- AppSource のエントリ、Teams 管理センター、Microsoft 管理センター、Teams ストアからドキュメント ページにリンクします。 
+- 認定を開始するMicrosoft 365します。
  
 
 ## <a name="publisher-attestation-process"></a>Publisher構成証明プロセス
