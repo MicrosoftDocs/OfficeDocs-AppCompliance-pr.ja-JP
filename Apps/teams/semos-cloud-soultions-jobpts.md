@@ -1,44 +1,45 @@
 ---
-title: Intumit の SmartWork による SmartWork のアプリケーション情報
+title: Semos Cloud Soultions による JobPts のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/23/2021
+ms.date: 07/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: SmartWork、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9df1a52e4634956a1a48984faeea9e4b453c03a4
+description: JobPts で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: 22c80e919a07b30f6b65dc055a514e9ce2a1eefc
 ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404042"
+ms.locfileid: "58404710"
 ---
-# <a name="smartwork"></a>SmartWork
+# <a name="jobpts"></a>JobPts
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 7 月 23 日</p>
+<p>開発者による最終更新日: 2021 年 7 月 7 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/a938ae1e-a791-4751-9e6a-178c991fa0fa" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001149" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/601a47bc-f201-4398-a0cb-593ea081f265" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001849" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Intumit の SmartWork が Microsoft に提供する情報:
+Semos Cloud Soultions から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | SmartWork |
-| ID | WA200001149 |
+| アプリ名 | JobPts |
+| ID | WA200001849 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | SmartWork of Intumit |
-| パートナー Web サイトの URL | [https://www.intumit.com/english/](https://www.intumit.com/english/) |
-| プライバシー ポリシーの URL | [https://www.intumit.com/privacy.html](https://www.intumit.com/privacy.html) |
-| 利用規約の URL | [https://www.intumit.com/english/TermsOfUse.html](https://www.intumit.com/english/TermsOfUse.html) |
+| パートナー会社名 | Semos Cloud Soultions |
+| パートナー Web サイトの URL | [https://semoscloud.com](https://semoscloud.com) |
+| [アプリケーション情報Teamsページの URL | [https://semoscloud.com/product/jobpts](https://semoscloud.com/product/jobpts) |
+| プライバシー ポリシーの URL | [https://semoscloud.com/privacy-policy/](https://semoscloud.com/privacy-policy/) |
+| 利用規約の URL | [https://semoscloud.com/terms-of-use/](https://semoscloud.com/terms-of-use/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,7 +49,7 @@ Intumit の SmartWork が Microsoft に提供する情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関する SmartWork of Intumit によって提供されています。
+この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Semos Cloud Soultions によって提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
@@ -56,7 +57,11 @@ Intumit の SmartWork が Microsoft に提供する情報:
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | 委任 | userPrincipalName を使用して、ユーザーのメールが有効な AAD からのメールであるかどうかを識別する | サインインおよびユーザー プロファイルの読み取り | [a938ae1e-a791-4751-9e6a-178c991fa0fa](https://docs.microsoft.com/microsoft-365-app-certification/azure/a938ae1e-a791-4751-9e6a-178c991fa0fa) |
+>| User.Read | 委任 | 会社の基本情報を読む | データが保存されません | [1ac9e5c6-4850-4864-96c5-b91e4512334e](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e) |
+>| メール | 委任 | これは、AzureAD ユーザーと JobPts ツールのユーザーのマッピングに使用されます。 | データが保存されません | [1ac9e5c6-4850-4864-96c5-b91e4512334e](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e) |
+>| offline_access | 委任 | データへのアクセスを維持する | データが保存されません | [1ac9e5c6-4850-4864-96c5-b91e4512334e](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e) |
+>| openid | 委任 | ユーザーが自分の仕事用アカウントでサインインするには | データが保存されません | [1ac9e5c6-4850-4864-96c5-b91e4512334e](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e) |
+>| profile | 委任 | JobPts がユーザーの基本情報 (ユーザー名) を表示するには | データが保存されません | [1ac9e5c6-4850-4864-96c5-b91e4512334e](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -71,26 +76,26 @@ Intumit の SmartWork が Microsoft に提供する情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| ユーザーのメールが有効な AAD からのメールであるかどうかを識別する場合に使用する | ユーザーのメール | ユーザーが有効な AAD から来たかどうかを識別するための保存されたユーザーのメール リスト |
+>| ボットと通信しているユーザーの情報を取得する | いいえ |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->いいえ。 会話中に、セッション モードを使用して制御します。 id を使用して db 内のアイテムに対応し、データにアクセスします。 ユーザーの情報は特にログに記録しない
+>アプリケーションのテレメトリまたはログに OII または EUII は表示されません。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->有効な AAD アカウントを持っているユーザーだけがアプリケーションにアクセスできます。
+>パートナーのシステムにデータを転送しない
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->はい
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -100,9 +105,9 @@ Intumit の SmartWork が Microsoft に提供する情報:
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35852' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35852" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -112,20 +117,21 @@ Intumit の SmartWork が Microsoft に提供する情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について、Intumit の SmartWork によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Semos Cloud Soultions によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
+| サポートされているポリシーの種類を一覧表示する | 多要素認証、ユーザーの場所と IP 範囲の制限 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | はい |
+| アプリに機密クライアントがありますか? | いいえ |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリの場合、何を使用しないのですか? | ,<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/> |
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
 | アプリでプレビュー API を使用していますか? | いいえ |

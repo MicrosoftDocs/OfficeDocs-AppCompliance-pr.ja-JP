@@ -1,44 +1,45 @@
 ---
-title: Intumit の SmartWork による SmartWork のアプリケーション情報
+title: 野心による野心のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/23/2021
+ms.date: 08/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: SmartWork、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9df1a52e4634956a1a48984faeea9e4b453c03a4
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+description: 野望に関して利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: d6c4a598cd115edd52e6dbd37cabd60b7a011aad
+ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404042"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "58567259"
 ---
-# <a name="smartwork"></a>SmartWork
+# <a name="ambition"></a>野望
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 7 月 23 日</p>
+<p>開発者が最終更新日: 2021 年 8 月 17 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/a938ae1e-a791-4751-9e6a-178c991fa0fa" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001149" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/250ef61a-9fa3-434b-ae2a-0ecbe3f8116b" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003159" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Intumit の SmartWork が Microsoft に提供する情報:
+マイクロソフトに対する野心によって提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | SmartWork |
-| ID | WA200001149 |
+| アプリ名 | 野望 |
+| ID | WA200003159 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | SmartWork of Intumit |
-| パートナー Web サイトの URL | [https://www.intumit.com/english/](https://www.intumit.com/english/) |
-| プライバシー ポリシーの URL | [https://www.intumit.com/privacy.html](https://www.intumit.com/privacy.html) |
-| 利用規約の URL | [https://www.intumit.com/english/TermsOfUse.html](https://www.intumit.com/english/TermsOfUse.html) |
+| パートナー会社名 | 野望 |
+| パートナー Web サイトの URL | [https://ambition.com](https://ambition.com) |
+| [アプリケーション情報Teamsページの URL | [https://ambition.com](https://ambition.com) |
+| プライバシー ポリシーの URL | [https://ambition.com/privacy/](https://ambition.com/privacy/) |
+| 利用規約の URL | [https://ambition.com/pages/terms/](https://ambition.com/pages/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,7 +49,7 @@ Intumit の SmartWork が Microsoft に提供する情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関する SmartWork of Intumit によって提供されています。
+この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関する、野心によって提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
@@ -56,14 +57,21 @@ Intumit の SmartWork が Microsoft に提供する情報:
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | 委任 | userPrincipalName を使用して、ユーザーのメールが有効な AAD からのメールであるかどうかを識別する | サインインおよびユーザー プロファイルの読み取り | [a938ae1e-a791-4751-9e6a-178c991fa0fa](https://docs.microsoft.com/microsoft-365-app-certification/azure/a938ae1e-a791-4751-9e6a-178c991fa0fa) |
+>| Channel.ReadBasic.All | 委任 | チャネルへの野心通知の送信 | チャネル ID &amp; 名。 | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
+>| Group.Read.All | 委任 | チーム内の特定のチャネルに対する野心ワークフロー通知をセットアップします。 | チームの名前 &amp; ID。 | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
+>| User.Read | 委任 | 野望アプリを承認した管理者を特定するには | ユーザー名 &amp; 電子メール、野望ユーザーと同期する | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
+>| User.ReadBasic.All | 委任 | ユーザーの名前の &amp; 電子メールを使用して、ユーザーを野望アカウントと同期します。 | ユーザーの名前の &amp; 電子メールが格納されます。 | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
+>| offline_access | 委任 | ユーザーがオフラインMicrosoft Teamsデータを同期するには。 | OAuth Access トークン更新 &amp; トークンが格納されます。 | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
+>| openid | 委任 | これは、Microsoft のサインイン機能を使用するために必要です。 | 該当なし | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->非Microsoft サービスは使用されません。
+>| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
+>| https://ambition.com/pages/subprocessors/ | 従業員名、名、電子メール アドレス | 表示/検索/フィルターの目的 |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
@@ -71,26 +79,26 @@ Intumit の SmartWork が Microsoft に提供する情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| ユーザーのメールが有効な AAD からのメールであるかどうかを識別する場合に使用する | ユーザーのメール | ユーザーが有効な AAD から来たかどうかを識別するための保存されたユーザーのメール リスト |
+>| 表示の目的。  | メール &amp; の名前を指定します。 | Microsoft Users をその野望アカウントにリンクするには。 |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->いいえ。 会話中に、セッション モードを使用して制御します。 id を使用して db 内のアイテムに対応し、データにアクセスします。 ユーザーの情報は特にログに記録しない
+>https://ambition.com/privacy/
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->有効な AAD アカウントを持っているユーザーだけがアプリケーションにアクセスできます。
+>知る必要があるアクセス許可。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->はい
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -100,9 +108,9 @@ Intumit の SmartWork が Microsoft に提供する情報:
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35852' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35852" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -112,20 +120,20 @@ Intumit の SmartWork が Microsoft に提供する情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について、Intumit の SmartWork によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について、野望によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリの場合、何を使用しないのですか? | ,<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/> |
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
 | アプリでプレビュー API を使用していますか? | いいえ |
