@@ -2,17 +2,17 @@
 title: Microsoft Excelアプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/11/2021
+ms.date: 08/27/2021
 ms.topic: article
 ms.service: attestation
 description: すべてのアプリで使用可能なすべてのセキュリティとコンプライアンスMicrosoft Excel情報。
 localization_priority: Normal
-ms.openlocfilehash: d8030712f76cdff731c7ff17c94e2e89c5def494
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.openlocfilehash: b039a772748821cad11fbb8d0f9d65e94b544cc5
+ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58243466"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58672884"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft ExcelApps のセキュリティとコンプライアンス
 
@@ -20,6 +20,7 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|
+| [キヤノン B2B パートナー向け EMEA サービス コスト計算ツール](./canon-emea-service-cost-calculator-for-b2b-partners.md) | キヤノン EMEA | **✓** |  |
 | [CloudExtend Analytics for NetSuite](./celigo-cloudextend-analytics-for-netsuite.md) | Celigo CloudExtend | **✓** |  |
 | [Excel-to-Word ドキュメントオートメーション](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [harmon.ie のOffice](./harmonie-corporation-for-office.md) | harmon.ie 株式会社 | **✓** |  |

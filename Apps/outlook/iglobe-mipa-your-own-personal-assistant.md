@@ -2,23 +2,23 @@
 title: MIPA のアプリケーション情報 - iGlobe による独自の個人用アシスタント
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/05/2020
+ms.date: 08/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: MIPA で使用可能なすべてのセキュリティおよびコンプライアンス情報 - 自分のパーソナル アシスタント、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7db3c4f2e43ab80a84cc1421bff8489b2e467732
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: 816d87c566fc50d3c6eaeaeaed2b333356d3ca00
+ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527023"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58672924"
 ---
 # <a name="mipa---your-own-personal-assistant"></a>MIPA - 独自の個人用アシスタント
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>開発者による最終更新日: 2020 年 11 月 5 日</p>
+<p>開発者が最終更新日: 2021 年 8 月 12 日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200000062" target="_blank">AppSource での表示</a>
 
@@ -54,24 +54,24 @@ iGlobe から Microsoft に提供される情報:
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Calendars.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| Contacts.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| Directory.AccessAsUser.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成。 ユーザーが同意を持ち、API を使用するアクセス権を持っている場合。 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| Directory.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | プランナー タスクを取得するには、Outlook To Doフラグを付け、それらを更新します。 新しい Planner タスクを作成するには。 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| Files.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、リスト、ライブラリ、ファイルSharePoint取得します。 ファイルをリストに保存SharePointします。 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| Group.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、リスト、ライブラリ、ファイルSharePoint取得します。 ファイルをリストに保存SharePointします。 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| Group.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、リスト、ライブラリ、ファイルSharePoint取得します。 ファイルをリストに保存SharePointします。 iGlobe CRM Office 365 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| Mail.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | フラグ付きメールの読み取りおよび更新 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| MailboxSettings.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新、フラグ付きメールの読み取りおよび更新、メール全体の読み取りOutlook To Do更新する | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| Tasks.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新、Do Entreies Outlookの読み取りおよび更新 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新、Do Entreies Outlookの読み取りおよび更新 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| User.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りと更新、Do Entreies へのOutlookと更新、読み取り、更新、パンナー タスクの作成 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| User.ReadBasic.All | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りと更新、Do Entreies へのOutlookと更新、読み取り、更新、パンナー タスクの作成 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| User.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新、Do Entreies Outlookの読み取りおよび更新 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| メール | 委任 | アプリケーション データベースにデータは格納されません。 | アプリがユーザーのプライマリ メール アドレス (SSO の場合) を読み取ります。 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| offline_access | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーが現在アプリを使用していない場合でも、アクセス権を与えたデータをアプリが表示および更新できます。 これにより、アプリに追加のアクセス許可 (SSO の場合) は付与されない。 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| openid | 委任 | アプリケーション データベースにデータが格納されません | ユーザーが自分の仕事用アカウントまたは学校アカウントでアプリにサインインし、アプリが基本的なユーザー プロファイル情報 (SSO 用) を表示できます。 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
->| profile | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りと更新、Do Entreies へのOutlookと更新、読み取り、更新、パンナー タスクの作成 | [e854ea05-68ab-4204-babe-db4a784fb4d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d16) |
+>| Calendars.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Contacts.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Directory.AccessAsUser.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成。 ユーザーが同意を持ち、API を使用するアクセス権を持っている場合。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Directory.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | プランナー タスクを取得するには、Outlook To Doフラグを付け、それらを更新します。 新しい Planner タスクを作成するには。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Files.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、リスト、ライブラリ、ファイルSharePoint取得します。 ファイルをリストに保存SharePointします。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Group.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、リスト、ライブラリ、ファイルSharePoint取得します。 ファイルをリストに保存SharePointします。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Group.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、リスト、ライブラリ、ファイルSharePoint取得します。 ファイルをリストに保存SharePointします。 iGlobe CRM Office 365 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Mail.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | フラグ付きメールの読み取りおよび更新 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| MailboxSettings.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新、フラグ付きメールの読み取りおよび更新、メール全体の読み取りOutlook To Do更新する | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Tasks.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新、Do Entreies Outlookの読み取りおよび更新 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新、Do Entreies Outlookの読み取りおよび更新 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| User.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りと更新、Do Entreies へのOutlookと更新、読み取り、更新、パンナー タスクの作成 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| User.ReadBasic.All | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りと更新、Do Entreies へのOutlookと更新、読み取り、更新、パンナー タスクの作成 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| User.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新、Do Entreies Outlookの読み取りおよび更新 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| メール | 委任 | アプリケーション データベースにデータは格納されません。 | アプリがユーザーのプライマリ メール アドレス (SSO の場合) を読み取ります。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| offline_access | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーが現在アプリを使用していない場合でも、アクセス権を与えたデータをアプリが表示および更新できます。 これにより、アプリに追加のアクセス許可 (SSO の場合) は付与されない。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| openid | 委任 | アプリケーション データベースにデータが格納されません | ユーザーが自分の仕事用アカウントまたは学校アカウントでアプリにサインインし、アプリが基本的なユーザー プロファイル情報 (SSO 用) を表示できます。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| profile | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りと更新、Do Entreies へのOutlookと更新、読み取り、更新、パンナー タスクの作成 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
@@ -79,15 +79,15 @@ iGlobe から Microsoft に提供される情報:
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Exchange - Calendars.ReadWrite.All | なし |  |  |  |  |
->| Exchange - EWS。AccessAsUser.All | なし |  |  |  |  |
->| Exchange - Mail.Read | なし |  |  |  |  |
->| Exchange - Mail.ReadWrite.All | なし |  |  |  |  |
->| Exchange - MailboxSettings.Read | なし |  |  |  |  |
->| Exchange - MailboxSettings.ReadWrite | なし |  |  |  |  |
->| Exchange - Tasks.ReadWrite | なし |  |  |  |  |
->| SharePoint - MyFiles.Read | なし |  |  |  |  |
->| SharePoint - MyFiles.Write | なし |  |  |  |  |
+>| Exchange - Calendars.ReadWrite.All | いいえ |  |  |  |  |
+>| Exchange - EWS。AccessAsUser.All | いいえ |  |  |  |  |
+>| Exchange - Mail.Read | いいえ |  |  |  |  |
+>| Exchange - Mail.ReadWrite.All | いいえ |  |  |  |  |
+>| Exchange - MailboxSettings.Read | いいえ |  |  |  |  |
+>| Exchange - MailboxSettings.ReadWrite | いいえ |  |  |  |  |
+>| Exchange - Tasks.ReadWrite | いいえ |  |  |  |  |
+>| SharePoint - MyFiles.Read | いいえ |  |  |  |  |
+>| SharePoint - MyFiles.Write | いいえ |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -113,7 +113,7 @@ iGlobe から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->なし
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -141,17 +141,17 @@ iGlobe から Microsoft に提供される情報:
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | なし |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | セキュリティの既定値と、従来の認証をブロックする* [管理者に MFA を要求する] * [Azure 管理に MFA を要求する] * [すべてのユーザーに MFA を要求する] などの一般的なポリシー。 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
-| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | なし |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | いいえ |
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリは Web API を公開していますか? | なし |
-| アプリでプレビュー API を使用していますか? | なし |
-| アプリで非推奨の API を使用していますか? | なし |
+| アプリは Web API を公開していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

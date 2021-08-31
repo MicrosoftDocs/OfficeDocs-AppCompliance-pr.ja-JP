@@ -2,17 +2,17 @@
 title: Microsoft Outlook アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/14/2021
+ms.date: 08/27/2021
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Outlook アプリで使用可能なすべてのセキュリティとコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: bb4239929cb153ccc62221c7a44db6921743080b
-ms.sourcegitcommit: bdc1c8f8fdd6592cfbb59c8a7cf38477bca26e2a
+ms.openlocfilehash: fa24ddc3a0dd384f5ab6b4835ffd23e7981f0b14
+ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58377531"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58672844"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook アプリのセキュリティとコンプライアンス
 
@@ -36,7 +36,9 @@ Microsoft は、microsoft Microsoft 365開発者パートナーと協力して�
 | [Office2SharePoint for Outlook](./iglobe-office2sharepoint-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | コンテンツの選択Outlook](./officeatwork-officeatworkcontent-chooser-for-outlook.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [OnePlaceMail for Outlook](./oneplace-solutions-oneplacemail-for-outlook.md) | OnePlace ソリューション | **✓** |  |
+| [Outreach Sales Engagement for Outlook](./outreach-sales-engagement-for-outlook.md) | Outreach | **✓** |  |
 | [優先度マトリックス - メールをタスクに変換する](./appfluence-inc-priority-matrix-turn-emails-into-tasks.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Quantum Workplace](./quantum-workplace.md) | Quantum Workplace | **✓** |  |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
 | [電子メール用 ServiceDesk Plus](./zoho-corporation-private-limited-servicedesk-plus-for-email.md) | Zoho Corporation Private Limited | **✓** |  |
 | [StarLeaf アドイン for Outlook](./starleaf-add-in-for-outlook.md) | StarLeaf | **✓** |  |
