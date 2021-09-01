@@ -2,17 +2,17 @@
 title: Azure App IDs のセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/27/2021
+ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 description: すべての Azure App ID で使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: da4b0ae6381f844e25950224171b666f4421e6b2
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.openlocfilehash: 059775f47e06663439a35498386ae0c39addcf79
+ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58672404"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58834729"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Azure App IDs のセキュリティとコンプライアンス
 
