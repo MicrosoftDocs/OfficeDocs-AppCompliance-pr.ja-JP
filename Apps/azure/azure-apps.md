@@ -2,17 +2,17 @@
 title: Azure App IDs のセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/31/2021
+ms.date: 09/02/2021
 ms.topic: article
 ms.service: attestation
 description: すべての Azure App ID で使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 059775f47e06663439a35498386ae0c39addcf79
-ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
+ms.openlocfilehash: 33204513b63851c664554ebc88a2a0fb20f613cb
+ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58834729"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58873342"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Azure App IDs のセキュリティとコンプライアンス
 
@@ -87,7 +87,9 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | [5e4dadf5-9f90-449b-9e39-934fd10b7c23](./5e4dadf5-9f90-449b-9e39-934fd10b7c23.md) | **✓** |  |
 | [5f1f4eb7-479e-42f3-b86f-4c1f53e1c222](./5f1f4eb7-479e-42f3-b86f-4c1f53e1c222.md) | **✓** |  |
 | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](./621d9ae7-c14e-4fab-9604-63e1ffc9e721.md) | **✓** |  |
+| [6919164d-b678-4c3d-a268-e6fbecc1e68d](./6919164d-b678-4c3d-a268-e6fbecc1e68d.md) | **✓** |  |
 | [6996cad6-a969-487a-9182-f4dc4c6c8803](./6996cad6-a969-487a-9182-f4dc4c6c8803.md) | **✓** |  |
+| [6b4a2fee-5642-41a7-b452-d555fac690b0](./6b4a2fee-5642-41a7-b452-d555fac690b0.md) | **✓** |  |
 | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](./6d7f01cb-cfa5-48d9-beed-363d381ae32b.md) | **✓** |  |
 | [6e86b349-768f-4953-ac2e-fb03f92db4be](./6e86b349-768f-4953-ac2e-fb03f92db4be.md) | **✓** |  |
 | [6f30434d-3cfa-4cf8-9810-6fcf79ae750a](./6f30434d-3cfa-4cf8-9810-6fcf79ae750a.md) | **✓** |  |
@@ -123,6 +125,7 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | [9de91aee-708c-4d9f-958b-109fdb79d993](./9de91aee-708c-4d9f-958b-109fdb79d993.md) | **✓** |  |
 | [9e8e113c-8a08-4606-b08a-de4decc7252f](./9e8e113c-8a08-4606-b08a-de4decc7252f.md) | **✓** |  |
 | [9ff28b02-ccc5-4cac-9d17-4cf6987c371f](./9ff28b02-ccc5-4cac-9d17-4cf6987c371f.md) | **✓** |  |
+| [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](./a0b58ca7-958d-4343-a2dc-a75f2eeb0953.md) | **✓** |  |
 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](./a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [a4c28379-0840-42c5-9407-f088a7f54048](./a4c28379-0840-42c5-9407-f088a7f54048.md) | **✓** |  |
 | [a622ceb4-b6e2-4557-8218-e22e80975ba4](./a622ceb4-b6e2-4557-8218-e22e80975ba4.md) | **✓** |  |
@@ -165,6 +168,7 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | [cdd5ed6f-ceda-4d46-a522-b7526d6d9e50](./cdd5ed6f-ceda-4d46-a522-b7526d6d9e50.md) | **✓** |  |
 | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](./ce60db2f-439f-4e45-bfdc-d4c827c1820d.md) | **✓** |  |
 | [cec02d43-1b67-4430-9bc9-861da8582801](./cec02d43-1b67-4430-9bc9-861da8582801.md) | **✓** |  |
+| [d2682b2a-2037-4545-94b6-3e7216ecca5f](./d2682b2a-2037-4545-94b6-3e7216ecca5f.md) | **✓** |  |
 | [d27f56ed-ddc7-4cf8-86ac-721b76c7d287](./d27f56ed-ddc7-4cf8-86ac-721b76c7d287.md) | **✓** |  |
 | [d312ff80-0c2b-42ad-887b-c6392bcf6353](./d312ff80-0c2b-42ad-887b-c6392bcf6353.md) | **✓** |  |
 | [d492530a-8cff-481c-90da-9c3c3f1be7da](./d492530a-8cff-481c-90da-9c3c3f1be7da.md) | **✓** |  |
@@ -194,4 +198,5 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | [fc686a41-3bd0-45b3-a56d-f278888fd694](./fc686a41-3bd0-45b3-a56d-f278888fd694.md) | **✓** |  |
 | [fc70bbbe-91c4-4d8f-a9c9-a022068d5752](./fc70bbbe-91c4-4d8f-a9c9-a022068d5752.md) | **✓** |  |
 | [fc8f7563-e8ea-4b6d-9622-82775a21a35a](./fc8f7563-e8ea-4b6d-9622-82775a21a35a.md) | **✓** |  |
+| [ff540df6-84dc-4a84-baa4-a95ce3b415cd](./ff540df6-84dc-4a84-baa4-a95ce3b415cd.md) | **✓** |  |
 | [ff5f406c-2ded-423f-b6ba-2950a2532b69](./ff5f406c-2ded-423f-b6ba-2950a2532b69.md) | **✓** |  |

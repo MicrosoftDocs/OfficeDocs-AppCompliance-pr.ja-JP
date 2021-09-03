@@ -2,24 +2,24 @@
 title: Klaxoon による Klaxoon のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/15/2020
+ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e55059ec1274476e4234a5347b3f56065eb6e0c3
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 146f6faa9874719bdf42397f8419ced0415a8add
+ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525531"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58873452"
 ---
 # <a name="klaxoon"></a>Klaxoon
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2020 年 10 月 15 日</p>
+<p>開発者による最終更新日: 2021 年 8 月 31 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/6adc8d55-eb37-4537-a66d-743b3cd4511b" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104382058" target="_blank">AppSource での表示</a>
@@ -30,15 +30,16 @@ ms.locfileid: "53525531"
 
 Klaxoon から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Klaxoon |
 | ID | WA104382058 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Klaxoon |
 | パートナー Web サイトの URL | [https://klaxoon.com](https://klaxoon.com) |
-| プライバシー ポリシーの URL | [https://klaxoon.com/privacy-policy](https://klaxoon.com/privacy-policy) |
-| 利用規約の URL | [https://static.klaxoon.com/static/_/terms-8def9a45fe5aedd06...](https://static.klaxoon.com/static/_/terms-8def9a45fe5aedd06814d1c3354495b2.pdf) |
+| [アプリケーション情報Teamsページの URL | [https://klaxoon.com](https://klaxoon.com) |
+| プライバシー ポリシーの URL | [https://klaxoon.com/legal](https://klaxoon.com/legal) |
+| 利用規約の URL | [https://static.klaxoon.com/website/pdf/eula.pdf](https://static.klaxoon.com/website/pdf/eula.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -63,7 +64,7 @@ Klaxoon から Microsoft に提供される情報:
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| none |  | none |
+>| zendesk | domain name | 顧客関係管理、ヘルプ センター |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
@@ -71,26 +72,26 @@ Klaxoon から Microsoft に提供される情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| この名簿を使用して、ユーザーの応答をカスタマイズします。 例: こんにちは {{givenName}}, ご質問ありがとうございます! | なし |  |
+>| この名簿を使用して、ユーザーの応答をカスタマイズします。 例: こんにちは {{givenName}}, ご質問ありがとうございます! | firstname、lastname、avatar、email and password (委任された SSO の場合によって異なる)。 | ユーザー アカウントの管理 |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->はい
+>ip アドレス、メール オフライン ログを含むデバッグ目的のアクセス ログとエラー ログは、暗号化され、1 年間アーカイブされます。 オンライン ログは 1 か月保持されます
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->Klaxoon クラウド システムに格納されます。 保存時の暗号化。 Klaxoon サーバーへのアクセスは、HTTPS/SSH モード (SSH キー + パスフレーズ) の特定の IP アドレス範囲に制限されます。 このアクセスは、一意の要塞でのみ可能です。
+>データは、アカウントのアクティブ化の間保持されます。 フラット形式 (pdf、xlsx、csv、画像) または Klaxoon 形式 (.klx) でのデータの削除および取得は、アプリケーション自体を通じていつでも利用できます。 これは手動であり、その所有者の責任の下で、アクセスする資格情報の唯一の所有者です。 アカウントが非アクティブ化されると、ユーザー アクセスは閉じられます。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->なし
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -108,3 +109,28 @@ Klaxoon から Microsoft に提供される情報:
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 情報
+
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について、Klaxoon によって提供されています。
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | いいえ |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
+| アプリはマルチテナントをサポートしていますか? | はい |
+| アプリに機密クライアントがありますか? | はい |
+| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリは Web API を公開していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリで非推奨の API を使用していますか? | いいえ |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

@@ -1,0 +1,134 @@
+---
+title: YATTEE 社 &#12459;&#12490;&#12522;&#12450; アプリケーション情報
+ms.author: elmalova
+author: elenamalova
+ms.date: 07/19/2021
+ms.topic: article
+ms.service: attestation
+certification_type: attested
+description: " &#12459;&#12490;&#12522;&#12450;、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。"
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: b45882621901f70385bc816c7f14322c1faea504
+ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58873854"
+---
+# <a name="12459124901252212450"></a>&#12459;&#12490;&#12522;&#12450;
+
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>開発者による最終更新日: 2021 年 7 月 19 日</p>
+
+* <a href="https://teams.microsoft.com/l/app/c006ac82-f64e-4702-bdc8-3ca5bf9c433d" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003193" target="_blank">AppSource での表示</a>
+
+::: zone pivot="general"
+
+### <a name="general-information"></a>一般情報
+
+YATTEE Inc. から Microsoft に提供される情報:
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| アプリ名 | &#12459;&#12490;&#12522;&#12450; |
+| ID | WA200003193 |
+| Office 365サポートされているクライアント | Microsoft Teams |
+| パートナー会社名 | YATTEE Inc. |
+| パートナー Web サイトの URL | [https://www.yattee.co.jp](https://www.yattee.co.jp) |
+| プライバシー ポリシーの URL | [https://www.yattee.co.jp/company/privacy/](https://www.yattee.co.jp/company/privacy/) |
+| 利用規約の URL | [https://www.yattee.co.jp/company/term-of-use/](https://www.yattee.co.jp/company/term-of-use/) |
+
+ [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="data"
+
+### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
+
+この情報は、YATTEE Inc. から、このアプリが組織データを収集および保存する方法、およびアプリが収集するデータに対して組織が持つコントロールについて提供されています。
+
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+
+このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calls.JoinGroupCall.All | 両方とも | E&#12513;&#12540;&#12523;&#12450;&#12489;&#12524;&#12473;&#12290;&#12518;&#12540;&#12470;&#12540;&#12398;&#35672;&#21029;&#12398;&#12383;&#12417;&#12392;&#12289;&#32068;&#32340;&#12372;&#12392;&#12391;&#12464;&#12523;&#12540;&#12503;&#21270;&#12377;&#12427;&#12383;&#12417;&#12290; | &#21033;&#29992;&#12518;&#12540;&#12470;&#12540;&#12398;&#12473;&#12465;&#12472;&#12517;&#12540;&#12523;&#24773;&#22577;&#12394;&#12393;&#12290;&#12473;&#12465;&#12472;&#12517;&#12540;&#12523;&#31649;&#29702;&#12450;&#12503;&#12522;&#12394;&#12398;&#12391;&#12290; | [626ce0a3-4620-483d-953d-53b106b9ffad](https://docs.microsoft.com/microsoft-365-app-certification/azure/626ce0a3-4620-483d-953d-53b106b9ffad) |
+
+
+#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
+
+アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
+
+>非Microsoft サービスは使用されません。
+
+#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
+
+このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
+
+>EUII にはアクセスされません。
+
+
+#### <a name="telemetry-data"></a>テレメトリ データ
+
+組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
+
+>アプリケーションのテレメトリまたはログに OII または EUII は表示されません。
+
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
+
+組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
+
+>PC&#19978;&#12391;&#31649;&#29702;
+
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
+
+人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
+
+>いいえ
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="mcas"
+
+以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 情報
+
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、YATTEE Inc. から提供されています。
+
+| **Information** | **応答** |
+|:----------------|:-------------|
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
+| アプリはマルチテナントをサポートしていますか? | はい |
+| アプリに機密クライアントがありますか? | いいえ |
+| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
+| アプリの場合、何を使用しないのですか? | ,<br/><br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリは Web API を公開していますか? | はい |
+| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
+| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリで非推奨の API を使用していますか? | いいえ |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
