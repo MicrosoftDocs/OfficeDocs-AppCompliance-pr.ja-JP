@@ -6,12 +6,12 @@ description: Microsoft 365認定の詳細の概要
 keywords: appSource のアプリ認定Microsoft 365証明
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: bb6434cf94db1b7af437b3317397c0ba26a4c52df23e5837d9bcab1e98ff7a47
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 7d6c72f39a07fa11bfe87a9da6d94178fd7992b3
+ms.sourcegitcommit: a2851b8a32c181843617568ab5f8b5de741547cf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54750467"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58885985"
 ---
 # <a name="complete-microsoft-365-certification"></a>完全なMicrosoft 365認定
 
@@ -26,6 +26,8 @@ ms.locfileid: "54750467"
 > [!IMPORTANT]
 > Microsoft 365 認定プログラムに参加することで、これらの補足条項に同意し、Microsoft Corporation との Microsoft 365 認定プログラムへの参加に適用される関連ドキュメント ("Microsoft"、"we"、"us"、または "our") に準拠することに同意するものとします。 お客様は、該当する場合に、お客様自身、会社、その他のエンティティに代わって、Microsoft 365 認定の補足条項を受け入れる権限を持っているものとします。 弊社は、いつでもこれらの補足条項を変更、修正、または終了する場合があります。 変更または変更後Microsoft 365認定プログラムへの継続的な参加は、新しい補足条項に同意する必要があります。 新しい補足条項に同意しない場合、またはこれらの補足条項を終了する場合は、Microsoft 365認定プログラムへの参加を停止する必要があります。
 
+>ドキュメント、スクリーンショット、画像を含むがこれらに限定されないすべての証拠は、監査の証明として提出時から 18 か月間、安全なリポジトリに保持されます。 18 か月後に、すべての証拠が消去されます
+
 ## <a name="certification-process"></a>認定プロセス
 
 認定プロセスを開始する前に、証明書の構成証明をPublisherがあります。 発行元の構成証明が承認されると、認定資格への参加を招待する入門メールがMicrosoft 365されます。
@@ -38,7 +40,7 @@ ms.locfileid: "54750467"
 >[!NOTE]
 >すべての Office アプリについては、アプリ ユーザー ガイドOffice[参照できます](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide)。 すべての WebApp については [、SaaS アプリ](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide)ユーザー ガイドを参照できます。
 
-### <a name="assessment"></a>評価
+### <a name="assessment"></a>料金の考え方の案内
 1. 最初のドキュメント提出が受け入れられると、アプリに必要なセキュリティ制御のセットがポータルに自動的に表示されます。 その後、コントロールが配置されているという証拠を各コントロールに提出する必要があります。 すべての証拠を提出するために **60** 日間が与えられる点に気を付けください。 アナリストが証拠を確認し、コントロールを承認するか、新しい証拠または追加の証拠を要求します。 このページを頻繁に確認して、証拠が受け入れられらたか確認してください。
 ### <a name="certification"></a>認定
 1. 提出がアナリストによって検証された後、認定の決定が通知されます。 認定を受けるアプリは **、AppSource** および Microsoft ドキュメント ページ内のアプリケーションで **バッジを受け取** る。 認定の利点については、こちらを参照 [してください](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide#program-benefits)。
