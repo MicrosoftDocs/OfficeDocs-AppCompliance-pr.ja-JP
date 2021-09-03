@@ -2,17 +2,17 @@
 title: Azure App ID dae2eacf-3eb5-4440-baff-984fbd5cae68 の情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/02/2021
+ms.date: 09/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: dae2eacf-3eb5-4440-baff-984fbd5cae68 で使用可能なすべてのセキュリティおよびコンプライアンス情報。
-ms.openlocfilehash: 5b05949dc0b1dffc86958314676a21317ee0d558
-ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+ms.openlocfilehash: df59ac86cd36c8499f057d72afcf178a31d8e239
+ms.sourcegitcommit: cd30c7ec09b1a06fb0b5696d10739a27c8434c53
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/03/2021
-ms.locfileid: "58873622"
+ms.locfileid: "58881434"
 ---
 # <a name="azure-app-id-dae2eacf-3eb5-4440-baff-984fbd5cae68"></a>Azure アプリ ID: dae2eacf-3eb5-4440-baff-984fbd5cae68
 
