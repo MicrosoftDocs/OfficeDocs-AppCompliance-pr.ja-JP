@@ -2,17 +2,17 @@
 title: Microsoft Teams アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/31/2021
+ms.date: 09/03/2021
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: 72b6bbd87bd01116735911edb6ec6077753fd659
-ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
+ms.openlocfilehash: 6072593e75572ef39d481ecb3cc6197e85d10aa4
+ms.sourcegitcommit: cd30c7ec09b1a06fb0b5696d10739a27c8434c53
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58836008"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58881394"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -101,7 +101,6 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [決定事項](./decisions.md) | 決定事項 | **✓** |  |
 | [DisasterTech DICE](./disastertech-dice.md) | DisasterTech | **✓** |  |
 | [do!book CB](./digital-office-inc-do!book-cb.md) | Digital Office Inc. | **✓** |  |
-| [Docuo](./r2-docuo.md) | R2 Docuo | **✓** |  |
 | [DocuSign eSignature](./docusign-inc-esignature.md) | DocuSign, Inc. | **✓** |  |
 | [Droplr](./droplr.md) | Droplr | **✓** |  |
 | [Dynamic Signal](./dynamic-signal.md) | Dynamic Signal | **✓** |  |
@@ -119,7 +118,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Empuls](./empuls.md) | Empuls | **✓** |  |
 | [Enboarder](./enboarder.md) | Enboarder | **✓** |  |
 | [EngageWith](./springrole-engagewith.md) | SpringRole | **✓** |  |
-| [eTeamer](./missing-eteamer.md) | &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
+| [eTeamer](./eteamer.md) | &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [イベント管理](./sharepointsapiens-event-management.md) | SharePoint|Sapiens | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
 | [Evocom](./evocom-informationssysteme-gmbh.md) | Evocom Informationssysteme GmbH | **✓** |  |
@@ -159,6 +158,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [非常時の場合](./rockdove-solutions-inc-in-case-of-crisis.md) | RockDove Solutions, Inc. | **✓** |  |
 | [IndustryIntel](./industry-intelligence-team-industryintel.md) | Industry Intelligence Team | **✓** |  |
 | [InStation](./developers-invillia-instation.md) | Developers Invillia | **✓** |  |
+| [isLucid](./uab-lucid-agreements-islucid.md) | UAB Lucid Agreements | **✓** |  |
 | [Jetdocs](./jetdocs.md) | Jetdocs | **✓** |  |
 | [Jira Cloud](./atlassian-jira-cloud.md) | Atlassian | **✓** |  |
 | [JobPts](./semos-cloud-soultions-jobpts.md) | Semos Cloud Soultions | **✓** |  |
@@ -189,7 +189,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Medxnote MT](./medxnote-mt.md) | Medxnote | **✓** |  |
 | [MeisterTask](./meisterlabs-gmbh-meistertask.md) | MeisterLabs GmbH | **✓** |  |
 | [Mentimeter](./mentimeter.md) | Mentimeter | **✓** |  |
-| [メッセージ リマインダー](./missing-message-reminder.md) | &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; | **✓** |  |
+| [メッセージ リマインダー](./message-reminder.md) | &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; | **✓** |  |
 | [Micromate](./paixon-gmbh-micromate.md) | Paixon GmbH | **✓** |  |
 | [MindManager](./corel-mindmanager.md) | Corel | **✓** |  |
 | [MindMeister](./meisterlabs-gmbh-mindmeister.md) | MeisterLabs GmbH | **✓** |  |
@@ -213,6 +213,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [NewCOS](./newtech-newcos.md) | Newtech | **✓** |  |
 | [ngDesk](./all-blue-solutions-ngdesk.md) | All Blue Solutions | **✓** |  |
 | [NickNack](./nicknack-ltd.md) | NickNack Ltd. | **✓** |  |
+| [フローリッシュ ゲームのニックネーム](./room6-nickname-by-flowrish-games.md) | room6 | **✓** |  |
 | [Now Virtual Agent](./servicenow-now-virtual-agent.md) | ServiceNow | **✓** |  |
 | [Nugget](./panviva-nugget.md) | Panviva | **✓** |  |
 | [Nulia Works](./nulia-works.md) | Nulia | **✓** |  |
@@ -224,6 +225,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [OpenAgora](./open-agora-openagora.md) | Open Agora | **✓** |  |
 | [Org@Work](./lundano-org@work.md) | Lundano | **✓** |  |
 | [Package Notifier](./qburst-technologies-pvt-ltd-package-notifier.md) | QBURST TECHNOLOGIES PVT LTD | **✓** |  |
+| [PagerDuty](./pagerduty-inc.md) | PagerDuty, Inc. | **✓** |  |
 | [PandaDoc](./pandadoc.md) | PandaDoc | **✓** |  |
 | [ParkHere Corporate](./parkhere-gmbh-corporate.md) | ParkHere GmbH | **✓** |  |
 | [Perfect Wiki by RD17](./ooo-rd17-perfect-wiki-by.md) | OOO RD17 | **✓** |  |
@@ -253,7 +255,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [RememberThis](./tom-morgan-rememberthis.md) | Tom Morgan | **✓** |  |
 | [Remind](./88-ventures-limited-remind.md) | 88 Ventures Limited | **✓** |  |
 | [Reminderz](./chitchattr-reminderz.md) | ChitChattr | **✓** |  |
-| [researcHR](./missing-researchr.md) | KBE&#26666;&#24335;&#20250;&#31038; | **✓** |  |
+| [researcHR](./researchr.md) | KBE&#26666;&#24335;&#20250;&#31038; | **✓** |  |
 | [Retro](./baltic-amadeus-retro.md) | Baltic Amadeus | **✓** |  |
 | [Rezolve.ai](./actionable-science-rezolveai.md) | Actionable Science | **✓** |  |
 | [RFPIO ボット](./rfpio-bot.md) | RFPIO | **✓** |  |
@@ -289,7 +291,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [SmartWork](./smartwork-of-intumit.md) | SmartWork of Intumit | **✓** |  |
 | [SmileBack](./smileback.md) | SmileBack | **✓** |  |
 | [Soapbox](./soapbox.md) | Soapbox | **✓** |  |
-| [Sobol](./missing-sobol.md) | ConsenSys AG&#8217;s Sobol | **✓** |  |
+| [Sobol](./consensys-ags-sobol.md) | ConsenSys AG&#8217;s Sobol | **✓** |  |
 | [Sociabble](./sociabble.md) | Sociabble | **✓** |  |
 | [ソーシャル アドボカシー](./oktopost-social-advocacy.md) | Oktopost | **✓** |  |
 | [Spatial Standup](./high-fidelity-inc-spatial-standup.md) | High Fidelity Inc | **✓** |  |
@@ -318,7 +320,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [TAMPLO](./ityss-tamplo.md) | ITYSS | **✓** |  |
 | [TaskList](./limestat-inc-tasklist.md) | LimeStat, Inc | **✓** |  |
 | [Teamble](./teamble.md) | Teamble | **✓** |  |
-| [TeaMe 正常性チェック ボット](./missing-teame-health-check-bot.md) | &#26666;&#24335;&#20250;&#31038;&#12461;&#12515;&#12522;&#12450;&#12487;&#12505;&#12525;&#12483;&#12503;&#12513;&#12531;&#12488;&#12539;&#12450;&#12531;&#12489;&#12539;&#12463;&#12522;&#12456;&#12452;&#12471;&#12519;&#12531; | **✓** |  |
+| [TeaMe 正常性チェック ボット](./teame-health-check-bot.md) | &#26666;&#24335;&#20250;&#31038;&#12461;&#12515;&#12522;&#12450;&#12487;&#12505;&#12525;&#12483;&#12503;&#12513;&#12531;&#12488;&#12539;&#12450;&#12531;&#12489;&#12539;&#12463;&#12522;&#12456;&#12452;&#12471;&#12519;&#12531; | **✓** |  |
 | [Teamflect](./grepsi-software-teamflect.md) | Grepsi Software | **✓** |  |
 | [TeamGether](./effency-teamgether.md) | EFFENCY | **✓** |  |
 | [Teamhood](./eylean-uab-teamhood.md) | Eylean, UAB | **✓** |  |
@@ -333,6 +335,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Tikit](./cireson-tikit.md) | Cireson | **✓** |  |
 | [TimeClock 365](./softsale-timeclock-365.md) | Softsale | **✓** |  |
 | [timeghost](./kollisch-gmbh-timeghost.md) | K&#246;llisch GmbH | **✓** |  |
+| [Timeneye](./dm-digital-srl-timeneye.md) | DM Digital SRL | **✓** |  |
 | [TINYpulse](./tinypulse.md) | TINYpulse | **✓** |  |
 | [Tribute](./tribute-co.md) | Tribute Co. | **✓** |  |
 | [Trivia](./springworks-hr-tech-trivia.md) | Springworks HR Tech | **✓** |  |
@@ -356,6 +359,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Woobot](./woobot.md) | Woobot | **✓** |  |
 | [作業ボード](./workboard-inc.md) | Workboard Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [WorkDay](./workday.md) | Workday | **✓** |  |
+| [WorkInSync](./moveinsync-workinsync.md) | MoveInSync | **✓** |  |
 | [WorkJam Home](./workjam-home.md) | WorkJam | **✓** |  |
 | [WorkJam Schedule](./workjam-schedule.md) | WorkJam | **✓** |  |
 | [WorkplaceBuddy](./workplacebuddy.md) | WorkplaceBuddy | **✓** |  |
