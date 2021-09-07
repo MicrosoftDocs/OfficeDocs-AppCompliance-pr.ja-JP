@@ -6,12 +6,12 @@ description: Microsoft 365認定の詳細の概要
 keywords: appSource のアプリ認定Microsoft 365証明
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 7d6c72f39a07fa11bfe87a9da6d94178fd7992b3
-ms.sourcegitcommit: a2851b8a32c181843617568ab5f8b5de741547cf
+ms.openlocfilehash: 9f93edb4bead62eb626f6b65544fbf1a35ad48dd
+ms.sourcegitcommit: 854938b0495a6a30c2d03a6645e32ca52b4ce295
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58885985"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58922984"
 ---
 # <a name="complete-microsoft-365-certification"></a>完全なMicrosoft 365認定
 
@@ -25,8 +25,7 @@ ms.locfileid: "58885985"
 
 > [!IMPORTANT]
 > Microsoft 365 認定プログラムに参加することで、これらの補足条項に同意し、Microsoft Corporation との Microsoft 365 認定プログラムへの参加に適用される関連ドキュメント ("Microsoft"、"we"、"us"、または "our") に準拠することに同意するものとします。 お客様は、該当する場合に、お客様自身、会社、その他のエンティティに代わって、Microsoft 365 認定の補足条項を受け入れる権限を持っているものとします。 弊社は、いつでもこれらの補足条項を変更、修正、または終了する場合があります。 変更または変更後Microsoft 365認定プログラムへの継続的な参加は、新しい補足条項に同意する必要があります。 新しい補足条項に同意しない場合、またはこれらの補足条項を終了する場合は、Microsoft 365認定プログラムへの参加を停止する必要があります。
-
->ドキュメント、スクリーンショット、画像を含むがこれらに限定されないすべての証拠は、監査の証明として提出時から 18 か月間、安全なリポジトリに保持されます。 18 か月後に、すべての証拠が消去されます
+ドキュメント、スクリーンショット、画像を含むがこれらに限定されないすべての証拠は、監査の証明として提出時から 18 か月間、安全なリポジトリに保持されます。 18 か月後に、すべての証拠が消去されます
 
 ## <a name="certification-process"></a>認定プロセス
 
