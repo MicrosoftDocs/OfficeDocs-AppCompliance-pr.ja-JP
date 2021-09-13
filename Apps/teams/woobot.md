@@ -9,11 +9,11 @@ certification_type: attested
 description: Woobot、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: a90381852e60e09402b766607413154b8da11704
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53528053"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288971"
 ---
 # <a name="woobot"></a>Woobot
 
@@ -30,7 +30,7 @@ ms.locfileid: "53528053"
 
 Woobot が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Woobot |
 | ID | WA104381664 |
@@ -77,7 +77,7 @@ Woobot が Microsoft に提供する情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->なし
+>いいえ
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 

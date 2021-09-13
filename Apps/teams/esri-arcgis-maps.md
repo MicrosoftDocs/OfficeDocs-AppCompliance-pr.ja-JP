@@ -9,13 +9,13 @@ certification_type: attested
 description: ArcGIS マップ で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: b8c18c7116dad546223fe3b799344d973fb1bc23
-ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53774937"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289116"
 ---
-# <a name="arcgis-maps"></a>ArcGIS マップ
+# <a name="arcgis-maps"></a>ArcGIS Maps
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -30,9 +30,9 @@ ms.locfileid: "53774937"
 
 Esri が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | ArcGIS マップ |
+| アプリ名 | ArcGIS Maps |
 | ID | WA200002859 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Esri |
@@ -111,7 +111,7 @@ Esri が Microsoft に提供する情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について、Esri から提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

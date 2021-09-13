@@ -9,11 +9,11 @@ certification_type: attested
 description: Medxnote MT で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 5eff51e5045f299ad8fe9e8335b3c5dac41af919
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525491"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285779"
 ---
 # <a name="medxnote-mt"></a>Medxnote MT
 
@@ -30,7 +30,7 @@ ms.locfileid: "53525491"
 
 Medxnote が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Medxnote MT |
 | ID | WA200001823 |

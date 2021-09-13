@@ -9,11 +9,11 @@ certification_type: attested
 description: MyWorkDrive で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 5bea09ee9777395feca68f12a16c6abb7b37a3b3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552908"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287372"
 ---
 # <a name="myworkdrive"></a>MyWorkDrive
 
@@ -30,7 +30,7 @@ ms.locfileid: "52552908"
 
 MyWorkDrive から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | MyWorkDrive |
 | ID | WA200002325 |
@@ -111,7 +111,7 @@ MyWorkDrive から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について MyWorkDrive によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -125,7 +125,7 @@ MyWorkDrive から Microsoft に提供される情報:
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリは Web API を公開していますか? | いいえ |
 | アプリでプレビュー API を使用していますか? | いいえ |
-| アプリで非推奨の API を使用していますか? | なし |
+| アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

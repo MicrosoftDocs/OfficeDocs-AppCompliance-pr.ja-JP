@@ -9,11 +9,11 @@ certification_type: attested
 description: Bright Remind Me、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 818846cb7b26fa5708e1997c7937d499590ab806
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404977"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287044"
 ---
 # <a name="bright-remind-me"></a>Bright Remind Me
 
@@ -30,7 +30,7 @@ ms.locfileid: "58404977"
 
 チャット アプリ、LLC から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Bright Remind Me |
 | ID | WA200003002 |
@@ -113,7 +113,7 @@ ms.locfileid: "58404977"
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について、チャット アプリ、LLC によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

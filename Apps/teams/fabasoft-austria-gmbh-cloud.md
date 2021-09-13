@@ -9,11 +9,11 @@ certification_type: attested
 description: Fabasoft Cloud で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 3987566132078c1e3ebc8a4bff84e089c263f588
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58405048"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286244"
 ---
 # <a name="fabasoft-cloud"></a>Fabasoft Cloud
 
@@ -30,7 +30,7 @@ ms.locfileid: "58405048"
 
 Fabasoft Austria GmbH から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Fabasoft Cloud |
 | ID | WA200002184 |
@@ -113,7 +113,7 @@ Fabasoft Austria GmbH から Microsoft に提供される情報:
 
 この情報は、Fabasoft Austria GmbH によって、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

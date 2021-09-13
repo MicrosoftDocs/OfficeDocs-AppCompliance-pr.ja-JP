@@ -9,11 +9,11 @@ certification_type: attested
 description: 簡易イン/アウト、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 1dc9a66d7d49cb776fa82f7847ba9e06f74c6176
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552798"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286108"
 ---
 # <a name="simple-inout"></a>Simple In/Out
 
@@ -30,7 +30,7 @@ ms.locfileid: "52552798"
 
 Simply Made Apps, Inc. から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Simple In/Out |
 | ID | WA104382084 |
@@ -111,9 +111,9 @@ Simply Made Apps, Inc. から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について、Simply Made Apps, Inc. から提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | なし |
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

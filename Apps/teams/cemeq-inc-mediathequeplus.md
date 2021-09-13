@@ -1,5 +1,5 @@
 ---
-title: CEMEQ inc. による Mediatheque+ のアプリケーション情報
+title: CEMEQ inc.&#233;M&#232;que+ のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 07/26/2021
@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: M&#233;diath&#232;que+、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 3273664ff9280be9feeb29519f8434cd82415b13
-ms.sourcegitcommit: d4dc71e59ff046c02e575dbd9d73b66c3acce9b8
+ms.openlocfilehash: 8d2a991d23ad12ab197fc89471e4993da6e1e0a8
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58699722"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286251"
 ---
 # <a name="m233diath232que"></a>M&#233;&#232;que+
 
@@ -30,7 +30,7 @@ ms.locfileid: "58699722"
 
 CEMEQ inc. から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | M&#233;&#232;que+ |
 | ID | WA200003099 |
@@ -110,7 +110,7 @@ CEMEQ inc. から Microsoft に提供される情報:
 
 この情報は、CEMEQ inc. によって、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

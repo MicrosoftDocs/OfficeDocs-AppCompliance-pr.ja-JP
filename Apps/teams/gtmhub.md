@@ -9,11 +9,11 @@ certification_type: attested
 description: Gtmhub で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 928b594128038f2ebe9adb4960c9093f25b57be6
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404669"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286164"
 ---
 # <a name="gtmhub"></a>Gtmhub
 
@@ -30,7 +30,7 @@ ms.locfileid: "58404669"
 
 Gtmhub から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Gtmhub |
 | ID | WA200001164 |
@@ -111,7 +111,7 @@ Gtmhub から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Gtmhub によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

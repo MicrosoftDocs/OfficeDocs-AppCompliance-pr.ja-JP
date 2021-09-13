@@ -9,13 +9,13 @@ certification_type: attested
 description: ウェルネス コーチ、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: fbde48aa6cc4777d0720a29e5a2c2d3db149b4d3
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58405058"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286939"
 ---
-# <a name="wellness-coach"></a>ウェルネス コーチ
+# <a name="wellness-coach"></a>Wellness Coach
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -30,12 +30,12 @@ ms.locfileid: "58405058"
 
 microsoft に Meditation.live によって提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | ウェルネス コーチ |
+| アプリ名 | Wellness Coach |
 | ID | WA200003037 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | Meditation.live 株式会社 |
+| パートナー会社名 | Meditation.live, Inc. |
 | パートナー Web サイトの URL | [https://welllnesscoach.live](https://welllnesscoach.live) |
 | [アプリケーション情報Teamsページの URL | [https://wellnesscoach.live/teams-app](https://wellnesscoach.live/teams-app) |
 | プライバシー ポリシーの URL | [https://www.wellnesscoach.live/privacy-policy](https://www.wellnesscoach.live/privacy-policy) |
@@ -111,7 +111,7 @@ microsoft に Meditation.live によって提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、Meditation.live Inc. から提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

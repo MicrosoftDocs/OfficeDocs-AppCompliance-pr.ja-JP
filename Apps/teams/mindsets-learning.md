@@ -9,11 +9,11 @@ certification_type: attested
 description: Mindsets で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 95f3d60efa1c9cb8cb238fb51af9fa927c17a961
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58405057"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288572"
 ---
 # <a name="mindsets"></a>Mindsets
 
@@ -30,12 +30,12 @@ ms.locfileid: "58405057"
 
 Mindsets が Microsoft にラーニング提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Mindsets |
 | ID | WA200003000 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | Mindsets ラーニング |
+| パートナー会社名 | Mindsets Learning |
 | パートナー Web サイトの URL | [https://www.mindsets.com](https://www.mindsets.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.mindsets.com](https://www.mindsets.com) |
 | プライバシー ポリシーの URL | [https://www.mindsets.com/terms](https://www.mindsets.com/terms) |
@@ -113,7 +113,7 @@ Mindsets が Microsoft にラーニング提供する情報:
 
 この情報は、Mindsets ラーニング認証、承認、アプリケーション登録のベスト プラクティス、その他の Id の条件を処理する方法について説明しています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

@@ -9,11 +9,11 @@ certification_type: attested
 description: Freshdesk で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: e16fd9e16b4fd2e95b48c49af4e16d1efdedd8e4
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552158"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289295"
 ---
 # <a name="freshdesk"></a>Freshdesk
 
@@ -30,7 +30,7 @@ ms.locfileid: "52552158"
 
 Freshworks INC から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Freshdesk |
 | ID | WA104381505 |

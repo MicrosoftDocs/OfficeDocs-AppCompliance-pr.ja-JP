@@ -9,11 +9,11 @@ certification_type: attested
 description: メッセージ アラーム、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: c367d46abd5f0e5ac3f4e3e12d59e28e507a9e60
-ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58872077"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285747"
 ---
 # <a name="message-reminder"></a>メッセージ リマインダー
 
@@ -111,7 +111,7 @@ Microsoft に &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;
 
 この情報は、 &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; 認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について説明しています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

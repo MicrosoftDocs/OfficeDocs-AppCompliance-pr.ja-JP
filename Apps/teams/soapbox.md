@@ -9,11 +9,11 @@ certification_type: attested
 description: Soapbox で使用可能なすべてのセキュリティおよびコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 89151d495479f3390aa179f810325ab56f77337a
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53528283"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286099"
 ---
 # <a name="soapbox"></a>Soapbox
 
@@ -30,7 +30,7 @@ ms.locfileid: "53528283"
 
 Soapbox から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Soapbox |
 | ID | WA104381501 |

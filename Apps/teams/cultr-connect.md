@@ -9,11 +9,11 @@ certification_type: attested
 description: CSA STAR レジストリ内の Cultr Connect、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: fd1859943d358808752e0c2a511d63ad985ca446
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404787"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289376"
 ---
 # <a name="cultr-connect"></a>Cultr Connect
 
@@ -30,7 +30,7 @@ ms.locfileid: "58404787"
 
 Cultr が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Cultr Connect |
 | ID | WA200003008 |
@@ -120,7 +120,7 @@ Cultr が Microsoft に提供する情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について Cultr によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

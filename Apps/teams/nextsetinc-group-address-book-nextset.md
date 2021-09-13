@@ -9,13 +9,13 @@ certification_type: attested
 description: グループ アドレス帳 - NextSet、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 1fe6aa3843708b6fac9f9688575708355d43d6a5
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404847"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288115"
 ---
-# <a name="group-address-book---nextset"></a>グループ アドレス帳 - NextSet
+# <a name="group-address-book---nextset"></a>組織アドレス帳 - ネクストセット
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -30,9 +30,9 @@ ms.locfileid: "58404847"
 
 NextSet,Inc. から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | グループ アドレス帳 - NextSet |
+| アプリ名 | 組織アドレス帳 - ネクストセット |
 | ID | WA200001863 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | NextSet,Inc. |
@@ -122,7 +122,7 @@ NextSet,Inc. から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について、NextSet,Inc. から提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

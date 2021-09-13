@@ -9,11 +9,11 @@ certification_type: attested
 description: TaxKit Docs で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 941ba359f865c2f6b0fe2f0b66b32f5caf2d3f9d
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404638"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287988"
 ---
 # <a name="taxkit-docs"></a>TaxKit Docs
 
@@ -29,7 +29,7 @@ ms.locfileid: "58404638"
 
 GmbH から Microsoft Taxy.io 提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | TaxKit Docs |
 | ID | WA200002849 |
@@ -104,7 +104,7 @@ GmbH から Microsoft Taxy.io 提供される情報:
 
 この情報は、このアプリ Taxy.io 認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について、GmbH から提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

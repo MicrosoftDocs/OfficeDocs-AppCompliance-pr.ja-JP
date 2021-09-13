@@ -9,13 +9,13 @@ certification_type: attested
 description: Cloud Effective で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 44aebe1c15b2c4ef16f485dc22b82f8bee8e9a00
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404967"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285924"
 ---
-# <a name="cloud-effective"></a>クラウドの有効
+# <a name="cloud-effective"></a>Cloud Effective
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -30,12 +30,12 @@ ms.locfileid: "58404967"
 
 Cloud Effective to Microsoft から提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | クラウドの有効 |
+| アプリ名 | Cloud Effective |
 | ID | WA200002408 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | クラウドの有効 |
+| パートナー会社名 | Cloud Effective |
 | パートナー Web サイトの URL | [https://CloudEffective.com](https://CloudEffective.com) |
 | [アプリケーション情報Teamsページの URL | [https://cloudeffective.com/products-pricing](https://cloudeffective.com/products-pricing) |
 | プライバシー ポリシーの URL | [https://cloudeffective.com/privacy-policy/](https://cloudeffective.com/privacy-policy/) |
@@ -113,7 +113,7 @@ Cloud Effective to Microsoft から提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について Cloud Effective によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

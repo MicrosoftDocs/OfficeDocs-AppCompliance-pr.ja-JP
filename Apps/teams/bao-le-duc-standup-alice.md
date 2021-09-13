@@ -9,11 +9,11 @@ certification_type: attested
 description: Standup Alice、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 5d1d075f16fed6e0a0029e3c90050068ca5bf9b5
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58243534"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288803"
 ---
 # <a name="standup-alice"></a>Standup Alice
 
@@ -30,7 +30,7 @@ ms.locfileid: "58243534"
 
 Bao Le Duc から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Standup Alice |
 | ID | WA200000758 |
@@ -115,7 +115,7 @@ Bao Le Duc から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、Bao Le Duc によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

@@ -9,11 +9,11 @@ certification_type: attested
 description: Fusion Remote で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: b920e0fa93512c7cc9429b02dcecd9c0e3fe27b6
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521504"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286940"
 ---
 # <a name="fusion-remote"></a>Fusion Remote
 
@@ -30,7 +30,7 @@ ms.locfileid: "53521504"
 
 Jujo Inc. から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Fusion Remote |
 | ID | WA200001422 |
@@ -91,7 +91,7 @@ Jujo Inc. から Microsoft に提供される情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->なし
+>いいえ
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
@@ -103,7 +103,7 @@ Jujo Inc. から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->なし
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

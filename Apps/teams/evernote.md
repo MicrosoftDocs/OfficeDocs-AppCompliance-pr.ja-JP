@@ -9,11 +9,11 @@ certification_type: attested
 description: Evernote で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 3eaaa3cacc4affc866a967a495687bc53abcfae5
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552188"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289092"
 ---
 # <a name="evernote"></a>Evernote
 
@@ -30,7 +30,7 @@ ms.locfileid: "52552188"
 
 Evernote から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Evernote |
 | ID | WA104381639 |

@@ -9,11 +9,11 @@ certification_type: attested
 description: BravoNow、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 1eb20f61739f5b6969c3f3889666adcce05d64a0
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58245343"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286547"
 ---
 # <a name="bravonow"></a>BravoNow
 
@@ -30,12 +30,12 @@ ms.locfileid: "58245343"
 
 SpadeWorx ソフトウェア サービスから Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | BravoNow |
 | ID | WA200000157 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | SpadeWorx ソフトウェア サービス |
+| パートナー会社名 | SpadeWorx Software Services |
 | パートナー Web サイトの URL | [https://www.spadeworx.com](https://www.spadeworx.com) |
 | [アプリケーション情報Teamsページの URL | [https://bravo.pozitive.io](https://bravo.pozitive.io) |
 | プライバシー ポリシーの URL | [https://docs.pozitive.io/BravoApp_Privacy%20Policy.pdf](https://docs.pozitive.io/BravoApp_Privacy%20Policy.pdf) |
@@ -115,7 +115,7 @@ SpadeWorx ソフトウェア サービスから Microsoft に提供される情�
 
 この情報は、SpadeWorx ソフトウェア サービスによって、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

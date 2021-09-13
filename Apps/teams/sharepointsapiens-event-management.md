@@ -9,11 +9,11 @@ certification_type: attested
 description: イベント管理、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 39480c170eb59a9f16b703a5182a2f2f23847955
-ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53610103"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287347"
 ---
 # <a name="event-management"></a>イベント管理
 
@@ -30,7 +30,7 @@ ms.locfileid: "53610103"
 
 ユーザーが提供するSharePoint|Sapiens から Microsoft:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | イベント管理 |
 | ID | WA200000714 |
@@ -122,7 +122,7 @@ ms.locfileid: "53610103"
 
 この情報は、ユーザーが提供SharePoint|Sapiens は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について説明します。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

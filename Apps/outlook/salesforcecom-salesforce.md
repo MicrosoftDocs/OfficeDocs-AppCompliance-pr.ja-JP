@@ -9,11 +9,11 @@ certification_type: attested
 description: Salesforce で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 152885012f81c077fc0bb018fda7080867c54986
-ms.sourcegitcommit: cd30c7ec09b1a06fb0b5696d10739a27c8434c53
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58884615"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288659"
 ---
 # <a name="salesforce"></a>Salesforce
 
@@ -29,7 +29,7 @@ ms.locfileid: "58884615"
 
 Microsoft に提供される salesforce.com 情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Salesforce |
 | ID | WA104379334 |
@@ -112,7 +112,7 @@ Microsoft に提供される salesforce.com 情報:
 
 この情報は、このアプリ salesforce.com 認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について説明しています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

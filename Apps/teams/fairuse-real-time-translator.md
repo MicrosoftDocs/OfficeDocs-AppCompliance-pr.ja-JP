@@ -9,13 +9,13 @@ certification_type: attested
 description: リアルタイム 翻訳ツール、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: ab70701438884aef3939f49bf3db8d6eacd03d8a
-ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53610102"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289336"
 ---
-# <a name="real-time-translator"></a>リアルタイム 翻訳ツール
+# <a name="real-time-translator"></a>リアルタイム翻訳ツール
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -30,9 +30,9 @@ ms.locfileid: "53610102"
 
 Fairuse から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | リアルタイム 翻訳ツール |
+| アプリ名 | リアルタイム翻訳ツール |
 | ID | WA200002171 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Fairuse |
@@ -122,7 +122,7 @@ Fairuse から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Fairuse によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

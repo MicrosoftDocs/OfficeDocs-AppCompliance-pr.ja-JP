@@ -9,11 +9,11 @@ certification_type: attested
 description: Gensys、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: dbf8341e3c7fa1313cb716fdec39dbe7e79f895b
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404958"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286212"
 ---
 # <a name="gensys"></a>Gensys
 
@@ -30,12 +30,12 @@ ms.locfileid: "58404958"
 
 Gensys Solutions BV から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Gensys |
 | ID | WA200003044 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | Gensys ソリューション BV |
+| パートナー会社名 | ensys Solutions BV |
 | パートナー Web サイトの URL | [https://gensys.nl](https://gensys.nl) |
 | プライバシー ポリシーの URL | [https://gensys.nl/privacy-statement/](https://gensys.nl/privacy-statement/) |
 | 利用規約の URL | [https://gensys.nl/terms-of-use/](https://gensys.nl/terms-of-use/) |
@@ -110,7 +110,7 @@ Gensys Solutions BV から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Gensys Solutions BV によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

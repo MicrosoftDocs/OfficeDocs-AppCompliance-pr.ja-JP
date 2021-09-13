@@ -9,13 +9,13 @@ certification_type: attested
 description: RD17 による Perfect Wiki で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: deacceb8c77fd935e6ff7dd03fe8195042b8e259
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58673211"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287803"
 ---
-# <a name="perfect-wiki-by-rd17"></a>RD17 による完全な Wiki
+# <a name="perfect-wiki-by-rd17"></a>Perfect Wiki by RD17
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -30,9 +30,9 @@ ms.locfileid: "58673211"
 
 OOO RD17 から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | RD17 による完全な Wiki |
+| アプリ名 | Perfect Wiki by RD17 |
 | ID | WA200001679 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | OOO RD17 |
@@ -115,7 +115,7 @@ OOO RD17 から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について OOO RD17 によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

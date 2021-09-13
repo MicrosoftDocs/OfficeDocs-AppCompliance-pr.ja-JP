@@ -9,11 +9,11 @@ certification_type: attested
 description: Teamhood、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 760f57e7fdc562e5ee39d563792c195d38aecb23
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553158"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288444"
 ---
 # <a name="teamhood"></a>Teamhood
 
@@ -30,7 +30,7 @@ ms.locfileid: "52553158"
 
 Eylean、UAB から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Teamhood |
 | ID | WA200002568 |
@@ -111,7 +111,7 @@ Eylean、UAB から Microsoft に提供される情報:
 
 この情報は、Eylean、UAB によって、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -126,7 +126,7 @@ Eylean、UAB から Microsoft に提供される情報:
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
 | アプリでプレビュー API を使用していますか? | いいえ |
-| アプリで非推奨の API を使用していますか? | なし |
+| アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

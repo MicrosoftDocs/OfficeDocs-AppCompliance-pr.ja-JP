@@ -9,13 +9,13 @@ certification_type: attested
 description: File Fabric、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 3070723eecc0e7dda11aff31da6b20a785f558b5
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404645"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287315"
 ---
-# <a name="file-fabric"></a>ファイル ファブリック
+# <a name="file-fabric"></a>File Fabric
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -30,12 +30,12 @@ ms.locfileid: "58404645"
 
 Microsoft が簡単Storage提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | ファイル ファブリック |
+| アプリ名 | File Fabric |
 | ID | WA200003017 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | Storage簡単に行う |
+| パートナー会社名 | Storage Made Easy |
 | パートナー Web サイトの URL | [https://storagemadeeasy.com](https://storagemadeeasy.com) |
 | [アプリケーション情報Teamsページの URL | [https://docs.storagemadeeasy.com/microsoft-teams](https://docs.storagemadeeasy.com/microsoft-teams) |
 | プライバシー ポリシーの URL | [https://www.storagemadeeasy.com/privacy](https://www.storagemadeeasy.com/privacy) |
@@ -124,7 +124,7 @@ Microsoft が簡単Storage提供する情報:
 
 この情報は、このアプリが認証Storage、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について、簡単に説明しました。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

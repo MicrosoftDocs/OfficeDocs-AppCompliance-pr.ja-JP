@@ -9,11 +9,11 @@ certification_type: attested
 description: eTeamer で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 149cc78306c01d767de2a646a67d4d2848bf95db
-ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58873879"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289108"
 ---
 # <a name="eteamer"></a>eTeamer
 
@@ -112,7 +112,7 @@ Microsoft に提供される &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#2
 
 この情報は、このアプリ &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; 認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について説明しています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

@@ -2,17 +2,17 @@
 title: Microsoft Wordアプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/03/2021
+ms.date: 09/09/2021
 ms.topic: article
 ms.service: attestation
 description: すべてのアプリで使用可能なすべてのセキュリティおよびコンプライアンス情報Microsoft Word。
 localization_priority: Normal
-ms.openlocfilehash: cd094ef1bb0b497782d96508eb99e9b224446806
-ms.sourcegitcommit: cd30c7ec09b1a06fb0b5696d10739a27c8434c53
+ms.openlocfilehash: 5151e78ae6da2df72ad35703f7375ae4e3374606
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58883885"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288371"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft WordApps のセキュリティとコンプライアンス
 
@@ -21,7 +21,6 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [Adobe Sign for Word and PowerPoint](./adobe-inc-sign-for-word-and-powerpoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [CocoFax - 送信 FAX を簡単に安全に &amp; 送信する](./cocofax-sending-fax-made-easy-and-secure.md) | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [CrossCheck](./krevealllc-crosscheck.md) | kRevealLLC | **✓** |  |
 | [Excel-to-Word ドキュメントオートメーション](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Fabasoft クラウド Office アドイン](./fabasoft-austria-gmbh-cloud-office-add-in.md) | Fabasoft Austria GmbH | **✓** |  |
@@ -41,5 +40,6 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | [RetMig &amp; Kommaforslag](./grammarsoft-aps-retmig-and-kommaforslag.md) | GrammarSoft ApS | **✓** |  |
 | [SmartCite for Papers](./digital-science-smartcite-for-papers.md) | デジタル サイエンス | **✓** |  |
 | [TaxKit Docs](./taxyio-gmbh-taxkit-docs.md) | Taxy.io GmbH | **✓** |  |
+| [TerMef](./mondeca-termef.md) | Mondeca | **✓** |  |
 | [Wunder365 for Office](./jiji-technologies-private-limited-wunder365-for-office.md) | JiJi Technologies Private Limited | **✓** |  |
 | [xLaw - ナレッジ管理システム](./evertn-xlaw-knowledge-management-system.md) | evertn | **✓** |  |

@@ -9,11 +9,11 @@ certification_type: attested
 description: マーケティングの自動化、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する Zoho Campaigns ツールで利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: b6b0137447f5de7d7ef2394c32eb6996772852ad
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527893"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288651"
 ---
 # <a name="zoho-campaigns-tool-for-marketing-automation"></a>マーケティング自動化のための Zoho キャンペーン ツール
 
@@ -29,7 +29,7 @@ ms.locfileid: "53527893"
 
 Zoho Corporation Private Limited to Microsoft から提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | マーケティング自動化のための Zoho キャンペーン ツール |
 | ID | WA104380835 |

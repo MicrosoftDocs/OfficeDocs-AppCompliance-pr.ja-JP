@@ -9,11 +9,11 @@ certification_type: attested
 description: CSOD Learn、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 2064ed00ba6306d86a09b3eff9dc6e56c8d1cc40
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407480"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289395"
 ---
 # <a name="csod-learn"></a>CSOD Learn
 
@@ -30,7 +30,7 @@ ms.locfileid: "58407480"
 
 Cornerstone OnDemand から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | CSOD Learn |
 | ID | WA200003020 |
@@ -114,7 +114,7 @@ Cornerstone OnDemand から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Cornerstone OnDemand によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

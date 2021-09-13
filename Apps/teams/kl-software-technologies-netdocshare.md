@@ -9,11 +9,11 @@ certification_type: attested
 description: netDocShare、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: c8e050b7ecf4f4b4b3156e571d6afdcd75a6ceb2
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281800"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287859"
 ---
 # <a name="netdocshare"></a>netDocShare
 
@@ -30,7 +30,7 @@ ms.locfileid: "53281800"
 
 KL ソフトウェア テクノロジから Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | netDocShare |
 | ID | WA200001619 |

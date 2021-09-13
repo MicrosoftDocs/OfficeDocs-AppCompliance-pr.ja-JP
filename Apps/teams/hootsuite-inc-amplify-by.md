@@ -9,13 +9,13 @@ certification_type: attested
 description: Amplify by Hootsuite、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 511693fe2d9c32e3e611fbec8c55045199e83c68
-ms.sourcegitcommit: a905d46054853025c0366c5e2efbe2139a4682d9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58632362"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288915"
 ---
-# <a name="amplify-by-hootsuite"></a>Hootsuite による増幅
+# <a name="amplify-by-hootsuite"></a>Amplify by Hootsuite
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -30,9 +30,9 @@ ms.locfileid: "58632362"
 
 Hootsuite Inc. から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | Hootsuite による増幅 |
+| アプリ名 | Amplify by Hootsuite |
 | ID | WA200003153 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Hootsuite Inc. |
@@ -111,7 +111,7 @@ Hootsuite Inc. から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について Hootsuite Inc. から提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

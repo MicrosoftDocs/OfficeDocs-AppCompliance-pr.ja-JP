@@ -9,11 +9,11 @@ certification_type: attested
 description: MeasureUp、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 066526334e1936de0348f06f56239eab3370d0e0
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407515"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285780"
 ---
 # <a name="measureup"></a>MeasureUp
 
@@ -30,12 +30,12 @@ ms.locfileid: "58407515"
 
 Media Interactiva Solutions から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | MeasureUp |
 | ID | WA200003111 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | Media Interactiva ソリューション |
+| パートナー会社名 | Media Interactiva Solutions |
 | パートナー Web サイトの URL | [https://www.measureup.com](https://www.measureup.com) |
 | [アプリケーション情報Teamsページの URL | [https://docs.measureup.com](https://docs.measureup.com) |
 | プライバシー ポリシーの URL | [https://www.measureup.com/privacy-policy](https://www.measureup.com/privacy-policy) |
@@ -115,7 +115,7 @@ Media Interactiva Solutions から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について、Media Interactiva Solutions によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

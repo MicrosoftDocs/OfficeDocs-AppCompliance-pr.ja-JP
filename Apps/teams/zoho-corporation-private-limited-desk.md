@@ -9,11 +9,11 @@ certification_type: attested
 description: Zoho Desk、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 8e76f0cce92e7aa5bac28df505613ec461a3fc06
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53528353"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288028"
 ---
 # <a name="zoho-desk"></a>Zoho Desk
 
@@ -30,7 +30,7 @@ ms.locfileid: "53528353"
 
 Zoho Corporation Private Limited to Microsoft から提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Zoho Desk |
 | ID | WA104382044 |
@@ -83,7 +83,7 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->なし
+>いいえ
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 

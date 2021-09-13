@@ -9,11 +9,11 @@ certification_type: attested
 description: Beesy で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: ff8d420d7ea17219b2c94e9e9ac6bf4b8fa4efcb
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525861"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288763"
 ---
 # <a name="beesy"></a>Beesy
 
@@ -30,7 +30,7 @@ ms.locfileid: "53525861"
 
 BeesApps から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Beesy |
 | ID | WA200001248 |

@@ -9,11 +9,11 @@ certification_type: attested
 description: Powell Teams、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 3c774a017f4283646cf46c2042d33b19dc2b8e80
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407509"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286155"
 ---
 # <a name="powell-teams"></a>Powell Teams
 
@@ -30,12 +30,12 @@ ms.locfileid: "58407509"
 
 パウエル ソフトウェアから Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Powell Teams |
 | ID | WA200001585 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | パウエル ソフトウェア |
+| パートナー会社名 | Powell Software |
 | パートナー Web サイトの URL | [https://www.powell-software.com](https://www.powell-software.com) |
 | [アプリケーション情報Teamsページの URL | [https://helpteams.powell-software.com](https://helpteams.powell-software.com) |
 | プライバシー ポリシーの URL | [https://powell-software.com/en/powell-teams-privacy](https://powell-software.com/en/powell-teams-privacy) |
@@ -118,7 +118,7 @@ ms.locfileid: "58407509"
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、Powell ソフトウェアから提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

@@ -9,11 +9,11 @@ certification_type: attested
 description: Jetdocs で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 649617f3e61dbcc75cd4d5206982c4cee03563be
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283021"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286579"
 ---
 # <a name="jetdocs"></a>Jetdocs
 
@@ -30,7 +30,7 @@ ms.locfileid: "53283021"
 
 Jetdocs が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Jetdocs |
 | ID | WA200002236 |

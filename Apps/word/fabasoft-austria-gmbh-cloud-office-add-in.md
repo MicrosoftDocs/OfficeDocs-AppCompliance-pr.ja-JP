@@ -9,11 +9,11 @@ certification_type: attested
 description: Fabasoft Cloud Office アドイン、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: ab18964a27a5443fc1116c4c18d5e94830d3dc89
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404750"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287748"
 ---
 # <a name="fabasoft-cloud-office-add-in"></a>Fabasoft クラウド Office アドイン
 
@@ -29,7 +29,7 @@ ms.locfileid: "58404750"
 
 Fabasoft Austria GmbH から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Fabasoft クラウド Office アドイン |
 | ID | WA200002917 |
@@ -111,7 +111,7 @@ Fabasoft Austria GmbH から Microsoft に提供される情報:
 
 この情報は、Fabasoft Austria GmbH によって、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

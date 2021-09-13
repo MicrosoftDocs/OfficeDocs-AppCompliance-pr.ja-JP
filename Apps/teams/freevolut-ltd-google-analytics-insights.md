@@ -1,19 +1,19 @@
 ---
-title: Freevolut LTD による Google Analytics Insights のアプリケーション情報
+title: Freevolut LTD による Google Analytics インサイトアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Google Analytics Insights、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: Google Analytics インサイト、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 3b2b1e528878540c22682ce5dc4fa30df0eba1d8
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553148"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289305"
 ---
 # <a name="google-analytics-insights"></a>Google Analytics Insights
 
@@ -30,7 +30,7 @@ ms.locfileid: "52553148"
 
 Freevolut LTD から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Google Analytics Insights |
 | ID | WA200000743 |

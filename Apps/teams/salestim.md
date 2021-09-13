@@ -9,11 +9,11 @@ certification_type: certified
 description: SalesTim のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: b15cf2f87b6707b6fa82dfc3968444d7cad85e8a
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53524760"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286924"
 ---
 # <a name="salestim"></a>SalesTim
 
@@ -29,7 +29,7 @@ ms.locfileid: "53524760"
 
 SalesTim から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | SalesTim |
 | ID | WA200001393 |
@@ -61,7 +61,7 @@ SalesTim から Microsoft に提供される情報:
 >| Mail.Send | 委任 | 通知&#8217;、受信者 (ID のみ)、要求 ID など、このアクションのメタデータを再格納する必要があります。 | アプリが承認ワークフロー中に、たとえば通知メールを送信できます。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
 >| Sites.ReadWrite.All | 委任 | Azure サービスの一部を使用してデータを格納しています。特に Azure および DB 上の Redis Cosmosしています | チームのプロビジョニング プロセス中に、チームに関連付けられたドライブ (ファイルとフォルダー) を管理できます。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
 >| User.Read.All | 委任 | プロファイル データ&#8217;、一部のユーザーの ID のみを保存する必要があります。 | アプリが、すべてのユーザーのプロファイル プロパティ、レポート、および管理者の完全なセットを読み取ることができます。 これは、現在のユーザー プロファイルに基づいてコンテンツをフィルター処理するために、特に対象ユーザーのターゲット設定プロセス中に使用されます。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
->| offlineaccess | 委任 | なし | アプリがユーザーとしていくつかのバックグラウンド操作とアクションを実行できます。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| offlineaccess | 委任 | いいえ | アプリがユーザーとしていくつかのバックグラウンド操作とアクションを実行できます。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス

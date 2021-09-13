@@ -9,11 +9,11 @@ certification_type: attested
 description: CSA STAR レジストリの Webex Call、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: e4addbd6b3ad932c9c987f57cca03c1e6e77cfcd
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521930"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285955"
 ---
 # <a name="webex-call"></a>Webex Call
 
@@ -30,7 +30,7 @@ ms.locfileid: "53521930"
 
 シスコから Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Webex Call |
 | ID | WA200001495 |
@@ -75,7 +75,7 @@ ms.locfileid: "53521930"
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| このメッセージ拡張機能は、チャット メンバーのメール/電話を読み取り、ユーザーが Cisco WebEx でそれらを呼び出す | なし |  |
+>| このメッセージ拡張機能は、チャット メンバーのメール/電話を読み取り、ユーザーが Cisco WebEx でそれらを呼び出す | いいえ |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -94,7 +94,7 @@ ms.locfileid: "53521930"
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->なし
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -118,9 +118,9 @@ ms.locfileid: "53521930"
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、シスコから提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | なし |
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

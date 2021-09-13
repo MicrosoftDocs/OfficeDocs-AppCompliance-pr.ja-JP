@@ -9,11 +9,11 @@ certification_type: attested
 description: B2B パートナー向け キヤノン EMEA Service Cost Calculator、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: a5e1d55a50474f1085b6ac856a29c74c8cb0e2a5
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407468"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286796"
 ---
 # <a name="canon-emea-service-cost-calculator-for-b2b-partners"></a>キヤノン B2B パートナー向け EMEA サービス コスト計算ツール
 
@@ -29,7 +29,7 @@ ms.locfileid: "58407468"
 
 EMEA から Microsoft キヤノン提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | キヤノン B2B パートナー向け EMEA サービス コスト計算ツール |
 | ID | WA200003098 |
@@ -104,7 +104,7 @@ EMEA から Microsoft キヤノン提供される情報:
 
 この情報は、このアプリキヤノン認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について、EMEA から提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

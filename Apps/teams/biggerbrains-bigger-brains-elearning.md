@@ -9,13 +9,13 @@ certification_type: attested
 description: Bigger Brains eLearning、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 9256e0b115815ac4074057d794646fececd0baf4
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407523"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288756"
 ---
-# <a name="bigger-brains-elearning"></a>大きな Brains eLearning
+# <a name="bigger-brains-elearning"></a>Bigger Brains eLearning
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -30,9 +30,9 @@ ms.locfileid: "58407523"
 
 Biggerbrains から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | 大きな Brains eLearning |
+| アプリ名 | Bigger Brains eLearning |
 | ID | WA200002366 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Biggerbrains |
@@ -113,7 +113,7 @@ Biggerbrains から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について、Biggerbrains によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

@@ -9,11 +9,11 @@ certification_type: attested
 description: eCademy Lernplattform、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: f5926d481fbfc766d80b61356656f6b44ea0c1bd
-ms.sourcegitcommit: 64333f4e583bacd85f1b47af6e1eaee266658924
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "58422732"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287924"
 ---
 # <a name="ecademy-lernplattform"></a>eCademy Lernplattform
 
@@ -30,12 +30,12 @@ ms.locfileid: "58422732"
 
 GmbH 内の Cornelsen eCademy から &amp; Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | eCademy Lernplattform |
 | ID | WA200002717 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | GmbH 内のコーネルセン &amp; eCademy |
+| パートナー会社名 | Cornelsen eCademy &amp;inside GmbH |
 | パートナー Web サイトの URL | [https://www.ecademy-learning.com](https://www.ecademy-learning.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.ecademy-learning.com](https://www.ecademy-learning.com) |
 | プライバシー ポリシーの URL | [https://www.ecademy-learning.com/datenschutz/](https://www.ecademy-learning.com/datenschutz/) |
@@ -113,7 +113,7 @@ GmbH 内の Cornelsen eCademy から &amp; Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について、GmbH 内の Cornelsen eCademy によって &amp; 提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

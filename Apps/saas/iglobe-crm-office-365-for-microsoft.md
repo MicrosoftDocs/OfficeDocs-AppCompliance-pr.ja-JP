@@ -9,11 +9,11 @@ certification_type: attested
 description: Microsoft 365 の iGlobe CRM Office 365、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 79ae347ccea2f9ee3dda6f2b506fc02f802b3ca9
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527743"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286731"
 ---
 # <a name="iglobe-crm-office-365-for-microsoft-365"></a>iGlobe CRM Office 365 Microsoft 365
 
@@ -29,7 +29,7 @@ ms.locfileid: "53527743"
 
 iGlobe から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | iGlobe CRM Office 365 Microsoft 365 |
 | ID | 17859280.iglobecrmoffice365 |
@@ -74,21 +74,21 @@ iGlobe から Microsoft に提供される情報:
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Exchange - Calendars.ReadWrite.All | なし |  |  |  |  |
->| Exchange - Mail.Read.All | なし |  |  |  |  |
->| Exchange - Contacts.Read | なし |  |  |  |  |
->| Exchange - EWS。AccessAsUser.All | なし |  |  |  |  |
->| Exchange - Tasks.ReadWrite | なし |  |  |  |  |
->| SharePoint - AllSites.Manage | なし |  |  |  |  |
->| SharePoint - AllSites.Read | なし |  |  |  |  |
->| SharePoint -AllSites.Write | なし |  |  |  |  |
->| SharePoint - MyFiles.Write | なし |  |  |  |  |
->| SharePoint - Sites.Manage.All | なし |  |  |  |  |
->| SharePoint - Sites.Read.All | なし |  |  |  |  |
->| SharePoint - Sites.ReadWrite.All | なし |  |  |  |  |
->| SharePoint - Sites.Search.All | なし |  |  |  |  |
->| SharePoint - TermStore.Read.All | なし |  |  |  |  |
->| SharePoint - TermStore.ReadWrite.All | なし |  |  |  |  |
+>| Exchange - Calendars.ReadWrite.All | いいえ |  |  |  |  |
+>| Exchange - Mail.Read.All | いいえ |  |  |  |  |
+>| Exchange - Contacts.Read | いいえ |  |  |  |  |
+>| Exchange - EWS。AccessAsUser.All | いいえ |  |  |  |  |
+>| Exchange - Tasks.ReadWrite | いいえ |  |  |  |  |
+>| SharePoint - AllSites.Manage | いいえ |  |  |  |  |
+>| SharePoint - AllSites.Read | いいえ |  |  |  |  |
+>| SharePoint -AllSites.Write | いいえ |  |  |  |  |
+>| SharePoint - MyFiles.Write | いいえ |  |  |  |  |
+>| SharePoint - Sites.Manage.All | いいえ |  |  |  |  |
+>| SharePoint - Sites.Read.All | いいえ |  |  |  |  |
+>| SharePoint - Sites.ReadWrite.All | いいえ |  |  |  |  |
+>| SharePoint - Sites.Search.All | いいえ |  |  |  |  |
+>| SharePoint - TermStore.Read.All | いいえ |  |  |  |  |
+>| SharePoint - TermStore.ReadWrite.All | いいえ |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -116,7 +116,7 @@ iGlobe から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->なし
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -140,11 +140,11 @@ iGlobe から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 基準を処理する方法について iGlobe によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | なし |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | セキュリティの既定値と、従来の認証をブロックする* [管理者に MFA を要求する] * [Azure 管理に MFA を要求する] * [すべてのユーザーに MFA を要求する] などの一般的なポリシー。 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
@@ -152,9 +152,9 @@ iGlobe から Microsoft に提供される情報:
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリは Web API を公開していますか? | なし |
-| アプリでプレビュー API を使用していますか? | なし |
-| アプリで非推奨の API を使用していますか? | なし |
+| アプリは Web API を公開していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

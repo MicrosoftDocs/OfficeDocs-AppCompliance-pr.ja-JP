@@ -9,11 +9,11 @@ certification_type: attested
 description: Projectplace で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: c74950778b78f425e44a8e80c9d2319f7a2942ae
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407539"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288387"
 ---
 # <a name="projectplace"></a>Projectplace
 
@@ -30,7 +30,7 @@ ms.locfileid: "58407539"
 
 Planview, Inc. から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Projectplace |
 | ID | WA200000103 |
@@ -113,7 +113,7 @@ Planview, Inc. から Microsoft に提供される情報:
 
 この情報は、Planview, Inc. から、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

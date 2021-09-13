@@ -7,11 +7,11 @@ keywords: アプリ構成証明 microsoft 365 認定 365 アンケート appSour
 ms.topic: conceptual
 ms.service: attestation
 ms.openlocfilehash: 49bb08fa252a3907df67766dce39ef810381be27
-ms.sourcegitcommit: 44c92cbf86ee358e4fcdf2a51dae5be001345029
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "58862040"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287627"
 ---
 # <a name="what-is-microsoft-365-certification"></a>認定とはMicrosoft 365ですか?
 

@@ -9,11 +9,11 @@ certification_type: certified
 description: MyHub で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 4c6997e3caa9d0a72fe81151dadb14bc7bb7374c
-ms.sourcegitcommit: cd30c7ec09b1a06fb0b5696d10739a27c8434c53
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58885807"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288812"
 ---
 # <a name="myhub"></a>MyHub
 
@@ -29,7 +29,7 @@ ms.locfileid: "58885807"
 
 AvePoint, inc. から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | MyHub |
 | ID | WA200000726 |

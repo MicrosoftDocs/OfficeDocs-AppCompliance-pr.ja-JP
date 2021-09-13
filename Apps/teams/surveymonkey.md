@@ -9,11 +9,11 @@ certification_type: attested
 description: SurveyMonkey、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: f4898e476e0848ba728d07d0d851fc09f239aecf
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53528203"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287307"
 ---
 # <a name="surveymonkey"></a>SurveyMonkey
 
@@ -30,7 +30,7 @@ ms.locfileid: "53528203"
 
 SurveyMonkey から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | SurveyMonkey |
 | ID | WA104381088 |
@@ -57,7 +57,7 @@ SurveyMonkey から Microsoft に提供される情報:
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Group.ReadWrite.All | 委任 | なし | アンケートを共有するグループ/チャネルのリストを提供するには | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Group.ReadWrite.All | 委任 | いいえ | アンケートを共有するグループ/チャネルのリストを提供するには | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス

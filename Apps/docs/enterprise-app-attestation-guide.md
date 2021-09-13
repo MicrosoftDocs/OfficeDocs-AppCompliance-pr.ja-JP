@@ -6,12 +6,12 @@ description: 構成証明プログラムのPublisher詳細
 keywords: アプリ構成証明認定 365 アンケート appSource Publisher
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 10b4bb59d26190535b9aa365c830db774f4865c063678fad02a10c73c6d1ef64
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 06c64ab2aa09790a0c20ee9d555adf1177031f12
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54750457"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287651"
 ---
 # <a name="what-is-publisher-attestation"></a>構成証明Publisherとは
 

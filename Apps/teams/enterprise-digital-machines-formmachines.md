@@ -9,11 +9,11 @@ certification_type: attested
 description: FormMachines、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 36ee73c86e0ccb1d8943cbe04da24319789b31c7
-ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53456599"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289124"
 ---
 # <a name="formmachines"></a>FormMachines
 
@@ -30,7 +30,7 @@ ms.locfileid: "53456599"
 
 Microsoft にデジタル Enterpriseによって提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | FormMachines |
 | ID | WA200001217 |
@@ -111,7 +111,7 @@ Microsoft にデジタル Enterpriseによって提供される情報:
 
 この情報は、このアプリEnterprise認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について、デジタル コンピューターから提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

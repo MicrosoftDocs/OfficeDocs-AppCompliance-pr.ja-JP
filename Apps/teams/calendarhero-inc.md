@@ -9,11 +9,11 @@ certification_type: attested
 description: CalendarHero、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 41a7dd8a2cb7d900ac26b228c4cc2522d76da59c
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527593"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287083"
 ---
 # <a name="calendarhero"></a>CalendarHero
 
@@ -30,7 +30,7 @@ ms.locfileid: "53527593"
 
 CalendarHero Inc から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | CalendarHero |
 | ID | WA200000150 |
@@ -63,7 +63,7 @@ CalendarHero Inc から Microsoft に提供される情報:
 >| Mail.Read | 両方とも | 連絡先の電子メール/名前、対話の頻度/最新の情報。 | (省略可能) は、ユーザーの最も重要な連絡先が誰か (ユーザー経由で) 電子メールのメタデータを読み取Machine Learning。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| MailboxSettings.ReadWrite | 両方とも | ユーザーのタイム ゾーン。 | ユーザーのタイム ゾーン。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| User.Read.All | 両方とも | ユーザーの名前 &amp; の電子メール (連絡先として保存)。 | (オプション) 企業ユーザーの読み取り (同僚とのスケジュール設定用) | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| offline_access | アプリケーション | なし | ユーザーが存在せずに、いつでもバック エンドを通じて読み書きする必要があります。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| offline_access | アプリケーション | いいえ | ユーザーが存在せずに、いつでもバック エンドを通じて読み書きする必要があります。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -97,7 +97,7 @@ CalendarHero Inc から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->なし
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

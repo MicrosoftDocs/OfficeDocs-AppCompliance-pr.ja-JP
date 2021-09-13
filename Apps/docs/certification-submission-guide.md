@@ -7,11 +7,11 @@ keywords: アプリ認定チームMicrosoft 365コンプライアンス m365
 ms.topic: conceptual
 ms.service: attestation
 ms.openlocfilehash: b0a207bd8fbe1834e03c08eecb82d3552c75a182
-ms.sourcegitcommit: f33609288c6c59af423367dce2eac3e261c1d297
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58373781"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287668"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365認定申請ガイド
 
@@ -39,7 +39,7 @@ ms.locfileid: "58373781"
 - [用語集](#glossary) 
 
 
-## <a name="introduction"></a>はじめに
+## <a name="introduction"></a>概要
 
 Microsoft 365 アプリ コンプライアンス プログラムの一部である Microsoft 365 認定は、サード パーティの開発者向けアプリ/アドインを Microsoft 365 プラットフォームに統合する際に、データとプライバシーが適切に保護され、保護されているという確信を企業組織に提供します。 検証に合格するアプリケーションとアドインは、Microsoft 365 **エコシステム** 全体Microsoft 365されます。 
 
@@ -105,9 +105,9 @@ IaaS または PaaS が展開されている場合は、これらの展開の種
 
 |母集団のサイズ              | サンプル                  |
 |---------------------------- |-------------------------|
-|<5|1 |
-|>5 & <10|2 |
-|>9 & <25|3 |
+|<5|1|
+|>5 & <10|2|
+|>9 & <25|3|
 |>24|4 |
 
 > [!NOTE]
@@ -125,7 +125,7 @@ IaaS または PaaS が展開されている場合は、これらの展開の種
 >[!NOTE]
 >すべての Office アプリについては、アプリ ユーザー ガイドOffice[参照できます](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide)。 すべての WebApp については [、SaaS アプリ](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide)ユーザー ガイドを参照できます。
 
-### <a name="assessment"></a>評価
+### <a name="assessment"></a>料金の考え方の案内
 1. 最初のドキュメント提出が受け入れられると、アプリに必要なセキュリティ制御のセットがポータルに自動的に表示されます。 その後、コントロールが配置されているという証拠を各コントロールに提出する必要があります。 すべての証拠を提出するために **60** 日間が与えられる点に気を付けください。 アナリストが証拠を確認し、コントロールを承認するか、新しい証拠または追加の証拠を要求します。 このページを頻繁に確認して、証拠が受け入れられらたか確認してください。
 ### <a name="certification"></a>認定
 1. 提出がアナリストによって検証された後、認定の決定が通知されます。 認定を受けるアプリは **、AppSource** および Microsoft ドキュメント ページ内のアプリケーションで **バッジを受け取** る。 認定の利点については、こちらを参照 [してください](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide#program-benefits)。

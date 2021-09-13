@@ -9,11 +9,11 @@ certification_type: attested
 description: MailClark、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 3e9c01b76c513fd0786b27a0447a70c1f9c9d7e0
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525501"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286380"
 ---
 # <a name="mailclark"></a>MailClark
 
@@ -30,7 +30,7 @@ ms.locfileid: "53525501"
 
 MailClark から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | MailClark |
 | ID | WA104381679 |

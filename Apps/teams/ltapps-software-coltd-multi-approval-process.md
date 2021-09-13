@@ -9,13 +9,13 @@ certification_type: attested
 description: マルチ承認プロセス LTAPP、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: c001622957b8f1a56b776cbe2db034cc9225ef5d
-ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58836207"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287444"
 ---
-# <a name="multi-approval-process-ltapps"></a>複数承認プロセスの LTAPPs
+# <a name="multi-approval-process-ltapps"></a>複数の承認プロセスの LTAPPs
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ LTAPPs SOFTWARE CO.,LTD から Microsoft に提供される情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | 複数承認プロセスの LTAPPs |
+| アプリ名 | 複数の承認プロセスの LTAPPs |
 | ID | WA200003188 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | LTAPPs SOFTWARE CO.,LTD |
@@ -64,7 +64,7 @@ LTAPPs SOFTWARE CO.,LTD から Microsoft に提供される情報:
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| SharePoint - AllSites.Read &amp; Write | 番号 |  |  |  |  |
+>| SharePoint - AllSites.Read &amp; Write | いいえ |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -95,7 +95,7 @@ LTAPPs SOFTWARE CO.,LTD から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->番号
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -124,15 +124,15 @@ LTAPPs SOFTWARE CO.,LTD から Microsoft に提供される情報:
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | 番号 |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | 番号 |
+| アプリに機密クライアントがありますか? | いいえ |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | ,<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/> |
-| アプリは Web API を公開していますか? | 番号 |
-| アプリでプレビュー API を使用していますか? | 番号 |
+| アプリは Web API を公開していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | いいえ |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

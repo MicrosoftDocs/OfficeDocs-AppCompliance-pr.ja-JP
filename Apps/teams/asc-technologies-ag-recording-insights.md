@@ -9,11 +9,11 @@ certification_type: attested
 description: ASC Recording インサイト、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: efeac55591daa01827df42e8b473acdea8ee66f5
-ms.sourcegitcommit: 3660f89e183c638979a31c295ac059daa6c387dd
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58391890"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287532"
 ---
 # <a name="asc-recording-insights"></a>ASC レコーディング インサイト
 
@@ -30,7 +30,7 @@ ms.locfileid: "58391890"
 
 ASC Technologies AG が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | ASC レコーディング インサイト |
 | ID | WA200000708 |
@@ -126,7 +126,7 @@ ASC Technologies AG が Microsoft に提供する情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について ASC Technologies AG によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

@@ -9,11 +9,11 @@ certification_type: attested
 description: リンク スポットター、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 8a6c2ee716c7e07686e2c62e1cd79196acbdc5a3
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407534"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285900"
 ---
 # <a name="link-spotter"></a>Link Spotter
 
@@ -30,12 +30,12 @@ ms.locfileid: "58407534"
 
 Communardo 製品から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Link Spotter |
 | ID | WA200003092 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | Communardo 製品 |
+| パートナー会社名 | Communardo Products |
 | パートナー Web サイトの URL | [https://www.communardo.com](https://www.communardo.com) |
 | [アプリケーション情報Teamsページの URL | [https://communardo.atlassian.net/wiki/spaces/LINK/overview](https://communardo.atlassian.net/wiki/spaces/LINK/overview) |
 | プライバシー ポリシーの URL | [https://www.communardo.com/privacy-statement/](https://www.communardo.com/privacy-statement/) |
@@ -128,7 +128,7 @@ Communardo 製品から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について Communardo 製品によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

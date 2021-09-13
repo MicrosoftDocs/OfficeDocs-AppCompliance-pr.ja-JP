@@ -2,17 +2,17 @@
 title: Microsoft Teams アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/03/2021
+ms.date: 09/09/2021
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: 6072593e75572ef39d481ecb3cc6197e85d10aa4
-ms.sourcegitcommit: cd30c7ec09b1a06fb0b5696d10739a27c8434c53
+ms.openlocfilehash: 2b456c414309b64f34690892aac36bb86ea79eaa
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58881394"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289003"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -37,7 +37,6 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [ArcGIS Maps](./esri-arcgis-maps.md) | Esri | **✓** |  |
 | [Arrangr](./arrangr-inc.md) | Arrangr, Inc. | **✓** |  |
 | [Asana](./asana.md) | Asana | **✓** |  |
-| [ASC レコーディング インサイト](./asc-technologies-ag-recording-insights.md) | ASC Technologies AG | **✓** |  |
 | [askR.ai](./askrai.md) | askR.ai | **✓** |  |
 | [Assembly](./carrothr-inc-assembly.md) | CarrotHR Inc. | **✓** |  |
 | [AtBot](./h3-solutions-inc-atbot.md) | H3 Solutions, Inc. | **✓** |  |
@@ -68,7 +67,9 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [掲示板 - NextSet](./nextsetinc-bulletin-board-nextset.md) | NextSet,Inc. | **✓** |  |
 | [C.AI Adoption Bot](./contexxtai-cai-adoption-bot.md) | contexxt.ai | **✓** |  |
 | [予定表ボット](./approved-contact-calendar-bot.md) | 承認済みの連絡先 | **✓** |  |
+| [カレンダー Pro](./witivio-calendar-pro.md) | Witivio | **✓** |  |
 | [CalendarHero](./calendarhero-inc.md) | CalendarHero Inc | **✓** |  |
+| [カナリア](./yattee-inc-canary.md) | YATTEE Inc. | **✓** |  |
 | [CatchEm](./chimu-software-catchem.md) | Chimu Software | **✓** |  |
 | [Centrical](./biz-effective-centrical.md) | Biz-Effective | **✓** |  |
 | [時系列の時間追跡](./chrono-innovation-chronoscope-time-tracking.md) | Chrono Innovation | **✓** |  |
@@ -85,7 +86,6 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [CodeStream](./codestream.md) | CodeStream | **✓** |  |
 | [CoffeePals](./carnduff-co-coffeepals.md) | Carnduff Co | **✓** |  |
 | [Collection Pot](./gifted-to-you-limited-collection-pot.md) | Gifted to You Limited | **✓** |  |
-| [Commander](./nimbella-commander.md) | Nimbella | **✓** |  |
 | [Complish](./cauzey-pty-ltd-complish.md) | Cauzey Pty Ltd | **✓** |  |
 | [Conferences i/o](./conferences-io.md) | Conferences i/o | **✓** |  |
 | [Confluence Cloud](./atlassian-confluence-cloud.md) | Atlassian | **✓** |  |
@@ -98,7 +98,6 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Cyberday](./digiturvamalli-cyberday.md) | Digiturvamalli | **✓** |  |
 | [Datto Workplace](./datto-inc-workplace.md) | Datto, Inc. | **✓** |  |
 | [DBit](./diamondsoft-solutions-llc-dbit.md) | Diamondsoft Solutions, LLC | **✓** |  |
-| [決定事項](./decisions.md) | 決定事項 | **✓** |  |
 | [DisasterTech DICE](./disastertech-dice.md) | DisasterTech | **✓** |  |
 | [do!book CB](./digital-office-inc-do!book-cb.md) | Digital Office Inc. | **✓** |  |
 | [DocuSign eSignature](./docusign-inc-esignature.md) | DocuSign, Inc. | **✓** |  |
@@ -133,6 +132,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [フリーハンド](./invisionapp-inc-freehand.md) | InVisionApp Inc. | **✓** |  |
 | [Freshdesk](./freshworks-inc-freshdesk.md) | Freshworks INC | **✓** |  |
 | [Fusion Remote](./jujo-inc-fusion-remote.md) | Jujo Inc. | **✓** |  |
+| [Geekbot](./geekbot-ltd.md) | Geekbot Ltd | **✓** |  |
 | [Gensys](./gensys-solutions-bv.md) | ensys Solutions BV | **✓** |  |
 | [GitHub](./microsoft-corporation-github.md) | Microsoft Corporation | **✓** |  |
 | [Go1](./go1.md) | Go1 | **✓** |  |
@@ -167,7 +167,6 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Karma](./sliday-ltd-karma.md) | Sliday LTD | **✓** |  |
 | [Kazoo](./kazoo.md) | Kazoo | **✓** |  |
 | [Klaxoon](./klaxoon.md) | Klaxoon | **✓** |  |
-| [Koan](./koan-inc.md) | Koan, Inc. | **✓** |  |
 | [Kronos](./kronos-inc.md) | Kronos, Inc. | **✓** |  |
 | [Kudozza](./survivef5-gmbh-kudozza.md) | surviveF5 GmbH | **✓** |  |
 | [LawToolBox](./lawtoolboxcom-inc-lawtoolbox.md) | LawToolBox.com Inc. | **✓** |  |
@@ -182,10 +181,12 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Lucidchart](./lucid-software-lucidchart.md) | Lucid Software | **✓** |  |
 | [Lucidspark](./lucid-software-lucidspark.md) | Lucid Software | **✓** |  |
 | [LuckyDraw](./tony-xia-luckydraw.md) | Tony Xia | **✓** |  |
+| [LumApps](./lumapps.md) | LumApps | **✓** |  |
 | [SMART による Lumio](./smart-technologies-ulc-lumio-by.md) | SMART Technologies ULC | **✓** |  |
 | [MailClark](./mailclark.md) | MailClark | **✓** |  |
 | [Marvel](./marvel.md) | Marvel | **✓** |  |
 | [MeasureUp](./media-interactiva-solutions-measureup.md) | Media Interactiva Solutions | **✓** |  |
+| [Mediatheque+](./cemeq-inc-mediathequeplus.md) | CEMEQ inc. | **✓** |  |
 | [Medxnote MT](./medxnote-mt.md) | Medxnote | **✓** |  |
 | [MeisterTask](./meisterlabs-gmbh-meistertask.md) | MeisterLabs GmbH | **✓** |  |
 | [Mentimeter](./mentimeter.md) | Mentimeter | **✓** |  |
@@ -205,7 +206,6 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Myfone](./flexfone-myfone.md) | Flexfone | **✓** |  |
 | [MyHub](./avepoint-inc-myhub.md) | AvePoint, Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [MyWorkDrive](./myworkdrive.md) | MyWorkDrive | **✓** |  |
-| [M&#233;diath&#232;que+](./cemeq-inc-mediathequeplus.md) | CEMEQ inc. | **✓** |  |
 | [Navo](./regroove-solutions-navo.md) | Regroove Solutions | **✓** |  |
 | [NE](./ne.md) | NE | **✓** |  |
 | [Neelix.Team](./neelixio-neelixteam.md) | Neelix.IO | **✓** |  |
@@ -269,6 +269,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [ScanBuddy.ai](./moblizeit-llc-scanbuddyai.md) | Moblize.it LLC | **✓** |  |
 | [ScrumGenius](./scrumgenius.md) | ScrumGenius | **✓** |  |
 | [SecretaryBot](./mysecretary-secretarybot.md) | MySecretary | **✓** |  |
+| [SEFOS](./meaplus-ab-sefos.md) | Meaplus AB | **✓** |  |
 | [SelfDrvn](./selfdrvn.md) | SelfDrvn | **✓** |  |
 | [Sensei Labs Conductor](./sensei-labs-inc-conductor.md) | Sensei Labs Inc. | **✓** |  |
 | [Senso](./senso.md) | Senso | **✓** |  |
@@ -312,6 +313,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [SurveySparrow](./admin@surveysparrowcom-surveysparrow.md) | admin@surveysparrow.com | **✓** |  |
 | [SwiftAssess](./gamalearn-swiftassess.md) | GamaLearn | **✓** |  |
 | [Sympli](./sympli-llc.md) | Sympli, LLC | **✓** |  |
+| [SysAid](./sysaid.md) | SysAid | **✓** |  |
 | [TackleBox](./insiten-tacklebox.md) | Insiten | **✓** |  |
 | [Tactileo](./maskott-tactileo.md) | Maskott | **✓** |  |
 | [TagTeam](./smarter-business-solution-gmbh-tagteam.md) | Smarter Business Solution GmbH | **✓** |  |
@@ -329,7 +331,6 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Teams Manager](./solutions2share-gmbh-teams-manager.md) | Solutions2Share GmbH | **✓** |  |
 | [TeamsChamp](./teamschamp.md) | TeamsChamp | **✓** |  |
 | [TeamSticker by Communitio](./communitio-corporation-teamsticker-by.md) | Communitio Corporation | **✓** |  |
-| [TELUS Business Connect](./ringcentral-inc-telus-business-connect.md) | RingCentral, Inc. | **✓** |  |
 | [Template Chooser](./officeatwork-template-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Text](./approved-contact-text.md) | 承認済みの連絡先 | **✓** |  |
 | [Tikit](./cireson-tikit.md) | Cireson | **✓** |  |
@@ -337,6 +338,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [timeghost](./kollisch-gmbh-timeghost.md) | K&#246;llisch GmbH | **✓** |  |
 | [Timeneye](./dm-digital-srl-timeneye.md) | DM Digital SRL | **✓** |  |
 | [TINYpulse](./tinypulse.md) | TINYpulse | **✓** |  |
+| [Totara](./totara-learning.md) | Totara ラーニング | **✓** |  |
 | [Tribute](./tribute-co.md) | Tribute Co. | **✓** |  |
 | [Trivia](./springworks-hr-tech-trivia.md) | Springworks HR Tech | **✓** |  |
 | [Trivie](./trivie-inc.md) | Trivie, Inc. | **✓** |  |

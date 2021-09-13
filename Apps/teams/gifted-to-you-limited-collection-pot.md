@@ -9,13 +9,13 @@ certification_type: attested
 description: コレクション ポット、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 64d48d55cdbb437697f6d001636ed505b4fcbc59
-ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53610093"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287892"
 ---
-# <a name="collection-pot"></a>コレクション ポット
+# <a name="collection-pot"></a>Collection Pot
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -30,9 +30,9 @@ ms.locfileid: "53610093"
 
 Microsoft に限定された、Gifted to You によって提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | コレクション ポット |
+| アプリ名 | Collection Pot |
 | ID | WA200002016 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Gifted to You Limited |
@@ -110,7 +110,7 @@ Microsoft に限定された、Gifted to You によって提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、Gifted to You Limited によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

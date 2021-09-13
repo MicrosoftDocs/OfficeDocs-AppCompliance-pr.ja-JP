@@ -9,11 +9,11 @@ certification_type: attested
 description: Outlook の CodeTwo、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: be70f483b2e8871375451bffe107de9b2f29f33d
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58245338"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286004"
 ---
 # <a name="codetwo-for-outlook"></a>CodeTwo for Outlook
 
@@ -29,7 +29,7 @@ ms.locfileid: "58245338"
 
 CodeTwo から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | CodeTwo for Outlook |
 | ID | WA200003022 |
@@ -104,7 +104,7 @@ CodeTwo から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について CodeTwo によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

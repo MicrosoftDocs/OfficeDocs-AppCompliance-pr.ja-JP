@@ -9,11 +9,11 @@ certification_type: attested
 description: Qooper、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 83bc4fea918d30cd0854ec260f817fc1ad87bacf
-ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58567251"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285907"
 ---
 # <a name="qooper"></a>Qooper
 
@@ -30,7 +30,7 @@ ms.locfileid: "58567251"
 
 COGNATA TECHNOLOGIES LLC から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Qooper |
 | ID | WA200002964 |
@@ -111,7 +111,7 @@ COGNATA TECHNOLOGIES LLC から Microsoft に提供される情報:
 
 この情報は、COGNATA TECHNOLOGIES、LLC によって、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

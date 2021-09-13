@@ -9,11 +9,11 @@ certification_type: attested
 description: SharePoint Online 用アジャイル タスク ボード、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 649c3ee34514214e91eaa1fe5ed43b43f6d9a43b
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282248"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286619"
 ---
 # <a name="agile-task-board-for-sharepoint-online"></a>アジャイル タスク ボード for SharePoint Online
 
@@ -29,7 +29,7 @@ ms.locfileid: "53282248"
 
 Agile-IS が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | アジャイル タスク ボード for SharePoint Online |
 | ID | WA200002087 |

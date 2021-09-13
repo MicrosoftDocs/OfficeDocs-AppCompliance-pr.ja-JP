@@ -9,11 +9,11 @@ certification_type: attested
 description: CocoFax で使用可能なすべてのセキュリティおよびコンプライアンス情報 - 送信 FAX Made Easy Secure、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。 &amp;
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 8b44af37fc4fcfcb9452b3af6fdd666b0565d9d4
-ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58873897"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286076"
 ---
 # <a name="cocofax---sending-fax-made-easy-amp-secure"></a>CocoFax - 送信 FAX を簡単に安全に &amp; 送信する
 
@@ -29,7 +29,7 @@ ms.locfileid: "58873897"
 
 Microsoft に提供される &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; 情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | CocoFax - 送信 FAX を簡単に安全に &amp; 送信する |
 | ID | WA200002263 |
