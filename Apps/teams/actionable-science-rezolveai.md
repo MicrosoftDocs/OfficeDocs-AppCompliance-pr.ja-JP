@@ -9,11 +9,11 @@ certification_type: attested
 description: Rezolve.ai、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 22c71b78374956fb69f0f3f5fd5fc860d2184363
-ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53775027"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285060"
 ---
 # <a name="rezolveai"></a>Rezolve.ai
 
@@ -30,12 +30,12 @@ ms.locfileid: "53775027"
 
 Microsoft にアクション可能なサイエンスによって提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Rezolve.ai |
 | ID | WA200002724 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | アクション可能なサイエンス |
+| パートナー会社名 | Actionable Science |
 | パートナー Web サイトの URL | [https://www.rezolve.ai](https://www.rezolve.ai) |
 | プライバシー ポリシーの URL | [https://www.rezolve.ai/privacyPolicy](https://www.rezolve.ai/privacyPolicy) |
 | 利用規約の URL | [https://www.rezolve.ai/generalTerms](https://www.rezolve.ai/generalTerms) |
@@ -114,7 +114,7 @@ Microsoft にアクション可能なサイエンスによって提供される�
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について、Actionable Science によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

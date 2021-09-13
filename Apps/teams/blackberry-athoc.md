@@ -9,11 +9,11 @@ certification_type: attested
 description: BlackBerry AtHoc で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 38d1d54293b3f406a0a5c8028850dae27a9c9294
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58241837"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284083"
 ---
 # <a name="blackberry-athoc"></a>BlackBerry AtHoc
 
@@ -30,7 +30,7 @@ ms.locfileid: "58241837"
 
 BlackBerry から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | BlackBerry AtHoc |
 | ID | WA200003065 |
@@ -118,7 +118,7 @@ BlackBerry から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について BlackBerry によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

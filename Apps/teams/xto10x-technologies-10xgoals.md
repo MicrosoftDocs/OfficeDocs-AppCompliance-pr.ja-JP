@@ -9,11 +9,11 @@ certification_type: attested
 description: 10xGoals で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 52b806ec307e396e67d9d91624e8be80c94142bb
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407479"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284963"
 ---
 # <a name="10xgoals"></a>10xGoals
 
@@ -30,12 +30,12 @@ ms.locfileid: "58407479"
 
 xto10x Technologies から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | 10xGoals |
 | ID | WA200003122 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | xto10x テクノロジ |
+| パートナー会社名 | xto10x Technologies |
 | パートナー Web サイトの URL | [https://www.xto10x.com/10xgoals/](https://www.xto10x.com/10xgoals/) |
 | [アプリケーション情報Teamsページの URL | [https://www.xto10x.com/10xgoals/](https://www.xto10x.com/10xgoals/) |
 | プライバシー ポリシーの URL | [https://www.xto10x.com/security/privacy-policy/](https://www.xto10x.com/security/privacy-policy/) |
@@ -118,7 +118,7 @@ xto10x Technologies から Microsoft に提供される情報:
 
 この情報は、xto10x Technologies によって、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

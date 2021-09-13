@@ -9,11 +9,11 @@ certification_type: attested
 description: Appraisd で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: baebeaa3079fbe38cc9c1fb76f1841059346be9c
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407510"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284108"
 ---
 # <a name="appraisd"></a>Appraisd
 
@@ -30,12 +30,12 @@ ms.locfileid: "58407510"
 
 Appraisd ltd. から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Appraisd |
 | ID | WA200003123 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | Appraisd ltd. |
+| パートナー会社名 | Appraisd Ltd. |
 | パートナー Web サイトの URL | [https://www.appraisd.com](https://www.appraisd.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.appraisd.com](https://www.appraisd.com) |
 | プライバシー ポリシーの URL | [https://help.appraisd.com/hc/en-us/articles/360007779298-Pr...](https://help.appraisd.com/hc/en-us/articles/360007779298-Privacy-Policy) |
@@ -117,7 +117,7 @@ Appraisd ltd. から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について Appraisd ltd. から提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

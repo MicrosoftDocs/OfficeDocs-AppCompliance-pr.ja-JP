@@ -9,11 +9,11 @@ certification_type: attested
 description: Site24x7 で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: bbcd20206e1520327e65b36f97690c197bb2f258
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550487"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284884"
 ---
 # <a name="site24x7"></a>Site24x7
 
@@ -30,7 +30,7 @@ ms.locfileid: "52550487"
 
 Zoho Corporation Private Limited to Microsoft から提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Site24x7 |
 | ID | WA104381289 |

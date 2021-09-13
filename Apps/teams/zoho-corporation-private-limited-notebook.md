@@ -9,11 +9,11 @@ certification_type: attested
 description: Zoho Notebook のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 005104b15ca86b5cdf2e265ebbf2a8ce84bd1202
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550637"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284955"
 ---
 # <a name="zoho-notebook"></a>Zoho Notebook
 
@@ -30,7 +30,7 @@ ms.locfileid: "52550637"
 
 Zoho Corporation Private Limited to Microsoft から提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Zoho Notebook |
 | ID | WA200001616 |

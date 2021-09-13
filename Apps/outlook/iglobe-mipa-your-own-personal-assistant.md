@@ -9,11 +9,11 @@ certification_type: certified
 description: MIPA で使用可能なすべてのセキュリティおよびコンプライアンス情報 - 自分のパーソナル アシスタント、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 816d87c566fc50d3c6eaeaeaed2b333356d3ca00
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58672924"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285076"
 ---
 # <a name="mipa---your-own-personal-assistant"></a>MIPA - 独自の個人用アシスタント
 
@@ -28,7 +28,7 @@ ms.locfileid: "58672924"
 
 iGlobe から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | MIPA - 独自の個人用アシスタント |
 | ID | WA200000062 |
@@ -137,7 +137,7 @@ iGlobe から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 基準を処理する方法について iGlobe によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

@@ -9,11 +9,11 @@ certification_type: attested
 description: クロスチェック、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 245f732d796db9f59f0404a72d3df08aca364c76
-ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58873884"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284867"
 ---
 # <a name="crosscheck"></a>CrossCheck
 
@@ -29,7 +29,7 @@ ms.locfileid: "58873884"
 
 kRevealLLC が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | CrossCheck |
 | ID | WA200003198 |

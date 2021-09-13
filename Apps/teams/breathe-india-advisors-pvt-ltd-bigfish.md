@@ -9,11 +9,11 @@ certification_type: attested
 description: Bigfish のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 1d156c5b08b9c8e9a22c9a0c40c4a6492610cd8f
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58405067"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284028"
 ---
 # <a name="bigfish"></a>Bigfish
 
@@ -30,12 +30,12 @@ ms.locfileid: "58405067"
 
 Breathe India Advisors Pvt によって提供される情報。 Ltd. to Microsoft:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Bigfish |
 | ID | WA200002985 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | ブレス インド アドバイザー Pvt. Ltd. |
+| パートナー会社名 | Breathe India Advisors Pvt. Ltd. |
 | パートナー Web サイトの URL | [https://www.bigfishbenefits.com](https://www.bigfishbenefits.com) |
 | プライバシー ポリシーの URL | [https://bigfishbenefits.com/policy.html](https://bigfishbenefits.com/policy.html) |
 | 利用規約の URL | [https://www.bigfishbenefits.com/termsOfUse.html](https://www.bigfishbenefits.com/termsOfUse.html) |
@@ -110,7 +110,7 @@ Breathe India Advisors Pvt によって提供される情報。 Ltd. to Microsof
 
 この情報は、Breathe India Advisors Pvt によって提供されています。 Ltd. このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について説明します。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

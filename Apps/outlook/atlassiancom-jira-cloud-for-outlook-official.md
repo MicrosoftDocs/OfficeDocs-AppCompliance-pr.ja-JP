@@ -9,11 +9,11 @@ certification_type: attested
 description: Jira Cloud for Outlook (Official)、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: b4c7c0bb245c602d1650f13fb231894a86b3e8b0
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281639"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284260"
 ---
 # <a name="jira-cloud-for-outlook-official"></a>Jira Cloud for Outlook (Official)
 
@@ -29,7 +29,7 @@ ms.locfileid: "53281639"
 
 Microsoft に提供される Atlassian.com 情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Jira Cloud for Outlook (Official) |
 | ID | WA200000056 |

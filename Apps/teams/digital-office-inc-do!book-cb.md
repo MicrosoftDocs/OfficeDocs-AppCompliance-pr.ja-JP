@@ -9,11 +9,11 @@ certification_type: attested
 description: do!book CB、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 73d1777b2cbae078e0e43a13d6ad46b8a9b62bbb
-ms.sourcegitcommit: 64333f4e583bacd85f1b47af6e1eaee266658924
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "58422742"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284020"
 ---
 # <a name="dobook-cb"></a>do!book CB
 
@@ -30,12 +30,12 @@ ms.locfileid: "58422742"
 
 Digital Office Inc. から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | do!book CB |
 | ID | WA200002597 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | デジタル Office Inc. |
+| パートナー会社名 | Digital Office Inc. |
 | パートナー Web サイトの URL | [https://www.do-tools.net](https://www.do-tools.net) |
 | [アプリケーション情報Teamsページの URL | [https://www.do-tools.net](https://www.do-tools.net) |
 | プライバシー ポリシーの URL | [https://www.do-tools.net/privacypolicy/dobookCB_privacypoli...](https://www.do-tools.net/privacypolicy/dobookCB_privacypolicy.pdf) |
@@ -111,7 +111,7 @@ Digital Office Inc. から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、デジタル Office Inc. から提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

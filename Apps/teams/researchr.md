@@ -9,11 +9,11 @@ certification_type: attested
 description: researcHR、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: b57d492945766c8d65417cf2f1d642ea4ecb8aae
-ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58873924"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284011"
 ---
 # <a name="researchr"></a>researcHR
 
@@ -30,7 +30,7 @@ ms.locfileid: "58873924"
 
 KBE によって提供される情報&#26666;&#24335;&#20250;&#31038; Microsoft に提供されます。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | researcHR |
 | ID | WA200002557 |

@@ -9,13 +9,13 @@ certification_type: attested
 description: ParkHere Corporate で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: babf29fab04ebc7dddb3ae7d44099bb2fe96bfaf
-ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58567286"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284012"
 ---
-# <a name="parkhere-corporate"></a>ParkHere コーポレート
+# <a name="parkhere-corporate"></a>ParkHere Corporate
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -30,9 +30,9 @@ ms.locfileid: "58567286"
 
 ParkHere GmbH から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | ParkHere コーポレート |
+| アプリ名 | ParkHere Corporate |
 | ID | WA200003124 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | ParkHere GmbH |
@@ -113,7 +113,7 @@ ParkHere GmbH から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について ParkHere GmbH によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

@@ -9,13 +9,13 @@ certification_type: attested
 description: 野望に関して利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: d6c4a598cd115edd52e6dbd37cabd60b7a011aad
-ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58567259"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284164"
 ---
-# <a name="ambition"></a>野望
+# <a name="ambition"></a>Ambition
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -30,12 +30,12 @@ ms.locfileid: "58567259"
 
 マイクロソフトに対する野心によって提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | 野望 |
+| アプリ名 | Ambition |
 | ID | WA200003159 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | 野望 |
+| パートナー会社名 | Ambition |
 | パートナー Web サイトの URL | [https://ambition.com](https://ambition.com) |
 | [アプリケーション情報Teamsページの URL | [https://ambition.com](https://ambition.com) |
 | プライバシー ポリシーの URL | [https://ambition.com/privacy/](https://ambition.com/privacy/) |
@@ -122,7 +122,7 @@ ms.locfileid: "58567259"
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について、野望によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
