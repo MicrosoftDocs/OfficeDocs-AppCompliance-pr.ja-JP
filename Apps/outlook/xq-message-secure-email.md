@@ -1,44 +1,43 @@
 ---
-title: CEMEQ inc. による Mediatheque+ のアプリケーション情報
+title: XQ メッセージによる XQ Secure Email のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/26/2021
+ms.date: 07/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Mediatheque+、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: XQ Secure Email、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 7645c55391a224202c418e01ba9661bbd9e0fb5c
+ms.openlocfilehash: 32a27529004dc7c2b5d5981f84466e31a94dec7a
 ms.sourcegitcommit: 400dc76d16649c45cc4bc1b45dee07ba3661f890
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/15/2021
-ms.locfileid: "59353888"
+ms.locfileid: "59353830"
 ---
-# <a name="mediatheque"></a>Mediatheque+
+# <a name="xq-secure-email"></a>XQ Secure Email
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 7 月 26 日</p>
+<p>開発者が最終更新日: 2021 年 7 月 4 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/d546d064-6146-4341-b997-3a83855cafb3" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003099" target="_blank">AppSource での表示</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200000090" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-CEMEQ inc. から Microsoft に提供される情報:
+XQ Message から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | Mediatheque+ |
-| ID | WA200003099 |
-| Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | CEMEQ inc. |
-| パートナー Web サイトの URL | [https://www.cemeq.qc.ca](https://www.cemeq.qc.ca) |
-| プライバシー ポリシーの URL | [https://www.mediatheque.plus/privacy.html](https://www.mediatheque.plus/privacy.html) |
-| 利用規約の URL | [https://www.cemeq.qc.ca/data/themes/cemeq/viewerJS/Conditio...](https://www.cemeq.qc.ca/data/themes/cemeq/viewerJS/ConditionsUtilisationMEDPLUS.pdf) |
+| アプリ名 | XQ Secure Email |
+| ID | WA200000090 |
+| Office 365サポートされているクライアント | Outlook 2016、Windows以降Outlook 2016 Mac、iOS Outlook、Android Outlook、Outlook on the web |
+| パートナー会社名 | XQ メッセージ |
+| パートナー Web サイトの URL | [https://xqmsg.co](https://xqmsg.co) |
+| プライバシー ポリシーの URL | [https://xqmsg.com/privacy.html](https://xqmsg.com/privacy.html) |
+| 利用規約の URL | [https://xqmsg.com/terms.html](https://xqmsg.com/terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,7 +47,7 @@ CEMEQ inc. から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、CEMEQ inc. から、このアプリが組織データを収集および保存する方法、およびアプリが収集するデータに対して組織が持つコントロールについて提供されています。
+この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関する XQ Message によって提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
@@ -63,11 +62,6 @@ CEMEQ inc. から Microsoft に提供される情報:
 
 >非Microsoft サービスは使用されません。
 
-#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
-
-このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
-
->EUII にはアクセスされません。
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -80,7 +74,7 @@ CEMEQ inc. から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->管理者は、要求を実行するために必要なすべてのデータにアクセスできます。
+>暗号化解除するキーを取り消します。 アカウントのプロビジョニングを解除します。 セキュリティ トランザクションをログに記録します。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -108,7 +102,7 @@ CEMEQ inc. から Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、CEMEQ inc. によって、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法に関する XQ Message によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
