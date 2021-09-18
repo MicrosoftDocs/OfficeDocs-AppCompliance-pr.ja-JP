@@ -2,23 +2,23 @@
 title: iGlobe による Office2SharePoint Officeアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/12/2021
+ms.date: 08/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: office2SharePoint for Office、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 12b87e9addae70858503bb2d32def94cae657be2
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 404e38a0132fad49e96171319a0d273b84dca020
+ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289212"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59438368"
 ---
 # <a name="office2sharepoint-for-office"></a>Office2SharePoint for Office
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>開発者が最終更新日: 2021 年 8 月 12 日</p>
+<p>開発者が最終更新日: 2021 年 8 月 16 日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104381787" target="_blank">AppSource での表示</a>
 

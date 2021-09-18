@@ -2,23 +2,23 @@
 title: iGlobe Office 365の iPlanner Outlook Planner アドインのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/12/2021
+ms.date: 08/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Outlook 用 iPlanner Office 365 Planner アドイン、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3503b068b8835037b578837cb7f7f264a91135c6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: ce453be96beb466b4420912a29b30593851f3547
+ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286003"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59436438"
 ---
 # <a name="iplanner-office-365-planner-add-in-for-outlook"></a>iPlanner Office 365 Planner アドインのOutlook
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>開発者が最終更新日: 2021 年 8 月 12 日</p>
+<p>開発者が最終更新日: 2021 年 8 月 28 日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380147" target="_blank">AppSource での表示</a>
 
