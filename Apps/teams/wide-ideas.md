@@ -2,24 +2,24 @@
 title: 幅広いアイデアによる幅広いアイデアのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/03/2020
+ms.date: 08/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Wide Ideas、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1e73a7aebbaaffa12572717f7a4a9968fd5667f7
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 7c19fc9906f46fcd3e7561c38d68ed202dd0c87d
+ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286852"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59783337"
 ---
 # <a name="wide-ideas"></a>Wide Ideas
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2020 年 6 月 3 日</p>
+<p>開発者による最終更新日: 2021 年 8 月 27 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/2a64f929-bed9-44d9-aa65-d7b921889959" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000819" target="_blank">AppSource での表示</a>
@@ -30,7 +30,7 @@ ms.locfileid: "59286852"
 
 Wide Ideas から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Wide Ideas |
 | ID | WA200000819 |
@@ -56,9 +56,12 @@ Wide Ideas から Microsoft に提供される情報:
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.Read.All | アプリケーション | グループ ID と、どのユーザーが属するグループを保存します。 | アプリで、ユーザーやグループなどの顧客組織のディレクトリ内のデータを読み取ります。  | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
->| Group.ReadWrite.All | アプリケーション | グループに関連付けられているチャネル ID を保存します。 | ユーザーは、カスタマー ポータルからチーム、チャネル、Microsoft Teamsを作成できます。 これにより、ユーザーは既存のチームを顧客ポータルMicrosoft Teamsに同期することもできます。 | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
->| User.Read | 委任 | 名前のメールを保存 &amp; する | ユーザーが自分の代わりにサインインして Microsoft Graphアクセスを許可する | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
+>| Channel.Create | 委任 | チームにチャネルを作成するには  | 作成されたチャレンジのチャネル ID を格納します。  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| Directory.Read.All | 委任 | これを使用して顧客ディレクトリからユーザーを一覧表示する  | 該当なし | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| Group.Read.All | 委任 | これを使用して、チームを読み取り、同期Microsoft Teams。 | チームのグループ ID とチームのメンバーを保存します。  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| TeamsAppInstallation.ReadWriteForTeam | 委任 | これは、アプリをアプリに自動的にインストールTeamsします。  | アプリがインストールされているチームに関する情報を保存します | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| TeamsTab.Create | 委任 | これを使用して、Wide Ideas によって作成されたチャネルにアプリケーション (チャレンジ/検索のアイデア) タブを自動的に作成します。 | 該当なし | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| User.Read | 委任 | SSO を使用してユーザーを認証し、ユーザー データを同期するために使用されます。 | 名前、メール、ユーザー ID を保存します。  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -67,7 +70,7 @@ Wide Ideas から Microsoft に提供される情報:
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| メール通知に使用される Mailjet Email。 |  | 該当なし |
+>| メール通知に使用される Mailjet Email。 | 電子メール アドレス | アクティビティを通して電子メール通知を送信するには  |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
@@ -75,16 +78,14 @@ Wide Ideas から Microsoft に提供される情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| バックエンドでユーザーを作成し、チームにリンクされたコンテンツにアクセスするためのアクセス許可を与えるために。 | 保存: 名前 - ユーザーの名前を表示するには、電子メール アドレス - ユーザーを識別します。 |  |
+>| バックエンドでユーザーを作成し、チームにリンクされたコンテンツにアクセスするためのアクセス許可を与えるために。 | 保存: 名前 - ユーザーの名前を表示するには、電子メール アドレス - ユーザーを識別します。 | バックエンドのコンテンツに対するアクセス許可を管理するには |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->IP 番号はログにのみ保存されます。 
-
-組織は、データを削除する場合は、サプライヤーとして要求を送信できます。
+>名前、電子メール、IP 番号はログに保存されます。 組織は、データを削除する場合は、サプライヤーとして要求を送信できます。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
@@ -117,3 +118,29 @@ Wide Ideas から Microsoft に提供される情報:
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 情報
+
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法に関する Wide Ideas によって提供されています。
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | 必要 |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
+| サポートされているポリシーの種類を一覧表示する | MFA |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | 必要 |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
+| アプリはマルチテナントをサポートしていますか? | はい |
+| アプリに機密クライアントがありますか? | はい |
+| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | 必要 |
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリは Web API を公開していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリで非推奨の API を使用していますか? | いいえ |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

@@ -2,24 +2,24 @@
 title: Appraisd ltd による Appraisd のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/03/2021
+ms.date: 09/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Appraisd で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: baebeaa3079fbe38cc9c1fb76f1841059346be9c
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2ed2853f03b9b3e6e235e87d634fb5c2aafaaec6
+ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284108"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59784757"
 ---
 # <a name="appraisd"></a>Appraisd
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 8 月 3 日</p>
+<p>開発者が最終更新日: 2021 年 9 月 7 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/4f037969-20ef-4a41-8330-422b7b115eb6" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003123" target="_blank">AppSource での表示</a>
@@ -39,7 +39,7 @@ Appraisd ltd. から Microsoft に提供される情報:
 | パートナー Web サイトの URL | [https://www.appraisd.com](https://www.appraisd.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.appraisd.com](https://www.appraisd.com) |
 | プライバシー ポリシーの URL | [https://help.appraisd.com/hc/en-us/articles/360007779298-Pr...](https://help.appraisd.com/hc/en-us/articles/360007779298-Privacy-Policy) |
-| 利用規約の URL | [https://app.appraisd.com/account/terms](https://app.appraisd.com/account/terms) |
+| 利用規約の URL | [https://www.appraisd.com/terms](https://www.appraisd.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -93,7 +93,7 @@ Appraisd ltd. から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->はい
+>必要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -117,7 +117,7 @@ Appraisd ltd. から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について Appraisd ltd. から提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
