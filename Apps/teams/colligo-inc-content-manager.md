@@ -1,45 +1,44 @@
 ---
-title: Unscrambl による qbo のアプリケーション情報
+title: Colligo Inc. によるコンテンツ マネージャーのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/28/2021
+ms.date: 06/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 57d228504c0432aea96d8fc915606b1c71d36cf1
+description: コンテンツ マネージャー、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: 7392dc618ff6f22b935b5760e97d72155ea41660
 ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/29/2021
-ms.locfileid: "59992077"
+ms.locfileid: "59992178"
 ---
-# <a name="qbo"></a>qbo
+# <a name="content-manager"></a>コンテンツ マネージャー
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>最終更新日: 2021 年 9 月 28 日</p>
+<p>開発者が最終更新日: 2021 年 6 月 14 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/834c6939-152c-450b-a305-c65b4dd5d1c7" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001708" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/36ad88c6-ffce-4c52-a5a5-3eae64ed65bf" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003250" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Unscrambl から Microsoft に提供される情報:
+Colligo Inc から Microsoft に提供される情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | qbo |
-| ID | WA200001708 |
+| アプリ名 | コンテンツ マネージャー |
+| ID | WA200003250 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | Unscrambl |
-| パートナー Web サイトの URL | [https://unscrambl.com](https://unscrambl.com) |
-| [アプリケーション情報Teamsページの URL | [https://qbo.ai](https://qbo.ai) |
-| プライバシー ポリシーの URL | [https://qbo.ai/legal/](https://qbo.ai/legal/) |
-| 利用規約の URL | [https://qbo.ai/legal/#service](https://qbo.ai/legal/#service) |
+| パートナー会社名 | Colligo Inc |
+| パートナー Web サイトの URL | [https://www.colligo.com](https://www.colligo.com) |
+| プライバシー ポリシーの URL | [https://www.colligo.com/product-policy/](https://www.colligo.com/product-policy/) |
+| 利用規約の URL | [https://www.colligo.com/media/Colligo-Software-License-Agre...](https://www.colligo.com/media/Colligo-Software-License-Agreement-Schedule-A.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +48,7 @@ Unscrambl から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Unscrambl によって提供されています。
+この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールについて Colligo Inc. から提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
@@ -63,7 +62,7 @@ Unscrambl から Microsoft に提供される情報:
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| ボット フレームワーク API | はい | ユーザーのメールから識別されるドメイン名 | ユーザーが必要に応じて、レポートを送信するメールを収集します。 | メールのみ | ユーザー プロファイルの一部として格納される |
+>| SharePoint CSOM | いいえ |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -75,9 +74,7 @@ Unscrambl から Microsoft に提供される情報:
 
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
->| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| ユーザーがレポートの PDF を自分に電子メールで送信できるアプリ機能があります。 | 電子メール アドレス | ユーザーがレポートの PDF を自分に電子メールで送信できるアプリ機能があります。これはユーザー プロファイルの一部として保存されます。 |
+>EUII にはアクセスされません。
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -90,7 +87,7 @@ Unscrambl から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->このデータは、Azure (東南アジア) の VM でホストされる MariaDB に格納されます。 VM へのアクセスは IP が制限され、パスワードが保護され、DB へのアクセスもパスワードで保護されます。
+>ユーザーコンピューターからユーザーが選択した宛先の 1 つ (SharePoint Online、Teams、およびOneDrive)
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -106,9 +103,9 @@ Unscrambl から Microsoft に提供される情報:
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36419' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36419" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -118,11 +115,24 @@ Unscrambl から Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について Unscrambl によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について Colligo Inc. から提供されています。
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
+| サポートされているポリシーの種類を一覧表示する | 多要素認証 |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
+| アプリはマルチテナントをサポートしていますか? | はい |
+| アプリに機密クライアントがありますか? | いいえ |
+| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/> |
+| アプリは Web API を公開していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

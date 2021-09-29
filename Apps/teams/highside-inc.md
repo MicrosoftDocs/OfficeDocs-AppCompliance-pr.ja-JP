@@ -2,24 +2,24 @@
 title: HighSide, Inc. による HighSide のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/27/2021
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: HighSide、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ab387d09b7db9e75dcc0200683620c534318afbb
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: eb6def1ce0eb93badd11f9a11d370c8533101656
+ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285804"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "59992067"
 ---
 # <a name="highside"></a>HighSide
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 4 月 27 日</p>
+<p>開発者が最終更新日: 2021 年 9 月 24 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/3c77edc8-0136-4ca2-8d4b-3558923c0e77" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002220" target="_blank">AppSource での表示</a>
@@ -62,7 +62,9 @@ HighSide, Inc から Microsoft に提供される情報:
 
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->非Microsoft サービスは使用されません。
+>| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
+>| AWS | Microsoft Teamsテナント ID | そのため、どのチーム要求が送信され、ユーザーが誰に属しているのかが分かっています。 |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
@@ -89,7 +91,7 @@ HighSide, Inc から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->はい
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

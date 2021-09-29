@@ -1,45 +1,44 @@
 ---
-title: Unscrambl による qbo のアプリケーション情報
+title: AMEX GBT by 30SecondsToFly (タイ) Co Ltd のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 09/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 57d228504c0432aea96d8fc915606b1c71d36cf1
+description: AMEX GBT、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: 9c29a455decb6d37a7f0477cf12ed9ba79b68b31
 ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/29/2021
-ms.locfileid: "59992077"
+ms.locfileid: "59992220"
 ---
-# <a name="qbo"></a>qbo
+# <a name="amex-gbt"></a>AMEX GBT
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>最終更新日: 2021 年 9 月 28 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/834c6939-152c-450b-a305-c65b4dd5d1c7" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001708" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/157b5ffb-b183-453c-b072-9c94bb6c694c" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003272" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Unscrambl から Microsoft に提供される情報:
+30SecondsToFly (タイ) Co Ltd から Microsoft に提供される情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | qbo |
-| ID | WA200001708 |
+| アプリ名 | AMEX GBT |
+| ID | WA200003272 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | Unscrambl |
-| パートナー Web サイトの URL | [https://unscrambl.com](https://unscrambl.com) |
-| [アプリケーション情報Teamsページの URL | [https://qbo.ai](https://qbo.ai) |
-| プライバシー ポリシーの URL | [https://qbo.ai/legal/](https://qbo.ai/legal/) |
-| 利用規約の URL | [https://qbo.ai/legal/#service](https://qbo.ai/legal/#service) |
+| パートナー会社名 | 30SecondsToFly (タイ) Co Ltd |
+| パートナー Web サイトの URL | [https://www.amexglobalbusinesstravel.com](https://www.amexglobalbusinesstravel.com) |
+| プライバシー ポリシーの URL | [https://privacy.amexgbt.com/statement](https://privacy.amexgbt.com/statement) |
+| 利用規約の URL | [https://www.amexglobalbusinesstravel.com/terms-service/](https://www.amexglobalbusinesstravel.com/terms-service/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +48,7 @@ Unscrambl から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Unscrambl によって提供されています。
+この情報は、30SecondsToFly (タイ) Co Ltd から、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
@@ -57,13 +56,6 @@ Unscrambl から Microsoft に提供される情報:
 
 >このアプリケーションでは、Microsoft アプリケーションをGraph。
 
-#### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
-
-アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
-
->| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
->|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| ボット フレームワーク API | はい | ユーザーのメールから識別されるドメイン名 | ユーザーが必要に応じて、レポートを送信するメールを収集します。 | メールのみ | ユーザー プロファイルの一部として格納される |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -75,9 +67,7 @@ Unscrambl から Microsoft に提供される情報:
 
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
->| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| ユーザーがレポートの PDF を自分に電子メールで送信できるアプリ機能があります。 | 電子メール アドレス | ユーザーがレポートの PDF を自分に電子メールで送信できるアプリ機能があります。これはユーザー プロファイルの一部として保存されます。 |
+>EUII にはアクセスされません。
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -90,7 +80,7 @@ Unscrambl から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->このデータは、Azure (東南アジア) の VM でホストされる MariaDB に格納されます。 VM へのアクセスは IP が制限され、パスワードが保護され、DB へのアクセスもパスワードで保護されます。
+>削除
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -106,9 +96,9 @@ Unscrambl から Microsoft に提供される情報:
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36419' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36419" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -118,7 +108,7 @@ Unscrambl から Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について Unscrambl によって提供されています。
+この情報は、30SecondsToFly (タイ) Co Ltd によって、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について提供されています。
 
 | **Information** | **Response** |
 |:----------------|:-------------|
