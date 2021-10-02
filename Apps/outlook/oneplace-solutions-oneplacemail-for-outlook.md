@@ -2,24 +2,24 @@
 title: OnePlace ソリューションによる OnePlaceMail Outlookアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/31/2021
+ms.date: 09/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: onePlaceMail for Outlook、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 18dc1ab4ba71102564c1c85f7ed3846d9f4f1700
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 196720a00525971f29618d48436cf11b37a3aaac
+ms.sourcegitcommit: 874e586a5a9a5eb0c5c5aae0c59f7c75c0742ec4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287115"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60080648"
 ---
 # <a name="oneplacemail-for-outlook"></a>OnePlaceMail for Outlook
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 1 月 31 日</p>
+<p>開発者による最終更新日: 2021 年 9 月 30 日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380723" target="_blank">AppSource での表示</a>
 
@@ -122,11 +122,11 @@ OnePlace Solutions から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について OnePlace ソリューションによって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
