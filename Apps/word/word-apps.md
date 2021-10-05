@@ -2,17 +2,17 @@
 title: Microsoft Wordアプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/16/2021
+ms.date: 10/05/2021
 ms.topic: article
 ms.service: attestation
 description: すべてのアプリで使用可能なすべてのセキュリティおよびコンプライアンス情報Microsoft Word。
 localization_priority: Normal
-ms.openlocfilehash: 98817d7e3b75bc3ce8c07dc5c1e297afd2e73bc7
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+ms.openlocfilehash: 3c40ee92ac084d0e61e33cd14e4642f6dd434b30
+ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59434858"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60123427"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft WordApps のセキュリティとコンプライアンス
 
@@ -26,6 +26,7 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | [Excel-to-Word ドキュメントオートメーション](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Fabasoft クラウド Office アドイン](./fabasoft-austria-gmbh-cloud-office-add-in.md) | Fabasoft Austria GmbH | **✓** |  |
 | [harmon.ie のOffice](./harmonie-corporation-for-office.md) | harmon.ie 株式会社 | **✓** |  |
+| [インプレッション署名](./impression-signatures.md) | インプレッション署名 | **✓** |  |
 | [LegalMind Word AddIn](./legalmind-word-addin.md) | LegalMind | **✓** |  |
 | [Loio コントラクト アシスタント](./loio-inc-contract-assistant.md) | Loio Inc. | **✓** |  |
 | [Word 用の Lucidchart ダイアグラム](./lucid-software-inc-lucidchart-diagrams-for-word.md) | Lucid Software Inc | **✓** |  |

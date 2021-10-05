@@ -2,17 +2,17 @@
 title: Microsoft Excelアプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/16/2021
+ms.date: 10/05/2021
 ms.topic: article
 ms.service: attestation
 description: すべてのアプリで使用可能なすべてのセキュリティとコンプライアンスMicrosoft Excel情報。
 localization_priority: Normal
-ms.openlocfilehash: 749234a58ab184e714bffecc43cb341eb7538271
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+ms.openlocfilehash: 9ed44653197211f48c34afdf826eb0c311674d8b
+ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59438198"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60123107"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft ExcelApps のセキュリティとコンプライアンス
 
@@ -24,6 +24,7 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | [CloudExtend Analytics for NetSuite](./celigo-cloudextend-analytics-for-netsuite.md) | Celigo CloudExtend | **✓** |  |
 | [Excel-to-Word ドキュメントオートメーション](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [harmon.ie のOffice](./harmonie-corporation-for-office.md) | harmon.ie 株式会社 | **✓** |  |
+| [インプレッション署名](./impression-signatures.md) | インプレッション署名 | **✓** |  |
 | [iPlanner レポート ツール for Office 365 Planner](./iglobe-iplanner-reporting-tool-for-office-365-planner.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Jira Cloud for Excel](./atlassiancom-jira-cloud-for-excel.md) | Atlassian.com | **✓** |  |
 | [Lucidchart ダイアグラム for Excel](./lucid-software-inc-lucidchart-diagrams-for-excel.md) | Lucid Software Inc | **✓** |  |
