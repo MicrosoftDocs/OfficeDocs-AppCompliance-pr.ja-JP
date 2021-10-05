@@ -2,24 +2,24 @@
 title: アプリケーション別のアプリケーション monday.com 情報 monday.com
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/28/2020
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: monday.com、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7d929b4d9c66aea657d2beb64fa77f31921f59ac
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 3779d91614f3413034e8bd86d28ec329cf341b67
+ms.sourcegitcommit: e339fa9776aae99797dbc1f0a28932e71b4eb823
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288523"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60131696"
 ---
 # <a name="mondaycom"></a>monday.com
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2020 年 9 月 28 日</p>
+<p>開発者が最終更新日: 2021 年 8 月 3 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/eab2d3ce-6d6a-4415-abc4-5f40a8317b1f" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001798" target="_blank">AppSource での表示</a>
@@ -36,9 +36,9 @@ Microsoft に提供される monday.com 情報:
 | ID | WA200001798 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | monday.com |
-| パートナー Web サイトの URL | [https://monday.com/](https://monday.com/) |
+| パートナー Web サイトの URL | [https://monday.com](https://monday.com) |
 | プライバシー ポリシーの URL | [https://monday.com/terms/privacy](https://monday.com/terms/privacy) |
-| 利用規約の URL | [https://monday.com/terms/tos](https://monday.com/terms/tos) |
+| 利用規約の URL | [https://monday.com/l/legal/tos/](https://monday.com/l/legal/tos/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -63,7 +63,7 @@ Microsoft に提供される monday.com 情報:
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| monday.com は、サービスのパフォーマンスに次のサブプロセッサを使用します。&#160;https://monday.com/terms/subprocessors |  | monday.com API は使用しない。 サービスのパフォーマンスには、次の Microsoft フレームワークを使用します (上記の応答で詳細に説明します)。 &#8216;botbuilder&#8217; &#8216;botframework-connector&#8217; &#8216;@micorosft/teams-js&#8217; |
+>| monday.com は、サービスのパフォーマンスに次のサブプロセッサを使用します。&#160;https://monday.com/terms/subprocessors | サブプロセッサによって提供されるサービスによって異なります。 | monday.com API は使用しない。 サービスのパフォーマンスには、次の Microsoft フレームワークを使用します (上記の応答で詳細に説明します)。 &#8216;botbuilder&#8217; &#8216;botframework-connector&#8217; &#8216;@micorosft/teams-js&#8217; |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
@@ -82,23 +82,13 @@ Microsoft に提供される monday.com 情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->monday.com サービスは、北バージニア州の AWS インフラストラクチャ上で複数の可用性ゾーンでホストされ、DR サイトは別の地域に確立されます。 特定のバックアップ データは GCP (米国、複数地域) に保存されます。 monday.com サービスへのアクセスは、ユーザー組織の管理者によって制御され、次の機能を利用して実現されます。
-- ユーザーの種類
-- アカウント レベルのアクセス許可
-- ワークスペース
-- ボードの種類
-- ボード レベルのアクセス許可
-- 列レベルのアクセス許可は monday.com 認証方法をサポートしています。
-- 資格情報
-- Google SSO (Proプラン)
-- OKTA、OneLogin、カスタム SAML 2.0 (Enterprise プランの場合) 2FA は、SMS 経由または認証アプリ経由で、プラットフォームの管理パネルを介してアカウント管理者がオプションで有効にできます。
-保存中のすべてのデータは、AES-256 を使用して暗号化されます。 開いているネットワーク間で転送中のすべてのデータは、TLS 1.3 (少なくとも TLS 1.2) を使用して暗号化されます。
+>----
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->はい
+>必要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -116,3 +106,28 @@ Microsoft に提供される monday.com 情報:
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 情報
+
+この情報は、このアプリ monday.com 認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について説明しています。
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | 必要 |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | 必要 |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | 必要 |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | 必要 |
+| アプリはマルチテナントをサポートしていますか? | いいえ |
+| アプリに機密クライアントがありますか? | 必要 |
+| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | 必要 |
+| アプリは Web API を公開していますか? | 必要 |
+| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | 必要 |
+| アプリでプレビュー API を使用していますか? | 必要 |
+| アプリで非推奨の API を使用していますか? | いいえ |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
