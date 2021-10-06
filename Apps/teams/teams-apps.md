@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: df7def3cc619891d86526dd1d47291720503c744
-ms.sourcegitcommit: 874e586a5a9a5eb0c5c5aae0c59f7c75c0742ec4
+ms.openlocfilehash: 89025e4009067698b0355f7e5ef9a61542dd5392
+ms.sourcegitcommit: 11288ac2cbae57aaa7820be0d9fb87c631805b7b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "60080858"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60112232"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -111,6 +111,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [決定事項](./decisions.md) | 決定事項 | **✓** |  |
 | [Degreed](./degreed.md) | Degreed | **✓** |  |
 | [DELTAoverC](./deltaoverc.md) | DELTAoverC | **✓** |  |
+| [Digiplein](./educatieve-uitgeversgroep-bv-digiplein.md) | Educatieve Uitgeversgroep B.V. | **✓** |  |
 | [DisasterTech DICE](./disastertech-dice.md) | DisasterTech | **✓** |  |
 | [do!book CB](./digital-office-inc-do!book-cb.md) | Digital Office Inc. | **✓** |  |
 | [Docuo](./r2-docuo.md) | R2 Docuo | **✓** |  |
@@ -143,6 +144,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Fellow](./fellow-insights-inc.md) | Fellow Insights Inc | **✓** |  |
 | [Fifty](./fifty.md) | Fifty | **✓** |  |
 | [File Fabric](./storage-made-easy-file-fabric.md) | Storage Made Easy | **✓** |  |
+| [FireWatch](./infographics-uk-ltd-firewatch.md) | Infographics UK Ltd. | **✓** |  |
 | [FloQast](./floqast.md) | FloQast | **✓** |  |
 | [ForceManager CRM](./tritium-software-sl-forcemanager-crm.md) | Tritium Software SL | **✓** |  |
 | [FormMachines](./enterprise-digital-machines-formmachines.md) | Enterprise Digital Machines | **✓** |  |
@@ -171,6 +173,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [ハイスポット](./highspot.md) | Highspot | **✓** |  |
 | [Hive](./hive.md) | Hive | **✓** |  |
 | [Hoylu](./hoylu.md) | Hoylu | **✓** |  |
+| [Humu](./humu-inc.md) | Humu Inc. | **✓** |  |
 | [HunchBuzz](./hunchbuzz.md) | HunchBuzz | **✓** |  |
 | [Hyperproof](./hyperproof.md) | Hyperproof | **✓** |  |
 | [iManage](./imanage.md) | iManage | **✓** |  |
@@ -256,6 +259,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Planyway Team Calendar](./rubius-planyway-team-calendar.md) | Rubius | **✓** |  |
 | [PlayQuiz - Aprende &amp; Juega](./teamschamp-playquiz-aprende-and-juega.md) | TeamsChamp | **✓** |  |
 | [Polly](./polly.md) | Polly | **✓** |  |
+| [POPP Cloud VoIP Connector](./popp-communications-cloud-voip-connector.md) | POPP Communications | **✓** |  |
 | [PostBeyond](./postbeyond.md) | PostBeyond | **✓** |  |
 | [Powell Teams](./powell-software-teams.md) | Powell Software | **✓** |  |
 | [Power BI コラボレーション](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
