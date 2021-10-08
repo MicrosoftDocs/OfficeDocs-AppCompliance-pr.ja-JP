@@ -2,24 +2,24 @@
 title: MURAL による MURAL のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/23/2020
+ms.date: 09/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: MURAL で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3b940d83a9095e92424c4f18480507469526e9c1
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 58349e188a709d1f74a3a3b6426ca4b4a34c34d4
+ms.sourcegitcommit: 4817af6bd92bcc7624a43ea79ba6b9362da38035
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287395"
+ms.lasthandoff: 10/07/2021
+ms.locfileid: "60233621"
 ---
 # <a name="mural"></a>MURAL
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2020 年 3 月 23 日</p>
+<p>最終更新日: 2021 年 9 月 22 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/c738b607-88dd-4f16-aefe-6a824c65d25d" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381626" target="_blank">AppSource での表示</a>
@@ -36,9 +36,9 @@ MURAL から Microsoft に提供される情報:
 | ID | WA104381626 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | MURAL |
-| パートナー Web サイトの URL | [https://mural.co/](https://mural.co/) |
-| [アプリケーション情報Teamsページの URL | [https://support.mural.co/](https://support.mural.co/) |
-| プライバシー ポリシーの URL | [https://mural.co/terms/privacy-policy](https://mural.co/terms/privacy-policy) |
+| パートナー Web サイトの URL | [https://mural.co](https://mural.co) |
+| [アプリケーション情報Teamsページの URL | [https://support.mural.co](https://support.mural.co) |
+| プライバシー ポリシーの URL | [https://mural.co/terms/privacy-policy/](https://mural.co/terms/privacy-policy/) |
 | 利用規約の URL | [https://mural.co/terms](https://mural.co/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -62,13 +62,17 @@ MURAL から Microsoft に提供される情報:
 
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->非Microsoft サービスは使用されません。
+>| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
+>| サブプロセッサと情報を共有します。 これらの情報は、次の場所で参照できます。 https://www.mural.co/terms/subprocessors | サブプロセッサと情報を共有します。 これらの情報は、次の場所で参照できます。 https://www.mural.co/terms/subprocessors | サブプロセッサと情報を共有します。 これらの情報は、次の場所で参照できます。 https://www.mural.co/terms/subprocessors |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
 
->EUII にはアクセスされません。
+>| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| サインアップ フローで、イベントと名、名、電子メールのユーザー ID を収集します。 | ユーザー ID、名、名、および電子メール | サインアップ フローで、イベントと名、名、電子メールのユーザー ID を収集します。 |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -83,6 +87,11 @@ MURAL から Microsoft に提供される情報:
 
 >管理者は、ユーザーの管理、ユーザーの削除、壁画の削除などを行えます。ユーザー ポリシーは次の場所に表示されます。 https://mural.co/terms
 
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
+
+人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
+
+>はい
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -100,3 +109,16 @@ MURAL から Microsoft に提供される情報:
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 情報
+
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について、MURAL によって提供されています。
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
