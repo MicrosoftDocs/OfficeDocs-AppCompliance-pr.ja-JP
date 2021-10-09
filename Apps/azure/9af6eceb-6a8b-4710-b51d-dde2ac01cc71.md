@@ -2,17 +2,17 @@
 title: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71 の Azure アプリ ID 情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/07/2021
+ms.date: 10/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71 で使用可能なすべてのセキュリティおよびコンプライアンス情報。
-ms.openlocfilehash: cb59c80b9858c404aa6b53aa480a3b976634eb9c
-ms.sourcegitcommit: 4817af6bd92bcc7624a43ea79ba6b9362da38035
+ms.openlocfilehash: 2a2592d852a0d351cdaca8c7686d94634103ddd6
+ms.sourcegitcommit: 085c227ffcf8f88e6e55d3c40752a3df25642592
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/07/2021
-ms.locfileid: "60232481"
+ms.lasthandoff: 10/09/2021
+ms.locfileid: "60254940"
 ---
 # <a name="azure-app-id-9af6eceb-6a8b-4710-b51d-dde2ac01cc71"></a>Azure App ID: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71
 
