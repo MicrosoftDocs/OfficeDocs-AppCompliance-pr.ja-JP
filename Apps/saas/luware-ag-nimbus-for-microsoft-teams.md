@@ -1,0 +1,140 @@
+---
+title: Luware AG による Luware Nimbus for Microsoft Teamsアプリケーション情報
+ms.author: elmalova
+author: elenamalova
+ms.date: 10/01/2021
+ms.topic: article
+ms.service: attestation
+certification_type: attested
+description: Microsoft Teams 用 Luware Nimbus の利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: ee4101bb8116bec2db6a095ef170368eb9dfff6b
+ms.sourcegitcommit: 1d47df35430334cfc0c60f7ea0b62392b99b7cbf
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 10/13/2021
+ms.locfileid: "60290413"
+---
+# <a name="luware-nimbus-for-microsoft-teams"></a>Luware Nimbus for Microsoft Teams
+
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>開発者が最終更新日: 2021 年 10 月 1 日</p>
+
+* <a href="https://appsource.microsoft.com/product/web-apps/luwareagzurich.advanced_routing_azure_marketplace" target="_blank">AppSource での表示</a>
+
+::: zone pivot="general"
+
+### <a name="general-information"></a>一般情報
+
+Luware AG が Microsoft に提供する情報:
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| アプリ名 | Luware Nimbus for Microsoft Teams |
+| ID | luwareagzurich.advanced_routing_azure_marketplace |
+| パートナー会社名 | Luware AG |
+| パートナー Web サイトの URL | [https://luware.com](https://luware.com) |
+| プライバシー ポリシーの URL | [https://luware.com/en/privacy-policy](https://luware.com/en/privacy-policy) |
+| 利用規約の URL | [https://luware.com/en/agreements/saas/](https://luware.com/en/agreements/saas/) |
+
+ [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="data"
+
+### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
+
+この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Luware AG によって提供されています。
+
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+
+このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | 委任 | アテンダント コンソール: ログインしているユーザーの予定表を読み取る予定を含む予定表を表示する | なし | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
+>| Calendars.Read.Shared | 委任 | アテンダント コンソール: 共有予定表を読み取り、予定を含む予定表を表示する | なし | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
+>| Contacts.Read | 委任 | 応答コンソール: ログインしているユーザー Exchange連絡先で検索する | なし | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
+>| Contacts.Read.Shared | 委任 | アテンダント コンソール: 共有連絡先のExchangeする | なし | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
+>| GroupMember.Read.All | アプリケーション | チーム メンバーの取得、セキュリティ グループの読み取り | この情報は、コール センター エージェントがグループ メンバーシップを通じて管理される場合に保存されます。 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
+>| Presence.Read.All | 委任 | [応答コンソールの連絡先検索でプレゼンスを表示する] ページ | なし | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
+>| User.Read | 委任 | UserInformation を取得する (ログインしているユーザーから) | なし | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
+>| User.Read.All | 両方とも | Nimbus アプリ - CallerInformation を取得します。 連絡先センターへの内部呼び出しで、その情報をエージェントに表示するために、そのユーザーを逆参照します。 アテンダント コンソール (委任されたアクセス許可を持つ) で、内部ディレクトリ全体で転送ターゲットを検索します。 | 最も呼び出されたユーザーのレポート REasons では、そのデータを格納します。 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
+>| User.ReadBasic.All | 委任 | 制限付きユーザー検索 | なし | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
+>| Calls.AccessMedia.All | アプリケーション | これらのアプリ/ボットの多く (連絡先センター キューごとに 1 つ): 顧客が実際に IVR で自分の位置を選択できる DTMF トーンを購読する | レポートの理由で IVR を使用して選択した方法のすべての DTMF 情報 | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc) |
+>| Calls.Initiate.All | アプリケーション | これらのアプリ/ボットの多く (連絡先センター キューごとに 1 つ): エージェントを呼び出す  | レポートの理由のすべての CDR 情報 | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc) |
+>| Calls.InitiateGroupCall.All | アプリケーション | これらのアプリ/ボットの多く (連絡先センター キューごとに 1 つ): エージェントを呼び出す  | レポートの理由のすべての CDR 情報 | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc) |
+>| Calls.JoinGroupCall.All | アプリケーション | これらのアプリ/ボットの多く (連絡先センター キューごとに 1 つ): エスカレートされた通話に参加してアナウンスを再生する | レポートの理由のすべての CDR 情報 | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc) |
+
+
+#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
+
+アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
+
+>非Microsoft サービスは使用されません。
+
+
+
+#### <a name="telemetry-data"></a>テレメトリ データ
+
+組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
+
+>集計レポート データ (通話詳細レコード、発信者情報、通話処理、通話の旅の詳細など): 24 か月構成データ: 顧客契約期間 +30 日 アプリケーション ログ: 内部アプリケーション ログの一時的な記憶域 (サポート エンジニアがアプリケーション コンポーネントのパフォーマンスと運用のトラブルシューティングに役立つ) 30 日間。
+
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
+
+組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
+
+>https://luware.com/en/privacy-policy/
+
+#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
+
+人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
+
+>はい
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="mcas"
+
+以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 情報
+
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について Luware AG によって提供されています。
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
+| サポートされているポリシーの種類を一覧表示する | クライアント アプリ、ユーザー、グループ |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
+| アプリはマルチテナントをサポートしていますか? | はい |
+| アプリに機密クライアントがありますか? | はい |
+| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリは Web API を公開していますか? | はい |
+| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
+| アプリでプレビュー API を使用していますか? | はい |
+| アプリで非推奨の API を使用していますか? | いいえ |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

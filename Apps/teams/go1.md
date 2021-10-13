@@ -2,24 +2,24 @@
 title: Go1 による Go1 のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/03/2020
+ms.date: 08/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Go1 で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d6fa3c9d0ecf710724379da869fba4b0cec23f6a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 265d4cf5cef2f7fb685159ebf2cb6d516d32cb0f
+ms.sourcegitcommit: 1d47df35430334cfc0c60f7ea0b62392b99b7cbf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286195"
+ms.lasthandoff: 10/13/2021
+ms.locfileid: "60287359"
 ---
 # <a name="go1"></a>Go1
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2020 年 6 月 3 日</p>
+<p>開発者が最終更新日: 2021 年 8 月 23 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/c859de61-8a6b-42e6-ba88-f639df33bc72" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001484" target="_blank">AppSource での表示</a>
@@ -37,7 +37,7 @@ Go1 から Microsoft に提供される情報:
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Go1 |
 | パートナー Web サイトの URL | [https://www.go1.com/user/login](https://www.go1.com/user/login) |
-| プライバシー ポリシーの URL | [https://www.go1.com/en-au/terms/privacy-policy](https://www.go1.com/en-au/terms/privacy-policy) |
+| プライバシー ポリシーの URL | [https://www.go1.com/terms/privacy-policy](https://www.go1.com/terms/privacy-policy) |
 | 利用規約の URL | [https://www.go1.com/en-au/terms/user-terms](https://www.go1.com/en-au/terms/user-terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -54,7 +54,7 @@ Go1 から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Files.ReadWrite.All | アプリケーション | アプリはファイル データを保存しない | ユーザーが onedrive からファイルをアップロードして共有できます | [c859de61-8a6b-42e6-ba88-f639df33bc72](https://docs.microsoft.com/microsoft-365-app-certification/azure/c859de61-8a6b-42e6-ba88-f639df33bc72) |
 >| Group.ReadWrite.All | アプリケーション | Teams管理学習環境をサポートするために保存されているチャネル名とチャネル名と一意の ID | これにより、アプリはユーザーとチャネルTeams動的にセットアップして、環境内の構造化学習をTeamsできます | [c859de61-8a6b-42e6-ba88-f639df33bc72](https://docs.microsoft.com/microsoft-365-app-certification/azure/c859de61-8a6b-42e6-ba88-f639df33bc72) |
@@ -67,7 +67,7 @@ Go1 から Microsoft に提供される情報:
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| コース コンテンツの再生時に、ユーザーの名と名を GO1 のコンテンツ プロバイダーと共有できます。 これは、コンテンツ プロバイダーがパーソナライズされた学習エクスペリエンスを提供するために必要な場合にのみ共有されます。 |  | 該当なし |
+>| コース コンテンツの再生時に、ユーザーの名と名を GO1 のコンテンツ プロバイダーと共有できます。 これは、コンテンツ プロバイダーがパーソナライズされた学習エクスペリエンスを提供するために必要な場合にのみ共有されます。 | 名、名、電子メール アドレス | 該当なし |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
@@ -110,3 +110,28 @@ Go1 から Microsoft に提供される情報:
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 情報
+
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について Go1 によって提供されています。
+
+| **Information** | **応答** |
+|:----------------|:-------------|
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | いいえ |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | いいえ |
+| アプリはマルチテナントをサポートしていますか? | はい |
+| アプリに機密クライアントがありますか? | いいえ |
+| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/><br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリは Web API を公開していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリで非推奨の API を使用していますか? | いいえ |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
