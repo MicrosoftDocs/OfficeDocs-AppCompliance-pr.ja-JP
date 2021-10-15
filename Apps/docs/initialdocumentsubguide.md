@@ -6,12 +6,12 @@ description: Microsoft 365認定申請ガイドの詳細なビュー
 keywords: アプリ認定チームMicrosoft 365コンプライアンス m365 の初期ドキュメント提出
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: f8b45c5130d4c4a231f2d7ce7b1bc6992757bf46
-ms.sourcegitcommit: 1e461d44be2da90b41fdcb60b35a6a180d52c9d6
+ms.openlocfilehash: 0352b64649d87b40d185a2bc06ce23da6cf341ef
+ms.sourcegitcommit: d67be08c82a50cc263a4bdeb176f41dd60716159
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "59497123"
+ms.lasthandoff: 10/15/2021
+ms.locfileid: "60378815"
 ---
 # <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365認定 - 最初のドキュメント提出ガイド
 
@@ -24,11 +24,27 @@ ms.locfileid: "59497123"
 -   このレポートには、アプリ/アドインの展開をサポートする環境と、アプリ/アドインの操作をサポートする追加の環境が含まれる必要があります。
 
 
+## <a name="system-component-inventory"></a>System Component Inventory
+
+サポート インフラストラクチャで使用されるすべてのシステム コンポーネントの最新の inventroy。 これは、評価フェーズを実行する際のサンプリングに役立ちます。 環境に PaaS が含まれる場合は、使用されるすべての PaaS サービスの詳細を提供できる場合に役立ちます。
+
+**注:** IaaS/PaaS には、ISV コントロールの下に置くハードウェアは含めかねない。  この場合は、すべてのウイルスリソースのリストまたはスクリーンショットを提供してください。
+
+**例:** 
+
+|アセット名|    アセットの種類| 説明|    製造元|   モデル|
+|-|-|-|-|-|
+|D212|  Windows コンピューター|   仮想コンピューター|    該当なし| 該当なし|
+|LT101| ノート PC| ワークステーション|    Microsoft|  Surface 3|
+|C2938| スイッチ| スイッチ|該当なし|該当なし|     
+|LXM2|  Linux マシン|  テスト マシン|該当なし|該当なし|       
+
+
 ## <a name="software-inventory"></a>ソフトウェア インベントリ
 
-スコープ内環境内で使用されるソフトウェアとバージョンを含む最新のソフトウェア インベントリ。
+スコープ内環境内で使用されるすべてのソフトウェアとバージョンを含む、すべてのソフトウェア資産の最新のインベントリ。
 
-**例:**
+**例:** 
 
 |ソフトウェア|  発行者|  バージョン|     用途|
 |-|-|-|-|
@@ -40,27 +56,11 @@ ms.locfileid: "59497123"
 |IIS|   Microsoft|  10.0|   API をサポートします。|
 
 
-## <a name="hardware-inventory"></a>ハードウェア インベントリ
-
-サポート インフラストラクチャで使用される最新のハードウェア インベントリ。 これは、評価フェーズを実行する際のサンプリングに役立ちます。 環境に PaaS が含まれる場合は、使用されるすべての PaaS サービスの詳細を提供できる場合に役立ちます。
-
-**注:** IaaS/PaaS には、ISV コントロールの下に置くハードウェアは含めかねない。  
-
-**例:**
-
-|アセット名|    アセットの種類| 説明|    製造元|   モデル|
-|-|-|-|-|-|
-|D212|  Windows コンピューター|   仮想コンピューター|    該当なし| 該当なし|
-|LT101| ノート PC| ワークステーション|    Microsoft|  Surface 3|
-|C2938| スイッチ| スイッチ|該当なし|該当なし|     
-|LXM2|  Linux マシン|  テスト マシン|該当なし|該当なし|       
-
-
-## <a name="web-dependencies"></a>Web 依存関係
+## <a name="third-party-dependencies"></a>サード パーティの依存関係
 
 現在実行中のバージョンとアプリ/アドインで使用される依存関係の一覧を示すドキュメント。
 
-**例:**
+**例:** 
 
 |Web 依存関係|  現在のバージョンの使用|
 |-|-|
@@ -76,7 +76,7 @@ ms.locfileid: "59497123"
 
 サポート インフラストラクチャで使用されるパブリック IP アドレスと URL の詳細。 これは、使用範囲を分割するために適切なセグメンテーションが実装されていない限り、環境に割り当てられた完全なラウタブル IP 範囲を含める必要があります (セグメンテーションの十分な証拠が必要になります)。
 
-**例:**
+**例:** 
 
 |URL|  IP アドレス|
 |-|-|

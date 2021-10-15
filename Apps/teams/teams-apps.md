@@ -2,17 +2,17 @@
 title: Microsoft Teams アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/13/2021
+ms.date: 10/14/2021
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: aff6731152d48d152d4f5099335f045d60ec0683
-ms.sourcegitcommit: d49943662d5e28a9c1289ee23318818f1f68ff96
+ms.openlocfilehash: 9f7fbd5d90bbc90b19bc06e147c660006083f9a4
+ms.sourcegitcommit: d67be08c82a50cc263a4bdeb176f41dd60716159
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/14/2021
-ms.locfileid: "60341437"
+ms.lasthandoff: 10/15/2021
+ms.locfileid: "60378835"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -267,6 +267,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Piazza](./piazza.md) | Piazza | **✓** |  |
 | [Planyway Team Calendar](./rubius-planyway-team-calendar.md) | Rubius | **✓** |  |
 | [PlayQuiz - Aprende &amp; Juega](./teamschamp-playquiz-aprende-and-juega.md) | TeamsChamp | **✓** |  |
+| [Plumm](./plumm-health-ltd.md) | Plumm Health LTD | **✓** |  |
 | [Polly](./polly.md) | Polly | **✓** |  |
 | [POPP Cloud VoIP Connector](./popp-communications-cloud-voip-connector.md) | POPP Communications | **✓** |  |
 | [PostBeyond](./postbeyond.md) | PostBeyond | **✓** |  |

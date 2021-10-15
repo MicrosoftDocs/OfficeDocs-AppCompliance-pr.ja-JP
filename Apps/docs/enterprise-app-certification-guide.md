@@ -6,18 +6,18 @@ description: Microsoft 365認定の詳細
 keywords: アプリ構成証明 microsoft 365 認定 365 アンケート appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 49bb08fa252a3907df67766dce39ef810381be27
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 1088e80ba5d67d8565cf4499a91a84df277b4f80
+ms.sourcegitcommit: d67be08c82a50cc263a4bdeb176f41dd60716159
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287627"
+ms.lasthandoff: 10/15/2021
+ms.locfileid: "60378765"
 ---
 # <a name="what-is-microsoft-365-certification"></a>認定とはMicrosoft 365ですか?
 
 Microsoft 365認定は、業界の主要なフレームワークから派生したコントロールに対してアプリが確認され、顧客データを保護するために強力なセキュリティとコンプライアンスの実践が実施されているという顧客に示す認定です。 
 
->[!VIDEO https://www.youtube.com/embed/Aff_35f10B8]
+>[!VIDEO https://www.youtube.com/embed/Wv1lcNAycuE]
 
 
 ## <a name="microsoft-365-certification-scope"></a>Microsoft 365認定スコープ

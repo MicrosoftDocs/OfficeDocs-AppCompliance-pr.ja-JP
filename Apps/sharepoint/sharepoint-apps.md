@@ -2,17 +2,17 @@
 title: Microsoft SharePoint アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/05/2021
+ms.date: 10/14/2021
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft SharePoint アプリで使用可能なすべてのセキュリティとコンプライアンスに関する情報。
 localization_priority: Normal
-ms.openlocfilehash: e440f85e4bd0957a95c3eb8681c1108b50b7fba8
-ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
+ms.openlocfilehash: 9b21ca00253596b5253626985215a871c61d87f9
+ms.sourcegitcommit: d67be08c82a50cc263a4bdeb176f41dd60716159
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60123767"
+ms.lasthandoff: 10/15/2021
+ms.locfileid: "60378825"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint アプリのセキュリティとコンプライアンス
 
@@ -25,9 +25,11 @@ Microsoft は、microsoft Microsoft 365開発者パートナーと協力して�
 | [ArcGIS Maps](./esri-inc-arcgis-maps.md) | Esri, Inc. | **✓** |  |
 | [FormMachines コネクタ for SharePoint](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | エンタープライズ デジタル マシン PTY LTD | **✓** |  |
 | [Gaggle for SharePoint](./gagglenet-inc-gaggle-for-sharepoint.md) | Gaggle.net 株式会社 | **✓** |  |
+| [HelloSign for SharePoint](./dropbox-inc-hellosign-for-sharepoint.md) | DropboxInc. | **✓** |  |
 | [iGlobe CRM アドオン](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iGlobe CRM Office 365 Microsoft Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Konnect eMail Parser](./konnect-email-parser.md) | Konnect eMail | **✓** |  |
 | [Lightning Tools Lightning コンダクター](./lightning-tools-conductor.md) | Lightning Tools | **✓** |  |
-| [officeatwork | テンプレートの選択SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | テンプレートの選択SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** |  |
 | [Power BI コラボレーション](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
+| [よりスマートなイベント予約](./smarter-business-solutions-gmbh-event-booking.md) | Smarter Business Solutions GmbH | **✓** |  |
