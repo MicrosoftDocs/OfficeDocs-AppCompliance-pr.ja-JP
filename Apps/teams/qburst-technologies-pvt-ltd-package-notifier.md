@@ -2,18 +2,18 @@
 title: QBURST TECHNOLOGIES PVT LTD によるパッケージ通知者のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/25/2021
+ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: パッケージ通知機能、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5ee07ef32944be2a98dc3f30902434771b8ccebb
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 39219580d6d37172921349eda752a479b7a98f25
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285707"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411542"
 ---
 # <a name="package-notifier"></a>Package Notifier
 
@@ -30,7 +30,7 @@ ms.locfileid: "59285707"
 
 QBURST TECHNOLOGIES PVT LTD から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Package Notifier |
 | ID | WA200002737 |
@@ -117,11 +117,11 @@ QBURST TECHNOLOGIES PVT LTD から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について QBURST TECHNOLOGIES PVT LTD によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | 不要 |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | 499b84ac-1321-427f-aa17-267ca6975798/user_impersonation offline_access |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
@@ -137,3 +137,4 @@ QBURST TECHNOLOGIES PVT LTD から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

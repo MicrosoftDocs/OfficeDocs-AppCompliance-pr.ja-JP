@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Wunder365 で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7762883d8a13c9c914cc88db4c03f20be2f830f3
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 4bd6d8579cda1b05a447e7c8151fe9cb3da1a813
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287124"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411201"
 ---
 # <a name="wunder365"></a>Wunder365
 
@@ -53,7 +53,7 @@ JiJi Technologies Private Limited to Microsoft が提供する情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Group.ReadWrite.All | 委任 | データは保存されません。 | Planner タスクの取得および更新を行う場合は、チーム チャネルでタスクの更新を投稿します。 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
 >| Mail.Send | 委任 | データは保存されません。 | アプリがユーザーに電子メール通知を送信するを許可する | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
@@ -81,14 +81,14 @@ JiJi Technologies Private Limited to Microsoft が提供する情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->すべての Web アプリケーションおよび Storageリソースは、リソースにアクセスできる管理者のみを使用して、会社 AAD に接続されていないサブスクリプションに含されます。 これらの管理者には 2FA が必要です。 
+>すべての Web アプリケーションとStorageリソースは、リソースにアクセスできる管理者AAD、会社に接続されていないサブスクリプションに含されます。 これらの管理者には 2FA が必要です。 
 
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -112,13 +112,13 @@ JiJi Technologies Private Limited to Microsoft が提供する情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について JiJi Technologies Private Limited によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
-| サポートされているポリシーの種類を一覧表示する | 管理役割を持つユーザーに多要素認証を要求する、Azure 管理タスクに多要素認証を要求する、レガシ認証プロトコルを使用しようとするユーザーのサインインをブロックする、Azure AD 多要素認証登録の信頼できる場所を要求する、特定の場所からのアクセスをブロックまたは許可する、危険なサインイン動作をブロックする |
+| サポートされているポリシーの種類を一覧表示する | 管理役割を持つユーザーに多要素認証を要求する、Azure 管理タスクに多要素認証を要求する、レガシ認証プロトコルを使用しようとするユーザーのサインインのブロック、Azure AD 多要素認証登録の信頼できる場所の要求、特定の場所からのアクセスのブロックまたは許可、危険なサインイン動作のブロック |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
@@ -132,3 +132,4 @@ JiJi Technologies Private Limited to Microsoft が提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

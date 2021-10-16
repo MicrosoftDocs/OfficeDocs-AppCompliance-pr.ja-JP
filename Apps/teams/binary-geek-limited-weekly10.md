@@ -2,18 +2,18 @@
 title: Binary Geek Limited による Weekly10 のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/19/2021
+ms.date: 08/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Weekly10 で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 3a1456ccf706a9588f82e38ea35e5e37f8098b9b
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 9bdd5e42398270719c9f0ecd9814155974dbee6f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286587"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411131"
 ---
 # <a name="weekly10"></a>Weekly10
 
@@ -30,7 +30,7 @@ ms.locfileid: "59286587"
 
 Binary Geek Limited to Microsoft が提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Weekly10 |
 | ID | WA200001441 |
@@ -55,11 +55,11 @@ Binary Geek Limited to Microsoft が提供する情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.Read.All | アプリケーション | Azure から Weekly10 へのユーザー AD同期 (オプション) | ユーザー ID データ: ユーザー プリンシパル名、メール、名、名、およびマネージャー。 | [2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb](https://docs.microsoft.com/microsoft-365-app-certification/azure/2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb) |
+>| Directory.Read.All | アプリケーション | ユーザーが Weekly10 にAzure AD同期する (オプション) | ユーザー ID データ: ユーザー プリンシパル名、メール、名、名、およびマネージャー。 | [2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb](https://docs.microsoft.com/microsoft-365-app-certification/azure/2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb) |
 >| Calendars.ReadWrite | アプリケーション | 従業員の空き時間の確認と会議の自動予約 (オプション)。 | 従業員の空き時間 (詳細ではない) と、その会議への参照を会議が予約された場合。 このデータは、シームレスな従業員エクスペリエンスのために従業員がオフィスを外れた場合の把握や、1:1s または Performance Reviews の会議の予約に使用されます。 | [494610b2-b490-4f54-8384-312d6f9b4869](https://docs.microsoft.com/microsoft-365-app-certification/azure/494610b2-b490-4f54-8384-312d6f9b4869) |
->| User.Read | 委任 | Azure サーバーでの SSO 目的でのユーザー AD。 | トークン情報以外に追加のデータは保持されません。 | [6fd1421e-89e8-4a8b-bd01-9397656a50d5](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fd1421e-89e8-4a8b-bd01-9397656a50d5) |
+>| User.Read | 委任 | SSO 目的のユーザーの検証を、Azure AD。 | トークン情報以外に追加のデータは保持されません。 | [6fd1421e-89e8-4a8b-bd01-9397656a50d5](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fd1421e-89e8-4a8b-bd01-9397656a50d5) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -74,7 +74,7 @@ Binary Geek Limited to Microsoft が提供する情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 個人のTeamsユーザー ID にのみアクセスします。 つまり、ボットは特定の方法でそのユーザーに応答できます。 | いいえ |  |
+>| 個人のTeamsユーザー ID にのみアクセスします。 つまり、ボットは特定の方法でそのユーザーに応答できます。 | 不要 |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -99,17 +99,6 @@ Binary Geek Limited to Microsoft が提供する情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -137,3 +126,4 @@ Binary Geek Limited to Microsoft が提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

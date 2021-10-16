@@ -2,18 +2,18 @@
 title: Talla Inc. による Talla のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 04/29/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Talla、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 38945ddbcda225652973de5a292c1f56575c3f6e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3d6149a3ed92ff5aefd4f4037c238bfeb8d98136
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285635"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411582"
 ---
 # <a name="talla"></a>Talla
 
@@ -30,7 +30,7 @@ ms.locfileid: "59285635"
 
 Talla Inc. から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Talla |
 | ID | WA104381253 |
@@ -101,4 +101,5 @@ Talla Inc. から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

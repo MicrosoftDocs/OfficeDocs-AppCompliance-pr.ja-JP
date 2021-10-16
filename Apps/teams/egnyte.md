@@ -2,18 +2,18 @@
 title: Egnyte による Egnyte のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/21/2021
+ms.date: 08/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Egnyte、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9c9ff10261730b8b1cc56cbb7aa23d55d5da8383
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 9d021b24173b8149d420df17d81667a11249fa1f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288211"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411745"
 ---
 # <a name="egnyte"></a>Egnyte
 
@@ -30,7 +30,7 @@ ms.locfileid: "59288211"
 
 Egnyte が Microsoft に提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Egnyte |
 | ID | WA104381174 |
@@ -70,7 +70,7 @@ Egnyte が Microsoft に提供する情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| ネイティブ統合のための Egnyte アプリケーションMicrosoft Teamsエクスペリエンス | いいえ |  |
+>| ネイティブ統合のための Egnyte アプリケーションMicrosoft Teamsエクスペリエンス | 不要 |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -120,3 +120,4 @@ Egnyte が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

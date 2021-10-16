@@ -2,18 +2,18 @@
 title: Intumit の SmartWork による SmartWork のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/23/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SmartWork、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9df1a52e4634956a1a48984faeea9e4b453c03a4
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: fab20b7cfe9fd8008f98a44e473102acd6efbadc
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59283932"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410881"
 ---
 # <a name="smartwork"></a>SmartWork
 
@@ -30,7 +30,7 @@ ms.locfileid: "59283932"
 
 Intumit の SmartWork が Microsoft に提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | SmartWork |
 | ID | WA200001149 |
@@ -54,9 +54,9 @@ Intumit の SmartWork が Microsoft に提供する情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | 委任 | userPrincipalName を使用して、ユーザーのメールが有効な AAD からのメールであるかどうかを識別する | サインインおよびユーザー プロファイルの読み取り | [a938ae1e-a791-4751-9e6a-178c991fa0fa](https://docs.microsoft.com/microsoft-365-app-certification/azure/a938ae1e-a791-4751-9e6a-178c991fa0fa) |
+>| User.Read | 委任 | userPrincipalName を使用して、ユーザーのメールが有効なメールから送信されたかどうかAAD識別する | サインインおよびユーザー プロファイルの読み取り | [a938ae1e-a791-4751-9e6a-178c991fa0fa](https://docs.microsoft.com/microsoft-365-app-certification/azure/a938ae1e-a791-4751-9e6a-178c991fa0fa) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -71,7 +71,7 @@ Intumit の SmartWork が Microsoft に提供する情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| ユーザーのメールが有効な AAD からのメールであるかどうかを識別する場合に使用する | ユーザーのメール | ユーザーが有効な AAD から来たかどうかを識別するための保存されたユーザーのメール リスト |
+>| ユーザーのメールが有効なメールから送信されたかどうかの識別AAD使用する | ユーザーのメール | 保存されたユーザーのメール リストを使用して、ユーザーが有効なユーザーから送信されたAADを識別します。 |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -84,7 +84,7 @@ Intumit の SmartWork が Microsoft に提供する情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->有効な AAD アカウントを持っているユーザーだけがアプリケーションにアクセスできます。
+>有効なアカウントをAADアプリケーションにアクセスできるのは、ユーザーのみです。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -114,7 +114,7 @@ Intumit の SmartWork が Microsoft に提供する情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について、Intumit の SmartWork によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -128,9 +128,10 @@ Intumit の SmartWork が Microsoft に提供する情報:
 | アプリの場合、何を使用しないのですか? | ,<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/> |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

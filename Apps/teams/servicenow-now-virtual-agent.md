@@ -2,18 +2,18 @@
 title: ServiceNow による今すぐ仮想エージェントのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/23/2020
+ms.date: 05/30/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Now Virtual Agent で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1ac2988c550894341d5933afbc59de6f63c51b68
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 20ae315016fa0d5cbc960616f09bfd350ceb5c43
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287355"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60408346"
 ---
 # <a name="now-virtual-agent"></a>Now Virtual Agent
 
@@ -30,7 +30,7 @@ ms.locfileid: "59287355"
 
 ServiceNow から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Now Virtual Agent |
 | ID | WA104381816 |
@@ -55,7 +55,7 @@ ServiceNow から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委任 | ドメインは、将来のメッセージ ルーティングの目的でデータ センターに保存されます。 | ServiceNow 管理者が MS サーバーとの統合をインストールTeams、管理者は MS アカウントにログインTeamsがあります。 メール アドレス (完全な電子メール アドレスではない) からドメインを読み取ります。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
@@ -101,4 +101,5 @@ ServiceNow から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

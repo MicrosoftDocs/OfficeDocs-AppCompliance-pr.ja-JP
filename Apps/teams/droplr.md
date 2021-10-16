@@ -2,18 +2,18 @@
 title: Droplr による Droplr のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 04/25/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Droplr で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a15e235b7f604ba4b5c73c74eef50d4bc1a49e65
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f045a83e9e341e9143d82bfbe20138782fe40d5d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289188"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410280"
 ---
 # <a name="droplr"></a>Droplr
 
@@ -30,7 +30,7 @@ ms.locfileid: "59289188"
 
 Droplr から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Droplr |
 | ID | WA104381718 |
@@ -55,7 +55,7 @@ Droplr から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委任 | データベースに `user_id` 値を格納する | このアクセス許可を使用して、認証されたユーザーを識別し、Droplr アカウントにリンクします。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
@@ -101,4 +101,5 @@ Droplr から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

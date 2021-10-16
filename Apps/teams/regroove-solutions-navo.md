@@ -2,18 +2,18 @@
 title: Regroove ソリューションによる Navo のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/24/2020
+ms.date: 01/20/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Navo で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e17eac9ef2db9418a38900d0de84ce62fad71097
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 554d59fbb03382ab517bb2f928823a33b2ec4ee0
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284019"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411532"
 ---
 # <a name="navo"></a>Navo
 
@@ -54,7 +54,7 @@ Regroove Solutions から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.Read.All | アプリケーション | ユーザー数を格納し、請求サイクルごとに 1 回クエリを実行します。 また、組織の ID としてテナンシー ID を使用します。 | テナンシー内のユーザー数をカウントできます。これは課金目的で使用されます。 また、ユーザーが含むグループを照会して、セキュリティ トリミングを使用して特定のデータを保護することもできます。 また、組織のテナント ID を照会します。 | [75ce4e02-e37b-479c-81c7-438348a2a251](https://docs.microsoft.com/microsoft-365-app-certification/azure/75ce4e02-e37b-479c-81c7-438348a2a251) |
 >| User.Read | 委任 | データが保存されません | サインインおよびユーザー プロファイルの読み取り | [75ce4e02-e37b-479c-81c7-438348a2a251](https://docs.microsoft.com/microsoft-365-app-certification/azure/75ce4e02-e37b-479c-81c7-438348a2a251) |
@@ -108,4 +108,5 @@ Regroove Solutions から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

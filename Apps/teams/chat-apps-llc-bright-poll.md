@@ -2,18 +2,18 @@
 title: チャット アプリ、LLC による明るいポーリングのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/06/2021
+ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Bright Poll、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: af6e29845108dee6504e87864c80b5ef5a11aa16
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: cafd73f853c260c9d15218abfef95f7ddfb14234
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287059"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410381"
 ---
 # <a name="bright-poll"></a>Bright Poll
 
@@ -119,3 +119,4 @@ ms.locfileid: "59287059"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

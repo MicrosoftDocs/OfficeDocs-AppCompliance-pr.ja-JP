@@ -5,7 +5,7 @@ groups:
   prompt: このアプリに表示する情報のカテゴリを選択します。
   pivots:
   - id: general
-    title: 一般
+    title: 全般
   - id: data
     title: データ処理
   - id: mcas
@@ -15,7 +15,7 @@ groups:
   prompt: このアプリに表示する情報のカテゴリを選択します。
   pivots:
   - id: general
-    title: 一般
+    title: 全般
   - id: mcas
     title: セキュリティとコンプライアンス
 - id: app-info-identity
@@ -23,7 +23,7 @@ groups:
   prompt: このアプリに表示する情報のカテゴリを選択します。
   pivots:
   - id: general
-    title: 一般
+    title: 全般
   - id: identity
     title: ID
 - id: app-info-data
@@ -31,7 +31,7 @@ groups:
   prompt: このアプリに表示する情報のカテゴリを選択します。
   pivots:
   - id: general
-    title: 一般
+    title: 全般
   - id: data
     title: データ処理
 - id: app-info-data-identity
@@ -39,7 +39,7 @@ groups:
   prompt: このアプリに表示する情報のカテゴリを選択します。
   pivots:
   - id: general
-    title: 一般
+    title: 全般
   - id: data
     title: データ処理
   - id: identity
@@ -49,7 +49,7 @@ groups:
   prompt: このアプリに表示する情報のカテゴリを選択します。
   pivots:
   - id: general
-    title: 一般
+    title: 全般
   - id: mcas
     title: セキュリティとコンプライアンス
   - id: identity
@@ -59,17 +59,55 @@ groups:
   prompt: このアプリに表示する情報のカテゴリを選択します。
   pivots:
   - id: general
-    title: 一般
+    title: 全般
   - id: data
     title: データ処理
   - id: mcas
     title: セキュリティとコンプライアンス
   - id: identity
     title: ID
+- id: app-info-data-mcas-certification
+  title: アプリ情報のカテゴリ
+  prompt: このアプリに表示する情報のカテゴリを選択します。
+  pivots:
+  - id: general
+    title: 全般
+  - id: data
+    title: データ処理
+  - id: mcas
+    title: セキュリティとコンプライアンス
+  - id: certification
+    title: 認定
+- id: app-info-data-identity-certification
+  title: アプリ情報のカテゴリ
+  prompt: このアプリに表示する情報のカテゴリを選択します。
+  pivots:
+  - id: general
+    title: 全般
+  - id: data
+    title: データ処理
+  - id: identity
+    title: ID
+  - id: certification
+    title: 認定
+- id: app-info-data-mcas-identity-certification
+  title: アプリ情報のカテゴリ
+  prompt: このアプリに表示する情報のカテゴリを選択します。
+  pivots:
+  - id: general
+    title: 全般
+  - id: data
+    title: データ処理
+  - id: mcas
+    title: セキュリティとコンプライアンス
+  - id: identity
+    title: ID
+  - id: certification
+    title: 認定
 metadata:
-  ms.openlocfilehash: b07379344dd27d0fd3d2ff699dd23854a2c377c8c558430f03a5e4d245e14654
-  ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+  ms.openlocfilehash: 251f0461ab55741522c650f13a0ff3b50eecb560
+  ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "54749297"
+  ms.lasthandoff: 10/16/2021
+  ms.locfileid: "60411281"

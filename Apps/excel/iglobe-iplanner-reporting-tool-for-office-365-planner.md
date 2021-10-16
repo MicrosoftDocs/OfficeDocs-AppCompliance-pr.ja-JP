@@ -2,18 +2,18 @@
 title: iGlobe による Office 365プランナーの iPlanner レポート ツールのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/24/2019
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Office 365 Planner の iPlanner レポート ツールで使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3591c67721188d8dc70bf4f2cf0e34bdb9ffc506
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: ac38f244a862b89ee17ded8ce1432fdb00fb451a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287587"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411271"
 ---
 # <a name="iplanner-reporting-tool-for-office-365-planner"></a>iPlanner レポート ツール for Office 365 Planner
 
@@ -52,7 +52,7 @@ iGlobe から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーにカレンダー エントリを作成するには、タスク&#8217;にカレンダーを追加します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| Directory.AccessAsUser.All | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーが同意を持ち、API を使用するアクセス権を持っている場合。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
@@ -93,7 +93,7 @@ iGlobe から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -110,4 +110,5 @@ iGlobe から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

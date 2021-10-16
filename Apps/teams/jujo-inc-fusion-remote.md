@@ -2,18 +2,18 @@
 title: Jujo Inc. による Fusion Remote のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/12/2020
+ms.date: 07/11/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Fusion Remote で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b920e0fa93512c7cc9429b02dcecd9c0e3fe27b6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 46bbea460fad8864ada8f7971b0fd64983f2eb3c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286940"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411622"
 ---
 # <a name="fusion-remote"></a>Fusion Remote
 
@@ -30,7 +30,7 @@ ms.locfileid: "59286940"
 
 Jujo Inc. から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Fusion Remote |
 | ID | WA200001422 |
@@ -54,7 +54,7 @@ Jujo Inc. から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Files.Read | 委任 | ユーザー ファイルの読み取り | ユーザー ファイルの読み取り | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
 >| Files.Read.All | 委任 | ユーザーがアクセスできるすべてのファイルの読み取り | ユーザーがアクセスできるすべてのファイルの読み取り | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
@@ -91,7 +91,7 @@ Jujo Inc. から Microsoft に提供される情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->いいえ
+>不要
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
@@ -120,4 +120,5 @@ Jujo Inc. から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

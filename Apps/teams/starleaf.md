@@ -2,18 +2,18 @@
 title: StarLeaf による StarLeaf のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/24/2020
+ms.date: 06/17/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: StarLeaf、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8f9878d4de6e09c283c6d13ee7351de9fb5f0eb8
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 0a339c98c0d76da7269df25a7dfd76f896e4f96f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286524"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60408266"
 ---
 # <a name="starleaf"></a>StarLeaf
 
@@ -30,7 +30,7 @@ ms.locfileid: "59286524"
 
 StarLeaf から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | StarLeaf |
 | ID | WA200000185 |
@@ -54,7 +54,7 @@ StarLeaf から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.ReadWrite | アプリケーション | 会議の iCalUId、会議の日時、出席者の電子メール アドレス、および Office.js カスタム プロパティ インターフェイスを使用して会議で読み書きする単一値拡張プロパティを格納します。 iCalUId は、ユーザーの outlook カレンダー内の会議を、&#8217;サービス上のビデオ会議と関連付ける場合に使用されます。 時間/日付と出席者は、サービス上の適切なユーザーに適切な時間にビデオ会議を提供するために使用されます。 SVEP は、O365 アドインと一緒に使用して、ユーザーが録画などのサービス上のビデオ会議に関する詳細を設定するインターフェイスを提供します。 | Webhook 通知を購読して、予定表内のイベントに対するユーザーの変更を追跡し、一貫性を保つためにサービスを更新するために使用されます。 また、ユーザーがアプリとやり取りし、Teamsサービスで会議をスケジュールするときに、予定表にイベントを作成するためにも使用されます。 | [6e86b349-768f-4953-ac2e-fb03f92db4be](https://docs.microsoft.com/microsoft-365-app-certification/azure/6e86b349-768f-4953-ac2e-fb03f92db4be) |
 >| User.Read | アプリケーション | ログイン可能な oauth 更新トークンを格納します。 ユーザー プロファイル ID を保存して、そのユーザーからの将来の OAuth 試行と比較し、その詳細を 2 回&#8217;確認します。  | ユーザーがアプリにサインインし、アプリがユーザーの電子メール アドレス&#8217;を取得して、ログインとサービス上のアカウントを関連付けることができます。  | [6e86b349-768f-4953-ac2e-fb03f92db4be](https://docs.microsoft.com/microsoft-365-app-certification/azure/6e86b349-768f-4953-ac2e-fb03f92db4be) |
@@ -110,4 +110,5 @@ StarLeaf から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

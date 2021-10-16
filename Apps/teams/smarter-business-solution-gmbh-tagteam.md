@@ -2,18 +2,18 @@
 title: Smarter Business Solution GmbH による TagTeam のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/21/2021
+ms.date: 05/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: タグチームで利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: cd1411cff3f80788bc9a5677f595caad620484e1
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 025d0040bdd58a01cd3993445c025b9a61f90822
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285675"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60408336"
 ---
 # <a name="tagteam"></a>TagTeam
 
@@ -30,7 +30,7 @@ ms.locfileid: "59285675"
 
 Smarter Business Solution GmbH から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | TagTeam |
 | ID | WA200002829 |
@@ -55,7 +55,7 @@ Smarter Business Solution GmbH から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ChannelMessage.Read.All | 委任 | このデータは収集されません。タグ付き会話を表示する場合にのみ使用します。 検索 API に変更する必要がありますが、API Graphサポートしていない場合。  | なし | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
 >| User.Read | 委任 | タブにUser-Information (名前など) を表示する | なし | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
@@ -136,3 +136,4 @@ Smarter Business Solution GmbH から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

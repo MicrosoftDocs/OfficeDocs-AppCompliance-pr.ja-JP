@@ -2,18 +2,18 @@
 title: Derdack SIGNL4 による SIGNL4 のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/06/2021
+ms.date: 08/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SIGNL4 で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4cf1eae6ef533a1e744ca3c2968764fed0227d00
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 7042695f0bfb257552e4e040a1b8d254016b612a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286979"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411081"
 ---
 # <a name="signl4"></a>SIGNL4
 
@@ -84,7 +84,7 @@ Derdack SIGNL4 から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->データは、ヨーロッパの Azure データ センターに格納されます。 管理者はアクセスできます。 AAD 認証を使用する 2FA。 ストレージ アカウントへのアクセス キーは、アクセスの管理にも使用されます。
+>データは、ヨーロッパの Azure データ センターに格納されます。 管理者はアクセスできます。 2FA 認証を使用AADします。 ストレージ アカウントへのアクセス キーは、アクセスの管理にも使用されます。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -114,7 +114,7 @@ Derdack SIGNL4 から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Derdack SIGNL4 によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -134,3 +134,4 @@ Derdack SIGNL4 から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: 教師の技術による教師のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/01/2021
+ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: グルの利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 87316d020c6658b00fe7e12cc7326917779f2623
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 014546ad1e5e4ee5beb0b8512ed2247e1ae34ccf
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286163"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411675"
 ---
 # <a name="guru"></a>Guru
 
@@ -120,3 +120,4 @@ Guru Technologies から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

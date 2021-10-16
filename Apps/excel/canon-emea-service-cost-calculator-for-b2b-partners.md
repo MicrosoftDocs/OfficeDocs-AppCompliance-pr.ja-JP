@@ -2,18 +2,18 @@
 title: EMEA キヤノン B2B パートナー向け EMEA サービス コスト計算キヤノン情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/03/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: B2B パートナー向け キヤノン EMEA Service Cost Calculator、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: a5e1d55a50474f1085b6ac856a29c74c8cb0e2a5
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: dad36c97f63d3bea7ac29ce832b3c09bd6f0dd86
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286796"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410741"
 ---
 # <a name="canon-emea-service-cost-calculator-for-b2b-partners"></a>キヤノン B2B パートナー向け EMEA サービス コスト計算ツール
 
@@ -29,7 +29,7 @@ ms.locfileid: "59286796"
 
 EMEA から Microsoft キヤノン提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | キヤノン B2B パートナー向け EMEA サービス コスト計算ツール |
 | ID | WA200003098 |
@@ -86,17 +86,6 @@ EMEA から Microsoft キヤノン提供される情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -104,10 +93,11 @@ EMEA から Microsoft キヤノン提供される情報:
 
 この情報は、このアプリキヤノン認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について、EMEA から提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

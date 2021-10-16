@@ -2,18 +2,18 @@
 title: Perfony による Perfony のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 06/20/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Perfony で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b936a0a6834f6904ced959b5a7c00e130a74480c
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: deeb6ea3abe6e17c8d325c78eb25cc933d64f44d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287763"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411552"
 ---
 # <a name="perfony"></a>Perfony
 
@@ -30,7 +30,7 @@ ms.locfileid: "59287763"
 
 Perfony が Microsoft に提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Perfony |
 | ID | WA104381418 |
@@ -100,4 +100,5 @@ Perfony が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

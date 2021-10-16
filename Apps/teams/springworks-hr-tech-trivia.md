@@ -2,18 +2,18 @@
 title: Springworks HR Tech によるトリビアのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/13/2021
+ms.date: 01/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: トリビアで利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e22205d2584abd257a6fdff585f129fb915ff6b2
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f2e79a1843977a1c8c1ea0f62259cfa4bde8f076
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284979"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410851"
 ---
 # <a name="trivia"></a>Trivia
 
@@ -30,7 +30,7 @@ ms.locfileid: "59284979"
 
 Springworks HR Tech から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Trivia |
 | ID | WA200001956 |
@@ -55,9 +55,9 @@ Springworks HR Tech から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Group.Read.All | 委任 | いいえ | ユーザーが参加しているTeamsの一覧を取得するには | [43bc466a-7678-476f-b904-2d933c5bbfc3](https://docs.microsoft.com/microsoft-365-app-certification/azure/43bc466a-7678-476f-b904-2d933c5bbfc3) |
+>| Group.Read.All | 委任 | 不要 | ユーザーが参加しているTeamsの一覧を取得するには | [43bc466a-7678-476f-b904-2d933c5bbfc3](https://docs.microsoft.com/microsoft-365-app-certification/azure/43bc466a-7678-476f-b904-2d933c5bbfc3) |
 >| Team.ReadBasic.All | 委任 | はい、ボットが追加されたチームのリストを格納する | ワークスペースに存在するすべてのチームに関する基本情報を収集するには | [43bc466a-7678-476f-b904-2d933c5bbfc3](https://docs.microsoft.com/microsoft-365-app-certification/azure/43bc466a-7678-476f-b904-2d933c5bbfc3) |
 >| User.Read.All | 委任 | はい、ユーザーの一意の aadObjectId を格納します。 ユーザー名、電子メールなどのユーザーのさまざまな詳細をトリビア ダッシュボードに表示する | ワークスペースに存在するすべてのユーザーの詳細を取得するには | [43bc466a-7678-476f-b904-2d933c5bbfc3](https://docs.microsoft.com/microsoft-365-app-certification/azure/43bc466a-7678-476f-b904-2d933c5bbfc3) |
 >| openid | 委任 | はい、アプリにサインインするユーザーを保存します。 |  ユーザーが自分のアカウントでアプリを使用し、アプリがユーザーのデータを使用できる | [43bc466a-7678-476f-b904-2d933c5bbfc3](https://docs.microsoft.com/microsoft-365-app-certification/azure/43bc466a-7678-476f-b904-2d933c5bbfc3) |
@@ -122,10 +122,11 @@ Springworks HR Tech から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について Springworks HR Tech によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

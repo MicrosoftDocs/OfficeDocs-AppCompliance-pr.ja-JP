@@ -2,18 +2,18 @@
 title: アプリケーション導入ボット C.AI アプリケーション情報(contexxt.ai
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/06/2021
+ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: C.AI 導入ボット、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5bb11c96f750701128470f3e1c61ea0f5d476233
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 655d6801d05e2f909cbe5d1ee9578092a43f6778
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285852"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410340"
 ---
 # <a name="cai-adoption-bot"></a>C.AI Adoption Bot
 
@@ -30,7 +30,7 @@ ms.locfileid: "59285852"
 
 Microsoft に提供される contexxt.ai 情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | C.AI Adoption Bot |
 | ID | WA200002633 |
@@ -55,7 +55,7 @@ Microsoft に提供される contexxt.ai 情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.Read | アプリケーション | ユーザーの可用性は、フォーカス時ではなく、適切な時間にヒントを送信できる | 匿名化されたユーザーの可用性は、フォーカス時間中ではなく、適切な時間にヒントを送信できる | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
 >| ChannelMessage.Read.All | アプリケーション | Microsoft Teamsの使用状況を分析するために、チャネルごとのプライベートまたは会話の量など、チャネル メタデータをTeams | 匿名化Microsoft Teams、プライベートまたはチャネルごとの会話の量など、チャネルメタデータを使用して、チャネルの使用状況をTeams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
@@ -133,9 +133,10 @@ Microsoft に提供される contexxt.ai 情報:
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

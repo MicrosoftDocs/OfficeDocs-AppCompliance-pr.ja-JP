@@ -2,18 +2,18 @@
 title: MURAL による MURAL のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/22/2021
+ms.date: 10/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: MURAL で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 58349e188a709d1f74a3a3b6426ca4b4a34c34d4
-ms.sourcegitcommit: 4817af6bd92bcc7624a43ea79ba6b9362da38035
+ms.openlocfilehash: 547125dfa636a60f8a95153c5b75b060ee2f65f1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/07/2021
-ms.locfileid: "60233621"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60409450"
 ---
 # <a name="mural"></a>MURAL
 
@@ -30,7 +30,7 @@ ms.locfileid: "60233621"
 
 MURAL から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | MURAL |
 | ID | WA104381626 |
@@ -115,10 +115,11 @@ MURAL から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について、MURAL によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

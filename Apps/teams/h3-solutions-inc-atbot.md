@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: AtBot で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d71404e66489ba3f1e81ca5f1a1a92c17b36f9e6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b5f7db2aba878720e33c5c1df2236fd034819dfb
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288196"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411665"
 ---
 # <a name="atbot"></a>AtBot
 
@@ -30,7 +30,7 @@ ms.locfileid: "59288196"
 
 H3 Solutions, Inc. から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | AtBot |
 | ID | WA104381219 |
@@ -55,10 +55,10 @@ H3 Solutions, Inc. から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.Read.All | アプリケーション | AAD グループ名、AAD グループ GUID、UPN | ボット スキルのセキュリティ トリミングを許可する AAD グループを列挙します。 ライセンスを適用できるユーザーを列挙します。 管理者/共同作成者として追加するユーザーを列挙する | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
->| Directory.Read.All | 委任 | AAD グループ名、AAD グループ GUID、UPN | ボット スキルのセキュリティ トリミングを許可する AAD グループを列挙します。 ライセンスを適用できるユーザーを列挙します。 管理者/共同作成者として追加するユーザーを列挙する | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| Directory.Read.All | アプリケーション | AADグループ名、AAD GUID、UPN | ボット のAADを許可するグループを列挙します。 ライセンスを適用できるユーザーを列挙します。 管理者/共同作成者として追加するユーザーを列挙する | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| Directory.Read.All | 委任 | AADグループ名、AAD GUID、UPN | ボット のAADを許可するグループを列挙します。 ライセンスを適用できるユーザーを列挙します。 管理者/共同作成者として追加するユーザーを列挙する | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 >| People.Read | 委任 | いいえ | [ユーザーの取得] アクションのユーザーをユーザーから列挙Flow。  ボットが Microsoft サーバーの /People エンドポイントからユーザーを取得Graph。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 >| User.Read | 委任 | テナント ID、UPN | テナント ID と UPN&#8217;にアクセスして、作成したフロー/ロジック アプリを作成したユーザーに結び付けることができます。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 >| メール | 委任 | 電子メール アドレスは、サポート システムを介してサポートに連絡するために使用されます。 | ユーザーのメール アドレスにアクセスできます。 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
@@ -92,7 +92,7 @@ H3 Solutions, Inc. から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->管理者は、AAD グループ名/GUID を含むボット構成を削除できます。
+>管理者は、グループ名/GUID を含むボット構成AAD削除できます。
 サービスの取り消し時に、すべての UPN がライセンス データベースから削除されます。
 詳細については、「Azure Services」の「Data Residency」 を参照してください。  AtBot を使用して生成される顧客固有のデータの多くが顧客のテナントに格納され、そのテナントの管理者がデータを完全に制御できます。
 
@@ -135,10 +135,11 @@ H3 Solutions, Inc. から Microsoft に提供される情報:
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | いいえ |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリは Web API を公開していますか? | 不要 |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

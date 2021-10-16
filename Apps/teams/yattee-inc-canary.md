@@ -2,18 +2,18 @@
 title: YATTEE Inc. による Canary のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/19/2021
+ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Canary、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: c86ef20b176b021b055b79e07c9c196dd83785ab
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 39b722aa99547d4ab223c8105aa7a55db6a089b7
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286484"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411352"
 ---
 # <a name="canary"></a>カナリア
 
@@ -30,7 +30,7 @@ ms.locfileid: "59286484"
 
 YATTEE Inc. から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | カナリア |
 | ID | WA200003193 |
@@ -54,7 +54,7 @@ YATTEE Inc. から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calls.JoinGroupCall.All | 両方とも | E&#12513;&#12540;&#12523;&#12450;&#12489;&#12524;&#12473;&#12290;&#12518;&#12540;&#12470;&#12540;&#12398;&#35672;&#21029;&#12398;&#12383;&#12417;&#12392;&#12289;&#32068;&#32340;&#12372;&#12392;&#12391;&#12464;&#12523;&#12540;&#12503;&#21270;&#12377;&#12427;&#12383;&#12417;&#12290; | &#21033;&#29992;&#12518;&#12540;&#12470;&#12540;&#12398;&#12473;&#12465;&#12472;&#12517;&#12540;&#12523;&#24773;&#22577;&#12394;&#12393;&#12290;&#12473;&#12465;&#12472;&#12517;&#12540;&#12523;&#31649;&#29702;&#12450;&#12503;&#12522;&#12394;&#12398;&#12391;&#12290; | [626ce0a3-4620-483d-953d-53b106b9ffad](https://docs.microsoft.com/microsoft-365-app-certification/azure/626ce0a3-4620-483d-953d-53b106b9ffad) |
 
@@ -94,17 +94,6 @@ YATTEE Inc. から Microsoft に提供される情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -126,9 +115,10 @@ YATTEE Inc. から Microsoft に提供される情報:
 | アプリの場合、何を使用しないのですか? | ,<br/><br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

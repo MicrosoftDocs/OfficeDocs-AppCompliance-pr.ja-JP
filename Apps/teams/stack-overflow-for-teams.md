@@ -2,18 +2,18 @@
 title: スタック オーバーフローによるスタック オーバーフロー Teamsアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/06/2020
+ms.date: 12/17/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Teams のスタック オーバーフロー、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7ea59acc5a3a85fd8ad827947c117266e95901fd
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3c6493326d8b58ad4c8e7e4fc5486a7f03cd2b8b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289012"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410841"
 ---
 # <a name="stack-overflow-for-teams"></a>Teams のスタックオーバーフロー
 
@@ -30,7 +30,7 @@ ms.locfileid: "59289012"
 
 スタック オーバーフローによって Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Teams のスタックオーバーフロー |
 | ID | WA200000739 |
@@ -90,7 +90,7 @@ MS Teams識別可能な ID を送信し、ユーザーをマップするため�
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -107,4 +107,5 @@ MS Teams識別可能な ID を送信し、ユーザーをマップするため�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

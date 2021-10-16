@@ -2,18 +2,18 @@
 title: HunchBuzz による HunchBuzz のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 08/20/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: HunchBuzz、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: da50e7ef872263bd4d4d159733d631e4ba08f24d
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a8412ba6c676ed5728bee9db5b8f5c68966d4af7
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285795"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411021"
 ---
 # <a name="hunchbuzz"></a>HunchBuzz
 
@@ -30,7 +30,7 @@ ms.locfileid: "59285795"
 
 HunchBuzz から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | HunchBuzz |
 | ID | WA200000160 |
@@ -99,4 +99,5 @@ HunchBuzz から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

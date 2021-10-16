@@ -2,18 +2,18 @@
 title: Sliday LTD による Karma のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/14/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: カルマの利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a7603ed4676653b26d93027e5c3e3d47065e83db
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 69163a7c191e9a7e8d460a7f20623466d208042e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285683"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410911"
 ---
 # <a name="karma"></a>Karma
 
@@ -55,7 +55,7 @@ Sliday LTD が Microsoft に提供する情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | アプリケーション | 名、名、会社の電子メール アドレス。管理者向けレポートの名、名。Karma、課金目的、およびハーカーシーに関する通信用の電子メール アドレス。 | 管理者の同意表示名。サインインしてユーザー プロファイルを読み取る。管理者の同意の説明。ユーザーがアプリにサインインし、アプリがサインインしているユーザーのプロファイルを読み取るのを許可します。 また、アプリはサインインしているユーザーの基本的な会社情報を読み取るのも可能です。ユーザーの同意表示名を入力し、プロファイルを読み取る。ユーザーの同意の説明。組織アカウントを使用してアプリにサインインし、アプリにプロファイルの読み取りを許可します。 また、アプリが会社の基本的な情報を読み取るのも可能です。 | [9ff28b02-ccc5-4cac-9d17-4cf6987c371f](https://docs.microsoft.com/microsoft-365-app-certification/azure/9ff28b02-ccc5-4cac-9d17-4cf6987c371f) |
 
@@ -145,4 +145,5 @@ SIEM には、ファイアウォール ログ、Web サーバー ログ、アプ
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

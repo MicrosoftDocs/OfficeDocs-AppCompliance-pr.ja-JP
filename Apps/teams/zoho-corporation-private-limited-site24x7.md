@@ -2,18 +2,18 @@
 title: Zoho Corporation Private Limited による Site24x7 のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Site24x7 で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: bbcd20206e1520327e65b36f97690c197bb2f258
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 26d0147e95a7e9a71aaa6a017eb8d2ad5e8ec453
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284884"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411342"
 ---
 # <a name="site24x7"></a>Site24x7
 
@@ -30,7 +30,7 @@ ms.locfileid: "59284884"
 
 Zoho Corporation Private Limited to Microsoft から提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Site24x7 |
 | ID | WA104381289 |
@@ -99,4 +99,5 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

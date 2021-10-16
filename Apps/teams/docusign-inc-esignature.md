@@ -2,18 +2,18 @@
 title: DocuSign, Inc. による DocuSign eSignature のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/14/2021
+ms.date: 06/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: DocuSign eSignature、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6f924fd6777e53a6b854d2249d334fbdab2a54c0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 839ac6f0dcbdadb7428c68ba6da9b46e6ed9a862
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287923"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410290"
 ---
 # <a name="docusign-esignature"></a>DocuSign eSignature
 
@@ -111,10 +111,11 @@ DocuSign, Inc. から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について DocuSign, Inc. から提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

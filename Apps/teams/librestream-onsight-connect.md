@@ -2,18 +2,18 @@
 title: Librestream による Onsight Connectアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/13/2021
+ms.date: 04/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Onsight Connect、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 77ffbb55792b9b4a455674549feba1b316864a6a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 383a66917c8ef3bd6e1ee0a1a224f2f14e4c663d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286564"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410981"
 ---
 # <a name="onsight-connect"></a>Onsight Connect
 
@@ -30,7 +30,7 @@ ms.locfileid: "59286564"
 
 Librestream から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Onsight Connect |
 | ID | WA200002769 |
@@ -119,3 +119,4 @@ Librestream から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

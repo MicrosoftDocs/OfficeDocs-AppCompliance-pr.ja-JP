@@ -2,18 +2,18 @@
 title: ChitChattr による Reminderz のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/09/2020
+ms.date: 01/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Reminderz、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 037cd3bcfc55f58e24582d78e86c12acc3ad3f2f
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 778e6b803c786e9559095445bcb700cae6b3256d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287027"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410371"
 ---
 # <a name="reminderz"></a>Reminderz
 
@@ -30,7 +30,7 @@ ms.locfileid: "59287027"
 
 ChitChattr から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Reminderz |
 | ID | WA200001976 |
@@ -120,10 +120,11 @@ ChitChattr から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について ChitChattr によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
