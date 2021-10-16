@@ -2,18 +2,18 @@
 title: ResearchSpace による RSpace のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 04/25/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内の RSpace、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3327e47994935c3beace465b60238a2c0978175c
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3d53c27f3a6f216f72169fb3dc936d7ca6d65c28
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59283996"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414954"
 ---
 # <a name="rspace"></a>RSpace
 
@@ -30,7 +30,7 @@ ms.locfileid: "59283996"
 
 ResearchSpace から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | RSpace |
 | ID | WA104381671 |
@@ -99,4 +99,5 @@ ResearchSpace から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

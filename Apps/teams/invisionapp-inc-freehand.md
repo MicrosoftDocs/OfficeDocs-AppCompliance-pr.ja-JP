@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: フリーハンドで利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a3c92ee618693b4fed77026a47009b490845db60
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a5dea256df452df987f97baa7251efb836b8cb90
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289276"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412326"
 ---
 # <a name="freehand"></a>フリーハンド
 
@@ -89,7 +89,7 @@ InVisionApp Inc. から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -119,7 +119,7 @@ InVisionApp Inc. から Microsoft に提供される情報:
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | いいえ |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
-| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | いいえ |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | 不要 |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
@@ -133,3 +133,4 @@ InVisionApp Inc. から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

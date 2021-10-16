@@ -2,18 +2,18 @@
 title: Wired2Perform による Wired2Perform のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/01/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Wired2Perform、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 53e25098f069130505add53c3e7b0d39d287e1ac
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3d3ba77eff78368f1fdc7f14125afb8618503c54
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288859"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414874"
 ---
 # <a name="wired2perform"></a>Wired2Perform
 
@@ -30,7 +30,7 @@ ms.locfileid: "59288859"
 
 Wired2Perform から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Wired2Perform |
 | ID | WA200002935 |
@@ -94,7 +94,7 @@ Wired2Perform から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -118,10 +118,11 @@ Wired2Perform から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Wired2Perform によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

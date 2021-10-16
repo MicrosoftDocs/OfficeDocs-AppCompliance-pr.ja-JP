@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SalesTim のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 90e9a29a28b5496e4f5f63837c28d94546c76979
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 98b5d538e9fe73f6c1bf63fe5c53c780adb39548
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286627"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413128"
 ---
 # <a name="salestim"></a>SalesTim
 
@@ -52,7 +52,7 @@ SalesTim から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| AppCatalog.ReadWrite.All | 委任 | 動作しない | アプリが企業アプリ カタログに独自のパッケージをインストールして更新できます。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
 >| Directory.AccessAsUser.All | 委任 | プロファイル データ&#8217;、一部のユーザーの ID のみを保存する必要があります。 | ユーザーは、ワークフロー内の承認者の選択など、アプリケーションのさまざまな場所で他のユーザーを選択できます。 | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
@@ -117,7 +117,7 @@ SalesTim から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について SalesTim によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -138,3 +138,4 @@ SalesTim から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

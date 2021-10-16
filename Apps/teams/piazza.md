@@ -2,18 +2,18 @@
 title: ピアッツァ バイ ピアッツァのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/23/2020
+ms.date: 05/21/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ピアッツァで利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a5c3e9c4d557ff73815181725e74e42433b0fb01
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a3295369c6c7c5c2c744966ee97a7b131553a86c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288404"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413589"
 ---
 # <a name="piazza"></a>Piazza
 
@@ -30,7 +30,7 @@ ms.locfileid: "59288404"
 
 ピアッツァから Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Piazza |
 | ID | WA200001568 |
@@ -103,4 +103,5 @@ ms.locfileid: "59288404"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

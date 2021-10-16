@@ -2,18 +2,18 @@
 title: Officevibe による Officevibe のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/30/2021
+ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Officevibe で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 968e5ba9e3144e4dd987e63af0480311ab7f4cab
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 5aad81602d2ebe11505782ff09355f8fb7c23c10
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287835"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415014"
 ---
 # <a name="officevibe"></a>Officevibe
 
@@ -55,7 +55,7 @@ Officevibe から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.AccessAsUser.All | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
 >| Group.Read.All | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
@@ -95,7 +95,7 @@ Officevibe から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -126,3 +126,4 @@ Officevibe から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: アクション可能なサイエンス Rezolve.ai アプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/27/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Rezolve.ai、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 22c71b78374956fb69f0f3f5fd5fc860d2184363
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b5703e0113d88394c9c0c7a0d6f877a23df68282
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285060"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411986"
 ---
 # <a name="rezolveai"></a>Rezolve.ai
 
@@ -30,7 +30,7 @@ ms.locfileid: "59285060"
 
 Microsoft にアクション可能なサイエンスによって提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Rezolve.ai |
 | ID | WA200002724 |
@@ -54,7 +54,7 @@ Microsoft にアクション可能なサイエンスによって提供される�
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委任 | サインインおよびユーザー プロファイルの読み取り | チケット データ、チャットトランスクリプト、学習の使用状況 | [eb628055-f790-4ef0-9fce-ac95b4c61466](https://docs.microsoft.com/microsoft-365-app-certification/azure/eb628055-f790-4ef0-9fce-ac95b4c61466) |
 
@@ -133,3 +133,4 @@ Microsoft にアクション可能なサイエンスによって提供される�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

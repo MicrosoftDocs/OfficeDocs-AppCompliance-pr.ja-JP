@@ -2,18 +2,18 @@
 title: HeyTaco のアプリケーション情報! by HeyTaco!
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 09/09/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: HeyTaco!、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7b4641b33166043dd311bdd89568c9eaea4b87a1
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e52056b40599ab98a69a6a93e7b2187ddf5f3765
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288155"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412376"
 ---
 # <a name="heytaco"></a>HeyTaco!
 
@@ -54,7 +54,7 @@ HeyTaco が提供する情報! Microsoft に:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| メール | 委任 | Slack から MS へのデータ転送にユーザーを一致Teams | Slack から MS Team へのデータ転送にユーザーを一致するために使用される | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
 >| openid | 委任 | HeyTaco にユーザーをサインインするために使用されます。 | HeyTaco にユーザーをサインインするために使用されます。 | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
@@ -115,4 +115,5 @@ Amazonのデータセンター運用は、ISO 27001、SOC 1、SOC 2/SSAE 16/ISAE
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

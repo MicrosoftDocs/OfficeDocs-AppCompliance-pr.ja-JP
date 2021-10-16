@@ -2,18 +2,18 @@
 title: TeamsChamp による TeamsChamp のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/01/2021
+ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: TeamsChamp で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8ba17c02a5478213d3666651efdbb5e4ed342147
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d60b2440766ffc5aa94069a2c988a383812b0ae3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288996"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413329"
 ---
 # <a name="teamschamp"></a>TeamsChamp
 
@@ -55,7 +55,7 @@ TeamsChamp から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委任 | サインインしてユーザー プロファイルを読み取る | bbdd に保存されているデータがない | [79d7af39-4f57-4e95-adaf-ec8ff756d0df](https://docs.microsoft.com/microsoft-365-app-certification/azure/79d7af39-4f57-4e95-adaf-ec8ff756d0df) |
 >| User.ReadBasic.All | 委任 | すべてのユーザーの基本プロファイルを読み取る | bbdd に保存されているデータがない | [79d7af39-4f57-4e95-adaf-ec8ff756d0df](https://docs.microsoft.com/microsoft-365-app-certification/azure/79d7af39-4f57-4e95-adaf-ec8ff756d0df) |
@@ -122,7 +122,7 @@ TeamsChamp から Microsoft に提供される情報:
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
@@ -130,9 +130,10 @@ TeamsChamp から Microsoft に提供される情報:
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

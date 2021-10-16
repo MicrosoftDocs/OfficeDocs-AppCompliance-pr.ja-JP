@@ -2,17 +2,17 @@
 title: Microsoft Teams アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/14/2021
+ms.date: 10/15/2021
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: 9f7fbd5d90bbc90b19bc06e147c660006083f9a4
-ms.sourcegitcommit: d67be08c82a50cc263a4bdeb176f41dd60716159
+ms.openlocfilehash: c8e137f323174f23e530f081402b6de8368f276c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/15/2021
-ms.locfileid: "60378835"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413339"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -164,6 +164,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [組織アドレス帳 - ネクストセット](./nextsetinc-group-address-book-nextset.md) | NextSet,Inc. | **✓** |  |
 | [GroupLotse](./controlex-gmbh-grouplotse.md) | controlex GmbH | **✓** |  |
 | [Gtmhub](./gtmhub.md) | Gtmhub | **✓** |  |
+| [GuideSpark コミュニケーション クラウド](./guidespark-communicate-cloud.md) | GuideSpark | **✓** |  |
 | [Guru](./guru-technologies.md) | Guru Technologies | **✓** |  |
 | [Health Hero](./health-hero.md) | Health Hero | **✓** |  |
 | [HeyTaco!](./heytaco!.md) | HeyTaco! | **✓** |  |

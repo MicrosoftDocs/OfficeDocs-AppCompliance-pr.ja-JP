@@ -2,18 +2,18 @@
 title: Viima Solutions Oy による Viima のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/17/2020
+ms.date: 12/07/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Viima で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7c9db86a4ffce9107b7345f178fe850a66e26560
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 5b9233ff1a9a5cb8613ac7a9c6c2e1e00e71e860
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286868"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414884"
 ---
 # <a name="viima"></a>Viima
 
@@ -30,7 +30,7 @@ ms.locfileid: "59286868"
 
 Viima Solutions Oy から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Viima |
 | ID | WA200001589 |
@@ -55,7 +55,7 @@ Viima Solutions Oy から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委任 |  名と名、UPN/メール アドレス、場所、ロケール、部署、オフィスの場所。 これらは、ユーザーをログインし、アプリ内でユーザーに基本的なプロファイル情報を提供するために使用されます。 | ユーザーがサインインし、アプリに UPN と基本的なプロファイル情報へのアクセス権を与え、サイレント ログインを有効にする | [b8ea7030-ce4d-4ecd-98d7-dc16d8298d1b](https://docs.microsoft.com/microsoft-365-app-certification/azure/b8ea7030-ce4d-4ecd-98d7-dc16d8298d1b) |
 
@@ -117,8 +117,8 @@ Viima Solutions Oy から Microsoft に提供される情報:
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | 不要 |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
@@ -133,3 +133,4 @@ Viima Solutions Oy から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

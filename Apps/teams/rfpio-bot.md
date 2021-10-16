@@ -2,18 +2,18 @@
 title: RFPIO による RFPIO ボットのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/24/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: RFPIO ボット、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 53a0dc00f9ac1c34577bd8351ebf6ecfda66cf4d
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 588ed6abf73d86fe81e0ef630983406d6966d84b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286356"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413479"
 ---
 # <a name="rfpio-bot"></a>RFPIO ボット
 
@@ -91,7 +91,7 @@ RFPIO から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -115,7 +115,7 @@ RFPIO から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について RFPIO によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -136,3 +136,4 @@ RFPIO から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

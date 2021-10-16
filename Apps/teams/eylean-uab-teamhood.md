@@ -2,18 +2,18 @@
 title: Eylean、UAB による Teamhood のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/27/2021
+ms.date: 04/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Teamhood、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 760f57e7fdc562e5ee39d563792c195d38aecb23
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e5f3b17179dd0e48d1de2519909545e9aaed76bc
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288444"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412416"
 ---
 # <a name="teamhood"></a>Teamhood
 
@@ -111,12 +111,12 @@ Eylean、UAB から Microsoft に提供される情報:
 
 この情報は、Eylean、UAB によって、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
@@ -125,9 +125,10 @@ Eylean、UAB から Microsoft に提供される情報:
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Empuls による Empuls のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/06/2021
+ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Empuls で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a09e41d6efe5e1165635196aea72aaccbc7c14ee
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b2c34fa5325a6cedb0b7476fa68b15dff31dc919
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289140"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413028"
 ---
 # <a name="empuls"></a>Empuls
 
@@ -30,7 +30,7 @@ ms.locfileid: "59289140"
 
 Empuls が Microsoft に提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Empuls |
 | ID | WA200002483 |
@@ -89,7 +89,7 @@ Empuls が Microsoft に提供する情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -120,3 +120,4 @@ Empuls が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

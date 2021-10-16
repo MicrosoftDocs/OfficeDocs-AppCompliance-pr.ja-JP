@@ -2,18 +2,18 @@
 title: Insiten による TackleBox のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/12/2021
+ms.date: 01/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: タックルボックス、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bf5841d5b51470b6aaab29f303b1ee1c5c5a0141
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a40a1d6e1acb87917956766be21b0d6b364dfcba
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289059"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413769"
 ---
 # <a name="tacklebox"></a>TackleBox
 
@@ -55,7 +55,7 @@ Insiten が Microsoft に提供する情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Files.ReadWrite.All | 委任 | ユーザーがドライブ、フォルダー OneDriveファイルを参照できます。ファイルを TackleBox にリンクする。グラフExcel、テーブル、印刷領域、名前付き範囲を自動抽出するファイルを読み取る。これらのビジュアルを使用PowerPointファイルを作成Excel更新する | ドライブ ID、フォルダー ID、ファイル ID、ビュー リンク、作成日時、変更日、変更日、バージョン ID、ファイル名 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
 >| Sites.Read.All | 委任 | ユーザーがプライベート チャネルにExcelファイルを参照してリンクTeamsする | なし | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
@@ -93,7 +93,7 @@ Insiten が Microsoft に提供する情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -117,12 +117,12 @@ Insiten が Microsoft に提供する情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について Insiten によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
@@ -136,3 +136,4 @@ Insiten が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

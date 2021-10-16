@@ -2,18 +2,18 @@
 title: Workboard Inc. による Workboard のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/04/2021
+ms.date: 06/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Workboard のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0b2e460bf569a55b6a0179e7009ea92a5319ebab
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e4eb373bba9f98978e08fee875bb14c0e057096c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288500"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414854"
 ---
 # <a name="workboard"></a>作業ボード
 
@@ -29,7 +29,7 @@ ms.locfileid: "59288500"
 
 Workboard Inc. から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | 作業ボード |
 | ID | WA104381599 |
@@ -54,7 +54,7 @@ Workboard Inc. から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委任 | 電子メール アドレスとユーザーの ID。  ユーザーを WorkBoard のユーザー ID にマップするために使用されます。 | WorkBoard は、ユーザーの ID のみをデータベースに格納します。 | [User.Read](https://docs.microsoft.com/microsoft-365-app-certification/azure/User.Read) |
 
@@ -128,9 +128,10 @@ Workboard Inc. から Microsoft に提供される情報:
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

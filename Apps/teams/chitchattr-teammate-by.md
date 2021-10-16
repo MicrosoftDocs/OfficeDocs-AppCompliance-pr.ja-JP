@@ -2,18 +2,18 @@
 title: ChitChattr による TeamMate のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/11/2021
+ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ChitChattr による TeamMate の利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4278150de6faf97f3ce4ceb7361cc2d7bca651ee
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 27e109753908f36d122ccd355102770725d9ef0a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287019"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413869"
 ---
 # <a name="teammate-by-chitchattr"></a>TeamMate by ChitChattr
 
@@ -30,7 +30,7 @@ ms.locfileid: "59287019"
 
 ChitChattr から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | TeamMate by ChitChattr |
 | ID | WA200002530 |
@@ -55,9 +55,9 @@ ChitChattr から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| People.Read | 委任 | このアプリを使用すると、管理者は特定のエクスペリエンスを対象とするユーザーを選択できます。そのため、ユーザーの名前、電子メール、および Azure AD オブジェクト ID を格納する必要があります。 | このアプリを使用すると、管理者は特定のエクスペリエンスを対象とするユーザーを選択できます。そのため、ユーザーの名前、電子メール、および Azure AD オブジェクト ID を格納する必要があります。 | [a8e903c7-3b7f-4ec5-a474-b5d32e595f50](https://docs.microsoft.com/microsoft-365-app-certification/azure/a8e903c7-3b7f-4ec5-a474-b5d32e595f50) |
+>| People.Read | 委任 | このアプリを使用すると、管理者は特定のエクスペリエンスを対象とするユーザーを選択できます。そのため、ユーザーの名前、電子メール、およびユーザーオブジェクト ID をAzure ADする必要があります。 | このアプリを使用すると、管理者は特定のエクスペリエンスを対象とするユーザーを選択できます。そのため、ユーザーの名前、電子メール、およびユーザーオブジェクト ID をAzure ADする必要があります。 | [a8e903c7-3b7f-4ec5-a474-b5d32e595f50](https://docs.microsoft.com/microsoft-365-app-certification/azure/a8e903c7-3b7f-4ec5-a474-b5d32e595f50) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -115,7 +115,7 @@ ChitChattr から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について ChitChattr によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -130,9 +130,10 @@ ChitChattr から Microsoft に提供される情報:
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

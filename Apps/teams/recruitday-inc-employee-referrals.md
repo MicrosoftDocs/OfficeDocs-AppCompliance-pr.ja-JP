@@ -2,18 +2,18 @@
 title: リクルートデイ社による従業員紹介のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/03/2021
+ms.date: 08/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 従業員紹介、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 2aa10a6034260c3774a134eeace4e677f29c83ba
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d83797a31c7ec68009ebf17773c3b8d2fe587fce
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286932"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413469"
 ---
 # <a name="employee-referrals"></a>従業員についての参照資料
 
@@ -55,7 +55,7 @@ Recruitday Inc. から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 両方とも | ファースト ネームと Last Name (アプリ ユーザー、つまり従業員) は、主に人事ユーザーが、紹介アプリケーション追跡とリワード支払いの候補者を参照した従業員を簡単に識別するために使用されます。 また、システムによって生成された電子メール通知の送信時に従業員に適切に対処するためにも使用されます。 | ファースト ネームと Last Name (アプリ ユーザー、つまり従業員) は、主に人事ユーザーが、紹介アプリケーション追跡とリワード支払いの候補者を参照した従業員を簡単に識別するために使用されます。 また、システムによって生成された電子メール通知の送信時に従業員に適切に対処するためにも使用されます。 | [7414b436-87d1-4904-9d52-ff47885b89f1](https://docs.microsoft.com/microsoft-365-app-certification/azure/7414b436-87d1-4904-9d52-ff47885b89f1) |
 
@@ -97,17 +97,6 @@ Recruitday Inc. から Microsoft に提供される情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -115,21 +104,22 @@ Recruitday Inc. から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、リクルートデイ社から提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | いいえ |
-| アプリに機密クライアントがありますか? | いいえ |
+| アプリに機密クライアントがありますか? | 不要 |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

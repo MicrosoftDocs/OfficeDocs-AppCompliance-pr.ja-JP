@@ -2,18 +2,18 @@
 title: EFFENCY による TeamGether のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/16/2021
+ms.date: 05/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: TeamGether、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6d52f732a372663b3bb089ee57d43fb5f46299ca
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 732342d7f6fe531ec57cfbd53ae425b27b0f1205
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288219"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413839"
 ---
 # <a name="teamgether"></a>TeamGether
 
@@ -89,7 +89,7 @@ EFFENCY が Microsoft に提供する情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -120,3 +120,4 @@ EFFENCY が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

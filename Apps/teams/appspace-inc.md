@@ -2,18 +2,18 @@
 title: Appspace, Inc. による Appspace のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/08/2021
+ms.date: 07/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 592194c022b276a07d7fb91d9c0253724d8f28e7
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 24221bfb9ac02fe9bc7b62127648d9f0cb9e9ca5
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284099"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414783"
 ---
 # <a name="appspace"></a>Appspace
 
@@ -30,7 +30,7 @@ ms.locfileid: "59284099"
 
 Appspace, Inc. から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Appspace |
 | ID | WA200001738 |
@@ -55,7 +55,7 @@ Appspace, Inc. から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Team.ReadBasic.All | 委任 | ユーザーが属するチームを取得します。 | アプリケーション キャッシュには、ユーザー/サービス アカウントがアクセスできるチームと ID が含まれている場合があります。 このデータは、ライフサイクル全体にわたって暗号化されたままです。 | [a9a866c4-e5cf-47f2-932c-db14cb89008f](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9a866c4-e5cf-47f2-932c-db14cb89008f) |
 >| User.ReadBasic.All | 委任 | サインインしているユーザーに代わって、組織内の他のユーザーの基本的なプロファイル プロパティを読み取る。 これには表示名、氏名、メール アドレス、オープン拡張機能、写真が含まれます。 また、アプリで、サインインしているユーザーの完全なプロファイルを読み取れるようにします。 | サインインしているユーザーのユーザー名は保持され、ユーザーが Appspace プラットフォームにリンクしたユーザーまたはサービス アカウントを識別できます。 | [a9a866c4-e5cf-47f2-932c-db14cb89008f](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9a866c4-e5cf-47f2-932c-db14cb89008f) |
@@ -90,7 +90,7 @@ Appspace, Inc. から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -114,10 +114,11 @@ Appspace, Inc. から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について Appspace, Inc. から提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

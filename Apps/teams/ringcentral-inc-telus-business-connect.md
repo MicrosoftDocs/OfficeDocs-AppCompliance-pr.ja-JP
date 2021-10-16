@@ -2,18 +2,18 @@
 title: RingCentral, Inc. による TELUS Business Connectアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/04/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: TELUS Business Connect、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 4dcb3d75594ed7c09736be8e6291bbbead9393ef
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 465b92171bb82a617d2369298037c06fce1fa84a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284004"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413449"
 ---
 # <a name="telus-business-connect"></a>TELUS Business Connect
 
@@ -30,7 +30,7 @@ ms.locfileid: "59284004"
 
 RingCentral, Inc. から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | TELUS Business Connect |
 | ID | WA200002300 |
@@ -55,7 +55,7 @@ RingCentral, Inc. から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.ReadWrite | 委任 |  アプリケーションが予定表を介して会議出席依頼イベントを送信できます | なし | [e601bd6e-0476-4d66-bd57-a9d13c207f0b](https://docs.microsoft.com/microsoft-365-app-certification/azure/e601bd6e-0476-4d66-bd57-a9d13c207f0b) |
 >| User.Read | 委任 |  連絡先の一致を行&#8217;、アプリがユーザープロファイル (電子メール、名前) を読み取るのを許可します。 ユーザーがサインインし、O365 アカウントを RingCentral アカウントにリンクできます。 |  メール、名、名 | [e601bd6e-0476-4d66-bd57-a9d13c207f0b](https://docs.microsoft.com/microsoft-365-app-certification/azure/e601bd6e-0476-4d66-bd57-a9d13c207f0b) |
@@ -98,17 +98,6 @@ RingCentral, Inc. から Microsoft に提供される情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -123,3 +112,4 @@ RingCentral, Inc. から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

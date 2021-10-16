@@ -2,18 +2,18 @@
 title: KL ソフトウェア テクノロジによる netDocShare のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/23/2020
+ms.date: 05/26/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: netDocShare、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c8e050b7ecf4f4b4b3156e571d6afdcd75a6ceb2
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 853e192cc9e76faf2b8634723cf81e256fcd7140
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287859"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412897"
 ---
 # <a name="netdocshare"></a>netDocShare
 
@@ -80,7 +80,7 @@ KL ソフトウェア テクノロジから Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->アプリケーション データは、Windows でホストされている NoSQL Mongo DB にMicrosoft Azure。 データは暗号化され、Azure テナントの 2 人の管理者だけがアクセスできます。 2FA は、すべての管理者アカウントで有効にされ、両方の管理者アカウントが企業の Azure ADユーザー アカウントです
+>アプリケーション データは、Windows でホストされている NoSQL Mongo DB にMicrosoft Azure。 データは暗号化され、Azure テナントの 2 人の管理者だけがアクセスできます。 2FA は、すべての管理者アカウントで有効にされ、両方の管理アカウントが企業Azure ADユーザー アカウントである
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -103,4 +103,5 @@ KL ソフトウェア テクノロジから Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

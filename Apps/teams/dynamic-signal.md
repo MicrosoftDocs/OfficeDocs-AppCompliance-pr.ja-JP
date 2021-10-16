@@ -2,18 +2,18 @@
 title: 動的信号による動的信号のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 11/01/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 動的シグナル、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5b5906e8eee51821481de11c3cbd720600d4c36e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 1380163dee988fd928596cd3024c0ddc2d6e8be5
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288236"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412436"
 ---
 # <a name="dynamic-signal"></a>Dynamic Signal
 
@@ -30,7 +30,7 @@ ms.locfileid: "59288236"
 
 Dynamic Signal から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Dynamic Signal |
 | ID | WA200000102 |
@@ -55,12 +55,12 @@ Dynamic Signal から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | 委任 | 動的シグナルは、Azure ADからプラットフォームにユーザーを同期し、ユーザーのアクティブ化と非アクティブ化をリアルタイムで効率化します。 データは動的シグナル内に格納され、同期の実行中にユーザーがアプリケーションを使用できます。 | 特定のユーザーの読み取りアクセス許可を使用して、動的シグナル プラットフォーム のユーザーを Azure AD。 | [79ff4a2a-e22b-47d5-94dc-ef76fe46af75](https://docs.microsoft.com/microsoft-365-app-certification/azure/79ff4a2a-e22b-47d5-94dc-ef76fe46af75) |
->| User.Read.All | 委任 | 動的シグナルは、Azure ADからプラットフォームにユーザーを同期し、ユーザーのアクティブ化と非アクティブ化をリアルタイムで効率化します。 データは動的シグナル内に格納され、同期の実行中にユーザーがアプリケーションを使用できます。 | 特定のユーザーの読み取りアクセス許可を使用して、動的シグナル プラットフォーム のユーザーを Azure AD。 | [79ff4a2a-e22b-47d5-94dc-ef76fe46af75](https://docs.microsoft.com/microsoft-365-app-certification/azure/79ff4a2a-e22b-47d5-94dc-ef76fe46af75) |
->| offline_access | 委任 | 動的シグナルは、Azure ADからプラットフォームにユーザーを同期し、ユーザーのアクティブ化と非アクティブ化をリアルタイムで効率化します。 データは動的シグナル内に格納され、同期の実行中にユーザーがアプリケーションを使用できます。 | テナントのグループとチームへのアクセスを保持します。 | [79ff4a2a-e22b-47d5-94dc-ef76fe46af75](https://docs.microsoft.com/microsoft-365-app-certification/azure/79ff4a2a-e22b-47d5-94dc-ef76fe46af75) |
->| openid | 委任 | 動的シグナルは、Azure ADからプラットフォームにユーザーを同期し、ユーザーのアクティブ化と非アクティブ化をリアルタイムで効率化します。 データは動的シグナル内に格納され、同期の実行中にユーザーがアプリケーションを使用できます。 | 動的シグナル アプリケーションを使用してユーザーを認証します。 | [79ff4a2a-e22b-47d5-94dc-ef76fe46af75](https://docs.microsoft.com/microsoft-365-app-certification/azure/79ff4a2a-e22b-47d5-94dc-ef76fe46af75) |
+>| User.Read | 委任 | 動的シグナルは、ユーザー Azure ADからプラットフォームに同期し、ユーザーのアクティブ化と非アクティブ化をリアルタイムで可能にします。 データは動的シグナル内に格納され、同期の実行中にユーザーがアプリケーションを使用できます。 | 特定のユーザーの読み取りアクセス許可を使用して、動的シグナル プラットフォーム のユーザーとユーザーを同期Azure AD。 | [79ff4a2a-e22b-47d5-94dc-ef76fe46af75](https://docs.microsoft.com/microsoft-365-app-certification/azure/79ff4a2a-e22b-47d5-94dc-ef76fe46af75) |
+>| User.Read.All | 委任 | 動的シグナルは、ユーザー Azure ADからプラットフォームに同期し、ユーザーのアクティブ化と非アクティブ化をリアルタイムで可能にします。 データは動的シグナル内に格納され、同期の実行中にユーザーがアプリケーションを使用できます。 | 特定のユーザーの読み取りアクセス許可を使用して、動的シグナル プラットフォーム のユーザーとユーザーを同期Azure AD。 | [79ff4a2a-e22b-47d5-94dc-ef76fe46af75](https://docs.microsoft.com/microsoft-365-app-certification/azure/79ff4a2a-e22b-47d5-94dc-ef76fe46af75) |
+>| offline_access | 委任 | 動的シグナルは、ユーザー Azure ADからプラットフォームに同期し、ユーザーのアクティブ化と非アクティブ化をリアルタイムで可能にします。 データは動的シグナル内に格納され、同期の実行中にユーザーがアプリケーションを使用できます。 | テナントのグループとチームへのアクセスを保持します。 | [79ff4a2a-e22b-47d5-94dc-ef76fe46af75](https://docs.microsoft.com/microsoft-365-app-certification/azure/79ff4a2a-e22b-47d5-94dc-ef76fe46af75) |
+>| openid | 委任 | 動的シグナルは、ユーザー Azure ADからプラットフォームに同期し、ユーザーのアクティブ化と非アクティブ化をリアルタイムで可能にします。 データは動的シグナル内に格納され、同期の実行中にユーザーがアプリケーションを使用できます。 | 動的シグナル アプリケーションを使用してユーザーを認証します。 | [79ff4a2a-e22b-47d5-94dc-ef76fe46af75](https://docs.microsoft.com/microsoft-365-app-certification/azure/79ff4a2a-e22b-47d5-94dc-ef76fe46af75) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -111,4 +111,5 @@ Dynamic Signal から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

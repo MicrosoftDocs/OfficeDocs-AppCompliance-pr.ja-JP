@@ -2,18 +2,18 @@
 title: Highspot による Highspot のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/13/2021
+ms.date: 06/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Highspot のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bbf47f6b42e1f77fefed8de24ce23858e5cb52fd
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 9796eda272fc2e54041983ef559dd8a8b4a070b0
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288147"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412346"
 ---
 # <a name="highspot"></a>Highspot
 
@@ -30,7 +30,7 @@ ms.locfileid: "59288147"
 
 Highspot から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Highspot |
 | ID | WA200002894 |
@@ -79,7 +79,7 @@ Highspot から Microsoft に提供される情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| ウェルカム メッセージの場合は、エンド ユーザー名が使用されます。 | いいえ |  |
+>| ウェルカム メッセージの場合は、エンド ユーザー名が使用されます。 | 不要 |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -98,7 +98,7 @@ Highspot から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -122,10 +122,11 @@ Highspot から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について Highspot によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

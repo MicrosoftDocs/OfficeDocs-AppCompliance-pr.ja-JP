@@ -2,18 +2,18 @@
 title: MIPA のアプリケーション情報 - iGlobe による個人用アシスタント
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/12/2021
+ms.date: 08/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: MIPA で使用可能なすべてのセキュリティおよびコンプライアンス情報 - パーソナル アシスタント、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b62f2d523d755c5294b45ae017dd69c788bdc0a7
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity-certification
+ms.openlocfilehash: 27ce9d2194a42fdc465aa0de695f1c263e43dd90
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287507"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412977"
 ---
 # <a name="mipa---your-personal-assistant"></a>MIPA - Your Personal Assistant
 
@@ -29,7 +29,7 @@ ms.locfileid: "59287507"
 
 iGlobe から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | MIPA - Your Personal Assistant |
 | ID | WA200000148 |
@@ -54,7 +54,7 @@ iGlobe から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
 >| Contacts.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
@@ -82,13 +82,13 @@ iGlobe から Microsoft に提供される情報:
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Exchange - Calendars.ReadWrite.All | いいえ |  |  |  |  |
->| Exchange - EWS。AccessAsUser.All | いいえ |  |  |  |  |
->| Exchange - Mail.Read | いいえ |  |  |  |  |
+>| Exchange - EWS。AccessAsUser.All | 不要 |  |  |  |  |
+>| Exchange - Mail.Read | 不要 |  |  |  |  |
 >| Exchange - Mail.ReadWrite.All | いいえ |  |  |  |  |
 >| Exchange - MailboxSettings.Read | いいえ |  |  |  |  |
->| Exchange - MailboxSettings.ReadWrite | いいえ |  |  |  |  |
->| Exchange - Tasks.ReadWrite | いいえ |  |  |  |  |
->| SharePoint - MyFiles.Read | いいえ |  |  |  |  |
+>| Exchange - MailboxSettings.ReadWrite | 不要 |  |  |  |  |
+>| Exchange - Tasks.ReadWrite | 不要 |  |  |  |  |
+>| SharePoint - MyFiles.Read | 不要 |  |  |  |  |
 >| SharePoint - MyFiles.Write | いいえ |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -154,13 +154,50 @@ iGlobe から Microsoft に提供される情報:
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | セキュリティの既定値と、従来の認証をブロックする* [管理者に MFA を要求する] * [Azure 管理に MFA を要求する] * [すべてのユーザーに MFA を要求する] などの一般的なポリシー。 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
-| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | いいえ |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | 不要 |
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
-| アプリで非推奨の API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | 不要 |
+| アプリで非推奨の API を使用していますか? | 不要 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>認定情報
+
+| **Control** | **Microsoft 365認定結果** |
+|:------------|:---------------------------------------|
+| [**アプリケーション のセキュリティ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **該当なし** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入テスト | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性評価レビュー (DAST/SAST/侵入テスト) | 該当なし |
+| [**運用上のセキュリティ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **該当なし** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア保護 - ウイルス対策 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア保護 - アプリケーション制御 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - リスクランキング | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - パッチ適用 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性スキャン | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - ファイアウォール (または同等のテクノロジ) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - Web アプリケーション ファイアウォール (WAF) (オプション) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;変更コントロール | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secure Software Development/Deployment | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;アカウント管理 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入の検出と防止 (オプション) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント ログ | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;レビュー (ログ データ) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベントの警告 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;情報セキュリティリスク管理 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;インシデント対応 | 該当なし |
+| [**データ処理の &amp; セキュリティプライバシー**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **該当なし** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;転送中のデータ | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;保存中のデータ | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データの保持と廃棄 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データ アクセスの管理 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | N/A |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

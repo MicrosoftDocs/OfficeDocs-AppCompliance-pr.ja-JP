@@ -2,18 +2,18 @@
 title: アプリケーション情報 for Centrical by Biz-Effective
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/23/2021
+ms.date: 07/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: セントリック、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5ae0fcf2e8bd17619f723eeadcf1be5ec505dfe1
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f1d447f3d7a8dcd717d0a29eedd29e8b081f8ed6
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284084"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414773"
 ---
 # <a name="centrical"></a>Centrical
 
@@ -30,7 +30,7 @@ ms.locfileid: "59284084"
 
 Microsoft に提供Biz-Effective情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Centrical |
 | ID | WA200001531 |
@@ -87,7 +87,7 @@ Microsoft に提供Biz-Effective情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -111,10 +111,11 @@ Microsoft に提供Biz-Effective情報:
 
 この情報は、このアプリBiz-Effective認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について説明しています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Vonage による Vonage Business Communications のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/23/2021
+ms.date: 08/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Vonage Business Communications、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 80665180e1abdd6783e7644a06b4d116dcedf6ae
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 7b87151f6898c83a24b4878a3c6e60b7d951c974
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288051"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414383"
 ---
 # <a name="vonage-business-communications"></a>Vonage Business Communications
 
@@ -30,7 +30,7 @@ ms.locfileid: "59288051"
 
 Vonage から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Vonage Business Communications |
 | ID | WA200002988 |
@@ -55,7 +55,7 @@ Vonage から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| TeamsActivity.Send | アプリケーション | このアクセス許可を持つデータは保存されません | このアクセス許可を持つデータは保存されません | [1d8a304e-ea67-4aa2-9345-2793419cf83f](https://docs.microsoft.com/microsoft-365-app-certification/azure/1d8a304e-ea67-4aa2-9345-2793419cf83f) |
 >| User.Read | 委任 | Azure ユーザー ID とテナント ID を取得して、後でこのユーザーに通知を送信できます。 |  Azure ユーザー ID とテナント ID を取得し、後で SMS/MMS を受信すると、このユーザーに通知を送信できます | [1d8a304e-ea67-4aa2-9345-2793419cf83f](https://docs.microsoft.com/microsoft-365-app-certification/azure/1d8a304e-ea67-4aa2-9345-2793419cf83f) |
@@ -114,10 +114,11 @@ Vonage から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について Vonage によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

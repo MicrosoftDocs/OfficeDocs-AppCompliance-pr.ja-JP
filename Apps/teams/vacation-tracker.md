@@ -2,18 +2,18 @@
 title: 休暇追跡ツールによる休暇トラッカーのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/15/2021
+ms.date: 09/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: バケーション トラッカー、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 0bd430bb14f85f563d490148f00988fa7634176e
-ms.sourcegitcommit: 3ac3366e04e24db2d12183ef212738d5b599f553
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 1acd1c49f70e9571c1ec71dbf110fd898b18d5ca
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59971699"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413268"
 ---
 # <a name="vacation-tracker"></a>Vacation Tracker
 
@@ -30,7 +30,7 @@ ms.locfileid: "59971699"
 
 バケーション トラッカーから Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Vacation Tracker |
 | ID | WA200002167 |
@@ -55,14 +55,14 @@ ms.locfileid: "59971699"
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Group.Read.All | 委任 | ユーザーが毎週または毎日の通知を設定すると、パブリック チャネルの ID と名前が読み取りされます。 | ユーザーは、休暇トラッカーから毎日または毎週の通知を受信するチャネルを選択できます。 ユーザーが優先チャネルを選択すると、チャネル ID が保存されます。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| Team.ReadBasic.All | 委任 | ユーザーがバケーション トラッカー Microsoft Teamsするチームを選択するために、サインアップ中に参加したチームのメンバーを一覧表示します。 代わりに、組織全体にサインアップすることもできます。 | 選択したチームMicrosoft Teamsチーム ID は、ユーザーが (組織全体ではなく) 1 つのチームとして Vacation Tracker に登録した場合にのみ保存されます。 チーム ID を使用して、ログインしているユーザーをバケーション トラッカーの既存のアカウントに接続します。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| User.Read | 委任 | ユーザーの名前、ID、テナント ID など、基本的なユーザー情報を収集します。 このデータを使用して、ログインしているユーザーをバケーション トラッカーの組織に接続します。 | ユーザーの名前、ID、テナント ID を格納します。 このデータを使用して、ログインしているユーザーをバケーション トラッカーの組織に接続します。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| User.Read.All | 委任 | ユーザーは、組織またはチームからすべてのユーザー Microsoft 365インポートMicrosoft Teamsできます。 このアクセス許可を使用して、選択したユーザーまたはチームまたは組織Microsoft Teamsユーザーのみをインポートします。 | インポートされたユーザーに関する基本情報 (名前、電子メール アドレス、ユーザー ID など) が保存されます。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| User.ReadBasic.All | 委任 | ユーザーは、自分の組織または自分のチームから他のユーザー Microsoft Teamsできます。 このアクセス許可を使用して、インポート ポップアップで使用可能なユーザーとその電子メール アドレスを一覧表示します。 | ユーザーがバケーション トラッカーにインポートする同僚を選択すると、名前、電子メール アドレス、ユーザー ID など、これらのインポートされたユーザーに関する基本情報が保存されます。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| メール | 委任 | ユーザーが Microsoft AAD を使用してログインすると、電子メール アドレスは一意の識別子として保存されます。 | ユーザーのメールは一意の識別子として保存されます。 このメールは通信には使用しないので、ユーザーはサインアップ中に通信に使用するビジネス用の電子メール アドレスを入力します。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
+>| メール | 委任 | ユーザーが Microsoft AADを使用してログインすると、電子メール アドレスは一意の識別子として保存されます。 | ユーザーのメールは一意の識別子として保存されます。 このメールは通信には使用しないので、ユーザーはサインアップ中に通信に使用するビジネス用の電子メール アドレスを入力します。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| offline_access | 委任 | この権限を持つデータは収集しない。 アクセス許可があるデータへのアクセスを維持するために使用されます。 | このアクセス許可を持つデータは保存しない。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| openid | 委任 | このアクセス許可を使用して、ユーザーをバケーション トラッカーにサインインまたはサインアップします。 この権限を持つ特定のデータは収集しない。 | このアクセス許可を使用して、ユーザーをバケーション トラッカーにサインインまたはサインアップします。 この権限を持つ特定のデータは保存しない。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| profile | 委任 | ユーザーの名前、ID、テナント ID など、基本的なユーザー情報を収集します。 このデータを使用して、ログインしているユーザーをバケーション トラッカーの組織に接続します。 | ユーザーの名前、ID、テナント ID を格納します。 このデータを使用して、ログインしているユーザーをバケーション トラッカーの組織に接続します。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
@@ -111,9 +111,9 @@ ms.locfileid: "59971699"
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36417' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36417" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -132,3 +132,4 @@ ms.locfileid: "59971699"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Maskott による Tactileo のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/19/2021
+ms.date: 06/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Tactileo、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: de2cf08f5b196cfb587804f16ec3e2a79a0a0bb4
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 5c341b5c35b5fa8f1cac612c1f29f36b196e9b96
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288732"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412206"
 ---
 # <a name="tactileo"></a>Tactileo
 
@@ -30,7 +30,7 @@ ms.locfileid: "59288732"
 
 Maskott が Microsoft に提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Tactileo |
 | ID | WA200002624 |
@@ -79,7 +79,7 @@ Maskott が Microsoft に提供する情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Nom et Pr&#233;ノムは、l'affichage dans la carte を注ぐ。 | いいえ |  |
+>| Nom et Pr&#233;ノムは、l'affichage dans la carte を注ぐ。 | 不要 |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -129,3 +129,4 @@ Maskott が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

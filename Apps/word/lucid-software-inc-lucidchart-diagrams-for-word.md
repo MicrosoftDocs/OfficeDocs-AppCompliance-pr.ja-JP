@@ -2,18 +2,18 @@
 title: Lucid Software Inc. による Word 用 Lucidchart ダイアグラムのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 11/01/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Lucidchart Diagrams for Word、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 36eb26fa83f894db60f1b615ce58f5c17ba3f19c
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 1e5c76df854304b05af209288315c762c8300ca7
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286475"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414302"
 ---
 # <a name="lucidchart-diagrams-for-word"></a>Word 用の Lucidchart ダイアグラム
 
@@ -53,7 +53,7 @@ Lucid Software Inc から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| メール | 委任 | 名前と電子メール アドレス。 | 電子メール、openid、およびプロファイルのアクセス許可を使用すると、Lucidchart はユーザーの openid トークンを生成し、必要に応じてユーザーに対して Lucidchart アカウントを登録するのに十分な基本的な情報を取得できます。 Microsoft から返されるデータを確認するために、応答に署名されている公開キーを取得する要求を行います。 その他のデータは、SSO フローの一部として Microsoft から受信または Microsoft に送信されません。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| openid | 委任 | 名前と電子メール アドレス。 | 電子メール、openid、およびプロファイルのアクセス許可を使用すると、Lucidchart はユーザーの openid トークンを生成し、必要に応じてユーザーに対して Lucidchart アカウントを登録するのに十分な基本的な情報を取得できます。 Microsoft から返されるデータを確認するために、応答に署名されている公開キーを取得する要求を行います。 その他のデータは、SSO フローの一部として Microsoft から受信または Microsoft に送信されません。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
@@ -110,4 +110,5 @@ Lucid Software Inc から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

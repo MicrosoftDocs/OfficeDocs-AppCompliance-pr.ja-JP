@@ -2,18 +2,18 @@
 title: INFOR (米国) INC. による Infor Coleman のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/05/2021
+ms.date: 10/06/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Infor Coleman、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b93279356130f5343efaa0c7326483bbf1a0f467
-ms.sourcegitcommit: 085c227ffcf8f88e6e55d3c40752a3df25642592
+ms.openlocfilehash: d06dec9fe442345491d60964d8ec346f72fa6645
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2021
-ms.locfileid: "60255700"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413779"
 ---
 # <a name="infor-coleman"></a>Infor Coleman
 
@@ -35,7 +35,7 @@ INFOR (米国) が提供する情報 Microsoft に:
 | アプリ名 | Infor Coleman |
 | ID | WA200003314 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | INFOR (米国), INC. |
+| パートナー会社名 | INFOR (US), INC. |
 | パートナー Web サイトの URL | [https://www.infor.com](https://www.infor.com) |
 | プライバシー ポリシーの URL | [https://www.infor.com/about/privacy](https://www.infor.com/about/privacy) |
 | 利用規約の URL | [https://www.infor.com/about/legal](https://www.infor.com/about/legal) |
@@ -80,7 +80,7 @@ INFOR (米国) が提供する情報 Microsoft に:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->N/A
+>該当なし
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -92,17 +92,6 @@ INFOR (米国) が提供する情報 Microsoft に:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -117,3 +106,4 @@ INFOR (米国) が提供する情報 Microsoft に:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

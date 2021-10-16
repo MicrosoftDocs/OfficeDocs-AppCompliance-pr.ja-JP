@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Microsoft 365 の iGlobe CRM Office 365、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 79ae347ccea2f9ee3dda6f2b506fc02f802b3ca9
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 43e4cd6cd51d901b15e514a2706784f4eea022c6
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286731"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413148"
 ---
 # <a name="iglobe-crm-office-365-for-microsoft-365"></a>iGlobe CRM Office 365 Microsoft 365
 
@@ -52,7 +52,7 @@ iGlobe から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | canlendar から iGlobe に会議レポートを読み込むときに、ユーザーの予定表にアクセスする | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
 >| Contacts.ReadWrite | 委任 | Directory.AccessAsUser.All | サインインしているユーザーと同じように、アプリでディレクトリ内の情報にアクセスできるようにします。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
@@ -75,20 +75,20 @@ iGlobe から Microsoft に提供される情報:
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Exchange - Calendars.ReadWrite.All | いいえ |  |  |  |  |
->| Exchange - Mail.Read.All | いいえ |  |  |  |  |
+>| Exchange - Mail.Read.All | 不要 |  |  |  |  |
 >| Exchange - Contacts.Read | いいえ |  |  |  |  |
->| Exchange - EWS。AccessAsUser.All | いいえ |  |  |  |  |
->| Exchange - Tasks.ReadWrite | いいえ |  |  |  |  |
+>| Exchange - EWS。AccessAsUser.All | 不要 |  |  |  |  |
+>| Exchange - Tasks.ReadWrite | 不要 |  |  |  |  |
 >| SharePoint - AllSites.Manage | いいえ |  |  |  |  |
->| SharePoint - AllSites.Read | いいえ |  |  |  |  |
->| SharePoint -AllSites.Write | いいえ |  |  |  |  |
->| SharePoint - MyFiles.Write | いいえ |  |  |  |  |
->| SharePoint - Sites.Manage.All | いいえ |  |  |  |  |
+>| SharePoint - AllSites.Read | 不要 |  |  |  |  |
+>| SharePoint -AllSites.Write | 不要 |  |  |  |  |
+>| SharePoint - MyFiles.Write | 不要 |  |  |  |  |
+>| SharePoint - Sites.Manage.All | 不要 |  |  |  |  |
 >| SharePoint - Sites.Read.All | いいえ |  |  |  |  |
->| SharePoint - Sites.ReadWrite.All | いいえ |  |  |  |  |
->| SharePoint - Sites.Search.All | いいえ |  |  |  |  |
->| SharePoint - TermStore.Read.All | いいえ |  |  |  |  |
->| SharePoint - TermStore.ReadWrite.All | いいえ |  |  |  |  |
+>| SharePoint - Sites.ReadWrite.All | 不要 |  |  |  |  |
+>| SharePoint - Sites.Search.All | 不要 |  |  |  |  |
+>| SharePoint - TermStore.Read.All | 不要 |  |  |  |  |
+>| SharePoint - TermStore.ReadWrite.All | 不要 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -116,7 +116,7 @@ iGlobe から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -140,7 +140,7 @@ iGlobe から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 基準を処理する方法について iGlobe によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -159,3 +159,4 @@ iGlobe から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

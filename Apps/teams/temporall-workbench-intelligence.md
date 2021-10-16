@@ -2,20 +2,20 @@
 title: テンポラルによるワークベンチ インテリジェンスのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/22/2021
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ワークベンチ インテリジェンス、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: bf2a249e9eb0cf8e572158d9b393b49fc81153ff
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 7adf907a083a4fcf5c7c57fe0cf048ba771d0d6e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785603"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414433"
 ---
-# <a name="workbench-intelligence"></a>ワークベンチ インテリジェンス
+# <a name="workbench-intelligence"></a>Workbench Intelligence
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "59785603"
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | ワークベンチ インテリジェンス |
+| アプリ名 | Workbench Intelligence |
 | ID | WA200002705 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | テンポラル |
+| パートナー会社名 | Temporall |
 | パートナー Web サイトの URL | [https://www.temporall.com](https://www.temporall.com) |
 | [アプリケーション情報Teamsページの URL | [https://www.temporall.com/teams_intelligence/](https://www.temporall.com/teams_intelligence/) |
 | プライバシー ポリシーの URL | [https://temporall.com/privacy-policy/](https://temporall.com/privacy-policy/) |
@@ -55,7 +55,7 @@ ms.locfileid: "59785603"
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| AppCatalog.Read.All | 委任 | 既知の外部 ID のローカル アプリ ID を取得するためにインストールされている Teams アプリの一覧を取得します。 | ローカル アプリ ID。別のテナントにインストールするときにアプリを識別できる必要があります。 | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
 >| Channel.ReadBasic.All | アプリケーション | チャネル ID &amp; 名。 理由: チャネルに参加または退出してメッセージ アクティビティを同期できます。  | チャネルの取得から返される生データ オブジェクト。 位置合わせ: テンポラル ワークベンチを使用すると、ユーザーはチャネルに応じてデータをフィルター処理して分類できます。 この生データは、元のオブジェクトへの参照を持つデータに保存されます。 | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
@@ -105,17 +105,6 @@ ms.locfileid: "59785603"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -129,9 +118,9 @@ ms.locfileid: "59785603"
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
-| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | 必要 |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
-| アプリはマルチテナントをサポートしていますか? | 必要 |
+| アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
@@ -142,3 +131,4 @@ ms.locfileid: "59785603"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

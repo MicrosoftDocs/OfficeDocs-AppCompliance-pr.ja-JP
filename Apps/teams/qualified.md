@@ -2,18 +2,18 @@
 title: qualified by qualified のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/05/2021
+ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内の Qualified、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d47e6f2919fb97eb1c9a162f2ade8c1a1bf485a8
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 4ec36a9c4dbe5a815011b516394171594151ba2c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286371"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412817"
 ---
 # <a name="qualified"></a>Qualified
 
@@ -30,7 +30,7 @@ ms.locfileid: "59286371"
 
 Qualified to Microsoft から提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Qualified |
 | ID | WA200002720 |
@@ -55,7 +55,7 @@ Qualified to Microsoft から提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Channel.ReadBasic.All | アプリケーション | 通知するチャネルを選択できます | 電子メール アドレス、テナント ID、oauth 更新トークン | [2c951ed5-c5c6-493f-9b02-4b42e3ba536c](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c) |
 >| Team.ReadBasic.All | アプリケーション | すべてのチームからすべてのチャネルを見つけ、通知するチャネルを選択できます | 電子メール アドレス、テナント ID、oauth 更新トークン | [2c951ed5-c5c6-493f-9b02-4b42e3ba536c](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c) |
@@ -123,12 +123,12 @@ Qualified to Microsoft から提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Qualified によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | 不要 |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
@@ -142,3 +142,4 @@ Qualified to Microsoft から提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

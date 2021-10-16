@@ -2,18 +2,18 @@
 title: ChitChattr によるクイックリンクのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/07/2021
+ms.date: 01/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: クイックリンク、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 40064d34df884ccfed1381aeafd9e226cc5f77e0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b68f49353d351056ef081838b8450637aefae24e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287028"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414753"
 ---
 # <a name="quicklinks"></a>Quicklinks
 
@@ -30,7 +30,7 @@ ms.locfileid: "59287028"
 
 ChitChattr から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Quicklinks |
 | ID | WA200001833 |
@@ -125,3 +125,4 @@ ChitChattr から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

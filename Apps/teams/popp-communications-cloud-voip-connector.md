@@ -2,20 +2,20 @@
 title: POPP コミュニケーションによるポップ クラウド VoIP コネクタのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/20/2021
+ms.date: 10/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: POPP Cloud VoIP Connector、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 9f64b18c26d3fd38e4272171e7a90f493e76de5f
-ms.sourcegitcommit: 11288ac2cbae57aaa7820be0d9fb87c631805b7b
+ms.openlocfilehash: 42930c1020e86aeb6f55fb81929f30285e17dae3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60112321"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414974"
 ---
-# <a name="popp-cloud-voip-connector"></a>ポップ クラウド VoIP コネクタ
+# <a name="popp-cloud-voip-connector"></a>POPP Cloud VoIP Connector
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ POPP Communications から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | ポップ クラウド VoIP コネクタ |
+| アプリ名 | POPP Cloud VoIP Connector |
 | ID | WA200003306 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | POPP コミュニケーション |
+| パートナー会社名 | POPP Communications |
 | パートナー Web サイトの URL | [https://popp.com](https://popp.com) |
 | プライバシー ポリシーの URL | [https://popp.com/terms/privacy-policy/](https://popp.com/terms/privacy-policy/) |
 | 利用規約の URL | [https://popp.com/pvnterms/](https://popp.com/pvnterms/) |
@@ -54,7 +54,7 @@ POPP Communications から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| ChannelMember.Read.All | 委任 | 現在のチャネルのメンバーのユーザー ID と表示名。 アプリはこれを使用して、呼び出すチャネル メンバーの一覧をユーザーに提示します。 | メタスイッチは、このデータを格納しない。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9) |
 >| Chat.Read | 委任 |  収集または使用されるデータ データを収集または使用する理由を追加します。 現在のチャットのメンバーのユーザー ID と表示名。 アプリはこれを使用して、通話するチャット メンバーの一覧をユーザーに提示します。 | メタスイッチは、このデータを格納しない。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9) |
@@ -76,7 +76,7 @@ POPP Communications から Microsoft に提供される情報:
 
 >| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| メタスイッチ ネットワークとポップ コミュニケーション | 次の OII が MCT ホストボット サーバーに転送されます。Azure AD テナント ID チーム ID チャネル/チャット ID メッセージの内容も転送され、OII が含まれる可能性があります 次の OII が CommPortal JSON API に転送される可能性があります 電話。 | OII を転送する必要がある理由の正当性を追加する アプリの主な&#8217;は、電話の呼び出しを容易にすることでした。 ユーザーが電話を呼び出す場合は、この情報を提供して CommPortal アカウントにログインし、呼び出しを正しいユーザーに関連付ける必要があります。  MCT ホスト型ボット サーバーに転送される OII は、ボット フレームワーク API に組み込Teams使用され、回避できません。 |
+>| メタスイッチ ネットワークとポップ コミュニケーション | 次の OII が MCT ホストボット サーバーに転送されます。 Azure AD テナント ID チーム ID チャネル/チャット ID メッセージの内容も転送されます。OII が含まれる可能性があります。次の OII は、CommPortal JSON API に転送される可能性があります。ビジネス グループ内のユーザーの 電話 番号 電子メール アドレスのドメイン ユーザー IP アドレス | OII を転送する必要がある理由の正当性を追加する アプリの主な&#8217;は、電話の呼び出しを容易にすることでした。 ユーザーが電話を呼び出す場合は、この情報を提供して CommPortal アカウントにログインし、呼び出しを正しいユーザーに関連付ける必要があります。  MCT ホスト型ボット サーバーに転送される OII は、ボット フレームワーク API に組み込Teams使用され、回避できません。 |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
@@ -84,7 +84,7 @@ POPP Communications から Microsoft に提供される情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| アプリの主&#8217;目的は、電話の呼び出しを容易に行う方法です。 ユーザーが電話を呼び出す場合は、正しいテレフォニー ユーザー間で通話を確立するために、通話のすべての関係者に対して EUII を指定する必要があります。 | いいえ |  |
+>| アプリの主&#8217;目的は、電話の呼び出しを容易に行う方法です。 ユーザーが電話を呼び出す場合は、正しいテレフォニー ユーザー間で通話を確立するために、通話のすべての関係者に対して EUII を指定する必要があります。 | 不要 |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -103,23 +103,12 @@ POPP Communications から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -129,21 +118,22 @@ POPP Communications から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | 必要 |
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | いいえ |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | 必要 |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | 必要 |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | 条件付きアクセス ポリシーは、このようなサポートが認証に使用される MSAL ライブラリによって自動的に提供される範囲です。  |
-| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | 必要 |
-| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | 必要 |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | いいえ |
-| アプリに機密クライアントがありますか? | いいえ |
-| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | 必要 |
+| アプリに機密クライアントがありますか? | 不要 |
+| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/><br/> |
-| アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリは Web API を公開していますか? | 不要 |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: MySecretary による SecretaryBot のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SecretaryBot、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8d7e2fce37cf43fe52cb050e85aa9e4fd5e00802
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: ad8e6b2a2f1a7214db66f37de774c01e65ed92e6
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287379"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415034"
 ---
 # <a name="secretarybot"></a>SecretaryBot
 
@@ -30,7 +30,7 @@ ms.locfileid: "59287379"
 
 MySecretary が Microsoft に提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | SecretaryBot |
 | ID | WA104381085 |
@@ -55,7 +55,7 @@ MySecretary が Microsoft に提供する情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.Read.Shared | 委任 |  | ユーザーとその同僚の空き時間情報を取得します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| Calendars.ReadWrite | 委任 |  | ユーザーではなく会議出席依頼を送信します。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
@@ -79,7 +79,7 @@ MySecretary が Microsoft に提供する情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| チーム会議のスケジュールを設定するには、この追加機能を使用します。 | いいえ |  |
+>| チーム会議のスケジュールを設定するには、この追加機能を使用します。 | 不要 |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -110,4 +110,5 @@ MySecretary が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

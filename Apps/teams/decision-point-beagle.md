@@ -2,18 +2,18 @@
 title: 意思決定ポイントによる Beagle のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/21/2021
+ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Beagle で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b2984bceaa4a6c8871c8413aaf19e4f52c7d620c
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c2b27ed465588096f1645dbeba4546b9c152acc3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286996"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414703"
 ---
 # <a name="beagle"></a>Beagle
 
@@ -30,7 +30,7 @@ ms.locfileid: "59286996"
 
 Decision Point to Microsoft が提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Beagle |
 | ID | WA200002687 |
@@ -70,7 +70,7 @@ Decision Point to Microsoft が提供する情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| ボットのさまざまな機能へのアクセス制御用のユーザー ID。 | いいえ |  |
+>| ボットのさまざまな機能へのアクセス制御用のユーザー ID。 | 不要 |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -89,7 +89,7 @@ Decision Point to Microsoft が提供する情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -120,3 +120,4 @@ Decision Point to Microsoft が提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

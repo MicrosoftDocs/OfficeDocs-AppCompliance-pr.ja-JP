@@ -2,18 +2,18 @@
 title: Koan, Inc. による Koan のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/01/2021
+ms.date: 08/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Koan のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 7bd65669087e3e0cb934bf7cb3da4c70bba08d73
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 7509cd9adf527396bd833ddaa3ee525e428670e9
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288132"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412316"
 ---
 # <a name="koan"></a>Koan
 
@@ -55,7 +55,7 @@ Koan, Inc. から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Channel.ReadBasic.All | 委任 | チャネル ID とチャネル名が使用されます。 ユーザーがリフレクション通知を配信する場所を選択できるよう、データを使用します。 | チャネル ID とチャネル名は、ユーザー構成の一部として保存されます。 | [5b599e19-a609-432b-9074-c9d4457e8766](https://docs.microsoft.com/microsoft-365-app-certification/azure/5b599e19-a609-432b-9074-c9d4457e8766) |
 >| Team.ReadBasic.All | 両方とも | チーム ID とチーム名は両方とも収集され、使用されます。 ユーザーがリフレクション通知を配信する場所を選択できるよう、データを使用します。 | チーム ID とチーム名は、ユーザー構成の一部として保存されます。 | [5b599e19-a609-432b-9074-c9d4457e8766](https://docs.microsoft.com/microsoft-365-app-certification/azure/5b599e19-a609-432b-9074-c9d4457e8766) |
@@ -76,7 +76,7 @@ Koan, Inc. から Microsoft に提供される情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| ユーザー名、ユーザー名と koan Microsoft Teamsプロファイルのリンク | いいえ |  |
+>| ユーザー名、ユーザー名と koan Microsoft Teamsプロファイルのリンク | 不要 |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -101,17 +101,6 @@ Koan, Inc. から Microsoft に提供される情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -119,7 +108,7 @@ Koan, Inc. から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Koan, Inc. から提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -131,10 +120,11 @@ Koan, Inc. から Microsoft に提供される情報:
 | アプリに機密クライアントがありますか? | いいえ |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
-| アプリは Web API を公開していますか? | いいえ |
+| アプリは Web API を公開していますか? | 不要 |
 | アプリでプレビュー API を使用していますか? | いいえ |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

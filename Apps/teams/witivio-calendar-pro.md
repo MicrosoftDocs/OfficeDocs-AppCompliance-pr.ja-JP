@@ -1,27 +1,27 @@
 ---
-title: Witivio による Calendar Pro のアプリケーション情報
+title: Witivio による予定表Proアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/02/2021
+ms.date: 09/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Calendar Pro、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: カレンダー Pro、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 89731f0dcdbcd6fcb8d27588179189a0d634284b
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 5f8b6dcbf99d26e867cc79194cb57c1393316a2b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288972"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414864"
 ---
-# <a name="calendar-pro"></a>Calendar Pro
+# <a name="calendar-pro"></a>カレンダー Pro
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>開発者が最終更新日: 2021 年 9 月 2 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/19a29a41-cbca-4152-a2af-dd9728ea35f1" target="_blank">Teams ストアでの表示</a>
+* <a href="https://teams.microsoft.com/l/app/19a29a41-cbca-4152-a2af-dd9728ea35f1" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002152" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
@@ -30,11 +30,11 @@ ms.locfileid: "59288972"
 
 Witivio が Microsoft に提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | Calendar Pro |
+| アプリ名 | カレンダー Pro |
 | ID | WA200002152 |
-| Office 365 クライアントがサポートされている | Microsoft Teams |
+| Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Witivio |
 | パートナー Web サイトの URL | [https://www.witivio.com](https://www.witivio.com) |
 | プライバシー ポリシーの URL | [https://www.teams-pro.com/en/privacy-policy/](https://www.teams-pro.com/en/privacy-policy/) |
@@ -50,25 +50,25 @@ Witivio が Microsoft に提供する情報:
 
 この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Witivio によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
-このアプリで [必要な Microsoft Graph の](https://docs.microsoft.com/graph/permissions-reference) アクセス許可を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委任 | データが使用される | データは、UI に情報を表示するために使用されます。 | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
 >| User.ReadBasic.All | 委任 | データが使用される | データは、ユーザー選択を有効にするためのユーザーを一覧表示するために使用されます。 | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
 >| メール | 委任 | 電子メールが使用される | 電子メールは、UI 内のユーザーを識別するために使用されます。 | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
->| offline_access | 委任 | データが使用される | オフライン アクセスを使用して Microsoft Teams で SSO を有効にする | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
->| openid | 委任 | 認証 | OpenID は、Microsoft Teams での認証に使用されます。 | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
->| profile | 委任 | データが使用される | プロファイルは、Microsoft Teams で SSO を有効にするために使用されます。 | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
+>| offline_access | 委任 | データが使用される | オフライン アクセスを使用して、SSO を有効Microsoft Teams | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
+>| openid | 委任 | 認証 | OpenID は、ユーザーの認証に使用Microsoft Teams | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
+>| profile | 委任 | データが使用される | プロファイルは、ユーザーが SSO を有効にMicrosoft Teams | [fb507a6d-2eaa-4f1f-b43a-140f388c4445](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445) |
 
 
-#### <a name="non-microsoft-services-used"></a>使用されている Microsoft 以外のサービス
+#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->Microsoft 以外のサービスは使用されません。
+>非Microsoft サービスは使用されません。
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
@@ -81,13 +81,13 @@ Witivio が Microsoft に提供する情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->テレメトリには、UPN と診断用の AAD ID が含まれる。 PROD/Run 管理者だけが、実稼働テレメトリにアクセスできます。 ログは 90 日間保存され、要求に応じて電子メールで削除 dpo@witivio.com
+>テレメトリには、診断用の UPN AAD ID が含まれる。 PROD/Run 管理者だけが、実稼働テレメトリにアクセスできます。 ログは 90 日間保存され、要求に応じて電子メールで削除 dpo@witivio.com
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->Witivio は、北ヨーロッパ地域に展開された Microsoft Azure コンポーネントのみを使用します。 データ分析とストレージには、アプリケーションインサイトと Cosmos DB を使用します。 Witivio は、管理者を含むすべてのユーザーに MFA を使用します。 管理者には、ユーザー アカウント (ワークステーション用) と、Azure ressources にアクセスする特権アカウントがあります。
+>Witivio は、北Microsoft Azure展開されているコンポーネントのみを使用します。 アプリケーションインサイトとデータ分析とストレージCosmos DB を使用します。 Witivio は、管理者を含むすべてのユーザーに MFA を使用します。 管理者には、ユーザー アカウント (ワークステーション用) と、Azure ressources にアクセスする特権アカウントがあります。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -99,17 +99,6 @@ Witivio が Microsoft に提供する情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-[Microsoft Cloud App Security カタログの情報を以下](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)に示します。
-
-<iframe height='1020' title='Microsoft Cloud App セキュリティ情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -117,10 +106,10 @@ Witivio が Microsoft に提供する情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Id 条件を処理する方法について Witivio によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
-| Microsoft ID プラットフォーム統合チェックリストで説明されている、適用可能なすべてのベスト プラクティスを確認し、遵守しましたか?  | はい |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
@@ -137,3 +126,4 @@ Witivio が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

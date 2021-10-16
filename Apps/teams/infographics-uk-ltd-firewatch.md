@@ -2,18 +2,18 @@
 title: Infographics UK Ltd による FireWatch のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/29/2021
+ms.date: 09/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: FireWatch で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: af093437be4542d0ffb9e00e6f27623961ef9673
-ms.sourcegitcommit: 11288ac2cbae57aaa7820be0d9fb87c631805b7b
+ms.openlocfilehash: 4d8834b9f87199517fc355d9f7c7560d7d63ee32
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60112313"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413789"
 ---
 # <a name="firewatch"></a>FireWatch
 
@@ -93,17 +93,6 @@ Infographics UK Ltd. から Microsoft に提供される情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -118,3 +107,4 @@ Infographics UK Ltd. から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

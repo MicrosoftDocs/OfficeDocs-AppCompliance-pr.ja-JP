@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: LTI クライアント、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: d462f0225e4b5fb012d2e34156ae13fe48c0223c
-ms.sourcegitcommit: 085c227ffcf8f88e6e55d3c40752a3df25642592
+ms.openlocfilehash: 9957757752e6ac34310e11f3a6801b68639b94aa
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2021
-ms.locfileid: "60255692"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414623"
 ---
-# <a name="lti-client"></a>LTI クライアント
+# <a name="lti-client"></a>LTI Client
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Flipick Pvt Ltd から Microsoft に提供される情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | LTI クライアント |
+| アプリ名 | LTI Client |
 | ID | WA200003313 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Flipick Pvt Ltd |
@@ -92,17 +92,6 @@ Flipick Pvt Ltd から Microsoft に提供される情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -117,3 +106,4 @@ Flipick Pvt Ltd から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

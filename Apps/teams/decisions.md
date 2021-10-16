@@ -2,18 +2,18 @@
 title: 意思決定による意思決定に関するアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/02/2021
+ms.date: 08/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 意思決定、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 19a710fc8edbcb5243b81755ce3d61e8bcaa5b25
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 99e01d0ad5874c62f51a3f78b5b612766f397ea1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287004"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415144"
 ---
 # <a name="decisions"></a>決定事項
 
@@ -30,7 +30,7 @@ ms.locfileid: "59287004"
 
 Microsoft に対して Decisions によって提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | 決定事項 |
 | ID | WA104381880 |
@@ -55,7 +55,7 @@ Microsoft に対して Decisions によって提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.ReadWrite | 委任 | 会議の一覧や検索&#8217;機能を有効にするには、ユーザーの予定表から情報を読み取る場合に使用します。 また、アイテムが Decisions から削除された場合に、予定表から特定の会議を削除するオプションもユーザーに与えます。 | 顧客データは、テナント&#8217;にOffice 365、すべての顧客データが顧客デバイスでのみ処理されます。 Decisions データベースは、実際のデータではなく、テナント内Office 365オブジェクトへの参照のみを保持します。 詳細については https://www.meetingdecisions.com/security-and-privacy 、「」を参照してください。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
 >| Chat.ReadWrite | 委任 | 投票の決定を送信し、個々の議題アイテムのスピーカー リストを会議チャットに直接送信Microsoft Teams使用します。 | 顧客データは、テナント&#8217;にOffice 365、すべての顧客データが顧客デバイスでのみ処理されます。 Decisions データベースは、実際のデータではなく、テナント内Office 365オブジェクトへの参照のみを保持します。 詳細については https://www.meetingdecisions.com/security-and-privacy 、「」を参照してください。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
@@ -111,17 +111,6 @@ Microsoft に対して Decisions によって提供される情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -129,7 +118,7 @@ Microsoft に対して Decisions によって提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法に関する決定によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -144,9 +133,10 @@ Microsoft に対して Decisions によって提供される情報:
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: MeisterLabs GmbH による MindMeister のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 10/31/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: MindMeister で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 75177ef60be80889a14c75fbb76bc1d4aaa9aa49
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 6b36f41be86496cdca75a77d9564b2c13e5536b3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285771"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413709"
 ---
 # <a name="mindmeister"></a>MindMeister
 
@@ -30,7 +30,7 @@ ms.locfileid: "59285771"
 
 MeisterLabs GmbH から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | MindMeister |
 | ID | WA10438116 |
@@ -55,9 +55,9 @@ MeisterLabs GmbH から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | 委任 | AAD ID、テナント ID、メール、displayName - アプリケーション内の各ユーザーを識別し、MindMeister 特定のデータを Microsoft ユーザーとリンクできる (つまり、どのマップがユーザーに属しているか) | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインを有効にできます。 | [d312ff80-0c2b-42ad-887b-c6392bcf6353](https://docs.microsoft.com/microsoft-365-app-certification/azure/d312ff80-0c2b-42ad-887b-c6392bcf6353) |
+>| User.Read | 委任 | AADID、テナント ID、メール、displayName - アプリケーション内の各ユーザーを識別し、MindMeister 特定のデータを Microsoft ユーザー (つまり、どのマップがどのユーザーに属しているか) とリンクできる。 | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインを有効にできます。 | [d312ff80-0c2b-42ad-887b-c6392bcf6353](https://docs.microsoft.com/microsoft-365-app-certification/azure/d312ff80-0c2b-42ad-887b-c6392bcf6353) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -91,7 +91,7 @@ MeisterLabs GmbH から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -108,4 +108,5 @@ MeisterLabs GmbH から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

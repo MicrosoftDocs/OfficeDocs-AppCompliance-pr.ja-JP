@@ -2,18 +2,18 @@
 title: Zoho Corporation Private Limited によるマーケティング自動化のための Zoho キャンペーン ツールのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/04/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: マーケティングの自動化、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する Zoho Campaigns ツールで利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b6b0137447f5de7d7ef2394c32eb6996772852ad
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2eaae419f204cfdc5650ca66a3cfa4e6cc116c4a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288651"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413208"
 ---
 # <a name="zoho-campaigns-tool-for-marketing-automation"></a>マーケティング自動化のための Zoho キャンペーン ツール
 
@@ -53,7 +53,7 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.Read | 委任 | カレンダー ID は、Zoho キャンペーンからその予定表にイベントを作成するために格納されます。 | ユーザーが Office365 カレンダー イベントを Zoho キャンペーンにインポートできます。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 >| Calendars.ReadWrite | 委任 |  | ユーザーが Office365 カレンダーに Zoho キャンペーン イベントを追加できます。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
@@ -102,4 +102,5 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

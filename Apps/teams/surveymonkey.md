@@ -2,18 +2,18 @@
 title: SurveyMonkey による SurveyMonkey のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 06/30/2011
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SurveyMonkey、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f4898e476e0848ba728d07d0d851fc09f239aecf
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 4d792807b4a8160b3e62c7c1a23b4cf8a49b2148
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287307"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413349"
 ---
 # <a name="surveymonkey"></a>SurveyMonkey
 
@@ -30,7 +30,7 @@ ms.locfileid: "59287307"
 
 SurveyMonkey から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | SurveyMonkey |
 | ID | WA104381088 |
@@ -55,9 +55,9 @@ SurveyMonkey から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Group.ReadWrite.All | 委任 | いいえ | アンケートを共有するグループ/チャネルのリストを提供するには | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Group.ReadWrite.All | 委任 | 不要 | アンケートを共有するグループ/チャネルのリストを提供するには | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -116,4 +116,5 @@ SurveyMonkey は、中央ユーザー認証を使用して ID とアクセス管
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

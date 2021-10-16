@@ -2,18 +2,18 @@
 title: Humu by Humu Inc. のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/20/2021
+ms.date: 10/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Humu、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1c4f09d20ef885ae5c7e26a4c02d3d877bf7ef00
-ms.sourcegitcommit: 11288ac2cbae57aaa7820be0d9fb87c631805b7b
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: 772974445cbe3962521bd25019a1172f961590dc
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60112314"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415094"
 ---
 # <a name="humu"></a>Humu
 
@@ -96,17 +96,6 @@ Humu Inc. から Microsoft に提供される情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/4e95a4f5-304c-4629-901c-72341d8f2a0' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/4e95a4f5-304c-4629-901c-72341d8f2a0" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -114,10 +103,11 @@ Humu Inc. から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Humu Inc. から提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

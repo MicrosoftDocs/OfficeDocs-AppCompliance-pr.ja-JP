@@ -2,18 +2,18 @@
 title: AnalysisPlace によるExcelから Word へのドキュメントオートメーションのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/15/2021
+ms.date: 02/25/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Excel-to-Word ドキュメントオートメーション、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8dc1ac8d012545326f0d3c4f96764d5a2ed391b7
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d8dee2b12160b94cc55d1be0b355b9e5212b595a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288451"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413971"
 ---
 # <a name="excel-to-word-document-automation"></a>Excel-to-Word ドキュメントオートメーション
 
@@ -29,11 +29,11 @@ ms.locfileid: "59288451"
 
 AnalysisPlace から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Excel-to-Word ドキュメントオートメーション |
 | ID | WA104380955 |
-| Office 365サポートされているクライアント | Excel 2016、Excel 2016 以降の mac、Windows、Word 2016 Word 2016 以降の mac、Windows、PowerPoint 2016 以降の Windows、PowerPoint 2016 以降 、Windows、Excel on the web、Word on the web、PowerPoint on the web |
+| Office 365サポートされているクライアント | Excel 2016 Mac 上の Excel 2016 以降、Windows、Word 2016 以降、Windows、PowerPoint 2016 以降の mac、PowerPoint 2016 以降の Mac 上の Word 2016 以降Windows、Excel on the web、Word on the web、PowerPoint on the web |
 | パートナー会社名 | AnalysisPlace |
 | パートナー Web サイトの URL | [https://analysisplace.com](https://analysisplace.com) |
 | プライバシー ポリシーの URL | [https://analysisplace.com/Privacy](https://analysisplace.com/Privacy) |
@@ -123,3 +123,4 @@ AnalysisPlace から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Chimu Software による CatchEm のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/27/2021
+ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内の CatchEm、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bdac27ddbc3148644562af20f8f6d415a56903d9
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e31f99d6714482327267658bac0e61499572491e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287043"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413879"
 ---
 # <a name="catchem"></a>CatchEm
 
@@ -30,7 +30,7 @@ ms.locfileid: "59287043"
 
 Chimu Software から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | CatchEm |
 | ID | WA200002639 |
@@ -55,7 +55,7 @@ Chimu Software から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Chat.ReadBasic | 委任 | このアクセス許可は、アプリケーション ユーザーの連絡先を決定するために必要です。 AadObjectId: ユーザーを一意に識別します。 TenantId: 連絡先がユーザーの内部または外部かどうかを判断します。 DisplayName、GivenName、Surname: アプリケーション ユーザーへの連絡先を識別します。 メール、UserPrincipalName: 同じ名前の連絡先を区別し、クリックしてチャット機能 &quot; を &quot; 許可します。 最新のチャット ID: クリック &quot; してチャット機能を &quot; 有効にするには | このアクセス許可は、アプリケーション ユーザーの連絡先を決定するために必要です。 AadObjectId: ユーザーを一意に識別します。 TenantId: 連絡先がユーザーの内部または外部かどうかを判断します。 DisplayName、GivenName、Surname: アプリケーション ユーザーへの連絡先を識別します。 メール、UserPrincipalName: 同じ名前の連絡先を区別し、クリックしてチャット機能 &quot; を &quot; 許可します。 最新のチャット ID: クリック &quot; してチャット機能を &quot; 有効にするには | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
 >| People.Read | 委任 | 外部連絡先のデータの精度を向上させる。 DisplayName: アプリケーション ユーザーへの連絡先を識別します。 | 外部連絡先のデータの精度を向上させる。 DisplayName: アプリケーション ユーザーへの連絡先を識別します。 | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
@@ -129,7 +129,7 @@ Chimu Software から Microsoft に提供される情報:
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
-| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | いいえ |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | 不要 |
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
@@ -141,3 +141,4 @@ Chimu Software から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

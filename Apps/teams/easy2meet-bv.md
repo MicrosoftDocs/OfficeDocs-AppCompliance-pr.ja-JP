@@ -2,18 +2,18 @@
 title: Easy2Meet B.V による Easy2Meet のアプリケーション情報。
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/21/2021
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Easy2Meet、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 726f9ed549b3c200fda568f8b5d7a7f73c1a93ee
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 6983b46f281ed725aa4597acfa87944b5bc2c023
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785752"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412426"
 ---
 # <a name="easy2meet"></a>Easy2Meet
 
@@ -30,7 +30,7 @@ ms.locfileid: "59785752"
 
 Easy2Meet B.V によって提供される情報。 Microsoft に:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Easy2Meet |
 | ID | WA200003277 |
@@ -55,7 +55,7 @@ Easy2Meet B.V によって提供される情報。 Microsoft に:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.Read.All | 委任 | Easy2Meet 内のユーザーと会議を管理するには、ユーザー情報が必要です | メールと名前。 これは、ユーザーと会議を管理するために必要です。 | [286a2e24-18ad-432d-8698-694bcd77ecfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/286a2e24-18ad-432d-8698-694bcd77ecfc) |
 >| メール | 委任 | 現在のユーザーのメール広告を表示するには。 会議の招待を送信するには、メール広告が必要です | メールと名前。 これは、ユーザーと会議を管理するために必要です。 | [286a2e24-18ad-432d-8698-694bcd77ecfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/286a2e24-18ad-432d-8698-694bcd77ecfc) |
@@ -69,7 +69,7 @@ Easy2Meet B.V によって提供される情報。 Microsoft に:
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| SharePoint Online | いいえ |  |  |  |  |
->| MS Exchange Online | いいえ |  |  |  |  |
+>| MS Exchange Online | 不要 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -100,23 +100,12 @@ Easy2Meet B.V によって提供される情報。 Microsoft に:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -136,10 +125,11 @@ Easy2Meet B.V によって提供される情報。 Microsoft に:
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリは Web API を公開していますか? | はい |
-| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | 必要 |
+| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
 | アプリでプレビュー API を使用していますか? | いいえ |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

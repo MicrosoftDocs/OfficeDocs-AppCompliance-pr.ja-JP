@@ -2,18 +2,18 @@
 title: 構造による構造のアプリケーション情報 Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/21/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 構造、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 311eff24ac87991f640975efeff0373d7afc8a87
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 66e66041bbbaf9c1c9f982969ac7f23c43a315f3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284964"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414041"
 ---
 # <a name="structural"></a>Structural
 
@@ -30,7 +30,7 @@ ms.locfileid: "59284964"
 
 Structural Inc. から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Structural |
 | ID | WA200002514 |
@@ -55,7 +55,7 @@ Structural Inc. から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.AccessAsUser.All | 委任 | はい: シングル サインオン中にユーザーを認証します。 | なし | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
 >| メール | 委任 | はい: シングル サインオン中にユーザーを認証します。 | なし | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
@@ -99,17 +99,6 @@ Structural Inc. から Microsoft に提供される情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -137,3 +126,4 @@ Structural Inc. から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,23 +2,23 @@
 title: Hexaware Technologies Ltd. による COCO のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/23/2020
+ms.date: 09/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: COCO で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8a25a95b277f41f30477182c9eec0b3b25b9351e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 8e0dbf1b70767805b01cb6a318e4d00c3399c8ee
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288156"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414593"
 ---
 # <a name="coco"></a>COCO
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>開発者が最終更新日: 2020 年 6 月 23 日</p>
+<p>開発者による最終更新日: 2021 年 8 月 9 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/c3f021f9-1fe2-44c7-972e-58f3cd0e7762" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001468" target="_blank">AppSource での表示</a>
@@ -29,15 +29,16 @@ ms.locfileid: "59288156"
 
 Hexaware Technologies Ltd. から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | COCO |
 | ID | WA200001468 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Hexaware Technologies Ltd. |
 | パートナー Web サイトの URL | [https://hexaware.com](https://hexaware.com) |
+| [アプリケーション情報Teamsページの URL | [https://tinyurl.com/2c6b9cdm](https://tinyurl.com/2c6b9cdm) |
 | プライバシー ポリシーの URL | [https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-...](https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-Privacy-Policy-and-Additional-Terms_V2.1.pdf) |
-| 利用規約の URL | [https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-...](https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-Privacy-Policy-and-Additional-Terms_V2.1.pdf#page=6) |
+| 利用規約の URL | [https://tinyurl.com/2c6b9cdm](https://tinyurl.com/2c6b9cdm) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,7 +54,7 @@ Hexaware Technologies Ltd. から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.AccessAsUser.All | 委任 | なし | サインインしているユーザーとしてディレクトリにアクセスする | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
 >| Directory.Read.All | アプリケーション | なし | ディレクトリ データの読み取り | [82eb2bf2-969c-46da-9e89-1db59ac4fbb3](https://docs.microsoft.com/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3) |
@@ -76,7 +77,7 @@ Hexaware Technologies Ltd. から Microsoft に提供される情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| セッション データを維持するには | 名前、電子メール ID |  |
+>| セッション データを維持するには | 名前、電子メール ID | Chatbot セッション管理 |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -108,6 +109,20 @@ Hexaware Technologies Ltd. から Microsoft に提供される情報:
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35906' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35906" target="_blank">新しいタブで表示する</a>
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 情報
+
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、Hexaware Technologies Ltd. から提供されています。
+
+| **Information** | **応答** |
+|:----------------|:-------------|
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

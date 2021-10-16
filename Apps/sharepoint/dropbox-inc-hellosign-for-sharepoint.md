@@ -2,18 +2,18 @@
 title: HelloSign for SharePoint(Dropbox)
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/03/2021
+ms.date: 10/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SharePoint 用 HelloSign、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: e50ca05aa40133e0aa57f3b1de23c4c93e10ab45
-ms.sourcegitcommit: d67be08c82a50cc263a4bdeb176f41dd60716159
+ms.openlocfilehash: 5ff681f19369a1020cd67e6c161fb1a1dcca135e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/15/2021
-ms.locfileid: "60378995"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412096"
 ---
 # <a name="hellosign-for-sharepoint"></a>HelloSign for SharePoint
 
@@ -29,7 +29,7 @@ ms.locfileid: "60378995"
 
 Dropbox Inc. から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | HelloSign for SharePoint |
 | ID | WA200003245 |
@@ -99,17 +99,6 @@ Dropbox Inc. から Microsoft に提供される情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -122,16 +111,17 @@ Dropbox Inc. から Microsoft に提供される情報:
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | 不要 |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリは Web API を公開していますか? | 不要 |
-| アプリでプレビュー API を使用していますか? | 不要 |
+| アプリは Web API を公開していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | いいえ |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

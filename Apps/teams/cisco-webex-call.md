@@ -2,18 +2,18 @@
 title: Cisco による Webex 呼び出しのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2021
+ms.date: 01/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリの Webex Call、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e4addbd6b3ad932c9c987f57cca03c1e6e77cfcd
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 50ff8ddaab9be9b66da02156761931de44770340
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285955"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414733"
 ---
 # <a name="webex-call"></a>Webex Call
 
@@ -30,7 +30,7 @@ ms.locfileid: "59285955"
 
 シスコから Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Webex Call |
 | ID | WA200001495 |
@@ -54,7 +54,7 @@ ms.locfileid: "59285955"
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Chat.Read | 委任 | チャット メンバーを取得して、Cisco WebEx とのプライベート チャットで他のメンバーを呼び出す | アプリはデータベースにデータを保存しない | [9a7ce614-bdc8-4640-aaea-d8c626c58966](https://docs.microsoft.com/microsoft-365-app-certification/azure/9a7ce614-bdc8-4640-aaea-d8c626c58966) |
 >| Contacts.Read | 委任 | ユーザーの連絡先を取得して、ユーザーが Cisco WebEx で連絡先を呼び出す | アプリはデータベースにデータを保存しない | [9a7ce614-bdc8-4640-aaea-d8c626c58966](https://docs.microsoft.com/microsoft-365-app-certification/azure/9a7ce614-bdc8-4640-aaea-d8c626c58966) |
@@ -94,7 +94,7 @@ ms.locfileid: "59285955"
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -118,10 +118,11 @@ ms.locfileid: "59285955"
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、シスコから提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: CEMEQ inc. による Mediatheque+ のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/26/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Mediatheque+、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 7645c55391a224202c418e01ba9661bbd9e0fb5c
-ms.sourcegitcommit: 400dc76d16649c45cc4bc1b45dee07ba3661f890
+ms.openlocfilehash: a4c4ab05f9dd1809d85c82cc89547f76c3f87ed7
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59353888"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411836"
 ---
 # <a name="mediatheque"></a>Mediatheque+
 
@@ -92,17 +92,6 @@ CEMEQ inc. から Microsoft に提供される情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -110,10 +99,11 @@ CEMEQ inc. から Microsoft に提供される情報:
 
 この情報は、CEMEQ inc. によって、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

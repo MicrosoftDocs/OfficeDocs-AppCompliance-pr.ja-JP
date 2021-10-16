@@ -2,18 +2,18 @@
 title: Adobe Sign for Word および Adobe Inc. PowerPointアプリケーション情報。
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/12/2021
+ms.date: 02/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Adobe Sign for Word および PowerPoint、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ca8f1f0aba2f18c81c76cb50d8d76cb2e86efa84
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 5ed7e962014ea7cf2c63c2ff2bbcb97da3939233
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284259"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412632"
 ---
 # <a name="adobe-sign-for-word-and-powerpoint"></a>Adobe Sign for Word and PowerPoint
 
@@ -52,7 +52,7 @@ Adobe Inc. から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Mail.ReadWrite | 委任 | 添付されたドキュメント、送信者と受信者の電子メール、およびメッセージ コンテンツを電子メールから Adobe 記号に入力して署名用に送信します。 これは、Adobe Sign でこれらのフィールドを再入力するユーザー時間を節約するために使用します。 契約が署名された後、ユーザーが電子メールを送信して、トランザクションが完了したことを受信者に通知する新しい電子メールを自動的に作成します。 | Adobe Sign は添付ファイルを一時ファイルとして保存します。有効期限は 24 時間です。 | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
 >| People.Read | 委任 | 署名用に送信エクスペリエンスで電子メール アドレスを自動入力するには、最初の文字を入力して、ユーザーにメール全体を入力 &quot; &quot; する必要が生じかねない。 | Adobe Sign は、受信者の電子メールと displayName のみを契約に保存します。 | [72d5ac5d-a427-408b-907d-72da3f33ddd1](https://docs.microsoft.com/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1) |
@@ -109,16 +109,16 @@ Adobe Inc. から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について Adobe Inc. から提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | 不要 |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | いいえ |
+| アプリに機密クライアントがありますか? | 不要 |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |
@@ -129,3 +129,4 @@ Adobe Inc. から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Outreach によるユーザー向け Outreach Sales Engagement Outlookアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/14/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Outlook の Outreach Sales Engagement、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 6a009dbc5c075f99bb71105834f3f5208ed91dea
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 483fb4fd6741e479403e4cd05ad284b50a87f9c4
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288276"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413559"
 ---
 # <a name="outreach-sales-engagement-for-outlook"></a>Outreach Sales Engagement for Outlook
 
@@ -61,7 +61,7 @@ Outreach から Microsoft に提供される情報:
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Outlookアドイン API 、EWS API、O36 REST API | いいえ |  |  |  |  |
+>| Outlookアドイン API 、EWS API、O36 REST API | 不要 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -95,17 +95,6 @@ Outreach から Microsoft に提供される情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -113,10 +102,11 @@ Outreach から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Outreach によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

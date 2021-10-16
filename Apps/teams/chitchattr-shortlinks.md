@@ -2,18 +2,18 @@
 title: ChitChattr によるショートリンクのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/07/2021
+ms.date: 01/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ショートリンク、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b044b73c3623e94a7ecf39a6116a33ea81343d60
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a09e1e359600b4025a87d3c85208d0936bdc0657
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287020"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415174"
 ---
 # <a name="shortlinks"></a>Shortlinks
 
@@ -30,7 +30,7 @@ ms.locfileid: "59287020"
 
 ChitChattr から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Shortlinks |
 | ID | WA200001846 |
@@ -118,10 +118,11 @@ ChitChattr から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について ChitChattr によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

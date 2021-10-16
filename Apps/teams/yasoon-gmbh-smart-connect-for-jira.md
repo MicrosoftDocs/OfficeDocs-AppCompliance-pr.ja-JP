@@ -2,18 +2,18 @@
 title: yasoon GmbH による Jira Connectスマート デバイスのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/21/2021
+ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Smart Connect for Jira で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a4a5a1ad980bba5214811bea5d981a1705ec4f1f
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 4342897ef390842396e62798debc54e146a979e3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288843"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413258"
 ---
 # <a name="smart-connect-for-jira"></a>Smart Connect for Jira
 
@@ -30,7 +30,7 @@ ms.locfileid: "59288843"
 
 yasoon GmbH から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Smart Connect for Jira |
 | ID | WA200002055 |
@@ -55,7 +55,7 @@ yasoon GmbH から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Channel.ReadBasic.All | 委任 | このアクセス許可は、ユーザーが Jira でこの参加チャネルの 1 つを選択するために使用されます。 | キャッシュの目的でチャネル ID | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
 >| ChannelMessage.Read.Group | アプリケーション | アプリが Jira でリンクされたチャネル メッセージを表示できます。 | Jira の問題にメッセージをリンクするメッセージの ID | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
@@ -82,7 +82,7 @@ yasoon GmbH から Microsoft に提供される情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| ユーザーとユーザー Teams Atlassian Jira アカウントを照合する | いいえ |  |
+>| ユーザーとユーザー Teams Atlassian Jira アカウントを照合する | 不要 |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -144,3 +144,4 @@ yasoon GmbH から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

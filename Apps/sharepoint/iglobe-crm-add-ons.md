@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: iGlobe CRM アドオンに使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3d5551ff00fa5439329176cf412a45d0490d6d64
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a48e2f3798d80229c51556e6712d4ebf31da183b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288595"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412076"
 ---
 # <a name="iglobe-crm-add-ons"></a>iGlobe CRM アドオン
 
@@ -28,7 +28,7 @@ ms.locfileid: "59288595"
 
 iGlobe から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | iGlobe CRM アドオン |
 | ID | WA200002010 |
@@ -52,7 +52,7 @@ iGlobe から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | canlendar から iGlobe に会議レポートを読み込むときに、ユーザーの予定表にアクセスする | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
 >| Contacts.ReadWrite | 委任 |  Directory.AccessAsUser.All | サインインしているユーザーと同じように、アプリでディレクトリ内の情報にアクセスできるようにします。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
@@ -74,20 +74,20 @@ iGlobe から Microsoft に提供される情報:
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Exchange - Calendars.ReadWrite.All | いいえ |  |  |  |  |
->| Exchange - Mail.Read.All | いいえ |  |  |  |  |
->| Exchange - Contacts.Read | いいえ |  |  |  |  |
->| Exchange - EWS。AccessAsUser.All | いいえ |  |  |  |  |
+>| Exchange - Calendars.ReadWrite.All | 不要 |  |  |  |  |
+>| Exchange - Mail.Read.All | 不要 |  |  |  |  |
+>| Exchange - Contacts.Read | 不要 |  |  |  |  |
+>| Exchange - EWS。AccessAsUser.All | 不要 |  |  |  |  |
 >| Exchange - Tasks.ReadWrite | いいえ |  |  |  |  |
->| SharePoint - AllSites.Manage | いいえ |  |  |  |  |
->| SharePoint - AllSites.Read | いいえ |  |  |  |  |
->|  SharePoint -AllSites.Write | いいえ |  |  |  |  |
->| SharePoint - MyFiles.Write | いいえ |  |  |  |  |
+>| SharePoint - AllSites.Manage | 不要 |  |  |  |  |
+>| SharePoint - AllSites.Read | 不要 |  |  |  |  |
+>|  SharePoint -AllSites.Write | 不要 |  |  |  |  |
+>| SharePoint - MyFiles.Write | 不要 |  |  |  |  |
 >| SharePoint - Sites.Manage.All | いいえ |  |  |  |  |
->| SharePoint - Sites.Read.All | いいえ |  |  |  |  |
->| SharePoint - Sites.ReadWrite.All | いいえ |  |  |  |  |
->| SharePoint - Sites.Search.All | いいえ |  |  |  |  |
->|  SharePoint - TermStore.Read.All | いいえ |  |  |  |  |
+>| SharePoint - Sites.Read.All | 不要 |  |  |  |  |
+>| SharePoint - Sites.ReadWrite.All | 不要 |  |  |  |  |
+>| SharePoint - Sites.Search.All | 不要 |  |  |  |  |
+>|  SharePoint - TermStore.Read.All | 不要 |  |  |  |  |
 >| SharePoint - TermStore.ReadWrite.All | いいえ |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -144,7 +144,7 @@ iGlobe から Microsoft に提供される情報:
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | 不要 |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | セキュリティの既定値と、従来の認証をブロックする* [管理者に MFA を要求する] * [Azure 管理に MFA を要求する] * [すべてのユーザーに MFA を要求する] などの一般的なポリシー。 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
@@ -153,9 +153,10 @@ iGlobe から Microsoft に提供される情報:
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: CI ソリューション GmbH による CI-Out-of-Office Lite のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/02/2021
+ms.date: 06/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CI-Out-of-Office Lite、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: de7d350bf6eda53a782872b3c4965235cfeca799
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c827481d24c72e3998007f381ff1b733a262af9c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285980"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415154"
 ---
 # <a name="ci-out-of-office-lite"></a>CI-Out-of-Office Lite
 
@@ -30,7 +30,7 @@ ms.locfileid: "59285980"
 
 Ci ソリューション GmbH から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | CI-Out-of-Office Lite |
 | ID | WA200002748 |
@@ -55,7 +55,7 @@ Ci ソリューション GmbH から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| メール | 委任 | ユーザーのメール アドレスの表示 | Es werden keine Daten gespeichert. | [fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da) |
 
@@ -120,3 +120,4 @@ Ci ソリューション GmbH から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

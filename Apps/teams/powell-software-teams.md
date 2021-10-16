@@ -2,18 +2,18 @@
 title: Powell ソフトウェアによる Powell Teamsアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/09/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Powell Teams、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 3c774a017f4283646cf46c2042d33b19dc2b8e80
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 745b6ff67059c682a0ccd67b7fac88fbe0ac3c04
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286155"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412827"
 ---
 # <a name="powell-teams"></a>Powell Teams
 
@@ -30,7 +30,7 @@ ms.locfileid: "59286155"
 
 パウエル ソフトウェアから Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Powell Teams |
 | ID | WA200001585 |
@@ -55,7 +55,7 @@ ms.locfileid: "59286155"
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.AccessAsUser.All | 委任 | 該当なし | 該当なし | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
 >| Group.ReadWrite.All | 委任 | 該当なし | 該当なし | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
@@ -100,17 +100,6 @@ ms.locfileid: "59286155"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -118,12 +107,12 @@ ms.locfileid: "59286155"
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、Powell ソフトウェアから提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | いいえ |
 | アプリはマルチテナントをサポートしていますか? | はい |
@@ -137,3 +126,4 @@ ms.locfileid: "59286155"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

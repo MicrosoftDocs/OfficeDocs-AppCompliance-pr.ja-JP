@@ -2,18 +2,18 @@
 title: Open Agora による OpenAgora のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 05/19/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: OpenAgora で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c1538e5ad361469b5c8b3c07a085ed91d45a70dd
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f0c6965c43118f6318c6c35a979d46223274b0f5
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287779"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413629"
 ---
 # <a name="openagora"></a>OpenAgora
 
@@ -30,7 +30,7 @@ ms.locfileid: "59287779"
 
 Open Agora から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | OpenAgora |
 | ID | WA104381473 |
@@ -55,7 +55,7 @@ Open Agora から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委任 | ユーザー&#8217;ID Azure Active Directoryします。 | ユーザーが表示できるデータのみを表示および管理するためのユーザー ID。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
@@ -104,4 +104,5 @@ Open Agora から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

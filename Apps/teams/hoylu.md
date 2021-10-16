@@ -2,18 +2,18 @@
 title: Hoylu による Hoylu のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/20/2020
+ms.date: 06/09/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Hoylu で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b48adaf3c3816bea363b0fd8e6581f061a5eaed1
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a091c480731e69a51ec002f24f6d62924a814b7b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287883"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412336"
 ---
 # <a name="hoylu"></a>Hoylu
 
@@ -30,7 +30,7 @@ ms.locfileid: "59287883"
 
 Hoylu が Microsoft に提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Hoylu |
 | ID | WA200001573 |
@@ -80,13 +80,13 @@ Hoylu が Microsoft に提供する情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->アプリケーション データは FIPS 140-2 Microsoft Azure Cloud Servicesに格納され、使用されている暗号化プロトコルはすべて FIPS 140-2 に準拠しています。 この運用データには、インフラストラクチャ管理者 (PMA) だけがアクセスできます。 組織のアカウント管理は、2FA の Azure AD経由で行われます。
+>アプリケーション データは FIPS 140-2 Microsoft Azure Cloud Servicesに格納され、使用されている暗号化プロトコルはすべて FIPS 140-2 に準拠しています。 この運用データには、インフラストラクチャ管理者 (PMA) だけがアクセスできます。 組織のアカウント管理は、2FA Azure AD経由で行われます。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -103,4 +103,5 @@ Hoylu が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

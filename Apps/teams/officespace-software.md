@@ -2,18 +2,18 @@
 title: OfficeSpace ソフトウェアによる OfficeSpace のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2021
+ms.date: 01/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: OfficeSpace で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 17147e0c536336554e858536b1e3b085ad842925
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d8e6981a66409925c8b88ecea9376ef62316a14b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287836"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414151"
 ---
 # <a name="officespace"></a>OfficeSpace
 
@@ -30,7 +30,7 @@ ms.locfileid: "59287836"
 
 OfficeSpace ソフトウェアから Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | OfficeSpace |
 | ID | WA200002052 |
@@ -88,7 +88,7 @@ OfficeSpace ソフトウェアから Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -112,10 +112,11 @@ OfficeSpace ソフトウェアから Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について OfficeSpace ソフトウェアによって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

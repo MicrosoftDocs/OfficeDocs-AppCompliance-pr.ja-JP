@@ -2,20 +2,20 @@
 title: WorkJam による WorkJam タスクのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/06/2021
+ms.date: 09/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: WorkJam Tasks、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 6b9e9d2e7becf34051895513c7a57fe942862080
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+ms.openlocfilehash: e30972be09412f233618141aa13317ce2c2f21a3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59438435"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414362"
 ---
-# <a name="workjam-tasks"></a>WorkJam タスク
+# <a name="workjam-tasks"></a>WorkJam Tasks
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ WorkJam から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | WorkJam タスク |
+| アプリ名 | WorkJam Tasks |
 | ID | WA200003241 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | WorkJam |
@@ -55,7 +55,7 @@ WorkJam から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| TeamsActivity.Send | アプリケーション | エンド ユーザーに通知を送信する。 | 通知を送信するテナント ID とユーザー OID。 | [0b87cb84-073e-4cf6-a1ef-45d864ef2918](https://docs.microsoft.com/microsoft-365-app-certification/azure/0b87cb84-073e-4cf6-a1ef-45d864ef2918) |
 >| User.Read | 委任 | ID と認証の場合 | 通知を送信するテナント ID とユーザー OID。 | [0b87cb84-073e-4cf6-a1ef-45d864ef2918](https://docs.microsoft.com/microsoft-365-app-certification/azure/0b87cb84-073e-4cf6-a1ef-45d864ef2918) |
@@ -96,17 +96,6 @@ WorkJam から Microsoft に提供される情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -123,13 +112,14 @@ WorkJam から Microsoft に提供される情報:
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | いいえ |
+| アプリに機密クライアントがありますか? | 不要 |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

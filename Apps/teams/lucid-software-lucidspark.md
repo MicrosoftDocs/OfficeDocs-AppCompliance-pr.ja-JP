@@ -2,18 +2,18 @@
 title: Lucid Software による Lucidspark のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/13/2021
+ms.date: 06/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Lucidspark のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e79bed420b3081ae31a0abda25299610eeb1bc5f
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 97dd4245e0bba6f82adea01c08638f6cfc20698e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287436"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412226"
 ---
 # <a name="lucidspark"></a>Lucidspark
 
@@ -30,7 +30,7 @@ ms.locfileid: "59287436"
 
 Lucid Software から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Lucidspark |
 | ID | WA200002583 |
@@ -55,7 +55,7 @@ Lucid Software から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| メール | 委任 | 名前と電子メール アドレス。 | 電子メール、openid、およびプロファイルのアクセス許可を使用すると、Lucidspark はユーザーの openid トークンを生成し、必要に応じてユーザーに対して Lucidspark アカウントを登録するのに十分な基本的な情報を取得できます。 Microsoft から返されるデータを確認するために、応答に署名されている公開キーを取得する要求を行います。 その他のデータは、SSO フローの一部として Microsoft から受信または Microsoft に送信されません。 | [3557d5c0-bcab-410b-8a03-f7045aa48de0](https://docs.microsoft.com/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0) |
 >| openid | 委任 | 名前と電子メール アドレス。 | 電子メール、openid、およびプロファイルのアクセス許可を使用すると、Lucidspark はユーザーの openid トークンを生成し、必要に応じてユーザーに対して Lucidspark アカウントを登録するのに十分な基本的な情報を取得できます。 Microsoft から返されるデータを確認するために、応答に署名されている公開キーを取得する要求を行います。 その他のデータは、SSO フローの一部として Microsoft から受信または Microsoft に送信されません。 | [3557d5c0-bcab-410b-8a03-f7045aa48de0](https://docs.microsoft.com/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0) |
@@ -93,7 +93,7 @@ Lucid Software から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -117,10 +117,11 @@ Lucid Software から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について、Lucid Software によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

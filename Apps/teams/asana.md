@@ -2,18 +2,18 @@
 title: Asana による Asana のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/02/2020
+ms.date: 10/29/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Asana で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 14ec3eee9b8ae673565ef91a017019d23d524619
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 70342ec2e686a1436fa8810022867bf687e13726
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284091"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415224"
 ---
 # <a name="asana"></a>Asana
 
@@ -30,7 +30,7 @@ ms.locfileid: "59284091"
 
 Asana から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Asana |
 | ID | WA200001727 |
@@ -106,4 +106,5 @@ Asana 組織の管理者は、SAML、SCIM、Service アカウントをセット�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

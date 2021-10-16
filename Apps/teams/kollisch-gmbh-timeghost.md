@@ -2,18 +2,18 @@
 title: K&#246;GmbH による timeghost のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/15/2021
+ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: タイムホスト、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c024080e1471388a5c3803f685a136052cb56d44
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 99ebec0e6e9b8454ebc822f0b7cbcf43232e156b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288131"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412306"
 ---
 # <a name="timeghost"></a>timeghost
 
@@ -30,7 +30,7 @@ ms.locfileid: "59288131"
 
 K&#246;llisch GmbH から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | timeghost |
 | ID | WA200001532 |
@@ -55,7 +55,7 @@ K&#246;llisch GmbH から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.Read | 委任 | Titel、Startdatum、Enddatum、ID | Kalenderdaten werden beim Buchen eines Kalendereintrages auf ein Projekt gespeichert. | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99) |
 >| People.Read | 委任 | E-Mail-Adresse | Die Daten werden gespeichert um weitere Team-Mitglieder hinzuzuf&#252;und die Avatare der Nutzer anzuzeigen. | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99) |
@@ -120,7 +120,7 @@ K&#246;llisch GmbH から Microsoft に提供される情報:
 
 この情報は、K&#246;llisch GmbH によって、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -140,3 +140,4 @@ K&#246;llisch GmbH から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Agile-IS によるアジャイル タスク ボードのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 09/30/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: アジャイル タスク ボード、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a5062da73958a88a7b788a74771e76ae506b314d
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: ed25a77c5f07371bad9d2754b53c0b42deab11d6
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284171"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411946"
 ---
 # <a name="agile-task-board"></a>Agile Task Board
 
@@ -30,7 +30,7 @@ ms.locfileid: "59284171"
 
 Agile-IS が Microsoft に提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Agile Task Board |
 | ID | WA200002162 |
@@ -82,14 +82,14 @@ Agile-IS が Microsoft に提供する情報:
 
 >アプリケーションは、アプリの各インスタンスSharePointサイト上のオンライン リストとドキュメント ライブラリに、すべてのデータを格納します。 このデータへのアクセス制御は、お客様のテナント構成によって異なります。 
 
-ライセンス制御の場合、ドメインと UPN は Azure でホストされるサービスに転送されます。 この情報は Azure 認証によってADされます。
+ライセンス制御の場合、ドメインと UPN は Azure でホストされるサービスに転送されます。 この情報は、認証によってAzure ADされます。
 
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -106,4 +106,5 @@ Agile-IS が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

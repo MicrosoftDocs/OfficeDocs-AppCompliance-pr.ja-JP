@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Smartnotation、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4b64237390587a005373b02901a11694f15c37d6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 037d211144819f3ee2271f1152c84bd13fde968e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288068"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414453"
 ---
 # <a name="smartnotation"></a>Smartnotation
 
@@ -118,3 +118,4 @@ Smartnotation B.V によって提供される情報。 Microsoft に:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Diamondsoft Solutions LLC による DBit のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/23/2020
+ms.date: 04/28/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内の DBit、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f3adc828ee3a7b77b54d49c401375a9671a496e6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 095ce62c1d0b193cd63105e2df3599f6eac3725c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286963"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412457"
 ---
 # <a name="dbit"></a>DBit
 
@@ -30,7 +30,7 @@ ms.locfileid: "59286963"
 
 Diamondsoft Solutions,LLC から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | DBit |
 | ID | WA200001536 |
@@ -54,7 +54,7 @@ Diamondsoft Solutions,LLC から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委任 | システムまたはデータベースにはGraph情報は保存されません。 | サインインおよびユーザー プロファイルの読み取り | [1533d702-7604-463a-9fa3-63077c425e76](https://docs.microsoft.com/microsoft-365-app-certification/azure/1533d702-7604-463a-9fa3-63077c425e76) |
 >| メール | 委任 | システムまたはデータベースにはGraph情報は保存されません。 | ユーザーのメール アドレスの表示 | [1533d702-7604-463a-9fa3-63077c425e76](https://docs.microsoft.com/microsoft-365-app-certification/azure/1533d702-7604-463a-9fa3-63077c425e76) |
@@ -111,4 +111,5 @@ Diamondsoft Solutions,LLC から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

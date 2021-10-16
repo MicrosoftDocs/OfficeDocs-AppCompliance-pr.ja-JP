@@ -2,18 +2,18 @@
 title: Nulia Works by Nulia のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/11/2021
+ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Nulia Works の利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4d176b18a8089d9107f30b7581bcca69daf0871e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2d59f585e7d07ecdab694853d92d4442bfb0d069
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288083"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413463"
 ---
 # <a name="nulia-works"></a>Nulia Works
 
@@ -55,7 +55,7 @@ Nulia から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.Read | アプリケーション | 収集されたデータを使用して、スキルと結果に関するユーザーの進捗状況を評価します。 複数の O365 ワークロードにわたる使用状況カウントを収集します。 | 収集したデータはすべて BLOB ストレージに格納されます。 このデータを使用して、スキルと結果の進行状況についてユーザーにスコアを付け取っています。 たとえば、ユーザーが持つ予定表イベントの数をカウントします。 この値は、スキルの進捗状況に影響します。 | [お客様ごとに新しいアプリケーション ID を作成します。たとえば、Nulia テナントはアプリケーション ID 623B1D5D-6D82-493E-9990-1FBFE82ED046 を使用しています。](https://docs.microsoft.com/microsoft-365-app-certification/azure/We create a new application ID for each customer. For example, our Nulia tenant is using application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046) |
 >| Contacts.Read | アプリケーション | 収集されたデータを使用して、スキルと結果に関するユーザーの進捗状況を評価します。 複数の O365 ワークロードにわたる使用状況カウントを収集します。 | 収集したデータはすべて BLOB ストレージに格納されます。 このデータを使用して、スキルと結果の進行状況についてユーザーにスコアを付け取っています。 たとえば、ユーザーが作成した連絡先の数をカウントします。 この値は、スキルの進捗状況に影響します。 | [お客様ごとに新しいアプリケーション ID を作成します。たとえば、Nulia テナントはアプリケーション ID 623B1D5D-6D82-493E-9990-1FBFE82ED046 を使用しています。](https://docs.microsoft.com/microsoft-365-app-certification/azure/We create a new application ID for each customer. For example, our Nulia tenant is using application ID: 623B1D5D-6D82-493E-9990-1FBFE82ED046) |
@@ -143,3 +143,4 @@ Nulia から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

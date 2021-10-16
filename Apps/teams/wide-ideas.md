@@ -2,18 +2,18 @@
 title: 幅広いアイデアによる幅広いアイデアのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/27/2021
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Wide Ideas、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7c19fc9906f46fcd3e7561c38d68ed202dd0c87d
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 075136dcf0c7e03d3f70461490f1b8c181478c43
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59783337"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414373"
 ---
 # <a name="wide-ideas"></a>Wide Ideas
 
@@ -54,7 +54,7 @@ Wide Ideas から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Channel.Create | 委任 | チームにチャネルを作成するには  | 作成されたチャレンジのチャネル ID を格納します。  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
 >| Directory.Read.All | 委任 | これを使用して顧客ディレクトリからユーザーを一覧表示する  | 該当なし | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
@@ -91,7 +91,7 @@ Wide Ideas から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->データストレージ: すべての顧客データは、サービスMicrosoft Azureされます。 ユーザーは、Azure アカウントを介して 2 要素認証AD。 役割ベースのアクセス (RBAC) が設定されています。 サーバーへのすべてのアクセスMicrosoft Azure、暗号化された接続によって厳密に行います。 すべてのデータは保存時に暗号化されます。 すべてのサービスは、Azure セキュリティ センターの最善の実践によって保護されています。 
+>データストレージ: すべての顧客データは、サービスMicrosoft Azureされます。 ユーザーは、ユーザーが 2 つの要素を使用してAzure AD。 役割ベースのアクセス (RBAC) が設定されています。 サーバーへのすべてのアクセスMicrosoft Azure、暗号化された接続によって厳密に行います。 すべてのデータは保存時に暗号化されます。 すべてのサービスは、Azure セキュリティ センターの最善の実践によって保護されています。 
 
 また、最小特権の原則に従ってアクセス ポリシーが設定されています。 
 
@@ -126,21 +126,22 @@ Wide Ideas から Microsoft に提供される情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | 必要 |
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | MFA |
-| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | 必要 |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
-| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | 必要 |
+| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
-| アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリは Web API を公開していますか? | 不要 |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

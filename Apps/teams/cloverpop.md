@@ -2,18 +2,18 @@
 title: Cloverpop による Cloverpop のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/24/2020
+ms.date: 08/04/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Cloverpop、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3865c07aca73134fd9029ee0550559d9a4f93fd2
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 28d424f384d8b16ff70e7d00f366c3a0f89f64b5
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285923"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412517"
 ---
 # <a name="cloverpop"></a>Cloverpop
 
@@ -30,7 +30,7 @@ ms.locfileid: "59285923"
 
 Cloverpop が Microsoft に提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Cloverpop |
 | ID | WA200001803 |
@@ -54,7 +54,7 @@ Cloverpop が Microsoft に提供する情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 委任 | ユーザー データを保存します。 メール、oid、givenName、familyName、ユーザー アバター、ユーザー オブジェクト ID。組織 ID(tenantId)、組織の表示名、また、サイド チーム/チャネル名、ids、teams メンバーに保存します。 ユーザーが意思決定を作成して操作する場合、このデータを作成したユーザー、チーム、組織に関連付ける。 また、人間に優しい UX でこの所有権を表示する必要があるため、表示情報 (ユーザーのアバターなど)&#8217;格納されます。 | ユーザーはサインインし、アプリに UPN へのアクセス権を与え、電子メール、名前、oid、tid、givenName、姓、familyName、ユーザー アバター(写真)、組織の displayName など、サイレント ログイン&#8221; を有効にします。 | [1040474b-572d-4575-a423-95dd262a8b8a](https://docs.microsoft.com/microsoft-365-app-certification/azure/1040474b-572d-4575-a423-95dd262a8b8a) |
 >| openid | 委任 | ユーザー データを保存します。 メール、oid、givenName、familyName、ユーザー アバター、ユーザー オブジェクト ID。組織 ID(tenantId)、組織の表示名、また、サイド チーム/チャネル名、ids、teams メンバーに保存します。 ユーザーが意思決定を作成して操作する場合、このデータを作成したユーザー、チーム、組織に関連付ける。 また、人間に優しい UX でこの所有権を表示する必要があるため、表示情報 (ユーザーのアバターなど)&#8217;格納されます。 | Web アプリ&#8220;でサインインTeams&#8221;実装するには、次の方法を使用します。 | [1040474b-572d-4575-a423-95dd262a8b8a](https://docs.microsoft.com/microsoft-365-app-certification/azure/1040474b-572d-4575-a423-95dd262a8b8a) |
@@ -115,4 +115,5 @@ Cloverpop が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

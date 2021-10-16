@@ -2,18 +2,18 @@
 title: 開発者による InStation のアプリケーション情報 Invillia
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/06/2020
+ms.date: 06/30/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: InStation で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1db56e204dc2fd83916a9ec6f2b20a13e02ed357
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 33ef3024f1b0e9b70cb6445e28c71ee1f6de22be
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286971"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411775"
 ---
 # <a name="instation"></a>InStation
 
@@ -30,7 +30,7 @@ ms.locfileid: "59286971"
 
 開発者 Invillia から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | InStation |
 | ID | WA200001701 |
@@ -54,7 +54,7 @@ ms.locfileid: "59286971"
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| OnlineMeetings.Read.All | 委任 | stores: id、join_url、join_web_url、chat_id。 アプリで会議の作成を許可する | stores: id、join_url、join_web_url、chat_id。 アプリで会議の作成を許可する | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
 >| OnlineMeetings.ReadWrite.All | 委任 | stores: id、join_url、join_web_url、chat_id。 アプリで会議の作成を許可する | stores: id、join_url、join_web_url、chat_id。 アプリで会議の作成を許可する | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
@@ -97,7 +97,7 @@ ms.locfileid: "59286971"
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -114,4 +114,5 @@ ms.locfileid: "59286971"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

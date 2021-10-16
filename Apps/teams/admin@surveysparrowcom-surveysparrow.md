@@ -2,18 +2,18 @@
 title: SurveySparrow のアプリケーション情報 :admin@surveysparrow.com
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/19/2021
+ms.date: 04/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SurveySparrow、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f27230d2cd0535b5828bff6eaa4e58eb03bf29e4
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 0abbaa0a9615c1196a56efc3e07e893c1f964e1f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289415"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411976"
 ---
 # <a name="surveysparrow"></a>SurveySparrow
 
@@ -30,7 +30,7 @@ ms.locfileid: "59289415"
 
 Microsoft に提供される admin@surveysparrow.com 情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | SurveySparrow |
 | ID | WA200002257 |
@@ -118,7 +118,7 @@ Microsoft に提供される admin@surveysparrow.com 情報:
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
@@ -132,3 +132,4 @@ Microsoft に提供される admin@surveysparrow.com 情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

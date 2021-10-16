@@ -2,18 +2,18 @@
 title: ARGUS DATA INSIGHTS シュヴァイツ AG による ARGUSnylar のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/25/2021
+ms.date: 08/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ARGUSnylar、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 9e1101a92834b4f5424b9cd86f396ab71b01b4f8
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: b6e8954ddd27c1383c5af8a9f1a175cca290644f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785667"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411926"
 ---
 # <a name="argusnylar"></a>ARGUSnylar
 
@@ -35,7 +35,7 @@ ARGUS DATA INSIGHTS シュヴァイツ AG から Microsoft に提供される情
 | アプリ名 | ARGUSnylar |
 | ID | WA200003186 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | ARGUS DATA INSIGHTS シュヴァイツ AG |
+| パートナー会社名 | ARGUS DATA INSIGHTS Schweiz AG |
 | パートナー Web サイトの URL | [https://www.argusdatainsights.ch/en/](https://www.argusdatainsights.ch/en/) |
 | [アプリケーション情報Teamsページの URL | [https://portal.nylar.org/help](https://portal.nylar.org/help) |
 | プライバシー ポリシーの URL | [https://www.argusdatainsights.ch/en/privacy-policy-teams](https://www.argusdatainsights.ch/en/privacy-policy-teams) |
@@ -55,7 +55,7 @@ ARGUS DATA INSIGHTS シュヴァイツ AG から Microsoft に提供される情
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| openid | アプリケーション | / | / | [5c1f85d2-d744-4159-8c01-16e9a7b1207b](https://docs.microsoft.com/microsoft-365-app-certification/azure/5c1f85d2-d744-4159-8c01-16e9a7b1207b) |
 
@@ -89,23 +89,12 @@ ARGUS DATA INSIGHTS シュヴァイツ AG から Microsoft に提供される情
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -115,20 +104,21 @@ ARGUS DATA INSIGHTS シュヴァイツ AG から Microsoft に提供される情
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | 必要 |
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
-| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
+| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | 不要 |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
-| アプリはマルチテナントをサポートしていますか? | いいえ |
-| アプリに機密クライアントがありますか? | いいえ |
+| アプリはマルチテナントをサポートしていますか? | 不要 |
+| アプリに機密クライアントがありますか? | 不要 |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリは Web API を公開していますか? | 必要 |
-| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | 必要 |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリは Web API を公開していますか? | はい |
+| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

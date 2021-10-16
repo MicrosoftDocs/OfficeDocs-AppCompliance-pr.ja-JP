@@ -2,18 +2,18 @@
 title: Biggerbrains による BrainBot のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/28/2021
+ms.date: 04/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: BrainBot、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: aa9379b91d921edeb6c6a85a0756ba2017bd5fbb
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c6db3fdfd92513cd670fab84eecc4fa711a7449e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287516"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413083"
 ---
 # <a name="brainbot"></a>BrainBot
 
@@ -55,7 +55,7 @@ Biggerbrains から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | アプリケーション | 認証プロセスの一環 &amp; として、電子メール アドレスのフルネームを使用します。 また、電子メール アドレスは、ユーザーが 1 つを購読するときに、ユーザーに学習シーケンスを送信するために使用されます。 | 認証プロセスの一環 &amp; として、電子メール アドレスのフルネームを使用します。 また、電子メール アドレスは、ユーザーが 1 つを購読するときに、ユーザーに学習シーケンスを送信するために使用されます。 | [b256b34a-b377-4fc2-b25a-a8f5f0594e86](https://docs.microsoft.com/microsoft-365-app-certification/azure/b256b34a-b377-4fc2-b25a-a8f5f0594e86) |
 
@@ -91,7 +91,7 @@ Biggerbrains から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -118,7 +118,7 @@ Biggerbrains から Microsoft に提供される情報:
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | いいえ |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | 不要 |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
@@ -128,9 +128,10 @@ Biggerbrains から Microsoft に提供される情報:
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

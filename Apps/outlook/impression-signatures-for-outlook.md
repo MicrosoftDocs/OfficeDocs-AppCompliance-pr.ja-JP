@@ -2,18 +2,18 @@
 title: インプレッション署名別のインプレッション署名Outlookアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/02/2021
+ms.date: 10/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Outlook のインプレッション署名、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: f731ecc144d64db372bbc539a9961b05fc81ccc6
-ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
+ms.openlocfilehash: 66fca767e647970b1fbfa5447e687d66f724095f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60124035"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414261"
 ---
 # <a name="impression-signatures-for-outlook"></a>ユーザーのインプレッション署名Outlook
 
@@ -29,7 +29,7 @@ ms.locfileid: "60124035"
 
 インプレッション署名から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | ユーザーのインプレッション署名Outlook |
 | ID | WA200003199 |
@@ -53,7 +53,7 @@ ms.locfileid: "60124035"
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| openid | 両方とも | Auth データとディレクトリ データ。 | なし。 | [be181d9c-9060-40a0-a692-b29f2e314d16](https://docs.microsoft.com/microsoft-365-app-certification/azure/be181d9c-9060-40a0-a692-b29f2e314d16) |
 
@@ -90,17 +90,6 @@ ms.locfileid: "60124035"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -108,10 +97,11 @@ ms.locfileid: "60124035"
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 基準を処理する方法について、インプレッション署名によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

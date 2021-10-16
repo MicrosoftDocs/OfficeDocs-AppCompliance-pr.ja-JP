@@ -2,18 +2,18 @@
 title: リワード ゲートウェイによる Connect+ のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/25/2021
+ms.date: 06/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Connect+、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 573f6bbf833f08720b6ace0fe6d1f0b92bcc4a53
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: ff17f1dd70ce7d6a5e6c33ee325cda0e87a1e526
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284003"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414091"
 ---
 # <a name="connect"></a>Connect+
 
@@ -30,7 +30,7 @@ ms.locfileid: "59284003"
 
 リワード ゲートウェイから Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Connect+ |
 | ID | WA200002611 |
@@ -55,7 +55,7 @@ ms.locfileid: "59284003"
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| AppCatalog.Read.All | 委任 | データは収集されません | 各ユーザーの aadObjectId を保存して、少なくとも 1 回はアプリにログインしたと追跡できます。 | [5e4dadf5-9f90-449b-9e39-934fd10b7c23](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e4dadf5-9f90-449b-9e39-934fd10b7c23) |
 
@@ -89,7 +89,7 @@ ms.locfileid: "59284003"
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -120,3 +120,4 @@ ms.locfileid: "59284003"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

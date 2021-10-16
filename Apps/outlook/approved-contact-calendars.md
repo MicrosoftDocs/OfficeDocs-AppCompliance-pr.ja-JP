@@ -2,18 +2,18 @@
 title: 承認済み連絡先による承認済み連絡先予定表のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/10/2021
+ms.date: 05/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 承認済み連絡先カレンダー、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 49aac5c5b6544d9324243d704cfaad6dc7bd8732
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 19d7bdeab6ec2d8f3d9a490d74cb2d59020a8952
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286020"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414191"
 ---
 # <a name="approved-contact-calendars"></a>承認済みの連絡先の予定表
 
@@ -29,7 +29,7 @@ ms.locfileid: "59286020"
 
 Microsoft への承認済み連絡先によって提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | 承認済みの連絡先の予定表 |
 | ID | WA104380294 |
@@ -53,12 +53,12 @@ Microsoft への承認済み連絡先によって提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.ReadWrite | 委任 | Calendar BOT では、複数のユーザーの空き時間を見つけ出す空き時間をユーザーに保存しています。  | 空き時間情報を読んで比較し、会議をスケジュールします。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
 >| Contacts.Read | 委任 | はい、連絡先情報を保存します。 | 連絡先のインポートと同期。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
 >| User.Read | 委任 | はい | 基本的なプロファイル情報。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
->| User.ReadBasic.All | 委任 | いいえ | 同僚のプロファイルの表示、空き時間の比較、会議室のスケジュール設定に使用されます。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
+>| User.ReadBasic.All | 委任 | 不要 | 同僚のプロファイルの表示、空き時間の比較、会議室のスケジュール設定に使用されます。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
 >| offline_access | 委任 | はい、オフライン ユーザーの空き時間。 | ユーザー Graphがサイトをアクティブに使用しない場合は、ユーザーに電話してください。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
 >| openid | 委任 | いいえ | Office 365SSO。 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
 
@@ -111,7 +111,7 @@ Microsoft への承認済み連絡先によって提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、承認済み連絡先から提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -122,10 +122,11 @@ Microsoft への承認済み連絡先によって提供される情報:
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | いいえ |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリは Web API を公開していますか? | 不要 |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

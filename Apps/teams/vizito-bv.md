@@ -2,18 +2,18 @@
 title: Vizito BV による Vizito のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/23/2021
+ms.date: 08/25/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Vizito、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 7a21260abb9afb77c5a95cdc3499eda4179fba42
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e26770d2942ea4a687dab5f8f98e79a3163fa9b7
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285524"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414403"
 ---
 # <a name="vizito"></a>Vizito
 
@@ -30,7 +30,7 @@ ms.locfileid: "59285524"
 
 Vizito BV から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Vizito |
 | ID | WA200003170 |
@@ -55,7 +55,7 @@ Vizito BV から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | 両方とも | ボットがインストールされているテナントを確認するために、テナント ID を取得Teams保存します。 | テナント ID、ユーザー UPN、ユーザー ID、訪問者がサインインした後にユーザーにプロアクティブ メッセージを送信するユーザー名。 | [b6e2ef19-7612-4ab7-a700-9669d49b88b9](https://docs.microsoft.com/microsoft-365-app-certification/azure/b6e2ef19-7612-4ab7-a700-9669d49b88b9) |
 
@@ -65,7 +65,7 @@ Vizito BV から Microsoft に提供される情報:
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Teamsにサインインするときに、ユーザーにプロアクティブ メッセージを送信するボット API を使用します。 | いいえ |  |  |  |  |
+>| Teamsにサインインするときに、ユーザーにプロアクティブ メッセージを送信するボット API を使用します。 | 不要 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -104,17 +104,6 @@ Vizito BV から Microsoft に提供される情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -122,10 +111,11 @@ Vizito BV から Microsoft に提供される情報:
 
 この情報は、Vizito BV によって、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Id 条件を処理する方法について提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: KBE による researcHR のアプリケーション&#26666;&#24335;&#20250;&#31038;
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/05/2021
+ms.date: 08/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: researcHR、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b57d492945766c8d65417cf2f1d642ea4ecb8aae
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: bc174eb69b69cdf2d04c27bc4649f18111d87811
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284011"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412807"
 ---
 # <a name="researchr"></a>researcHR
 
@@ -30,7 +30,7 @@ ms.locfileid: "59284011"
 
 KBE によって提供される情報&#26666;&#24335;&#20250;&#31038; Microsoft に提供されます。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | researcHR |
 | ID | WA200002557 |
@@ -55,14 +55,14 @@ KBE によって提供される情報&#26666;&#24335;&#20250;&#31038; Microsoft 
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Channel.Create | アプリケーション | このスコープを使用して、ボットがクライアント上に新しいチャネルを作成Teamsします。 参照: https://docs.microsoft.com/en-us/graph/api/channel-post | これらのデータはデータベースに保存されません。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 >| Directory.Read.All | アプリケーション | このスコープを使用して、チャネルの ID と名前を取得して、これらのデータを Web サイトに表示します。 参照: https://docs.microsoft.com/en-us/graph/api/channel-list | これらのデータはデータベースに保存されません。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 >| Group.Read.All | アプリケーション | このスコープを使用して、チャネルの ID と名前を取得して、これらのデータを Web サイトに表示します。 参照: https://docs.microsoft.com/en-us/graph/api/channel-list | これらのデータはデータベースに保存されません。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 >| Team.ReadBasic.All | アプリケーション | このスコープを使用してチームのメンバーを取得し、ユーザーが自分のチーム メンバーを Web サイトで表示できます。 参照: https://docs.microsoft.com/en-us/graph/api/group-list-members | これらのデータは、アウト データベースに保存されません。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 >| User.Read.All | アプリケーション | このスコープを使用して、ユーザーの参加チャネルを取得し、ユーザーが参加しているチームを Web サイトで確認できます。 参照: https://docs.microsoft.com/en-us/graph/api/user-list-joinedteams | これらのデータはデータベースに保存されません。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| User.ReadBasic.All | 委任 | このスコープを使用して、OAuth ログインを有効にし、ユーザーの AAD ID、アクセス トークン、および更新トークンを収集します。 参照: https://docs.microsoft.com/en-us/graph/auth-v2-user | ユーザーが OAuth を使用して Web サイトにログインできるよう、ユーザーの AAD ID、アクセス トークン、および更新トークンをデータベースに保存します。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
+>| User.ReadBasic.All | 委任 | このスコープを使用して、OAuth ログインを有効にし、ユーザーの id、アクセス トークンAAD更新トークンを収集します。 参照: https://docs.microsoft.com/en-us/graph/auth-v2-user | ユーザーが OAuth を使用して web サイトにログインAAD ID、アクセス トークン、および更新トークンをデータベースに保存します。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 >| offline_access | 委任 | このスコープを使用して更新トークンを取得し、ユーザー操作なしで認証されたユーザーのアクセス トークンを更新できます。 参照: https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent#offline_access | 更新トークンはデータベースに保存され、ユーザー操作なしでアクセス トークンを更新できます。 | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 
 
@@ -95,23 +95,12 @@ KBE によって提供される情報&#26666;&#24335;&#20250;&#31038; Microsoft 
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -119,10 +108,11 @@ KBE によって提供される情報&#26666;&#24335;&#20250;&#31038; Microsoft 
 
 この情報は、このアプリが認証、承認&#26666;&#24335;&#20250;&#31038; アプリケーション登録のベスト プラクティス、その他の Id の条件を処理する方法に関する KBE によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Hibob Inc. による Hibob のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 11/13/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Hibob のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9168d876cfdf6abc2839311d3820ec8a024f29d1
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b6eaaa5c8e9b7a707bdd88b965964089c5dce472
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285828"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412366"
 ---
 # <a name="hibob"></a>Hibob
 
@@ -30,7 +30,7 @@ ms.locfileid: "59285828"
 
 Hibob Inc. から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Hibob |
 | ID | WA200000765 |
@@ -91,7 +91,7 @@ Hibob Inc. から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -108,4 +108,5 @@ Hibob Inc. から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

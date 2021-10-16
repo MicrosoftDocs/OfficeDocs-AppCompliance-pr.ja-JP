@@ -2,18 +2,18 @@
 title: Yucca Technologies GmbH による yuccaHR のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/05/2021
+ms.date: 09/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: yuccaHR、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: f8c41d6300413db28561f03a71d62c48e52bb63f
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: f97ff60095ef47effd6e1e4c741a5cecaba0c594
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785684"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412677"
 ---
 # <a name="yuccahr"></a>yuccaHR
 
@@ -30,7 +30,7 @@ ms.locfileid: "59785684"
 
 Yucca Technologies GmbH から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | yuccaHR |
 | ID | WA200003242 |
@@ -54,7 +54,7 @@ Yucca Technologies GmbH から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.ReadWrite | アプリケーション |  無料のスロットに基づいて、2 人の従業員を知り合う予定を作成します。  | - | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
 >| Channel.ReadBasic.All | アプリケーション | キャンペーンの構成。 (従業員のネットワーク) | ObjectId。 チャネル リソースを要求する。 | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
@@ -76,7 +76,7 @@ Yucca Technologies GmbH から Microsoft に提供される情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 空きタイムスロットの検索をスケジュールする電子メールを使用する。 | いいえ |  |
+>| 空きタイムスロットの検索をスケジュールする電子メールを使用する。 | 不要 |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -101,17 +101,6 @@ Yucca Technologies GmbH から Microsoft に提供される情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -122,9 +111,9 @@ Yucca Technologies GmbH から Microsoft に提供される情報:
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | 必要 |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | いいえ |
@@ -138,3 +127,4 @@ Yucca Technologies GmbH から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

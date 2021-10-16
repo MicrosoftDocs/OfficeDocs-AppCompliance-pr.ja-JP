@@ -2,18 +2,18 @@
 title: Sociabble による Sociabble のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/30/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Sociabble、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 5991267fc01ca4d863740581c641ac8b72e10cdf
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: dce254fa069e7a7d5c57de6de184fe65562f9f9d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286355"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414051"
 ---
 # <a name="sociabble"></a>Sociabble
 
@@ -30,7 +30,7 @@ ms.locfileid: "59286355"
 
 Sociabble が Microsoft に提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Sociabble |
 | ID | WA104381258 |
@@ -65,9 +65,9 @@ Sociabble が Microsoft に提供する情報:
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Azure 翻訳ツール | いいえ |  |  |  |  |
 >| Azure Text Analytics | いいえ |  |  |  |  |
->| Azure コンテンツ モデレーター | いいえ |  |  |  |  |
+>| Azure コンテンツ モデレーター | 不要 |  |  |  |  |
 >| Azure Computer Vision | いいえ |  |  |  |  |
->| Azure Bing検索 | いいえ |  |  |  |  |
+>| Azure Bing検索 | 不要 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -106,17 +106,6 @@ Sociabble が Microsoft に提供する情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -129,7 +118,7 @@ Sociabble が Microsoft に提供する情報:
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
@@ -144,3 +133,4 @@ Sociabble が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

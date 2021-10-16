@@ -2,18 +2,18 @@
 title: LiveTiles によるリーチのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/22/2021
+ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Reach で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d188c61f6f87dbe528219d82f1b58477b184da8a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 81e9414b73aef445a14aada037e4b233bbeb7aae
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287460"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414573"
 ---
 # <a name="reach"></a>Reach
 
@@ -55,7 +55,7 @@ LiveTiles から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| TeamsActivity.Send | アプリケーション | none | none | [a7c1920d-3ac0-42db-9757-078a2b321fd8 ](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7c1920d-3ac0-42db-9757-078a2b321fd8 ) |
 >| User.Read | 委任 | ユーザーの DisplayName、ユーザーの電子メール アドレス、UPN。 ユーザーがアプリにサインインし、サインインしているユーザーの基本情報 (表示名など) を取得するために必要です。 電子メール アドレスは、電子メール通知の送信に使用されます。  | ユーザーの DisplayName、ユーザーの電子メール アドレス、UPN。 ユーザーがアプリにサインインし、サインインしているユーザーの基本情報 (表示名など) を取得するために必要です。 電子メール アドレスは、電子メール通知の送信に使用されます。  | [d492530a-8cff-481c-90da-9c3c3f1be7da](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da) |
@@ -122,7 +122,7 @@ LiveTiles から Microsoft に提供される情報:
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | いいえ |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | 不要 |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | 多要素認証、ユーザーの場所と IP 範囲の制限 |
@@ -140,3 +140,4 @@ LiveTiles から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

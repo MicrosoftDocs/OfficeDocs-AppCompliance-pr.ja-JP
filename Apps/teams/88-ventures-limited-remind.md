@@ -2,18 +2,18 @@
 title: 88 Ventures Limited による Remind のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/28/2020
+ms.date: 08/18/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: リ通知、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f39e0c35b88e3212743e30c7ab5ac40c74c708c3
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e44cb7a148a9cd1c6a1b1c497863eaced9259f41
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284172"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412006"
 ---
 # <a name="remind"></a>Remind
 
@@ -30,7 +30,7 @@ ms.locfileid: "59284172"
 
 88 Ventures Limited to Microsoft が提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Remind |
 | ID | WA200001444 |
@@ -54,7 +54,7 @@ ms.locfileid: "59284172"
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.Read.All | 委任 | データベースに格納されている情報がない | 管理者は、パブリック アラームを設定したユーザーの組織のユーザー ディレクトリを参照できます。 | [88546d4f-9973-4716-98e4-cd181c04bc2d](https://docs.microsoft.com/microsoft-365-app-certification/azure/88546d4f-9973-4716-98e4-cd181c04bc2d) |
 
@@ -90,7 +90,7 @@ ms.locfileid: "59284172"
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -107,4 +107,5 @@ ms.locfileid: "59284172"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

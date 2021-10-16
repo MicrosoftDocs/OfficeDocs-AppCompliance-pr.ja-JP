@@ -2,18 +2,18 @@
 title: inLogic-Studi.ly ストア別のアプリケーションOffice情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/24/2020
+ms.date: 06/18/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Studi.ly、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d682e758d9632a2c3ac19296dda7083dc8379689
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 9b84ab2d874bd4c6aab3b8e2c306b5bbc0e8da68
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289067"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412937"
 ---
 # <a name="studily"></a>Studi.ly
 
@@ -30,7 +30,7 @@ ms.locfileid: "59289067"
 
 InLogic-Officeストアから Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Studi.ly |
 | ID | WA200001668 |
@@ -54,7 +54,7 @@ InLogic-Officeストアから Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.ReadWrite | 委任 | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 |  | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
 >| Directory.Read.All | 委任 | 教育 API のクラス、学校、メンバー、用語の情報を API に保存しています。また、アプリケーションの動作が遅くなるグラフ API から毎回取得する場合に必要です。教育 API からデータベースへの時間ベースのイベントで同期します。 | 割り当てと資料のグループにディレクトリを記述します。 | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
@@ -100,7 +100,7 @@ InLogic-Officeストアから Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -117,4 +117,5 @@ InLogic-Officeストアから Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

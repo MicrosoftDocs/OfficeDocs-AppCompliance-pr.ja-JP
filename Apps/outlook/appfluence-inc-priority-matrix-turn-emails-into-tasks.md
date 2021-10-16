@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Priority Matrix で使用可能なすべてのセキュリティおよびコンプライアンス情報 - CSA STAR レジストリのタスク、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に電子メールを変換します。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 26eb40120926c63d7514ffdde02623ee86d0477d
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b175c992f970dfa2477f549f88be6a4db905f217
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286027"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414201"
 ---
 # <a name="priority-matrix---turn-emails-into-tasks"></a>優先度マトリックス - メールをタスクに変換する
 
@@ -52,7 +52,7 @@ Appfluence Inc から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.Read | 委任 | 新しいユーザーがアカウントに追加された場合にのみ、メールを保存します。 | 新しいアカウントの作成では、これを使用して他のチーム メンバーを提案します。 | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
 >| User.ReadBasic.All | 委任 | 新しいユーザーがアカウントに追加された場合にのみ、メールを保存します。 | 新しいアカウントの作成では、これを使用して他のチーム メンバーを提案します。 | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
@@ -89,7 +89,7 @@ Appfluence Inc から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -133,3 +133,4 @@ Appfluence Inc から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

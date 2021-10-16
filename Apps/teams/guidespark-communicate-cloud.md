@@ -1,45 +1,45 @@
 ---
-title: GamaLearn による SwiftAssess のアプリケーション情報
+title: GuideSpark のアプリケーション情報 GuideSpark によるクラウドの通信
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/20/2021
+ms.date: 10/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: SwiftAssess、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: GuideSpark Communicate Cloud、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 76d09cfb5442cc0ad635561026c782e23c7f85d6
+ms.openlocfilehash: becc848dde742ac9f9b66d634f687219e3600353
 ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/16/2021
-ms.locfileid: "60415114"
+ms.locfileid: "60412266"
 ---
-# <a name="swiftassess"></a>SwiftAssess
+# <a name="guidespark-communicate-cloud"></a>GuideSpark 通信クラウド
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 8 月 3 日</p>
+<p>開発者が最終更新日: 2021 年 10 月 13 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/0cd07157-f297-4c2c-a23b-64577bceea6c" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001973" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/34b870ca-2417-4660-b835-ebb18ee7ccf9" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003348" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-GamaLearn から Microsoft に提供される情報:
+GuideSpark から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | SwiftAssess |
-| ID | WA200001973 |
+| アプリ名 | GuideSpark 通信クラウド |
+| ID | WA200003348 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | GamaLearn |
-| パートナー Web サイトの URL | [https://gamalearn.com](https://gamalearn.com) |
-| [アプリケーション情報Teamsページの URL | [https://swiftassess.com/about/partners/microsoft#Teams](https://swiftassess.com/about/partners/microsoft#Teams) |
-| プライバシー ポリシーの URL | [https://www.gamalearn.com/Resources/Privacy.pdf](https://www.gamalearn.com/Resources/Privacy.pdf) |
-| 利用規約の URL | [https://swiftassess.com/terms-and-conditions](https://swiftassess.com/terms-and-conditions) |
+| パートナー会社名 | GuideSpark |
+| パートナー Web サイトの URL | [https://guidespark.com](https://guidespark.com) |
+| [アプリケーション情報Teamsページの URL | [https://www.guidespark.com/change-communications-software/](https://www.guidespark.com/change-communications-software/) |
+| プライバシー ポリシーの URL | [https://www.guidespark.com/privacy-policy/](https://www.guidespark.com/privacy-policy/) |
+| 利用規約の URL | [https://www.guidespark.com/terms/](https://www.guidespark.com/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +49,7 @@ GamaLearn から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する GamaLearn によって提供されています。
+この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する GuideSpark によって提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
@@ -81,7 +81,7 @@ GamaLearn から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->削除、保持、アーカイブ、監査
+>GuideSpark はパートナーのデータにアクセスしない。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -98,22 +98,11 @@ GamaLearn から Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について GamaLearn によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Id 条件を処理する方法について GuideSpark によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
-| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
-| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
-| アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | いいえ |
-| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | 不要 |
-| アプリで非推奨の API を使用していますか? | いいえ |
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

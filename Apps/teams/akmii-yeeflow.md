@@ -2,18 +2,18 @@
 title: Akmii による Yeeflow のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/25/2020
+ms.date: 01/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Yeeflow のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: be7c69f2f08c4e8710499a0cf831fe020e69d86f
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: f9bbd85e5fca9b96f95a8fd5075968e4250b1fc3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287108"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412597"
 ---
 # <a name="yeeflow"></a>Yeeflow
 
@@ -30,7 +30,7 @@ ms.locfileid: "59287108"
 
 Akmii から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Yeeflow |
 | ID | WA200000089 |
@@ -133,3 +133,4 @@ Akmii から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

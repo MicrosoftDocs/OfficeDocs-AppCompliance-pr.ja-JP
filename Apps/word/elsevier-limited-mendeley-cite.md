@@ -2,18 +2,18 @@
 title: ELSEVIER LIMITED による Mendeley Cite のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/05/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Mendeley Cite、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e6fd3ba9f600549aba80beb00738c6bd529eb18b
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3ea90c96be3257c18c7a56400decbf16d201a743
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287755"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414332"
 ---
 # <a name="mendeley-cite"></a>Mendeley Cite
 
@@ -61,7 +61,7 @@ MICROSOFT に限定される ELSEVIER によって提供される情報:
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Word JavaScript API | いいえ |  |  |  |  |
+>| Word JavaScript API | 不要 |  |  |  |  |
 >| Officeアドイン JavaScript API | いいえ |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -119,3 +119,4 @@ MICROSOFT に限定される ELSEVIER によって提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

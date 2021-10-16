@@ -2,18 +2,18 @@
 title: BeesApps による Beesy のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/06/2020
+ms.date: 01/31/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Beesy で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ff8d420d7ea17219b2c94e9e9ac6bf4b8fa4efcb
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2d6c04408ab08da89a858987981beb3fafc30229
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288763"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411856"
 ---
 # <a name="beesy"></a>Beesy
 
@@ -30,7 +30,7 @@ ms.locfileid: "59288763"
 
 BeesApps から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Beesy |
 | ID | WA200001248 |
@@ -54,9 +54,9 @@ BeesApps から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | 委任 | UPN ID を保存して、AAD トークンを介してアカウントがシステムに存在しないか確認して与えられた ID を比較します。 | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインを有効にする | [d27f56ed-ddc7-4cf8-86ac-721b76c7d287](https://docs.microsoft.com/microsoft-365-app-certification/azure/d27f56ed-ddc7-4cf8-86ac-721b76c7d287) |
+>| User.Read | 委任 | UPN ID を保存して、アカウントがシステムに存在AADトークンを使用して要求することで、与えられた ID を比較します。 | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインを有効にする | [d27f56ed-ddc7-4cf8-86ac-721b76c7d287](https://docs.microsoft.com/microsoft-365-app-certification/azure/d27f56ed-ddc7-4cf8-86ac-721b76c7d287) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -107,4 +107,5 @@ BeesApps から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

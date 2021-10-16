@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Office2SharePoint で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 44af14446f5f5fcf9a3e4c14856f8dd85d2b3fe0
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+zone_pivot_groups: app-info-data-mcas-identity-certification
+ms.openlocfilehash: 4597a2127cab82a6636af23183e4b662d1b8bd77
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59438244"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413138"
 ---
 # <a name="office2sharepoint"></a>Office2SharePoint
 
@@ -51,7 +51,7 @@ iGlobe から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.AccessAsUser.All | 委任 | アプリケーション データベースにデータは格納されません。 | サインインしているユーザーと同じように、アプリでディレクトリ内の情報にアクセスできるようにします。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
 >| Directory.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | アクセス許可を確認し、サイトとリストを取得します。 フォルダーを作成し、ファイルを取得し、ファイルを保存します。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
@@ -72,10 +72,10 @@ iGlobe から Microsoft に提供される情報:
 >| Exchange - EWS。AccessAsUser.All | いいえ |  |  |  |  |
 >| Exchange - Mail.ReadWrite | いいえ |  |  |  |  |
 >| Exchange - MailboxSettings.ReadWrite | いいえ |  |  |  |  |
->| SharePoint- AllSites.Manage | いいえ |  |  |  |  |
->| SharePoint - AllSites.Write | いいえ |  |  |  |  |
->| SharePoint - MyFiles.Write | いいえ |  |  |  |  |
->| SharePoint - User.Read.All | いいえ |  |  |  |  |
+>| SharePoint- AllSites.Manage | 不要 |  |  |  |  |
+>| SharePoint - AllSites.Write | 不要 |  |  |  |  |
+>| SharePoint - MyFiles.Write | 不要 |  |  |  |  |
+>| SharePoint - User.Read.All | 不要 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -137,9 +137,46 @@ iGlobe から Microsoft に提供される情報:
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
-| アプリで非推奨の API を使用していますか? | いいえ |
+| アプリは Web API を公開していますか? | 不要 |
+| アプリでプレビュー API を使用していますか? | 不要 |
+| アプリで非推奨の API を使用していますか? | 不要 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>認定情報
+
+| **Control** | **Microsoft 365認定結果** |
+|:------------|:---------------------------------------|
+| [**アプリケーション のセキュリティ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **該当なし** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入テスト | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性評価レビュー (DAST/SAST/侵入テスト) | 該当なし |
+| [**運用上のセキュリティ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **該当なし** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア保護 - ウイルス対策 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア保護 - アプリケーション制御 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - リスクランキング | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - パッチ適用 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性スキャン | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - ファイアウォール (または同等のテクノロジ) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - Web アプリケーション ファイアウォール (WAF) (オプション) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;変更コントロール | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secure Software Development/Deployment | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;アカウント管理 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入の検出と防止 (オプション) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント ログ | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;レビュー (ログ データ) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベントの警告 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;情報セキュリティリスク管理 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;インシデント対応 | 該当なし |
+| [**データ処理の &amp; セキュリティプライバシー**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **該当なし** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;転送中のデータ | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;保存中のデータ | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データの保持と廃棄 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データ アクセスの管理 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | N/A |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -2,18 +2,18 @@
 title: Zoho Corporation Private Limited による Zoho Sign のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Zoho Sign、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f164b4afadb0d85971cdaa40ab1bb43828ecb290
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 9841df652531e49025ed8021527c6da1dd77d8a3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284915"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413248"
 ---
 # <a name="zoho-sign"></a>Zoho Sign
 
@@ -30,7 +30,7 @@ ms.locfileid: "59284915"
 
 Zoho Corporation Private Limited to Microsoft から提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Zoho Sign |
 | ID | WA104382011 |
@@ -55,7 +55,7 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Contacts.ReadWrite | 委任 |  | ユーザーの連絡先にフル アクセスできます。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| Contacts.ReadWrite.Shared | 委任 |  | ユーザーおよび共有連絡先の読み取りおよび書き込み。 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
@@ -109,4 +109,5 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

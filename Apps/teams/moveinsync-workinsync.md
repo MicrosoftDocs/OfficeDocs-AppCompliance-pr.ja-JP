@@ -2,18 +2,18 @@
 title: MoveInSync による WorkInSync のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/01/2021
+ms.date: 09/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: WorkInSync で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: c3976dcaddcc5121b58cd65836b19df1f057e79b
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 746a7b7c52d8905aaf65d86bc0f15202f486eb82
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287851"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413659"
 ---
 # <a name="workinsync"></a>WorkInSync
 
@@ -30,7 +30,7 @@ ms.locfileid: "59287851"
 
 MoveInSync から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | WorkInSync |
 | ID | WA200002974 |
@@ -55,7 +55,7 @@ MoveInSync から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Directory.Read.All | 委任 | 1. 推移的なグループ メンバーの詳細を取得します。 チャネル コンテキストにインストールされている場合は、[チーム アクティビティ] タブで使用されます。 2. 組織内のユーザーのログイン ユーザー プロファイルの &amp;  詳細一覧を取得します。 これらは、個人のコンテキストで [チーム アクティビティ] タブがインストールされている場合に使用されます。ユーザー API が失敗した場合にチームメイトのプレビューを表示するためにフォール バックとして使用されます (Outlook 以外のユーザー) | なし | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
 >| People.Read | 委任 | ログインしているユーザーに最も関連のあるユーザーを [チーム アクティビティ] タブに表示するには、個人コンテキストにインストールされます。 | なし | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
@@ -81,7 +81,7 @@ MoveInSync から Microsoft に提供される情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 1. 従業員の電子メール アドレス (ユーザー原則名) を読み取り、WorkInSync の登録済みユーザーの一覧と一致します。  | いいえ |  |
+>| 1. 従業員の電子メール アドレス (ユーザー原則名) を読み取り、WorkInSync の登録済みユーザーの一覧と一致します。  | 不要 |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -100,23 +100,12 @@ MoveInSync から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -124,7 +113,7 @@ MoveInSync から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について MoveInSync によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -144,3 +133,4 @@ MoveInSync から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
