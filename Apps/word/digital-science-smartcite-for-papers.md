@@ -2,18 +2,18 @@
 title: デジタル サイエンスによる SmartCite for Papers のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/29/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SmartCite for Papers で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f039eb5f2fd2cedc6110e380a5830a71472d600e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: ec979feae01a67ca76dd5b5cfbb94eabac946c9a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59283923"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60404659"
 ---
 # <a name="smartcite-for-papers"></a>SmartCite for Papers
 
@@ -61,7 +61,7 @@ ms.locfileid: "59283923"
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| ダイアログ API、Word API | いいえ |  |  |  |  |
+>| ダイアログ API、Word API | 不要 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -111,10 +111,11 @@ ms.locfileid: "59283923"
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法についてデジタル サイエンスによって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

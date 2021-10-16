@@ -2,18 +2,18 @@
 title: ファイル ファブリックのアプリケーション情報 (Storage簡単)
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/30/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: File Fabric、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 3070723eecc0e7dda11aff31da6b20a785f558b5
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2e81f8d41c8efeca13c837abf30b449d70850788
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287315"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60406266"
 ---
 # <a name="file-fabric"></a>File Fabric
 
@@ -30,7 +30,7 @@ ms.locfileid: "59287315"
 
 Microsoft が簡単Storage提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | File Fabric |
 | ID | WA200003017 |
@@ -55,7 +55,7 @@ Microsoft が簡単Storage提供する情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Files.ReadWrite | アプリケーション | ユーザーがアプリを介して指定したファイルをダウンロード、アップロード、または編集するときに、ファイル データの読み取りまたは書き込み。 | ファイル データは保存されません。 | [0752d800-857f-49bd-87eb-e60985516c67](https://docs.microsoft.com/microsoft-365-app-certification/azure/0752d800-857f-49bd-87eb-e60985516c67) |
 >| Sites.ReadWrite.All | アプリケーション | すべてのユーザーに対して収集&#8217;ファイルとフォルダーを使用して、すべてのファイル サービス全体でフェデレーション ビューを提供します。 | 高速な閲覧と検索を提供するためにキャッシュされたメタデータ。 | [0752d800-857f-49bd-87eb-e60985516c67](https://docs.microsoft.com/microsoft-365-app-certification/azure/0752d800-857f-49bd-87eb-e60985516c67) |
@@ -67,7 +67,7 @@ Microsoft が簡単Storage提供する情報:
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Azure Blob Storage | はい | オブジェクトのメタデータとデータ | すべてのユーザーに対して収集&#8217;ファイルとフォルダーを使用して、すべてのファイル サービス全体でフェデレーション ビューを提供します。 ユーザーがアプリを通じて指定したオブジェクトをダウンロード、アップロード、または編集するときに、オブジェクトの読み取りまたは書き込み。 | オブジェクト のメタデータが格納される | 高速な閲覧と検索を提供するためにキャッシュされたメタデータ。 |
->| Web 用 Office | いいえ |  |  |  |  |
+>| Web 用 Office | 不要 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -106,17 +106,6 @@ Microsoft が簡単Storage提供する情報:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -124,7 +113,7 @@ Microsoft が簡単Storage提供する情報:
 
 この情報は、このアプリが認証Storage、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について、簡単に説明しました。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -138,9 +127,10 @@ Microsoft が簡単Storage提供する情報:
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
