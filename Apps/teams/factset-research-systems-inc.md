@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ファクトセット、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b869bbdddf3d7502aa9d174d5cb1a838f8ca7f8e
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 245dddee9481731821fd5aefa829937b8eab4951
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411031"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428089"
 ---
 # <a name="factset"></a>FactSet
 
@@ -30,7 +30,7 @@ ms.locfileid: "60411031"
 
 FactSet Research Systems Inc. から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | FactSet |
 | ID | WA200002146 |
@@ -110,4 +110,3 @@ FactSet Research Systems Inc. から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

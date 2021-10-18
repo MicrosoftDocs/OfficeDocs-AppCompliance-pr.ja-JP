@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Tactileo、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5c341b5c35b5fa8f1cac612c1f29f36b196e9b96
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 536c9721f00085a5095ae8dd4d643d7a76e4befa
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412206"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428019"
 ---
 # <a name="tactileo"></a>Tactileo
 
@@ -30,7 +30,7 @@ ms.locfileid: "60412206"
 
 Maskott が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Tactileo |
 | ID | WA200002624 |
@@ -63,7 +63,7 @@ Maskott が Microsoft に提供する情報:
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| API REST | いいえ |  |  |  |  |
+>| API REST | 不要 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -129,4 +129,3 @@ Maskott が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

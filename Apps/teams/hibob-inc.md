@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Hibob のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b6eaaa5c8e9b7a707bdd88b965964089c5dce472
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: b4caa166e958d71b9a0f7105874761dc330563f8
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412366"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428270"
 ---
 # <a name="hibob"></a>Hibob
 
@@ -30,7 +30,7 @@ ms.locfileid: "60412366"
 
 Hibob Inc. から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Hibob |
 | ID | WA200000765 |
@@ -108,5 +108,4 @@ Hibob Inc. から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

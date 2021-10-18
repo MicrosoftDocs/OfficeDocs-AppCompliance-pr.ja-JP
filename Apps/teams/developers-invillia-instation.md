@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: InStation で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 33ef3024f1b0e9b70cb6445e28c71ee1f6de22be
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 71210aafa0ff6cd960e69f64e10e735fa225660e
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411775"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60426819"
 ---
 # <a name="instation"></a>InStation
 
@@ -30,7 +30,7 @@ ms.locfileid: "60411775"
 
 開発者 Invillia から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | InStation |
 | ID | WA200001701 |
@@ -114,5 +114,4 @@ ms.locfileid: "60411775"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

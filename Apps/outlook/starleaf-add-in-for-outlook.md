@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Outlook の StarLeaf アドインで使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a47dfedd6354fae038e4fbcc3ed768866fd8aec2
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: abf5b74e015e427d90ddaabee09a51846261f4cc
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413519"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60427909"
 ---
 # <a name="starleaf-add-in-for-outlook"></a>StarLeaf アドイン for Outlook
 
@@ -102,5 +102,4 @@ StarLeaf から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

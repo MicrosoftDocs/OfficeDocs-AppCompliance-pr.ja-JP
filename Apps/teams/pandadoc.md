@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: PandaDoc で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8d3a04daba9ebcbcf435f46beb6313c22310fe22
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 4119b4540bd4326be32adb8a8f0b6bc999cb20c1
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60408982"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60427959"
 ---
 # <a name="pandadoc"></a>PandaDoc
 
@@ -30,7 +30,7 @@ ms.locfileid: "60408982"
 
 PandaDoc が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | PandaDoc |
 | ID | WA200002927 |
@@ -86,7 +86,7 @@ PandaDoc が Microsoft に提供する情報:
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| PandaDoc API | いいえ |  |  |  |  |
+>| PandaDoc API | 不要 |  |  |  |  |
 >| MS Graph | いいえ |  |  |  |  |
 >| Elementor | 不要 |  |  |  |  |
 
@@ -151,8 +151,8 @@ PandaDoc が Microsoft に提供する情報:
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
-| アプリはマルチテナントをサポートしていますか? | 不要 |
-| アプリに機密クライアントがありますか? | いいえ |
+| アプリはマルチテナントをサポートしていますか? | いいえ |
+| アプリに機密クライアントがありますか? | 不要 |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/> |
 | アプリは Web API を公開していますか? | いいえ |
@@ -162,4 +162,3 @@ PandaDoc が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

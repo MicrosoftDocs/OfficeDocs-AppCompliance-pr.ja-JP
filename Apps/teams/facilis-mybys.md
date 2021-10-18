@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Mybys で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e76ab0d8c6c261bc36d821398c324387460a316f
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 2e8d8adc26700cf71f5d3fa74c7890dda8176cad
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411041"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428099"
 ---
 # <a name="mybys"></a>Mybys
 
@@ -30,7 +30,7 @@ ms.locfileid: "60411041"
 
 Facilis が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Mybys |
 | ID | WA200002605 |
@@ -70,7 +70,7 @@ Facilis が Microsoft に提供する情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| ユーザーの名前を取得する必要があります。 | いいえ |  |
+>| ユーザーの名前を取得する必要があります。 | 不要 |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -120,4 +120,3 @@ Facilis が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

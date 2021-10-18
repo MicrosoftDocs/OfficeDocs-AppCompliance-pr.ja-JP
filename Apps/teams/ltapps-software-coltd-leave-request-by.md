@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: LTAPPs による Leave Request、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4202639a726a320c311b5093ab8e6547d9b39306
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 96ee7b8fe57de18d05dab5593cc37ba8a5e33f6a
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411612"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428029"
 ---
 # <a name="leave-request-by-ltapps"></a>Leave Request by LTAPPs
 
@@ -30,7 +30,7 @@ ms.locfileid: "60411612"
 
 LTAPPs SOFTWARE CO.,LTD から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Leave Request by LTAPPs |
 | ID | WA200001928 |
@@ -90,7 +90,7 @@ Rest API が Azure アプリ登録を使用して認証をSharePointクライア
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -107,5 +107,4 @@ Rest API が Azure アプリ登録を使用して認証をSharePointクライア
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

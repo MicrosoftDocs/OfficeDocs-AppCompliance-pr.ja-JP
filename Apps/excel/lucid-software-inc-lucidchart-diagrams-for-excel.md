@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Excel の Lucidchart Diagrams、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3ff6b23fcb2f771ebfee071bc9140cccb76eed35
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 15bd4e8005ea8df4e372ad097ca4dd6a6f0d81b6
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60415254"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60427919"
 ---
 # <a name="lucidchart-diagrams-for-excel"></a>Lucidchart ダイアグラム for Excel
 
@@ -93,7 +93,7 @@ Lucid Software Inc から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -110,5 +110,4 @@ Lucid Software Inc から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

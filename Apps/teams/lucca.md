@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Lucca で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 61f53fe653ebce1a833005082c8254392e61b2c1
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: c0ca2e6c6d07dd80afff02a4d9e5081e55633637
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411602"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60423169"
 ---
 # <a name="lucca"></a>Lucca
 
@@ -30,7 +30,7 @@ ms.locfileid: "60411602"
 
 Lucca から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Lucca |
 | ID | WA200001650 |
@@ -95,7 +95,7 @@ Lucca から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->不要
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -115,4 +115,3 @@ Lucca から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

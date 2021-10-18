@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: OLIVE VLE、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 9c94d52ef9e2c233eeb054d3b52a6175ccf235ea
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: c7e685ad2762eb2b6849098737d93c671e2131e2
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412847"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60427969"
 ---
 # <a name="olive-vle"></a>OLIVE VLE
 
@@ -30,7 +30,7 @@ ms.locfileid: "60412847"
 
 OliveGroup から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | OLIVE VLE |
 | ID | WA200003331 |
@@ -99,11 +99,10 @@ OliveGroup から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について OliveGroup によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

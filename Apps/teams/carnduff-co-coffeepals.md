@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CoffeePals で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b88028bd31f6ad32b8c0007644fa407a0d968604
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 67ef18f421c6934a7f03d774e607884152da76ea
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60415194"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60427159"
 ---
 # <a name="coffeepals"></a>CoffeePals
 
@@ -122,4 +122,3 @@ Carnduff Co から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ポーリング、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8d0e51f92a6daa2b4d9e305cefad6c5db8c83f34
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 7252810e32fe378c79d1e4cacb075de5e5b20c89
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60408616"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60423134"
 ---
 # <a name="polly"></a>Polly
 
@@ -30,7 +30,7 @@ ms.locfileid: "60408616"
 
 Polly が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Polly |
 | ID | WA104381060 |
@@ -101,5 +101,4 @@ Polly が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

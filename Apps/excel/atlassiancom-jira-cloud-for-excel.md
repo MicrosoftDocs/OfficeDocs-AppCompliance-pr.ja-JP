@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Jira Cloud for Excel、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8147e1c318502d2eefad376d6df263172a0577a2
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: a09523899c3d8c16174e29594c772ada9a751aa7
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410751"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428209"
 ---
 # <a name="jira-cloud-for-excel"></a>Jira Cloud for Excel
 
@@ -114,5 +114,4 @@ Cookie コントロールをオフにする: 関連するブラウザー ベー�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

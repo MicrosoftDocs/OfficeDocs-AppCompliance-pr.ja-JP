@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SuperBeings で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 22b42969049261c0456cd6ce842f64255b907423
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: d16100c156419c55e199268168cfb9d667e00802
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411655"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430476"
 ---
 # <a name="superbeings"></a>SuperBeings
 
@@ -30,7 +30,7 @@ ms.locfileid: "60411655"
 
 Haptivity Technologies Pvt Ltd から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | SuperBeings |
 | ID | WA200003246 |
@@ -63,7 +63,7 @@ Haptivity Technologies Pvt Ltd から Microsoft に提供される情報:
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| https://api.botframework.com/.default | いいえ |  |  |  |  |
+>| https://api.botframework.com/.default | 不要 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -118,4 +118,3 @@ Haptivity Technologies Pvt Ltd から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

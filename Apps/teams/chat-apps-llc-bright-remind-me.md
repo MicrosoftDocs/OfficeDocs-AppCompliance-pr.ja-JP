@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Bright Remind Me、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 91f2a4ec1d7c4342f319ba8090f3d775bc80686d
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: c47477fa295332cbcb898638f178ebd69bf7fa0b
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411826"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428129"
 ---
 # <a name="bright-remind-me"></a>Bright Remind Me
 
@@ -109,4 +109,3 @@ ms.locfileid: "60411826"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

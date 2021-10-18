@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 請求書と時間追跡で使用可能なすべてのセキュリティおよびコンプライアンス情報 - Zoho Invoice、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 657663aaae99a7a11efb113ea8b598714cd5e075
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: cc7454e5f1181637f2ecacbf510c8191d51da0e7
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413198"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428189"
 ---
 # <a name="invoice-and-time-tracking---zoho-invoice"></a>請求書と時間の追跡 - Zoho 請求書
 
@@ -29,7 +29,7 @@ ms.locfileid: "60413198"
 
 Zoho Corporation Private Limited to Microsoft から提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | 請求書と時間の追跡 - Zoho 請求書 |
 | ID | WA104381067 |
@@ -101,5 +101,4 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 
