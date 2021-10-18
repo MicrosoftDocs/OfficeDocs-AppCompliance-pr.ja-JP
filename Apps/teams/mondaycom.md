@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: monday.com、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9cd1bfefcd9a56e23cae31f18638cea652d1becd
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: bcac468f04682f2f574868fc574de82863dec690
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60415044"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429905"
 ---
 # <a name="mondaycom"></a>monday.com
 
@@ -30,7 +30,7 @@ ms.locfileid: "60415044"
 
 Microsoft に提供される monday.com 情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | monday.com |
 | ID | WA200001798 |
@@ -120,7 +120,7 @@ Microsoft に提供される monday.com 情報:
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
-| アプリはマルチテナントをサポートしていますか? | いいえ |
+| アプリはマルチテナントをサポートしていますか? | 不要 |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリは Web API を公開していますか? | はい |
@@ -131,4 +131,3 @@ Microsoft に提供される monday.com 情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

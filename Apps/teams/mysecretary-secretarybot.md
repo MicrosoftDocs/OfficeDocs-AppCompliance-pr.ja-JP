@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SecretaryBot、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ad8e6b2a2f1a7214db66f37de774c01e65ed92e6
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: f3f373b4d507e96e12c77e8c9aef3228138095a8
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60415034"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430446"
 ---
 # <a name="secretarybot"></a>SecretaryBot
 
@@ -30,7 +30,7 @@ ms.locfileid: "60415034"
 
 MySecretary が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | SecretaryBot |
 | ID | WA104381085 |
@@ -79,7 +79,7 @@ MySecretary が Microsoft に提供する情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| チーム会議のスケジュールを設定するには、この追加機能を使用します。 | 不要 |  |
+>| チーム会議のスケジュールを設定するには、この追加機能を使用します。 | いいえ |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -110,5 +110,4 @@ MySecretary が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

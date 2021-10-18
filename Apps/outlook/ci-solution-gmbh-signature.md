@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CI-Signature、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bad7efd16d1f3e8993892265bee3ada983b59455
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 21fab81e2f7257f11f32f48e4f31cefa98776cb7
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411241"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429244"
 ---
 # <a name="ci-signature"></a>CI-Signature
 
@@ -29,7 +29,7 @@ ms.locfileid: "60411241"
 
 Ci ソリューション GmbH から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | CI-Signature |
 | ID | WA200002458 |
@@ -111,4 +111,3 @@ Ci ソリューション GmbH から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

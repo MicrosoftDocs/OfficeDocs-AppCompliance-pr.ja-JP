@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ASC Recording インサイト、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 4d3e2f1ec03c2437e12576b0fdff68b06392ae9c
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 56fb96ac07e781380c0bc330d80a63981b60dd7a
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412582"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429735"
 ---
 # <a name="asc-recording-insights"></a>ASC レコーディング インサイト
 
@@ -30,7 +30,7 @@ ms.locfileid: "60412582"
 
 ASC Technologies AG が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | ASC レコーディング インサイト |
 | ID | WA200000708 |
@@ -102,7 +102,7 @@ ASC Technologies AG が Microsoft に提供する情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -134,4 +134,3 @@ ASC Technologies AG が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

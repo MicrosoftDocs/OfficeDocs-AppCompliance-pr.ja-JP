@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Google Analytics インサイト、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ac096261a48b8031369be672a27141ba549f07f0
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 4c35716aedeb3c1cefd954607f349e62746a9872
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413018"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429935"
 ---
 # <a name="google-analytics-insights"></a>Google Analytics Insights
 
@@ -30,7 +30,7 @@ ms.locfileid: "60413018"
 
 Freevolut LTD から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Google Analytics Insights |
 | ID | WA200000743 |
@@ -103,5 +103,4 @@ Freevolut LTD から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: OfficeSpace で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d8e6981a66409925c8b88ecea9376ef62316a14b
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 130c24679d6bcf784aef69c96e49fe29d898fd29
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414151"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429335"
 ---
 # <a name="officespace"></a>OfficeSpace
 
@@ -30,7 +30,7 @@ ms.locfileid: "60414151"
 
 OfficeSpace ソフトウェアから Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | OfficeSpace |
 | ID | WA200002052 |
@@ -69,7 +69,7 @@ OfficeSpace ソフトウェアから Microsoft に提供される情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| OfficeSpace アプリケーションTeamsユーザーにユーザーをリンクします。 | いいえ |  |
+>| OfficeSpace アプリケーションTeamsユーザーにユーザーをリンクします。 | 不要 |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -112,11 +112,10 @@ OfficeSpace ソフトウェアから Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について OfficeSpace ソフトウェアによって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

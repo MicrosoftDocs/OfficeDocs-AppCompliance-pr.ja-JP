@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Lightning Tools Lightning Conductor、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 9541cab6ba5fcd7da59cfe43c89e2e3bf3fceab9
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 9f597f25df7b000d3d98a2dfbc4fe3c34fef7842
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412046"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430527"
 ---
 # <a name="lightning-tools-lightning-conductor"></a>Lightning Tools Lightning コンダクター
 
@@ -102,11 +102,10 @@ Lightning Tools から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について、Lightning Tools によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

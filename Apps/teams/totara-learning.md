@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Totara で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 084e5edc17f88f72623d32c8654b9444fe951eff
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 299197bbdff21fe4bed3768969dcc31157f717bf
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411412"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429835"
 ---
 # <a name="totara"></a>Totara
 
@@ -30,7 +30,7 @@ ms.locfileid: "60411412"
 
 Totara ラーニング Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Totara |
 | ID | WA200003222 |
@@ -102,11 +102,10 @@ Totara ラーニング Microsoft に提供される情報:
 
 この情報は、Totara ラーニング認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について説明しています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: AVA で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a23ab8dfa165d43d6f2a9afafab0bc2ac12534bb
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: e5b53fbbc4c65c709324611a9ac645b045e4eaa7
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411896"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430005"
 ---
 # <a name="ava"></a>AVA
 
@@ -30,7 +30,7 @@ ms.locfileid: "60411896"
 
 AvePoint, Inc. から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | AVA |
 | ID | WA104381883 |
@@ -99,7 +99,7 @@ AvePoint, Inc. から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->不要
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -116,5 +116,4 @@ AvePoint, Inc. から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

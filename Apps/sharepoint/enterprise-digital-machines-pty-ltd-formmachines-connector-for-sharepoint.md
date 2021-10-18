@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: formMachines Connector for SharePoint、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3d5cab668924d0edfed32a807096be68519a775f
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: d2151a965830af3fa0d1f0a754bef04fdb5b5535
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410481"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428410"
 ---
 # <a name="formmachines-connector-for-sharepoint"></a>FormMachines コネクタ for SharePoint
 
@@ -99,5 +99,4 @@ ENTERPRISE DIGITAL MACHINES PTY LTD から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

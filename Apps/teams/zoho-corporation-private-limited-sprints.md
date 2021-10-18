@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Zoho Sprints のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3a70374751225581c7279ce01140a269bc2d80eb
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 1d1c5ab7fa2965b968c208eb3753c2e046971bec
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411332"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428484"
 ---
 # <a name="zoho-sprints"></a>Zoho Sprints
 
@@ -30,7 +30,7 @@ ms.locfileid: "60411332"
 
 Zoho Corporation Private Limited to Microsoft から提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Zoho Sprints |
 | ID | WA200000188 |
@@ -107,5 +107,4 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

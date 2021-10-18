@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Connect+、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ff17f1dd70ce7d6a5e6c33ee325cda0e87a1e526
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 6d17d97422cd2351c5d9b901043aa6c6b0620f94
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414091"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429094"
 ---
 # <a name="connect"></a>Connect+
 
@@ -30,7 +30,7 @@ ms.locfileid: "60414091"
 
 リワード ゲートウェイから Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Connect+ |
 | ID | WA200002611 |
@@ -89,7 +89,7 @@ ms.locfileid: "60414091"
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->不要
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -120,4 +120,3 @@ ms.locfileid: "60414091"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

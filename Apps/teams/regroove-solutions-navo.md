@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Navo で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 554d59fbb03382ab517bb2f928823a33b2ec4ee0
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: eb66654c0780e7b743b30c1a1397d6679805a1e3
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411532"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428524"
 ---
 # <a name="navo"></a>Navo
 
@@ -108,5 +108,4 @@ Regroove Solutions から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

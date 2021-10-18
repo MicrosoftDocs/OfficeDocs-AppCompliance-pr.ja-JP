@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Jetdocs で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 598832239c67b4c470695f7a3f07ef3488dd6e74
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 64a1c2620f9d3d94eef1eb93360dae3a4c227897
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413759"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429355"
 ---
 # <a name="jetdocs"></a>Jetdocs
 
@@ -30,7 +30,7 @@ ms.locfileid: "60413759"
 
 Jetdocs が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Jetdocs |
 | ID | WA200002236 |
@@ -86,7 +86,7 @@ Jetdocs が Microsoft に提供する情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -103,5 +103,4 @@ Jetdocs が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

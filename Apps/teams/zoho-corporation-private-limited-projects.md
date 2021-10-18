@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Zoho Projects、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7bc0d1f79ec7464cdd76775a636a1098aa7b8a2d
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 325d61c4a330470d50a84cd640ba7a9ac784df1e
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410771"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429305"
 ---
 # <a name="zoho-projects"></a>Zoho Projects
 
@@ -30,7 +30,7 @@ ms.locfileid: "60410771"
 
 Zoho Corporation Private Limited to Microsoft から提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Zoho Projects |
 | ID | WA104381668 |
@@ -110,5 +110,4 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

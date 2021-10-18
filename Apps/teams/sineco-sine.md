@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: シネ、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 749b438732b24b9b742e377a665ce96da6e42fb9
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 52b0e1f31ab0c1c536c704d7afc3785854dd1ca5
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411502"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430769"
 ---
 # <a name="sine"></a>Sine
 
@@ -30,7 +30,7 @@ ms.locfileid: "60411502"
 
 Microsoft に提供される Sine.co 情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Sine |
 | ID | WA200003244 |
@@ -72,7 +72,7 @@ Microsoft に提供される Sine.co 情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| を使用して事前メッセージ通知を送信します。一部のチェックインがサインを使用し、チームにサイン ボットがインストールされている場合。  | いいえ |  |
+>| を使用して事前メッセージ通知を送信します。一部のチェックインがサインを使用し、チームにサイン ボットがインストールされている場合。  | 不要 |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -104,11 +104,10 @@ Microsoft に提供される Sine.co 情報:
 
 この情報は、このアプリ Sine.co 認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 条件を処理する方法について説明しています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sheetgo、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 491049af0b675c477fce225476afb1e05919ae2a
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: a08a105f6dd7aa04035d23cb11e35893e864850f
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414813"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430265"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
@@ -101,5 +101,4 @@ SHEETGO EUROPE SL から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

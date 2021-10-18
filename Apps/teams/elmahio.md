@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: elmah.io、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b3e652415a7adf625ada6ba19e4bbb6625b7c5f1
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: b1020e782907d8099e4aa0f17119d140aa35067e
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414683"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430085"
 ---
 # <a name="elmahio"></a>elmah.io
 
@@ -30,7 +30,7 @@ ms.locfileid: "60414683"
 
 Microsoft に提供 elmah.io 情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | elmah.io |
 | ID | WA104381965 |
@@ -89,7 +89,7 @@ Microsoft に提供 elmah.io 情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -113,11 +113,10 @@ Microsoft に提供 elmah.io 情報:
 
 この情報は、このアプリ elmah.io 認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について説明しています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

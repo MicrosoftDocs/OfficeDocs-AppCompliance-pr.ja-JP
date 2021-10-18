@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: インプレッション署名、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: eb11d81de704323129790a113ecf1f379c9cd595
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 6c0070dadcba5334a905861e95ef3a658db4ec50
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60404664"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430737"
 ---
 # <a name="impression-signatures"></a>インプレッション署名
 
@@ -84,7 +84,7 @@ ms.locfileid: "60404664"
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -104,4 +104,3 @@ ms.locfileid: "60404664"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

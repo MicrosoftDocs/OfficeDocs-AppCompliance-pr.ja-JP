@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: RetMig Kommaforslag、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報 &amp; 。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 12501306427c5954c2a67aac9725a42625ce2b3f
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 44c725d7e970de8005c110141ff373883787fc91
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414322"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428450"
 ---
 # <a name="retmig-amp-kommaforslag"></a>RetMig &amp; Kommaforslag
 
@@ -29,7 +29,7 @@ ms.locfileid: "60414322"
 
 GrammarSoft ApS によって Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | RetMig &amp; Kommaforslag |
 | ID | WA104382003 |
@@ -80,7 +80,7 @@ GrammarSoft ApS によって Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -100,4 +100,3 @@ GrammarSoft ApS によって Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

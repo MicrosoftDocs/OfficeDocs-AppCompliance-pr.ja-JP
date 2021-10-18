@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: atSpoke で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 86a4512603429feff61ceeee485e8e4042bb9a6d
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 17fc89d254fd558c318c48de53456e9fa23054f7
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413309"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429825"
 ---
 # <a name="atspoke"></a>atSpoke
 
@@ -112,5 +112,4 @@ Townsend Street Labs, Inc. から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

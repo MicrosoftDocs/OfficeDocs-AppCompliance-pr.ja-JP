@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Loio コントラクト アシスタント、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: a401513fe8d84c569614268cfedbe5860939456e
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: c11a74dbf7ff40dc04a4761f55fd868831e0187a
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414241"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428854"
 ---
 # <a name="loio-contract-assistant"></a>Loio コントラクト アシスタント
 
@@ -29,7 +29,7 @@ ms.locfileid: "60414241"
 
 Loio Inc. から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Loio コントラクト アシスタント |
 | ID | WA200002273 |
@@ -102,4 +102,3 @@ Loio Inc. から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

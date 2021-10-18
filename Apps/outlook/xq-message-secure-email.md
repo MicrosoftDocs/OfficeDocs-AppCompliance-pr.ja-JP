@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: XQ Secure Email、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 02dbb1e1ce0204485f67b54edeb75258fe0a29ff
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 7222594fde85a05ec2f93030444fb2b4aad2b1c1
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413509"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430707"
 ---
 # <a name="xq-secure-email"></a>XQ Secure Email
 
@@ -29,7 +29,7 @@ ms.locfileid: "60413509"
 
 XQ Message から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | XQ Secure Email |
 | ID | WA200000090 |
@@ -93,11 +93,10 @@ XQ Message から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法に関する XQ Message によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

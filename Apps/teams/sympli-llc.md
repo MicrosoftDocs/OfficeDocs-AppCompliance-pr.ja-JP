@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sympli で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e80c960d09d5245ba09cd6e86af46a6cfb3e34d6
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 6cc7ec4b892939c4a1f6ca8c55a3a01c4dc9bc85
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414934"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428704"
 ---
 # <a name="sympli"></a>Sympli
 
@@ -30,7 +30,7 @@ ms.locfileid: "60414934"
 
 Sympli、LLC から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Sympli |
 | ID | WA200001551 |
@@ -72,7 +72,7 @@ Sympli、LLC から Microsoft に提供される情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| ユーザーの特定の名前は、会話型 UX の強化に使用されます。 | いいえ |  |
+>| ユーザーの特定の名前は、会話型 UX の強化に使用されます。 | 不要 |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -115,11 +115,10 @@ Sympli、LLC から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について Sympli LLC によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

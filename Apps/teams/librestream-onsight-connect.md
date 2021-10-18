@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Onsight Connect、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 383a66917c8ef3bd6e1ee0a1a224f2f14e4c663d
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: b397a109474876373c47e1f53b1910bebc57830a
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410981"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429605"
 ---
 # <a name="onsight-connect"></a>Onsight Connect
 
@@ -30,7 +30,7 @@ ms.locfileid: "60410981"
 
 Librestream から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Onsight Connect |
 | ID | WA200002769 |
@@ -119,4 +119,3 @@ Librestream から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

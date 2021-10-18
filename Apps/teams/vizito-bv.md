@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Vizito、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: e26770d2942ea4a687dab5f8f98e79a3163fa9b7
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: b827adeb9160ec79dbd04cb973418726a95ce45d
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414403"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430336"
 ---
 # <a name="vizito"></a>Vizito
 
@@ -30,7 +30,7 @@ ms.locfileid: "60414403"
 
 Vizito BV から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Vizito |
 | ID | WA200003170 |
@@ -111,11 +111,10 @@ Vizito BV から Microsoft に提供される情報:
 
 この情報は、Vizito BV によって、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Id 条件を処理する方法について提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

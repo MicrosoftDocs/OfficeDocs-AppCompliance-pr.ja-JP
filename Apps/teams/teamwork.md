@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリのチームワーク、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: c6ff65ae2c380e741b6e6567ac05f70a39b76565
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 8efe2ffe1431dc32f25f3096801db64e2635041d
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412697"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429034"
 ---
 # <a name="teamwork"></a>Teamwork
 
@@ -30,7 +30,7 @@ ms.locfileid: "60412697"
 
 Microsoft にチームワークによって提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Teamwork |
 | ID | WA200001552 |
@@ -107,4 +107,3 @@ Microsoft にチームワークによって提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

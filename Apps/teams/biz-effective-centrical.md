@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: セントリック、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f1d447f3d7a8dcd717d0a29eedd29e8b081f8ed6
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: fdef4f850c6bab994daa11ef1a3ad326dc5f608c
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414773"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430095"
 ---
 # <a name="centrical"></a>Centrical
 
@@ -30,7 +30,7 @@ ms.locfileid: "60414773"
 
 Microsoft に提供Biz-Effective情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Centrical |
 | ID | WA200001531 |
@@ -111,11 +111,10 @@ Microsoft に提供Biz-Effective情報:
 
 この情報は、このアプリBiz-Effective認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について説明しています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

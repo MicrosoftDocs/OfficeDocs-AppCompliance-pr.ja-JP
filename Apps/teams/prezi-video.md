@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Prezi Video で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a6e3cf632919160819471385eff35cdf82f005e3
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: b85c9508c1090afd8faa2c86cff23f58af70f03d
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414964"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430396"
 ---
 # <a name="prezi-video"></a>Prezi Video
 
@@ -30,7 +30,7 @@ ms.locfileid: "60414964"
 
 Prezi から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Prezi Video |
 | ID | WA200001577 |
@@ -118,5 +118,4 @@ AWS がホストするサービスとデータベースは、既定ではどこ�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

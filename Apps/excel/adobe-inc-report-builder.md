@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Report Builder、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: eaba58a8a2a63b51dad4489c1104dc5d38ae51b1
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: dcaed8c47b599a581f61097e55f42a1e0f2a3b92
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412156"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429265"
 ---
 # <a name="report-builder"></a>Report Builder
 
@@ -29,7 +29,7 @@ ms.locfileid: "60412156"
 
 Adobe Inc. から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Report Builder |
 | ID | WA200003101 |
@@ -102,4 +102,3 @@ Adobe Inc. から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

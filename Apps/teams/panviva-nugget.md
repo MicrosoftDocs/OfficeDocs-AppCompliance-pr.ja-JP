@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Nugget、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: de483c47b529b889a6e3cc0b6ff51de8546c2f93
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 7c32714b99ec38c2328c1443fb8747ac8b516a3e
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413609"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429695"
 ---
 # <a name="nugget"></a>Nugget
 
@@ -30,7 +30,7 @@ ms.locfileid: "60413609"
 
 Panviva から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Nugget |
 | ID | WA200001737 |
@@ -105,5 +105,4 @@ Teams ID : テナント内のユーザーを取得し、その特定のテナン
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Empuls で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b2c34fa5325a6cedb0b7476fa68b15dff31dc919
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 10b61e836bddcd8d4f53de5c71a1231c89d02841
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413028"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428604"
 ---
 # <a name="empuls"></a>Empuls
 
@@ -30,7 +30,7 @@ ms.locfileid: "60413028"
 
 Empuls が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Empuls |
 | ID | WA200002483 |
@@ -70,7 +70,7 @@ Empuls が Microsoft に提供する情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| ユーザーに通知を送信するユーザーを一意に識別するには | いいえ |  |
+>| ユーザーに通知を送信するユーザーを一意に識別するには | 不要 |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -120,4 +120,3 @@ Empuls が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: GuideSpark Communicate Cloud、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: becc848dde742ac9f9b66d634f687219e3600353
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 7604b2e50b029bae0b438cc5f1c90df550de40a7
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412266"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429134"
 ---
-# <a name="guidespark-communicate-cloud"></a>GuideSpark 通信クラウド
+# <a name="guidespark-communicate-cloud"></a>GuideSpark コミュニケーション クラウド
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -30,9 +30,9 @@ ms.locfileid: "60412266"
 
 GuideSpark から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | GuideSpark 通信クラウド |
+| アプリ名 | GuideSpark コミュニケーション クラウド |
 | ID | WA200003348 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | GuideSpark |
@@ -87,7 +87,7 @@ GuideSpark から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -100,11 +100,10 @@ GuideSpark から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Id 条件を処理する方法について GuideSpark によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

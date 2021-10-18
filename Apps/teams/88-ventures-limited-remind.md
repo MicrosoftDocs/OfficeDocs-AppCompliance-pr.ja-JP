@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: リ通知、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e44cb7a148a9cd1c6a1b1c497863eaced9259f41
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 895830def92409d04bd92f165668a15eba8995ce
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412006"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428390"
 ---
 # <a name="remind"></a>Remind
 
@@ -30,7 +30,7 @@ ms.locfileid: "60412006"
 
 88 Ventures Limited to Microsoft が提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Remind |
 | ID | WA200001444 |
@@ -90,7 +90,7 @@ ms.locfileid: "60412006"
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->不要
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -107,5 +107,4 @@ ms.locfileid: "60412006"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 
