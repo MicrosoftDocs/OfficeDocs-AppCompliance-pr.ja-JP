@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Bigfish のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 62e1b0e1c5ed31582c55777c25be9c9a02b66691
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 6302db518cf198c7c85e4603a4f163fcf5966094
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413901"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430879"
 ---
 # <a name="bigfish"></a>Bigfish
 
@@ -86,7 +86,7 @@ Breathe India Advisors Pvt によって提供される情報。 Ltd. to Microsof
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -106,4 +106,3 @@ Breathe India Advisors Pvt によって提供される情報。 Ltd. to Microsof
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

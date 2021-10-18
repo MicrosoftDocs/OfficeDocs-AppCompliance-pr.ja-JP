@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ProdBot で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 32a35c90fbd3043a944eedd2027b199cc5d50a59
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: bb637b74d5a73b0aa7d144044063165357d83144
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414121"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60431009"
 ---
 # <a name="prodbot"></a>ProdBot
 
@@ -125,11 +125,10 @@ Prodoscore が Microsoft に提供する情報:
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/><br/> |
-| アプリは Web API を公開していますか? | 不要 |
+| アプリは Web API を公開していますか? | いいえ |
 | アプリでプレビュー API を使用していますか? | はい |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

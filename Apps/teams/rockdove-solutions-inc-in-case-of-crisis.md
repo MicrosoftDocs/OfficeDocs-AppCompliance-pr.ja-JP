@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: In Case of Crisis、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: d6cb978afddcd7b87851ac515e0594757d63fb21
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 43c9e7a3611f712d6425e60c292c359cc6d332d1
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412797"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430989"
 ---
 # <a name="in-case-of-crisis"></a>非常時の場合
 
@@ -30,7 +30,7 @@ ms.locfileid: "60412797"
 
 RockDove Solutions, Inc. から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | 非常時の場合 |
 | ID | WA200003194 |
@@ -112,7 +112,7 @@ RockDove Solutions, Inc. から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について、RockDove Solutions, Inc. から提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -125,10 +125,9 @@ RockDove Solutions, Inc. から Microsoft に提供される情報:
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/><br/> |
 | アプリは Web API を公開していますか? | 不要 |
-| アプリでプレビュー API を使用していますか? | 不要 |
+| アプリでプレビュー API を使用していますか? | いいえ |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

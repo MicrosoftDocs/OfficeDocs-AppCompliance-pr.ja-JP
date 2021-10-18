@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: TELUS Business Connect、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 465b92171bb82a617d2369298037c06fce1fa84a
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: d39d9d969d09d711de1d879dd869543e06d3a596
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413449"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430999"
 ---
 # <a name="telus-business-connect"></a>TELUS Business Connect
 
@@ -30,7 +30,7 @@ ms.locfileid: "60413449"
 
 RingCentral, Inc. から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | TELUS Business Connect |
 | ID | WA200002300 |
@@ -112,4 +112,3 @@ RingCentral, Inc. から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

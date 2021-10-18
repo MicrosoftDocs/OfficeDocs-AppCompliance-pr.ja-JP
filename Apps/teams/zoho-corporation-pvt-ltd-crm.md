@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Zoho CRM で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 79484ab42a9353b59261ed990105733e5da43240
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 7228520de3cc4a7e77880a5d2a4a556f2082f99e
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411321"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428460"
 ---
 # <a name="zoho-crm"></a>Zoho CRM
 
@@ -30,7 +30,7 @@ ms.locfileid: "60411321"
 
 Zoho Corporation Pvt Ltd から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Zoho CRM |
 | ID | WA104382094 |
@@ -109,5 +109,4 @@ Zoho Corporation Pvt Ltd から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 
