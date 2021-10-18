@@ -13,7 +13,7 @@ ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/18/2021
-ms.locfileid: "60431009"
+ms.locfileid: "60444457"
 ---
 # <a name="prodbot"></a>ProdBot
 
@@ -125,7 +125,7 @@ Prodoscore が Microsoft に提供する情報:
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/><br/> |
-| アプリは Web API を公開していますか? | いいえ |
+| アプリは Web API を公開していますか? | 不要 |
 | アプリでプレビュー API を使用していますか? | はい |
 | アプリで非推奨の API を使用していますか? | いいえ |
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Infor Coleman、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: d06dec9fe442345491d60964d8ec346f72fa6645
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: ca38b48381bc0be457ecf63b497e4b771cafc345
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413779"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60435591"
 ---
 # <a name="infor-coleman"></a>Infor Coleman
 
@@ -86,7 +86,7 @@ INFOR (米国) が提供する情報 Microsoft に:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -106,4 +106,3 @@ INFOR (米国) が提供する情報 Microsoft に:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

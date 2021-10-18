@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Learn、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5fc05537fef58efdc5eb2ee7d5f51bfaea07b108
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: c72b5800b40d0a587ebed4e8997d698d9eb5a483
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410781"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60432877"
 ---
 # <a name="learn"></a>詳細
 
@@ -30,7 +30,7 @@ ms.locfileid: "60410781"
 
 Witivio が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | 詳細 |
 | ID | WA200001308 |
@@ -112,5 +112,4 @@ Witivio は、管理者を含むすべてのユーザーに MFA を使用しま�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Wired2Perform、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3d3ba77eff78368f1fdc7f14125afb8618503c54
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 3fe27cc92fc4b4af5014f8c209cb0a831679ca48
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414874"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60445009"
 ---
 # <a name="wired2perform"></a>Wired2Perform
 
@@ -30,7 +30,7 @@ ms.locfileid: "60414874"
 
 Wired2Perform から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Wired2Perform |
 | ID | WA200002935 |
@@ -63,7 +63,7 @@ Wired2Perform から Microsoft に提供される情報:
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Microsoft TeamsAPI | いいえ |  |  |  |  |
+>| Microsoft TeamsAPI | 不要 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -118,11 +118,10 @@ Wired2Perform から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Wired2Perform によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

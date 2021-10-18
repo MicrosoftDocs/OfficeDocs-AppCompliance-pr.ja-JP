@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6b674ec46174e65bc870c4359893fddd815e3c9e
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 4dc60cf6a9bc47f2e0ad0d0e1ec50b729adec0dc
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60415164"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60439220"
 ---
 # <a name="chronus"></a>Chronus
 
@@ -120,4 +120,3 @@ Chronus が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

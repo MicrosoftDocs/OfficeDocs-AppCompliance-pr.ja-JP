@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内の Cultr Connect、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b27b187fe2d898f873fecbde6a45bdc908edeb1b
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: bf428af0d6572c9a8515a3aa3612af4924fc4d27
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412467"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60432942"
 ---
 # <a name="cultr-connect"></a>Cultr Connect
 
@@ -30,7 +30,7 @@ ms.locfileid: "60412467"
 
 Cultr が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Cultr Connect |
 | ID | WA200003008 |
@@ -96,7 +96,7 @@ Cultr が Microsoft に提供する情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->不要
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -128,4 +128,3 @@ Cultr が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

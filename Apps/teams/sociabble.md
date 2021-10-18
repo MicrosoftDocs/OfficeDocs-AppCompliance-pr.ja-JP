@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sociabble、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: dce254fa069e7a7d5c57de6de184fe65562f9f9d
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 5ee00b29f01a73cfa98efca6589cbca82ebd35ef
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414051"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444777"
 ---
 # <a name="sociabble"></a>Sociabble
 
@@ -30,7 +30,7 @@ ms.locfileid: "60414051"
 
 Sociabble が Microsoft に提供する情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Sociabble |
 | ID | WA104381258 |
@@ -63,10 +63,10 @@ Sociabble が Microsoft に提供する情報:
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Azure 翻訳ツール | いいえ |  |  |  |  |
->| Azure Text Analytics | いいえ |  |  |  |  |
+>| Azure 翻訳ツール | 不要 |  |  |  |  |
+>| Azure Text Analytics | 不要 |  |  |  |  |
 >| Azure コンテンツ モデレーター | 不要 |  |  |  |  |
->| Azure Computer Vision | いいえ |  |  |  |  |
+>| Azure Computer Vision | 不要 |  |  |  |  |
 >| Azure Bing検索 | 不要 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -133,4 +133,3 @@ Sociabble が Microsoft に提供する情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

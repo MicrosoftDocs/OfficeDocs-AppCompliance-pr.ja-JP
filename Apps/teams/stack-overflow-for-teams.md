@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Teams のスタック オーバーフロー、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3c6493326d8b58ad4c8e7e4fc5486a7f03cd2b8b
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 6b56ce25aee5e95b1111a9396c193e71d4ea2c72
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410841"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60437376"
 ---
 # <a name="stack-overflow-for-teams"></a>Teams のスタックオーバーフロー
 
@@ -30,7 +30,7 @@ ms.locfileid: "60410841"
 
 スタック オーバーフローによって Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Teams のスタックオーバーフロー |
 | ID | WA200000739 |
@@ -107,5 +107,4 @@ MS Teams識別可能な ID を送信し、ユーザーをマップするため�
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

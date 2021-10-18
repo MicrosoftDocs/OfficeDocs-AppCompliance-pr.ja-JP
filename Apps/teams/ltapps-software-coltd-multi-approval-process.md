@@ -13,7 +13,7 @@ ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/18/2021
-ms.locfileid: "60431019"
+ms.locfileid: "60442767"
 ---
 # <a name="multi-approval-process-ltapps"></a>複数の承認プロセスの LTAPPs
 
@@ -95,7 +95,7 @@ LTAPPs SOFTWARE CO.,LTD から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->不要
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

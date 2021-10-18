@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: TaxKit Docs で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 0428fe98c30df1812df4dfd420466634a490b960
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 8f9f800ce0a652fee303c387285e48ad6ea4caf9
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413228"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444586"
 ---
 # <a name="taxkit-docs"></a>TaxKit Docs
 
@@ -29,7 +29,7 @@ ms.locfileid: "60413228"
 
 GmbH から Microsoft Taxy.io 提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | TaxKit Docs |
 | ID | WA200002849 |
@@ -100,4 +100,3 @@ GmbH から Microsoft Taxy.io 提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

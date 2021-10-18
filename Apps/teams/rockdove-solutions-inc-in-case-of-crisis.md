@@ -13,7 +13,7 @@ ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430989"
+ms.locfileid: "60440995"
 ---
 # <a name="in-case-of-crisis"></a>非常時の場合
 
@@ -124,8 +124,8 @@ RockDove Solutions, Inc. から Microsoft に提供される情報:
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/><br/> |
-| アプリは Web API を公開していますか? | 不要 |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリは Web API を公開していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: X0PA ROOM で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 080a1ef879f271bfb6332b0ad1e10b677dfebff3
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 048732df7ec55c74fb372648fd7495ef939d4d24
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414352"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60434626"
 ---
 # <a name="x0pa-room"></a>X0PA ROOM
 
@@ -87,7 +87,7 @@ X0PA AI シンガポールから Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -107,4 +107,3 @@ X0PA AI シンガポールから Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

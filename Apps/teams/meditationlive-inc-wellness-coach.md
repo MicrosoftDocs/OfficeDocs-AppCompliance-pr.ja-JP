@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ウェルネス コーチ、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: c40105d1ecbb5db04a788be302241dabc9d03537
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: bb335500a4c922e3ae6d3cf35d87539c7a8345f3
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60415064"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60445039"
 ---
 # <a name="wellness-coach"></a>Wellness Coach
 
@@ -107,4 +107,3 @@ microsoft に Meditation.live によって提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

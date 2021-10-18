@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 巧妙な広告、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6f9fbf26799878bdf119bad1133dd4e48a9a2b5d
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: ba74b95ca82f6fcf22a6263574b8fee5de86c0d4
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412531"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60435631"
 ---
 # <a name="clever-ads"></a>Clever Ads
 
@@ -30,7 +30,7 @@ ms.locfileid: "60412531"
 
 Microsoft に巧妙な広告によって提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Clever Ads |
 | ID | WA200001182 |
@@ -107,5 +107,4 @@ Microsoft に巧妙な広告によって提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

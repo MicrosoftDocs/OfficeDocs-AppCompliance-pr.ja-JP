@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: LawToolBox、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 492b1d4652bc4b6dd110be7aa59d3cfbd3b4cb59
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 20f0f04fb86dc28cdcbd8639cb04e5e74f659174
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412296"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60434576"
 ---
 # <a name="lawtoolbox"></a>LawToolBox
 
@@ -30,7 +30,7 @@ ms.locfileid: "60412296"
 
 LawToolBox.com Inc. から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | LawToolBox |
 | ID | WA104381656 |
@@ -124,5 +124,4 @@ LawToolBox.com Inc. から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

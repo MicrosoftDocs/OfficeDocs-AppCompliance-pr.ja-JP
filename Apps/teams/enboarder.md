@@ -13,7 +13,7 @@ ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/18/2021
-ms.locfileid: "60431059"
+ms.locfileid: "60434676"
 ---
 # <a name="enboarder"></a>Enboarder
 
@@ -63,7 +63,7 @@ Enboarder が Microsoft に提供する情報:
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| ボット フレームワーク API | 不要 |  |  |  |  |
+>| ボット フレームワーク API | いいえ |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -96,7 +96,7 @@ Enboarder が Microsoft に提供する情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

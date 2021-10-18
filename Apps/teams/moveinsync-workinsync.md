@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: WorkInSync で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 746a7b7c52d8905aaf65d86bc0f15202f486eb82
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 35a505013b59bdd9cc0d9b40986acea1f1c19b53
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413659"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60442719"
 ---
 # <a name="workinsync"></a>WorkInSync
 
@@ -30,7 +30,7 @@ ms.locfileid: "60413659"
 
 MoveInSync から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | WorkInSync |
 | ID | WA200002974 |
@@ -81,7 +81,7 @@ MoveInSync から Microsoft に提供される情報:
 
 >| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 1. 従業員の電子メール アドレス (ユーザー原則名) を読み取り、WorkInSync の登録済みユーザーの一覧と一致します。  | 不要 |  |
+>| 1. 従業員の電子メール アドレス (ユーザー原則名) を読み取り、WorkInSync の登録済みユーザーの一覧と一致します。  | いいえ |  |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -113,7 +113,7 @@ MoveInSync から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について MoveInSync によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -133,4 +133,3 @@ MoveInSync から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

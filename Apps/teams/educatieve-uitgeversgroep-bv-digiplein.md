@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Digiplein、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 0f74b7dbe065573e2679404475c30251ac86cd53
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 49a7a2cb96ad225bcc0db9d7961bab985dada762
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411755"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60434611"
 ---
 # <a name="digiplein"></a>Digiplein
 
@@ -30,7 +30,7 @@ ms.locfileid: "60411755"
 
 Educatieve Uitgeversgroep B.V によって提供される情報。 Microsoft に:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリ名 | Digiplein |
 | ID | WA200003298 |
@@ -87,7 +87,7 @@ Educatieve Uitgeversgroep B.V によって提供される情報。 Microsoft に
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -100,11 +100,10 @@ Educatieve Uitgeversgroep B.V によって提供される情報。 Microsoft に
 
 この情報は、Educatieve Uitgeversgroep B.V によって提供されています。 このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について説明します。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
