@@ -6,16 +6,16 @@ description: アプリ コンプライアンス プログラム SaaS Microsoft 3
 keywords: アプリ コンプライアンス プログラム SaaS Microsoft 365 ISV ユーザー ガイド
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 39eed9158ab9cbaa5e26efe036c98fc2ab2b1695d615d8b28930f0d8d4735430
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 5f12c95e413ab069b1f8849a09be50251660fbb1
+ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54801495"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60545839"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program---saas"></a>パートナーのユーザー ガイド for Microsoft 365 コンプライアンス プログラム - SaaS
 
-|段階|タイトル|
+|段階|Title|
 |---|---|
 |フェーズ 1| Publisher の構成証明|
 |フェーズ 2| Microsoft 365 認定|
@@ -36,26 +36,21 @@ ms.locfileid: "54801495"
 
 **ホーム ページ**: パートナーがパートナー センターにログインした後のランディング ページです。
 
-![パートナー センターのホーム画面](../media/Saas1.PNG)
   
-**手順 1** : ページの左側のナビゲーション バーで、次の操作を行います。
+**手順 1:** Marketplace のオファーを選択する
 
-- [商用マーケットプレースの選択]
-- [概要] の選択
+![パートナー センターの商用マーケットプレース](../media/NewPChomepage.png)
 
-![パートナー センターの商用マーケットプレース](../media/Saas2.PNG)
   
-[概要] を選択すると、パートナーはコンプライアンス プログラムの開始に使用できるアプリMicrosoft 365表示できます。
-  
-**手順 2:** リストからアプリを選択して、構成証明プロセスPublisher開始します。
+**手順 2**: [Marketplace Offers] を選択した後、[商用マーケットプレース] に切り替えてください。
 
-![商用マーケットプレースでのアプリの選択](../media/Saas3.PNG)
+![商用マーケットプレースでのアプリの選択](../media/NewPCOffersOffice.png)
 
-アプリを選択すると、別のナビゲーション バーにオプション 'App Compliance' が表示されます。
+リストからアプリを選択すると、別のナビゲーション バーが表示され、[アプリコンプライアンス] オプションが表示されます。
   
 **手順 3:**[アプリコンプライアンス] を選択する
   
-![商用マーケットプレースでのアプリのコンプライアンス](../media/Saas4.PNG)
+![商用マーケットプレースでのアプリのコンプライアンス](../media/PCappcompliance3.png)
   
 **手順 4:** 自己評価のアンケートに記入し、Publisherします。
 

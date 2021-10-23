@@ -6,16 +6,16 @@ description: ISV ユーザー ガイド for Microsoft 365 コンプライアン�
 keywords: ISV ユーザー ガイド for Microsoft 365 コンプライアンス プログラム
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 74bb654b6084319122e0f9388792cf44d85ca4a664ce89bf308982a29cbfdfc8
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 79a301d6825b3f9ea3d882e13e91b48f3808f60b
+ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54801663"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60544568"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>パートナーのユーザー ガイド for Microsoft 365 コンプライアンス プログラム
 
-|段階|タイトル|
+|段階|Title|
 |---|---|
 |フェーズ 1| Publisher の構成証明|
 |フェーズ 2| Microsoft 365 認定|
@@ -37,26 +37,19 @@ ms.locfileid: "54801663"
 
 **ホーム ページ** : パートナーがパートナー センターにログインした後のランディング ページです。
 
-![パートナー センターのホーム画面](../media/UserGuidePhotos/01.png)
+**手順 1:** [Marketplace Offers] を選択します。 
 
-**手順 1**   : ページの左側のナビゲーション バーで、次の操作を行います。
-- [ストアOfficeを選択する
-- [概要] の選択
+![パートナー センターの商用マーケットプレース](../media/NewPChomepage.png)
+  
+**手順 2**: [Marketplace のオファー] を選択した後、[ストア] にOfficeします。 一覧からアプリを選択して、構成証明プロセスPublisher開始します。
 
-
-![Office左側のナビゲーションにストアがあります](../media/UserGuidePhotos/02.png)
-
-[概要] を選択すると、パートナーはパートナー センターを通じて送信されたアプリの一覧を表示し、コンプライアンス プログラムMicrosoft 365できます。
-
-**手順 2:** リストからアプリを選択して、構成証明プロセスPublisher開始します。
-
-![構成するアプリケーションを選択する](../media/UserGuidePhotos/03.png)
+![商用マーケットプレースでのアプリの選択](../media/NewPCoffersComm.png)
 
 アプリを選択すると、別のナビゲーション バーにオプション 'App Compliance' が表示されます。
-
+  
 **手順 3:**[アプリコンプライアンス] を選択する
 
-![[アプリのコンプライアンス] の選択](../media/UserGuidePhotos/04.png)
+![[アプリのコンプライアンス] の選択](../media/PCappcompliance3.png)
 
 **手順 4**: 自己評価アンケートに記入して、Publisher構成証明
 

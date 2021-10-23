@@ -78,6 +78,16 @@ groups:
     title: セキュリティとコンプライアンス
   - id: certification
     title: 認定
+- id: app-info-data-certification
+  title: アプリ情報のカテゴリ
+  prompt: このアプリに表示する情報のカテゴリを選択します。
+  pivots:
+  - id: general
+    title: 全般
+  - id: data
+    title: データ処理
+  - id: certification
+    title: 認定
 - id: app-info-data-identity-certification
   title: アプリ情報のカテゴリ
   prompt: このアプリに表示する情報のカテゴリを選択します。
@@ -104,10 +114,44 @@ groups:
     title: ID
   - id: certification
     title: 認定
+- id: app-info-data-security-compliance-privsection-zerotrust
+  title: アプリ情報のカテゴリ
+  prompt: このアプリに表示する情報のカテゴリを選択します。
+  pivots:
+  - id: general
+    title: 全般
+  - id: data
+    title: データ処理
+  - id: security
+    title: セキュリティ
+  - id: compliance
+    title: コンプライアンス
+  - id: privsection
+    title: プライバシー
+  - id: zerotrust
+    title: ID
+- id: app-info-data-security-compliance-privsection-zerotrust-certification
+  title: アプリ情報のカテゴリ
+  prompt: このアプリに表示する情報のカテゴリを選択します。
+  pivots:
+  - id: general
+    title: 全般
+  - id: data
+    title: データ処理
+  - id: security
+    title: セキュリティ
+  - id: compliance
+    title: コンプライアンス
+  - id: privsection
+    title: プライバシー
+  - id: zerotrust
+    title: ID
+  - id: certification
+    title: 認定
 metadata:
-  ms.openlocfilehash: 251f0461ab55741522c650f13a0ff3b50eecb560
-  ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+  ms.openlocfilehash: f3ee86598a788c911d9a82186a2de24997477ff6
+  ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 10/16/2021
-  ms.locfileid: "60411281"
+  ms.lasthandoff: 10/22/2021
+  ms.locfileid: "60545887"

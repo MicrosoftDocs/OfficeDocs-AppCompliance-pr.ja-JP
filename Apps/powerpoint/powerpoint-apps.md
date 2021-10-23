@@ -2,17 +2,17 @@
 title: Microsoft PowerPoint アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/15/2021
+ms.date: 10/20/2021
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft PowerPoint アプリで使用可能なすべてのセキュリティとコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 6a766a7a0bc1e8e5c83259c53b2e5aee6b5f1515
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 1b1c190303b7b4bebece542bb5bdf01a56a47bd7
+ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414803"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60545807"
 ---
 # <a name="microsoft-powerpoint-apps-security-and-compliance"></a>Microsoft PowerPoint アプリのセキュリティとコンプライアンス
 
@@ -25,8 +25,8 @@ Microsoft は、microsoft Microsoft 365開発者パートナーと協力して�
 | [harmon.ie のOffice](./harmonie-corporation-for-office.md) | harmon.ie 株式会社 | **✓** |  |
 | [Lucidchart ダイアグラム for PowerPoint](./lucid-software-inc-lucidchart-diagrams-for-powerpoint.md) | Lucid Software Inc | **✓** |  |
 | [Office2SharePoint for Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | コンテンツの選択Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | コンテンツの選択Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | イメージの選択Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | スライドの選択Office](./officeatwork-officeatworkslide-chooser-for-office.md) | officeatwork | **✓** |  |
-| [officeatwork | テンプレートの選択Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | テンプレートの選択Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** |  |
 | [SlideHub](./nomorehours-slidehub.md) | nomorehours | **✓** |  |
