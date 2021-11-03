@@ -2,17 +2,17 @@
 title: Microsoft Outlook アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/19/2021
+ms.date: 10/26/2021
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Outlook アプリで使用可能なすべてのセキュリティとコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 9cd8c37e10bedd51ddcc8b7b16034bae5bc312f2
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: 8eef852ed64d2058bba7717c7747385213f62d99
+ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60544927"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60682327"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook アプリのセキュリティとコンプライアンス
 
