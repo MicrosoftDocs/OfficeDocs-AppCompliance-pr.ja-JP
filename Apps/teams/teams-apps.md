@@ -2,17 +2,17 @@
 title: Microsoft Teams アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/22/2021
+ms.date: 10/27/2021
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: 2c60752116e1a203b559874661b106ef85b71b21
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: c8873b939aac5af2f29248e99d2ece9acc0e5f1c
+ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60545857"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60719719"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -327,6 +327,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Skillate](./skillate-laboratories-pvt-ltd.md) | Skillate Laboratories Pvt. Ltd. | **✓** |  |
 | [SkilledHuman](./saltflat-limited-skilledhuman.md) | SaltFlat 制限あり | **✓** |  |
 | [Skills by Pipe9](./pipe9com-skills-by-pipe9.md) | Pipe9.com | **✓** |  |
+| [Skillsoft Percipio](./skillsoft-percipio.md) | Skillsoft | **✓** |  |
 | [SkyPoint Cloud](./skypoint-cloud-inc.md) | SkyPoint Cloud Inc. | **✓** |  |
 | [Slido](./slido.md) | Slido | **✓** |  |
 | [Smart Connect for Jira](./yasoon-gmbh-smart-connect-for-jira.md) | yasoon GmbH | **✓** |  |
@@ -384,7 +385,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [ti8m places](./tiandm-ag-ti8m-places.md) | ti&amp;m AG | **✓** |  |
 | [Tikit](./cireson-tikit.md) | Cireson | **✓** |  |
 | [TimeClock 365](./softsale-timeclock-365.md) | Softsale | **✓** |  |
-| [timeghost](./kollisch-gmbh-timeghost.md) | K&#246;llisch GmbH | **✓** |  |
+| [timeghost - 時間管理](./kollisch-gmbh-timeghost-time-tracking.md) | K&#246;llisch GmbH | **✓** |  |
 | [Timeneye](./dm-digital-srl-timeneye.md) | DM Digital SRL | **✓** |  |
 | [TINYpulse](./tinypulse.md) | TINYpulse | **✓** |  |
 | [Totara](./totara-learning.md) | Totara ラーニング | **✓** |  |
