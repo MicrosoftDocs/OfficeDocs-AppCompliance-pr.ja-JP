@@ -6,12 +6,12 @@ description: Microsoft 365認定の詳細の概要
 keywords: appSource のアプリ認定Microsoft 365証明
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 55125deec809aef3e74ab96bedf88b43ad8ac46e
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: ec401c9e1418c0023931300efe8c0206824d3506
+ms.sourcegitcommit: ddd67912ff4e8901300556ff85c2cf416f54dea1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60544947"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60885293"
 ---
 # <a name="complete-microsoft-365-certification"></a>完全なMicrosoft 365認定
 
@@ -38,6 +38,9 @@ ms.locfileid: "60544947"
 1. **認定を開始** する - パートナー センター内で [認定の開始] をクリックします。 これにより、最初のドキュメント申請ポータルにアクセスできます。 最初のドキュメント [提出を送信します](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#initial-document-submission)。 これにより、アプリの設計方法と顧客データの処理方法に基づいて、評価の対象範囲を特定できます。 このページを頻繁に確認して、申請が受け付けられているか確認します。
 
 1. **証拠の** 提出 - 最初のドキュメント提出が受け入れられると、アプリに必要なセキュリティ制御のセットがポータルに自動的に表示されます。 その後、コントロールが配置されているという証拠を各コントロールに提出する必要があります。 すべての証拠を提出するために **60** 日間が与えられる点に気を付けください。 アナリストが証拠を確認し、コントロールを承認するか、新しい証拠または追加の証拠を要求します。 このページを頻繁に確認して、証拠が受け入れられらたか確認してください。
+
+>[!NOTE]
+> 必要な証拠の [具体的な例については](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-sample-evidence-guide) 、「サンプルエビデンス ガイド」を参照してください。
 
 1. **認定取得** - アナリストによる提出の検証が完了すると、認定の決定が通知されます。 認定を受けるアプリには **、Marketplaces (Teams、Office、AppSource)、** 管理ポータル **(Teams、M365)、****および Microsoft** ドキュメント ページ内のアプリケーションにバッジが付与されます。 認定の利点については、こちらを参照 [してください](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide#program-benefits)。
 

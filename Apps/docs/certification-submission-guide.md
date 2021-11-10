@@ -6,12 +6,12 @@ description: Microsoft 365認定申請ガイドの詳細なビュー
 keywords: アプリ認定チームMicrosoft 365コンプライアンス m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 0d422251404275da18e08af120a15877616e4db4
-ms.sourcegitcommit: dfd937182e08ed377a5ad80f0db929ab7d7c7a7b
+ms.openlocfilehash: f89cb9f82cec69a473d451cff33e3db9b406489d
+ms.sourcegitcommit: ddd67912ff4e8901300556ff85c2cf416f54dea1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60789978"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60885294"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365認定申請ガイド
 
@@ -144,7 +144,8 @@ IaaS または PaaS が展開されている場合は、これらの展開の種
 
 ## <a name="initial-document-submission"></a>最初のドキュメント提出
 
-最初のドキュメント提出は、認定アナリストがスコープを実行し、評価の対象範囲を決定するのに役立ちます。 その後、評価の実行に使用されるサポート ドキュメントと証拠を提出する必要があります。 最初の申請には、次に示す情報を含める必要があります。
+
+最初のドキュメント提出は、認定アナリストがスコープを実行し、評価の対象範囲を決定するのに役立ちます。 その後、評価の実行に使用されるサポート ドキュメントと証拠を提出する必要があります。 最初の申請には、以下に示す情報を含める必要があります。 その他のガイドについては [、「Initital Document Subnmission Guide」を参照してください](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/initialdocumentsubguide)。
 
 | **ドキュメント &nbsp; の概要**     |   **ドキュメントの詳細**  |
 | -------------------------| -----------------------------|
@@ -191,7 +192,7 @@ IaaS または PaaS が展開されている場合は、これらの展開の種
 * インタビュー 
 * スクリーンシェアリング 
 
-使用される証拠収集手法は、評価プロセス中に決定されます。 
+使用される証拠収集手法は、評価プロセス中に決定されます。 提出に必要な証拠の種類の具体的な例については、「サンプル証拠ガイド [」を参照してください](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-sample-evidence-guide)。
 
 **評価アクティビティ**
 
