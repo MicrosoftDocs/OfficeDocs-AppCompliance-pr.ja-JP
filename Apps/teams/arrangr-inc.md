@@ -2,24 +2,24 @@
 title: Arrangr, Inc. による Arrangr のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/19/2021
+ms.date: 11/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Arrangr、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: f4a5df023e906ad18e260debe09953351210d5bc
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 1f1798cd6741c6cafdd33defe8b8e713ac58eab5
+ms.sourcegitcommit: 7989546de4aa2bbd2a751281d1aa215facae2d15
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60427869"
+ms.lasthandoff: 11/16/2021
+ms.locfileid: "61040989"
 ---
 # <a name="arrangr"></a>Arrangr
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 6 月 15 日</p>
+<p>開発者が最終更新日: 2021 年 11 月 15 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/57de46f8-193a-400c-9a34-c862333aed55" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002975" target="_blank">AppSource での表示</a>
@@ -36,10 +36,13 @@ Arrangr, Inc. から Microsoft に提供される情報:
 | ID | WA200002975 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Arrangr, Inc. |
-| パートナー Web サイトの URL | [https://arrangr.com](https://arrangr.com) |
-| [アプリケーション情報Teamsページの URL | [https://arrangr.com/welcome](https://arrangr.com/welcome) |
-| プライバシー ポリシーの URL | [https://arrangr.com/privacy_policy](https://arrangr.com/privacy_policy) |
-| 利用規約の URL | [https://arrangr.com/terms_of_use](https://arrangr.com/terms_of_use) |
+| 会社の Web サイト | [https://arrangr.com](https://arrangr.com) |
+| アプリの利用規約 | [https://arrangr.com/terms_of_use](https://arrangr.com/terms_of_use) |
+| アプリのコア機能 | Arrangr は、任意の会議のインテリジェントな統合スケジューラです。 対人またはリモート、1:1、またはグループのどちらの場合でも、Arrangr はシンプルで高速です。 Arrangr は Microsoft カレンダーと統合して、忙しい時間を簡単かつ迅速にブロックし、スケジュールを視覚化し、会議がカレンダーに確実に配置されます。 さらに、Teams 統合を使用すると、チームメイトと簡単に招待を共有し、Teams 内で新しい会議を開始し、Teams タブ内から Arrangr 会議を追跡できます。 |
+| 会社の本社所在地 | アメリカ |
+| アプリ情報ページ | |
+| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
+| アプリで使用するホスティング クラウド プロバイダー | GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,81 +54,123 @@ Arrangr, Inc. から Microsoft に提供される情報:
 
 この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールについて、Arrangr, Inc. から提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
-
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
-
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Calendars.ReadWrite | 委任 | 会議のスケジュールを容易にするために、ユーザーの予定表の名前と予定表イベントの詳細を収集します。 | 接続している予定表の名前を保存して、接続している予定表を表示および変更できます。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| Channel.ReadBasic.All | 委任 | ユーザーが利用できるチャネルの一覧を収集し、そのチャネルのリストを表示して、アレンジの招待を共有するチャネルを選択できます。 | ユーザーのチャネルに関する情報は保存しない | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| ChannelMessage.Send | 委任 | このアクセス許可は、ユーザーに代わってチーム チャネルに Arrangr の招待を送信するために使用されます。 データの収集には使用されません。 | このアクセス許可を使用して収集されるデータは保存されません。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| Chat.ReadWrite | 委任 | このアクセス許可は、ユーザーの代わりに、Teamsに Arrangr の招待を送信するために使用されます。 このアクセス許可は、データの収集には使用されません。 | このアクセス許可を使用して収集されるデータは保存されません。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| ChatMessage.Send | 委任 | このアクセス許可は、ユーザーに代わって 1:1 およびグループ チャットに Arrangr の招待を送信するために使用されます。 データの収集には使用されません。 | このアクセス許可を使用して収集されるデータは保存されません。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| OnlineMeetings.ReadWrite | 委任 | Arrangr は、Microsoft Teamsアクセス許可を使用して会議リンクを生成する過程で、会議リンクを収集します。 ユーザーのTeamsに基Teamsを生成します。 | 会議のリンクを保存して、会議に参加する適切な関係者と共有できます。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| People.Read | 委任 | ユーザーに関連するユーザーの名前とメールを収集します。 これにより、ユーザーが簡単にアレンジの招待の受信者として選択できます。 | ユーザーがこの API を介して提供される受信者を選択した場合、その受信者の名前と電子メールを保存して会議を実施し、ユーザーが将来受信者として選択し直すのを容易にします。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| Team.ReadBasic.All | 委任 | ユーザーの Teams の名前を収集し、ユーザーが Arrangr に接続する Teams と、そのユーザーがアレンジャーの招待を共有するチームを選択できます。 | Arrangr は、ユーザーが Arrangr へのリンクを選択した Teams の名前を格納し、それらの Teams を設定で表示し、アレンジの招待を共有する場所を決定するときにそれらの Teams から選択できます。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| TeamsAppInstallation.ReadWriteSelfForUser | 委任 | ユーザーの Teams アカウントにアプリがインストールされているかどうかを確認し、アプリをインストールするかどうかを確認し、アプリをインストールできます。 | このアクセス許可を通じて収集されたデータは保存されません。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| profile | 委任 | 名前と電子メール アドレス | ユーザーがサービスに接続したアカウントをユーザーに表示するために、名前と電子メール アドレス。 | [57de46f8-193a-400c-9a34-c862333aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
-
-#### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
-
-アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
-
->| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
->|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Outlook | はい | 名前、電子メール、予定表名、予定表イベント情報 | この情報を収集して、ユーザーが予定表を Arrangr に接続して会議のスケジュールを容易に行う | 名前、電子メール、予定表名 | この情報を保存して、ユーザーがサービスに接続したアカウントとカレンダーをユーザーに表示できます。 |
-
-#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
-
-アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
-
->| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
->|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Google Cloud, SendGrid, Stripe, Quaderno | Google Cloud には、すべてのユーザー データ、ユーザー名、メールが SendGrid と共有され、ユーザーにメールを送信し、Stripe が受信したユーザー名、電子メール、支払い情報を支払い処理に使用します。 Quaderno は、売上税コンプライアンスを支援するために、ユーザー名、電子メール、および地理情報を受け取ります。 | Google Cloud は、ユーザーを記憶し、ユーザーが選択した情報を Arrangr に保存するためにデータを格納するために必要です。 使用に電子メールを送信するには、そのメール アドレスを SendGrid に提供する必要があります。 支払いを収集するには、Stripe で支払い情報を処理する必要がありますが、支払い情報は独自のサーバーに保存されません。 Quaderno は、売上税を計算し、売上税の規制に準拠している必要があります。 |
-
-#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
-
-このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
-
->| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| ユーザーは、メッセージング拡張機能を使用して他のユーザーとの会議をスケジュールします。 ログインしているアカウントをユーザーに表示する必要があります。また、ユーザーが送信した招待を正しい Arrangr ユーザーに関連付ける必要があります。 | ユーザー名、電子メール、および通信情報。 | この情報は、複数の関係者間の会議を調整し、接続の詳細と、会議の開催者と共有するために必要です。 |
-
-
-#### <a name="telemetry-data"></a>テレメトリ データ
-
-組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
-
->アプリケーションのテレメトリまたはログに OII または EUII は表示されません。
-
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
-
-組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
-
->Google Cloud Datastore に保存されているデータは、API を介して制御し、必要なデータを削除できます。 ユーザーは、アカウントの削除とデータの削除を要求できます。
-
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
-
-人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
-
->はい
+| **Information** | **Response** |
+|:----------------|:-------------|
+| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
+| アプリで処理されるデータは何ですか? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| アプリは TLS 1.1 以上をサポートしていますか? | はい |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
+| データベースに格納されているデータは何ですか? | ユーザー名と電子メール、予定表の名前、予定表の会議リンク、チームの名前。 |
+| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | アメリカ |
+| データの借入および廃棄プロセスが確立されていますか? | はい |
+| アカウントの終了後にデータが保持される期間 | 30 日未満 |
+| データ アクセス管理プロセスが確立されていますか? | はい |
+| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | 不要 |
+| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
+::: zone pivot="security"
 
-::: zone pivot="identity"
-
-### <a name="identity-information"></a>ID 情報
-
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 基準を処理する方法について、Arrangr, Inc. から提供されています。
+以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
+| アプリで年間侵入テストを実行しますか? | 不要 |
+| アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | はい |
+| 環境で従来のマルウェア対策保護またはアプリケーションコントロールを使用していますか? | TraditionalAntiMalware, ApplicationControls |
+| セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? | はい |
+| パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? | 不要 |
+| パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | 不要 |
+| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | 不要 |
+| アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | 不要 |
+| 外部ネットワーク境界にファイアウォールがインストールされていますか? | 不要 |
+| 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
+| 追加のユーザーが、元の開発者によって実稼働環境に提出されたコード変更要求を確認および承認していますか? | 不要 |
+| セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | はい |
+| 多要素認証 (MFA) が有効になっているのは、次の場合です。 | CodeRepositories, DNSManagement, Credential |
+| 従業員アカウントのプロビジョニング、変更、削除のプロセスが確立されていますか? | はい |
+| アプリをサポートするネットワーク境界の境界の境界に侵入検出と防御 (IDPS) ソフトウェアが展開されていますか? | 不要 |
+| アプリをサポートしているすべてのシステム コンポーネントにイベント ログが設定されていますか? | 不要 |
+| すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動ツールによって定期的に確認されますか? | |
+| セキュリティ イベントが検出されると、アラートが従業員に自動的に送信され、トリアージが発生しますか? | はい |
+| 正式な情報セキュリティリスク管理プロセスが確立されていますか? | 不要 |
+| 正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? |  |
+| 検出から 72 時間以内に、侵害の影響を受けた監督当局や個人にアプリまたはサービスのデータ侵害を報告しますか?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
+::: zone pivot="compliance"
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
+| 最新の SOC1 認定日 |   |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
+| どの SOC 2 認定を取得しましたか? | |
+| 最新の SOC2 認定日 | |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
+| 最新の SOC3 認定日 | |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
+| アプリは NIST 800-171 に準拠していますか? | 該当なし |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="privsection"
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
+| アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | はい |
+| プライバシー ポリシーの URL | https://arrangr.com/privacy_policy |
+| アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | 不要 |
+| アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | 不要 |
+| 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | 不要 |
+| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | 不要 |
+| アプリには、要求に応じて個人の個人データを削除する機能がありますか? | はい |
+| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | はい |
+| アプリは個人に個人データを修正または更新する機能を提供しますか? | はい |
+| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | 不要 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="zerotrust"
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | 不要 |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | 不要 |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? |  |
+| アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
+| アプリは継続的アクセス評価 (CAE) をサポートしています | 不要 |
+| アプリはコードに資格情報を保存しますか? | 不要 |
+| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
+
+>このアプリケーションでは、Microsoft アプリケーションをGraph。
+
+>このアプリケーションには、追加の API が含まれる必要があります。
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
