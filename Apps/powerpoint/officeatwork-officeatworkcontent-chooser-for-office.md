@@ -8,16 +8,17 @@ ms.service: attestation
 certification_type: certified
 description: officeatwork サービスで使用可能なすべてのセキュリティおよびコンプライアンス情報|CSA STAR レジストリOffice、そのデータ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、およびセキュリティ/コンプライアンス情報のコンテンツ選択。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8c6183fd0573ab38e5bf0b68976380af56133581
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 128e62ce29c8f7a9da9eca7f78bd15c6148b4116
+ms.sourcegitcommit: 1ae3b2c9057829f6d868439ba674d8d8d9f30663
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284243"
+ms.lasthandoff: 11/18/2021
+ms.locfileid: "61066355"
 ---
 # <a name="officeatwork--content-chooser-for-office"></a>officeatwork |コンテンツの選択Office
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>開発者が最終更新日: 2021 年 6 月 23 日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380602" target="_blank">AppSource での表示</a>
@@ -32,7 +33,7 @@ officeatwork から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリ名 | officeatwork - コンテンツの選択Office |
 | ID | WA104380602 |
-| Office 365サポートされているクライアント | Excel 2013 iPad 2013 Service Pack 1 以降の Excel mac Excel 2016 以降のサービス Windows Excel on the web iPad、Mac、Word on the web、Word 2013 Service Pack Windows 1 以降の Mac、Word on the web Word 2016、PowerPoint iPad、PowerPoint 2016 以降の Mac、PowerPoint on the web、PowerPoint 2013 Service Pack 1 以降の Windows、OneNote on the web |
+| Office 365サポートされているクライアント | Excel mac iPad、Excel 2016 以降の Excel Service Pack 1 以降の Windows、Excel on the web、Word on iPad、Word 2016 以降の Mac、Word on the web、Mac、PowerPoint on the web、PowerPoint 2013 Service Pack 1 以降の Windows、PowerPoint、iPad、PowerPoint 2016 以降の Word 2013 Service Pack 1 以降、WindowsOneNote on the web |
 | パートナー会社名 | officeatwork |
 | パートナー Web サイトの URL | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | プライバシー ポリシーの URL | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
@@ -52,13 +53,13 @@ officeatwork から Microsoft に提供される情報:
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Files.ReadWrite.All | 委任 | データは保存されません。 | お気に入り: ユーザーにデータを読み書きOneDrive。 | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
 >| Files.ReadWrite.All | 委任 | データは保存されません。 | OneDrive: ユーザーに対してデータの読み取りおよび書き込みを行OneDrive。 | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
 >| Group.ReadWrite.All | 委任 | データは保存されません。 | Teams: グループに対してデータの読み取りおよび書き込みを行える。 | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
->| GroupMember.Read.All | 委任 | データは保存されません。 | SharePointOnline - セキュリティ グループのサポート: アプリがグループの一覧を表示し、基本的なグループ プロパティを読み取り、サインインしているユーザーがアクセスできるすべてのグループのメンバーシップを読み取る | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
->| Sites.Read.All | 委任 | データは保存されません。 | SharePointオンライン: オンラインからデータを読み取SharePointします。 | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
+>| GroupMember.Read.All | 委任 | データは保存されません。 | SharePoint - セキュリティ グループのサポート: アプリがグループの一覧を表示し、基本的なグループ プロパティを読み取り、サインインしているユーザーがアクセスできるすべてのグループのメンバーシップを読み取る | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
+>| Sites.Read.All | 委任 | データは保存されません。 | SharePoint: オンラインからデータを読み取SharePointします。 | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
 >| User.Read | 委任 | データは保存されません。 | Sing-In: officeatwork アプリがユーザーの基本的なプロパティを読み取ることができます。 | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
 >| User.Read.All | 委任 | データは保存されません。 | Teams: ユーザーが属するグループを確認します。 | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
 >| offline_access | 委任 | データは保存されません。 | Sing-In: 更新トークンを介して自動サインインを有効にするには、ユーザーが officeatwork アプリを起動する度に手動でサインインする必要があります。 このスコープは、SSO が有効でないホスト アプリケーションでのみ必要です。 | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
@@ -71,7 +72,7 @@ officeatwork から Microsoft に提供される情報:
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| SharePoint REST API | いいえ |  |  |  |  |
+>| SharePoint REST API | 不要 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -97,7 +98,7 @@ officeatwork から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -125,17 +126,17 @@ officeatwork から Microsoft に提供される情報:
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | 不要 |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | セキュリティの既定値 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
-| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | いいえ |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | 不要 |
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
 | アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
-| アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリは Web API を公開していますか? | 不要 |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

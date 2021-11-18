@@ -1,5 +1,5 @@
 ---
-title: Microsoft Excelアプリのセキュリティとコンプライアンス - すべてのアプリ
+title: Microsoft Excel アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
 ms.date: 11/08/2021
@@ -7,14 +7,14 @@ ms.topic: article
 ms.service: attestation
 description: すべてのアプリで使用可能なすべてのセキュリティとコンプライアンスMicrosoft Excel情報。
 localization_priority: Normal
-ms.openlocfilehash: 9e7418eab523d12da1edf75ec8223670333f7813
-ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
+ms.openlocfilehash: 8e82269d80d00dcbb6c0b078fb3f140e21a2c237
+ms.sourcegitcommit: 1ae3b2c9057829f6d868439ba674d8d8d9f30663
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/09/2021
-ms.locfileid: "60873463"
+ms.lasthandoff: 11/18/2021
+ms.locfileid: "61066395"
 ---
-# <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft ExcelApps のセキュリティとコンプライアンス
+# <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel アプリのセキュリティとコンプライアンス
 
 Microsoft は、開発者パートナー Microsoft 365協力して、組織が使用するアプリやアドインに関する意思決定を迅速に行い、Microsoft Excel情報を提供します。 この情報は、[Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) アプリ カタログの情報と、開発者がアプリケーションを送信するときに提供する情報で補足されます。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
 
@@ -30,7 +30,7 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | [Lucidchart ダイアグラム for Excel](./lucid-software-inc-lucidchart-diagrams-for-excel.md) | Lucid Software Inc | **✓** |  |
 | [MeaningCloud Text Analytics for Excel](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
 | [Office2SharePoint for Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | コンテンツの選択Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | コンテンツの選択Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | イメージの選択Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | テンプレートの選択Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** |  |
 | [QuickCells グラフ](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  |

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Wordアプリのセキュリティとコンプライアンス - すべてのアプリ
+title: Microsoft Word アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
 ms.date: 11/08/2021
@@ -7,14 +7,14 @@ ms.topic: article
 ms.service: attestation
 description: すべてのアプリで使用可能なすべてのセキュリティおよびコンプライアンス情報Microsoft Word。
 localization_priority: Normal
-ms.openlocfilehash: a09af68319bc84d6186de28126382d3349f462e1
-ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
+ms.openlocfilehash: a393f652e193ab3b4dbeca233159e4e98350b5e9
+ms.sourcegitcommit: 1ae3b2c9057829f6d868439ba674d8d8d9f30663
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/09/2021
-ms.locfileid: "60872223"
+ms.lasthandoff: 11/18/2021
+ms.locfileid: "61066295"
 ---
-# <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft WordApps のセキュリティとコンプライアンス
+# <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word アプリのセキュリティとコンプライアンス
 
 Microsoft は、開発者パートナー Microsoft 365協力して、組織が使用するアプリやアドインに関する意思決定を迅速に行い、Microsoft Word情報を提供します。 この情報は、[Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) アプリ カタログの情報と、開発者がアプリケーションを送信するときに提供する情報で補足されます。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
 
@@ -34,7 +34,7 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | [Mendeley Cite](./elsevier-limited-mendeley-cite.md) | エルゼビア株式会社 | **✓** |  |
 | [neopolis](./neopolis-gmbh.md) | neopolis GmbH | **✓** |  |
 | [Office2SharePoint for Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | コンテンツの選択Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | コンテンツの選択Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | designer for Office](./officeatwork-officeatworkdesigner-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | イメージの選択Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | テンプレートの選択Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** |  |
