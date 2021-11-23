@@ -2,17 +2,17 @@
 title: Microsoft Excel アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/08/2021
+ms.date: 11/22/2021
 ms.topic: article
 ms.service: attestation
 description: すべてのアプリで使用可能なすべてのセキュリティとコンプライアンスMicrosoft Excel情報。
 localization_priority: Normal
-ms.openlocfilehash: 8e82269d80d00dcbb6c0b078fb3f140e21a2c237
-ms.sourcegitcommit: 1ae3b2c9057829f6d868439ba674d8d8d9f30663
+ms.openlocfilehash: f5e36298554672e6cb7c22cb84d32c68d902cb37
+ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/18/2021
-ms.locfileid: "61066395"
+ms.lasthandoff: 11/23/2021
+ms.locfileid: "61145229"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel アプリのセキュリティとコンプライアンス
 
@@ -23,6 +23,7 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | [キヤノン B2B パートナー向け EMEA サービス コスト計算ツール](./canon-emea-service-cost-calculator-for-b2b-partners.md) | キヤノン EMEA | **✓** |  |
 | [CloudExtend Analytics for NetSuite](./celigo-cloudextend-analytics-for-netsuite.md) | Celigo CloudExtend | **✓** |  |
 | [Excel-to-Word ドキュメントオートメーション](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
+| [Forbury](./forbury-property.md) | Forbury プロパティ | **✓** |  |
 | [harmon.ie のOffice](./harmonie-corporation-for-office.md) | harmon.ie 株式会社 | **✓** |  |
 | [インプレッション署名](./impression-signatures.md) | インプレッション署名 | **✓** |  |
 | [iPlanner レポート ツール for Office 365 Planner](./iglobe-iplanner-reporting-tool-for-office-365-planner.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
