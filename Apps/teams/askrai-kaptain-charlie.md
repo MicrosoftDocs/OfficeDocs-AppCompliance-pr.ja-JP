@@ -1,45 +1,45 @@
 ---
-title: MailClark による MailClark のアプリケーション情報
+title: 'アプリケーション情報: Kaptain Charlie by askR.ai'
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/29/2021
+ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: MailClark、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: Kaptain Charlie の利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 57df605eb36fcfcf3ae10d1bac7aa1bbc9b24e25
+ms.openlocfilehash: 185eb80a15e92916a076a65d57a9c820bb9898a0
 ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/23/2021
-ms.locfileid: "61148115"
+ms.locfileid: "61148180"
 ---
-# <a name="mailclark"></a>MailClark
+# <a name="kaptain-charlie"></a>Kaptain Charlie
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 10 月 29 日</p>
+<p>開発者が最終更新日: 2021 年 7 月 22 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/64f174e8-7e14-4b48-871e-2fb7b17be302" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104381679" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/1f36eaf6-30a3-4488-a73f-4754b91e865d" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001583" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-MailClark から Microsoft に提供される情報:
+Microsoft に提供される askR.ai 情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | MailClark |
-| ID | WA104381679 |
+| アプリ名 | Kaptain Charlie |
+| ID | WA200001583 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | MailClark |
-| 会社の Web サイト | [https://mailclark.ai/microsoft-teams-integration](https://mailclark.ai/microsoft-teams-integration) |
-| アプリの利用規約 | [https://mailclark.ai/tos](https://mailclark.ai/tos) |
-| アプリのコア機能 | メール、Facebook、Twitterのメッセージに対するメールへの応答を管理 &amp; Microsoft Teams。 |
-| 会社の本社所在地 |  |
+| パートナー会社名 | askR.ai |
+| 会社の Web サイト | [https://en.askr.ai](https://en.askr.ai) |
+| アプリの利用規約 | [https://en.askr.ai/terms-of-use-askr-ai](https://en.askr.ai/terms-of-use-askr-ai) |
+| アプリのコア機能 | データとチャットする! askR.ai は、個人データ アシスタントデータを持っていますが、データにアクセスする技術的なプロセスが気に入らないか。 データ アシスタントを使用して質問に答え、探索を支援します。 データ アシスタント askR.ai 最初のデータ アシスタントは何Microsoft Teams? - AI による個人データ アシスタント - インスタント KPI とデータ viz を提供する - 特定のビジネスボキャブラリを理解する - アラートを送信する - 追加の分析を提案する |
+| 会社の本社所在地 | フランス |
 | アプリ情報ページ | |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
 
@@ -51,7 +51,7 @@ MailClark から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する MailClark によって提供されています。
+この情報は、このアプリ askR.ai 収集および保存する方法、およびアプリが収集するデータに対して組織が持つコントロールに関する情報を提供しています。
 
 | **Information** | **Response** |
 |:----------------|:-------------|
@@ -60,7 +60,7 @@ MailClark から Microsoft に提供される情報:
 | データベースに格納されているデータは何ですか? |  |
 | 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
 | データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 |  |
+| アカウントの終了後にデータが保持される期間 | すぐに削除 |
 | データ アクセス管理プロセスが確立されていますか? |  |
 | 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? |  |
 | Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
@@ -75,8 +75,8 @@ MailClark から Microsoft に提供される情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリで年間侵入テストを実行しますか? | いいえ |
-| アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | いいえ |
+| アプリで年間侵入テストを実行しますか? | はい |
+| アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | はい |
 | 環境で従来のマルウェア対策保護またはアプリケーションコントロールを使用していますか? |  |
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? |  |
 | パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? |  |
@@ -105,24 +105,24 @@ MailClark から Microsoft に提供される情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? |  |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? |  |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? |  |
-| 最新の SOC1 認定日 | |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? |  |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | いいえ |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | いいえ |
+| 最新の SOC1 認定日 |   |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? |  |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 |  |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? |  |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? |  |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? |  |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? |  |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | いいえ |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? |  |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? |  |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? |  |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | いいえ |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | いいえ |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | いいえ |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
@@ -153,9 +153,9 @@ MailClark から Microsoft に提供される情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 |  |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | いいえ |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? |  |
+| アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | はい |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | false |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |

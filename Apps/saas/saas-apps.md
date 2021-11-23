@@ -2,17 +2,17 @@
 title: SaaS Apps のセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/15/2021
+ms.date: 11/22/2021
 ms.topic: article
 ms.service: attestation
 description: すべての SaaS アプリで使用可能なすべてのセキュリティおよびコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: fa5259171501ae5ba6bdeaeb3acc9c0f049d3a5c
-ms.sourcegitcommit: 7989546de4aa2bbd2a751281d1aa215facae2d15
+ms.openlocfilehash: 820ef4df0b5e7f62b82bc6c8470ab93c4fc68767
+ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/16/2021
-ms.locfileid: "61036319"
+ms.lasthandoff: 11/23/2021
+ms.locfileid: "61148085"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS Apps のセキュリティとコンプライアンス
 
@@ -35,6 +35,7 @@ Microsoft は、Microsoft 365パートナーと協力して、組織が使用す
 | [MyHub for Teams](./avepoint-inc-myhub-for-teams.md) | AvePoint Inc. | **✓** |  |
 | [Netskope for Microsoft Teams](./netskope-for-microsoft-teams.md) | Netskope | **✓** |  |
 | [Office2SharePoint](./iglobe-office2sharepoint.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [MS365 の Onna Discovery](./onna-discovery-for-ms365.md) | Onna | **✓** |  |
 | [ポリシーインサイト &amp; (BYOL) Microsoft 365ポリシー](./avepoint-inc-policies-and-insights-for-microsoft-365-byol.md) | AvePoint Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [SalesTim](./salestim.md) | SalesTim | **✓** |  |
