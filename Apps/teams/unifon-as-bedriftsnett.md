@@ -1,48 +1,48 @@
 ---
-title: Unscrambl による qbo のアプリケーション情報
+title: Unifon AS による Bedriftsnett のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
+description: Bedriftsnett、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f48255e8f29512bfc18a9d9c1a3d079829d31769
+ms.openlocfilehash: 4caa96e6b900dbb9e7affdb08be3932c27b4f69f
 ms.sourcegitcommit: 7395a3f8bf109af577dc24ad1de4e7d18db9c26d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/29/2021
-ms.locfileid: "61211024"
+ms.locfileid: "61212987"
 ---
-# <a name="qbo"></a>qbo
+# <a name="bedriftsnett"></a>Bedriftsnett
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 11 月 25 日</p>
+<p>開発者が最終更新日: 2021 年 10 月 8 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/834c6939-152c-450b-a305-c65b4dd5d1c7" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001708" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/af9a1113-600a-4084-9e68-5f20fe25f4d8" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003490" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Unscrambl から Microsoft に提供される情報:
+Unifon AS から Microsoft に提供される情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | qbo |
-| ID | WA200001708 |
+| アプリ名 | Bedriftsnett |
+| ID | WA200003490 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | Unscrambl |
-| 会社の Web サイト | [https://unscrambl.com](https://unscrambl.com) |
-| アプリの利用規約 | [https://qbo.ai/legal/#service](https://qbo.ai/legal/#service) |
-| アプリのコア機能 | Unscrambl qbo インサイトを活用した qbo は、クラス最高の NLP を使用して分析を会話的に行います。 ユーザーは質問を入力し、qbo は最も関連性の高い分析情報と視覚化を簡単に表示します。 ユーザーは、同僚と積極的に共同作業を行い、意思決定を行い、プレゼンテーション対応のボードで結果を取得できます。 qbo は、組織内のすべてのユーザーがデータ駆動型の意思決定を行う権限を与える。 qbo は、さまざまなクラウドまたはオンプレミスのソースに直接接続し、Microsoft Teamsまたはブラウザーを介してアクセスできます。 |
-| 会社の本社所在地 | アメリカ |
+| パートナー会社名 | Unifon AS |
+| 会社の Web サイト | [https://www.unifon.no](https://www.unifon.no) |
+| アプリの利用規約 | [https://www.unifon.no/avtalevilkar/](https://www.unifon.no/avtalevilkar/) |
+| アプリのコア機能 | Unifon Bedriftsnett は、このサイトで直接Microsoft Teams |
+| 会社の本社所在地 | ノルウェー |
 | アプリ情報ページ | |
-| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Iaas |
-| アプリで使用するホスティング クラウド プロバイダー | Azure |
+| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | IsvHosted |
+| アプリで使用するホスティング クラウド プロバイダー |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -52,19 +52,17 @@ Unscrambl から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Unscrambl によって提供されています。
+この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関して Unifon AS によって提供されています。
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
-| アプリで処理されるデータは何ですか? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
-| アプリは TLS 1.1 以上をサポートしていますか? | はい |
+| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | 不要 |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? | 名前と電子メール アドレス |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | シンガポール |
-| データの借入および廃棄プロセスが確立されていますか? | はい |
-| アカウントの終了後にデータが保持される期間 | 保持されない |
-| データ アクセス管理プロセスが確立されていますか? | はい |
+| データベースに格納されているデータは何ですか? |  |
+| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
+| データの借入および廃棄プロセスが確立されていますか? |  |
+| アカウントの終了後にデータが保持される期間 |  |
+| データ アクセス管理プロセスが確立されていますか? |  |
 | 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | 不要 |
 | Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
 
@@ -85,14 +83,14 @@ Unscrambl から Microsoft に提供される情報:
 | パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? | はい |
 | パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
 | 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | 不要 |
-| アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | はい |
+| アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | 不要 |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
 | 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
 | 追加のユーザーが、元の開発者によって実稼働環境に提出されたコード変更要求を確認および承認していますか? | はい |
-| セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | はい |
-| 多要素認証 (MFA) が有効になっているのは、次の場合です。 | 資格情報、DNSManagement、CodeRepositories |
+| セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | 不要 |
+| 多要素認証 (MFA) が有効になっているのは、次の場合です。 | 資格情報、CodeRepositories、DNSManagement |
 | 従業員アカウントのプロビジョニング、変更、削除のプロセスが確立されていますか? | はい |
-| アプリをサポートするネットワーク境界の境界の境界に侵入検出と防御 (IDPS) ソフトウェアが展開されていますか? | 不要 |
+| アプリをサポートするネットワーク境界の境界の境界に侵入検出と防御 (IDPS) ソフトウェアが展開されていますか? | はい |
 | アプリをサポートしているすべてのシステム コンポーネントにイベント ログが設定されていますか? | はい |
 | すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動ツールによって定期的に確認されますか? | はい|
 | セキュリティ イベントが検出されると、アラートが従業員に自動的に送信され、トリアージが発生しますか? | はい |
@@ -109,21 +107,21 @@ Unscrambl から Microsoft に提供される情報:
 | **Information** | **Response** |
 |:----------------|:-------------|
 | アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | N/A |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | N/A |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
 | 最新の SOC1 認定日 |   |
 | アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
 | アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 不要 |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | N/A |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | N/A |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | N/A |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
 | アプリは NIST 800-171 に準拠していますか? | N/A |
@@ -139,7 +137,7 @@ Unscrambl から Microsoft に提供される情報:
 |:----------------|:-------------|
 | GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | はい |
-| プライバシー ポリシーの URL | https://qbo.ai/legal/ |
+| プライバシー ポリシーの URL | https://www.unifon.no/personvern/ |
 | アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | 不要 |
 | アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | 不要 |
 | 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | 不要 |
@@ -164,7 +162,7 @@ Unscrambl から Microsoft に提供される情報:
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています | 不要 |
 | アプリはコードに資格情報を保存しますか? | 不要 |
-| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
+| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | 不要 |
 
 >このアプリケーションでは、Microsoft アプリケーションをGraph。
 

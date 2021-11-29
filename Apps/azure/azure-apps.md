@@ -2,17 +2,17 @@
 title: Azure App IDs のセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/24/2021
+ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
 description: すべての Azure App ID で使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: f849e82e6e901c870320079d4179622e612db713
-ms.sourcegitcommit: 3a357b6131b8459972e1aec73f2f795f9d674981
+ms.openlocfilehash: 16b560ed477f8c6e7063721708a8bc7030df144b
+ms.sourcegitcommit: 7395a3f8bf109af577dc24ad1de4e7d18db9c26d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/25/2021
-ms.locfileid: "61173606"
+ms.lasthandoff: 11/29/2021
+ms.locfileid: "61215604"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Azure App IDs のセキュリティとコンプライアンス
 
@@ -156,6 +156,7 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | [99455ec0-6207-4889-9c8c-96216a274a6b](./99455ec0-6207-4889-9c8c-96216a274a6b.md) | **✓** |  |
 | [99a0a9b1-5d28-45df-9f99-792aa32795f4](./99a0a9b1-5d28-45df-9f99-792aa32795f4.md) | **✓** |  |
 | [99a3ad8d-8682-4f2a-9c2c-b4b27e99585c](./99a3ad8d-8682-4f2a-9c2c-b4b27e99585c.md) | **✓** |  |
+| [9a7ce614-bdc8-4640-aaea-d8c626c58966](./9a7ce614-bdc8-4640-aaea-d8c626c58966.md) | **✓** |  |
 | [9af6eceb-6a8b-4710-b51d-dde2ac01cc71](./9af6eceb-6a8b-4710-b51d-dde2ac01cc71.md) | **✓** |  |
 | [9b03f15d-1219-4b2f-9699-640be54e1319](./9b03f15d-1219-4b2f-9699-640be54e1319.md) | **✓** |  |
 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](./9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) | **✓** |  |
@@ -165,6 +166,7 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | [9ff28b02-ccc5-4cac-9d17-4cf6987c371f](./9ff28b02-ccc5-4cac-9d17-4cf6987c371f.md) | **✓** |  |
 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](./a0b58ca7-958d-4343-a2dc-a75f2eeb0953.md) | **✓** |  |
 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](./a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [a2af9d71-95f1-4236-be2c-c105ab9b7ee9](./a2af9d71-95f1-4236-be2c-c105ab9b7ee9.md) | **✓** |  |
 | [a4c28379-0840-42c5-9407-f088a7f54048](./a4c28379-0840-42c5-9407-f088a7f54048.md) | **✓** |  |
 | [a554bdf0-866f-4ee2-b95b-3afbfc70d5bc](./a554bdf0-866f-4ee2-b95b-3afbfc70d5bc.md) | **✓** |  |
 | [a622ceb4-b6e2-4557-8218-e22e80975ba4](./a622ceb4-b6e2-4557-8218-e22e80975ba4.md) | **✓** |  |
@@ -243,6 +245,7 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](./f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) | **✓** |  |
 | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](./f3277edf-4f66-4e94-853b-cc1f1e2914f8.md) | **✓** |  |
 | [f3943662-e828-40ed-9c6e-369680fe421f](./f3943662-e828-40ed-9c6e-369680fe421f.md) | **✓** |  |
+| [f3ad2154-7e10-4730-a055-8852ced42d47](./f3ad2154-7e10-4730-a055-8852ced42d47.md) | **✓** |  |
 | [f5c9f179-b9a5-4364-8f99-18d203b902ad](./f5c9f179-b9a5-4364-8f99-18d203b902ad.md) | **✓** |  |
 | [f6671df0-1909-428c-91f7-1c42df04d3e4](./f6671df0-1909-428c-91f7-1c42df04d3e4.md) | **✓** |  |
 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](./f6d7187a-b437-4eca-bbc5-c1331609fe07.md) | **✓** |  |
