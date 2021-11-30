@@ -1,26 +1,26 @@
 ---
-title: Azure App ID Information for 15439749-b811-4e89-b777-4fe6ef247801
+title: Azure App ID Bd2aaebe-63b9-434b-aad8-e7010f2ece20 の情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 11/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 15439749-b811-4e89-b777-4fe6ef247801 で使用可能なすべてのセキュリティおよびコンプライアンス情報。
-ms.openlocfilehash: e57958d760a212666b4ce65e71a55faed7a3510d
+description: bd2aaebe-63b9-434b-aad8-e7010f2ece20 で使用可能なすべてのセキュリティおよびコンプライアンス情報。
+ms.openlocfilehash: 9b68c94131658c83c12ecd20bef1866acece0290
 ms.sourcegitcommit: 0987264f7eb14ac7fc2666d9310ab2707e0f25ad
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/30/2021
-ms.locfileid: "61231655"
+ms.locfileid: "61233464"
 ---
-# <a name="azure-app-id-15439749-b811-4e89-b777-4fe6ef247801"></a>Azure App ID: 15439749-b811-4e89-b777-4fe6ef247801
+# <a name="azure-app-id-bd2aaebe-63b9-434b-aad8-e7010f2ece20"></a>Azure App ID: bd2aaebe-63b9-434b-aad8-e7010f2ece20
 
 
 ### <a name="apps-associated-with-this-id"></a>この ID に関連付けられているアプリ:
 | **アプリ名** | **認定** | **AppSource での表示** |
 |--------------|---------------|-----------------------|
-| [Wazoku](https://docs.microsoft.com/microsoft-365-app-certification/forward/WA200003384) |  | [https://appsource.microsoft.com/product/office/WA200003384](https://appsource.microsoft.com/product/office/WA200003384) |
+| [Geekbot](https://docs.microsoft.com/microsoft-365-app-certification/forward/WA200003224) |  | [https://appsource.microsoft.com/product/office/WA200003224](https://appsource.microsoft.com/product/office/WA200003224) |
 
 ### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365コンプライアンスの状態
 - Publisher Attestaton Status: Completed
