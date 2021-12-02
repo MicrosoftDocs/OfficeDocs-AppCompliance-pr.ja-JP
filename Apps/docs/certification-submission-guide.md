@@ -2,23 +2,23 @@
 ms.author: oromalle
 title: Microsoft 365認定申請ガイド
 author: orionomalley
-description: Microsoft 365認定申請ガイドの詳細なビュー
+description: Microsoft 365認定申請ガイドの詳細ビュー
 keywords: アプリ認定チームMicrosoft 365コンプライアンス m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: f89cb9f82cec69a473d451cff33e3db9b406489d
-ms.sourcegitcommit: ddd67912ff4e8901300556ff85c2cf416f54dea1
+ms.openlocfilehash: 56d6de02101013d10f48c308e2f7ece706b26c51
+ms.sourcegitcommit: 3e72bc447a90cd8b0313dab55f6a9374be8ae358
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/09/2021
-ms.locfileid: "60885294"
+ms.lasthandoff: 12/01/2021
+ms.locfileid: "61261669"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365認定申請ガイド
 
 **この記事の内容:**
 - [はじめに](#introduction)
 - [前提条件](#prerequisites) 
-- [Microsoft 365認定仕様の更新](#microsoft-365-certification-specification-updates)
+- [Microsoft 365仕様の更新プログラム](#microsoft-365-certification-specification-updates)
 - [認定スコープ](#certification-scope)
 - [認定プロセス](#certification-process)
 - [最初のドキュメントの申請](#initial-document-submission) 
@@ -39,7 +39,7 @@ ms.locfileid: "60885294"
 - [用語集](#glossary) 
 
 
-## <a name="introduction"></a>はじめに
+## <a name="introduction"></a>概要
 
 Microsoft 365 アプリ コンプライアンス プログラムの一部である Microsoft 365 認定は、サード パーティの開発者向けアプリ/アドインを Microsoft 365 プラットフォームに統合する際に、データとプライバシーが適切に保護され、保護されているという確信を企業組織に提供します。 検証に合格するアプリケーションとアドインは、Microsoft 365 **エコシステム** 全体Microsoft 365されます。 
 
@@ -51,7 +51,7 @@ Microsoft 365 認定プログラムに参加することで、これらの補足
 > 現在、Microsoft 365認定は次のすべてに適用されます。
 >* Microsoft Teams (タブ、ボットなど) 。
 >* Sharepoint Apps/Add-ins
->* Officeアドイン (Word、Excel、PowerPoint、Outlook、Project、OneNote)
+>* Office アドイン (Word、Excel、PowerPoint、Outlook、Project、OneNote)
 >* WebApps
 
 ## <a name="prerequisites"></a>前提条件
@@ -64,7 +64,7 @@ Microsoft 365 認定プログラムに参加することで、これらの補足
 
 Microsoft では、すべての ISV (独立したソフトウェア ベンダー) に対して、スコープ内環境とアプリ/アドインによって適用可能なすべてのコントロールが確実に満たされる状態を確保するために、この Microsoft 365 認定仕様全体を読み取る必要があります。 これにより、円滑な評価プロセスを実現できます。
 
-## <a name="microsoft-365-certification-specification-updates"></a>Microsoft 365認定仕様の更新 
+## <a name="microsoft-365-certification-specification-updates"></a>Microsoft 365仕様の更新プログラム 
 
 認定仕様のMicrosoft 365は、約 6 ~ 12 か月ごとに行う予定です。 これらの更新プログラムは、新しいターゲット セキュリティ ドメインおよび/またはセキュリティ制御を導入する可能性があります。 更新プログラムは、開発者からのフィードバック、脅威の状況に対する変更、およびプログラムの成熟に応じ、プログラムのセキュリティ ベースラインを向上するために基づいて行います。 
 
@@ -277,9 +277,11 @@ GraphAPI アクセス許可の検証は、アプリ/アドインが過剰に制�
 >レポートでは、[アプリケーション セキュリティ テスト仕様] セクションで詳しく説明されているすべてを示す十分な保証を提供できる必要があります。
 
 
-**侵入テストの要件とコスト**
+**無料の侵入テストの要件とルール**
 
-現在侵入テストに参加していない ISV の場合、侵入テストは[認証] の下Microsoft 365されます。 Microsoft は、手動テストの最大 12 日間、侵入テストのコストを手配およびカバーします。 侵入テストのコストは、環境のテストに必要な日数に基づいて計算されます。 テストの 12 日間を超える費用は、ISV の責任となります。 また、ISV は、認証が授与される前に侵入テストで特定された脆弱性が修復されたが、クリーン レポートを作成する必要はないことを実証する責任も負います。
+- 現在侵入テストに参加していない ISV の場合は、侵入テストを無料で実施できます。認証Microsoft 365できます。 Microsoft は、手動テストの最大 12 日間、侵入テストのコストを手配およびカバーします。 侵入テストのコストは、環境のテストに必要な日数に基づいて計算されます。 テストの 12 日間を超える費用は、ISV の責任となります。 
+- ISV は、侵入テストが実施される前に、スコープ内のコントロールの 50% の証拠を提出し、承認を受ける必要があります。 まず、最初のドキュメント提出に記入し、評価の一部として侵入テストを含める必要があります。 コントロールの 50% が完了したら、範囲を問い合わせ、侵入テストをスケジュールします。
+- ISV は、認証が授与される前に侵入テストで特定された脆弱性が修復されたが、クリーン レポートを作成する必要がなことを示す責任も負います。
 
 侵入テストが配置された後、ISV は、次のように再スケジュールとキャンセルに関連する料金を担当します。
 
@@ -1008,7 +1010,7 @@ Microsoft は、アプリケーションを展開し、異なるホスティン�
 
 ## <a name="learn-more"></a>詳細情報
 
-[Microsoft 365アプリ コンプライアンス プログラムの概要](~/overview.md)  
+[Microsoft 365 コンプライアンス プログラムの概要](~/overview.md)  
 [アプリの構成Microsoft 365とはPublisher?](~/docs/attestation.md)  
 [認定とはMicrosoft 365ですか?](~/docs/enterprise-app-certification-guide.md)
 

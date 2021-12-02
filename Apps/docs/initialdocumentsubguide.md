@@ -1,21 +1,27 @@
 ---
 ms.author: oromalle
-title: Microsoft 365認定 - 最初のドキュメント提出ガイド
+title: Microsoft 365認定 - 初期ドキュメント提出ガイド
 author: orionomalley
-description: Microsoft 365認定申請ガイドの詳細なビュー
+description: Microsoft 365認定申請ガイドの詳細ビュー
 keywords: アプリ認定チームMicrosoft 365コンプライアンス m365 の初期ドキュメント提出
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: 0352b64649d87b40d185a2bc06ce23da6cf341ef
-ms.sourcegitcommit: d67be08c82a50cc263a4bdeb176f41dd60716159
+ms.openlocfilehash: 0f879ce6b02fb469b0210500e4706d468ccb4011
+ms.sourcegitcommit: 3e72bc447a90cd8b0313dab55f6a9374be8ae358
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/15/2021
-ms.locfileid: "60378815"
+ms.lasthandoff: 12/01/2021
+ms.locfileid: "61261679"
 ---
 # <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365認定 - 最初のドキュメント提出ガイド
 
 最初のドキュメント提出は、認定の事前評価フェーズの一部です。 提供される情報は、認定アナリストに対して、評価の対象になるコントロールとシステム コンポーネントを特定するために必要なバックグラウンドを提供します。 このドキュメントは、最初のドキュメントの提出に期待される機能の例としてのみ使用することを目的とします。 提供するドキュメントは、ソリューションの設計、実装、および管理方法によって異なります。
+
+## <a name="what-is-the-hosting-environment-or-service-model-used-to-run-your-app"></a>アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか?
+- サービスとしてのインフラストラクチャ (IaaS) は、クラウド サービス プロバイダーがインフラストラクチャ コンポーネントをホストするクラウド サービス モデルですが、ISV は引き続き仮想マシン/オペレーティング システム、データ ストア、ネットワーク コンポーネントなどのコンポーネントを個別に展開および管理する責任があります。 その例として、Azure Virtual Machine と Azure Disk Storage。
+- サービスとしてのプラットフォーム (PaaS) は、インフラストラクチャ コンポーネントがクラウド サービス プロバイダーによって管理されるクラウド サービス モデルです。 ISV は、独自のアプリケーションとサービスの展開のみを担当します。 この例は、Azure App Services、Azure Functions、および Azure CDN。
+- このコンテキストでホストされる ISV は、クラウド サービス プロバイダーが使用されません。 ISV は、独自のサーバー、ディスク、ネットワークをオンプレミスで個別に物理的に管理します。
+- このコンテキストのハイブリッドは、上記のモデルの 1 つが使用されるという意味です。 たとえば、一部の ISV は、IaaS サービスと PaaS サービスの混合を使用してアプリをサポートする場合や、オンプレミスの ISV ホスト型コンポーネントを持ち、他の ISV をクラウド サービス プロバイダーにアウトソーシングする場合があります。 複数のサービス モデルのいずれかを使用する場合は、[ハイブリッド] を選択します。
 
 ## <a name="penetration-test-report"></a>侵入テスト レポート
 
@@ -34,24 +40,24 @@ ms.locfileid: "60378815"
 
 |アセット名|    アセットの種類| 説明|    製造元|   モデル|
 |-|-|-|-|-|
-|D212|  Windows コンピューター|   仮想コンピューター|    該当なし| 該当なし|
+|D212|  Windowsコンピューター|   仮想コンピューター|    該当なし| N/A|
 |LT101| ノート PC| ワークステーション|    Microsoft|  Surface 3|
-|C2938| スイッチ| スイッチ|該当なし|該当なし|     
-|LXM2|  Linux マシン|  テスト マシン|該当なし|該当なし|       
+|C2938| スイッチ| スイッチ|該当なし|N/A|     
+|LXM2|  Linux マシン|  テスト マシン|該当なし|N/A|       
 
 
 ## <a name="software-inventory"></a>ソフトウェア インベントリ
 
 スコープ内環境内で使用されるすべてのソフトウェアとバージョンを含む、すべてのソフトウェア資産の最新のインベントリ。
 
-**例:** 
+**例:**
 
 |ソフトウェア|  発行者|  バージョン|     用途|
 |-|-|-|-|
 |Windows Server|    Microsoft 2016 | ビルド 14393| 実稼働環境のサーバー オペレーティング システム|.
-|Linux Ubuntu|  該当なし|    16.04 (Xenial)| DMZ 内で使用されているサーバー オペレーティング システム。|
+|Linux Ubuntu|  N/A|    16.04 (Xenial)| DMZ 内で使用されているサーバー オペレーティング システム。|
 |ESXi|  VMWare| 6.5.0 (ビルド 13004031)| 仮想サーバーをサポートするために使用します。|
-|Mysql (Windows)|   該当なし|    8.0.2.1|    チャット履歴を格納するデータベース サーバー。|
+|Mysql (Windows)|   N/A|    8.0.2.1|    チャット履歴を格納するデータベース サーバー。|
 |Tomcat|        Apache| 7.0.92| カスタマー ポータル。|
 |IIS|   Microsoft|  10.0|   API をサポートします。|
 
@@ -60,7 +66,7 @@ ms.locfileid: "60378815"
 
 現在実行中のバージョンとアプリ/アドインで使用される依存関係の一覧を示すドキュメント。
 
-**例:** 
+**例:**
 
 |Web 依存関係|  現在のバージョンの使用|
 |-|-|

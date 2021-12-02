@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Office 365 - Prod (transact)、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b9257448bd15bc23647a3567fb0f66a7325fe1fd
-ms.sourcegitcommit: 7989546de4aa2bbd2a751281d1aa215facae2d15
+ms.openlocfilehash: d2017f681e2689dbf4625baf7f7d3dcef62bbfc4
+ms.sourcegitcommit: 3e72bc447a90cd8b0313dab55f6a9374be8ae358
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/16/2021
-ms.locfileid: "61039999"
+ms.lasthandoff: 12/01/2021
+ms.locfileid: "61261689"
 ---
 # <a name="cloud-backup-for-office-365---prod-transact"></a>クラウド バックアップ for Office 365 - Prod (transact)
 
@@ -28,15 +28,18 @@ ms.locfileid: "61039999"
 
 AvePoint Inc. から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | クラウド バックアップ for Office 365 - Prod (transact) |
 | ID | avepoint.cloudbackup_o365_transact |
 | パートナー会社名 | AvePoint Inc. |
 | 会社の Web サイト | [https://www.avepoint.com](https://www.avepoint.com) |
 | アプリの利用規約 | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
-| アプリのコア機能 | AvePoint Cloud Backup は、&#8217;クラウドからクラウドへの最も完全なバックアップ ソリューションMicrosoft 365。 With
-AvePoint&#8217;Azure ストレージまたは独自のクラウドで、無制限の自動バックアップとセキュリティで保護されたストレージを使用して、回復する量と時間を決定します。 オンデマンドで詳細なアイテム レベルの復元では、ビジネスに不可欠な電子メール、ファイル、会話、録音、プロジェクト、タスク、グループ、Teams、プランナー、サイトにいつでもアクセスできます。 | |会社の本社所在地|アメリカ合衆国 | |アプリ情報ページ| | |アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |Paas | |アプリで使用するホスティング クラウド プロバイダー |Azure |
+| アプリのコア機能 | AvePoint Cloud Backup は、&#8217;クラウドからクラウドへの最も完全なバックアップ ソリューションMicrosoft 365。 AvePoint&#8217;の無制限の自動バックアップとセキュリティで保護されたストレージを使用して、Azure ストレージまたは独自のクラウドを使用して、回復する量と時間を決定します。 オンデマンドで詳細なアイテム レベルの復元では、ビジネスに不可欠な電子メール、ファイル、会話、録音、プロジェクト、タスク、グループ、Teams、プランナー、サイトにいつでもアクセスできます。 |
+| 会社の本社所在地 | アメリカ |
+| アプリ情報ページ | |
+| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
+| アプリで使用するホスティング クラウド プロバイダー | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -59,7 +62,7 @@ AvePoint&#8217;Azure ストレージまたは独自のクラウドで、無制�
 | データの借入および廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後にデータが保持される期間 | 30 日未満 |
 | データ アクセス管理プロセスが確立されていますか? | はい |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | 不要 |
+| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | いいえ |
 | Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -102,9 +105,9 @@ AvePoint&#8217;Azure ストレージまたは独自のクラウドで、無制�
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
 | アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | N/A |
 | 最新の SOC1 認定日 |   |
 | アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | はい |
 | どの SOC 2 認定を取得しましたか? |  type2 |
@@ -115,12 +118,12 @@ AvePoint&#8217;Azure ストレージまたは独自のクラウドで、無制�
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | はい |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | はい |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | はい |
-| アプリは NIST 800-171 に準拠していますか? | 該当なし |
+| アプリは NIST 800-171 に準拠していますか? | N/A |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | はい |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -129,7 +132,7 @@ AvePoint&#8217;Azure ストレージまたは独自のクラウドで、無制�
 
 ::: zone pivot="privsection"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | はい |
@@ -151,7 +154,7 @@ AvePoint&#8217;Azure ストレージまたは独自のクラウドで、無制�
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
