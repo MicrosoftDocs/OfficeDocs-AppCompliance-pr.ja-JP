@@ -2,17 +2,17 @@
 title: Microsoft Word アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/29/2021
+ms.date: 12/07/2021
 ms.topic: article
 ms.service: attestation
 description: すべてのアプリで使用可能なすべてのセキュリティおよびコンプライアンス情報Microsoft Word。
 localization_priority: Normal
-ms.openlocfilehash: ead76387b7cdfd52f035f81db53baa59e3bf580f
-ms.sourcegitcommit: 79e749c1746f3658789e7b080e413be97883abef
+ms.openlocfilehash: c45c9f29de245e5c60199eb85b54c0324ece68b0
+ms.sourcegitcommit: 06d460e64ccf4d150acd7f90309c902262ba2f7a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/29/2021
-ms.locfileid: "61217051"
+ms.lasthandoff: 12/08/2021
+ms.locfileid: "61353672"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word アプリのセキュリティとコンプライアンス
 
@@ -31,7 +31,6 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | [インプレッション署名](./impression-signatures.md) | インプレッション署名 | **✓** |  |
 | [LegalMind Word AddIn](./legalmind-word-addin.md) | LegalMind | **✓** |  |
 | [Loio コントラクト レビュー ソフトウェア](./loio-inc-contract-review-software.md) | Loio Inc. | **✓** |  |
-| [Word 用の Lucidchart ダイアグラム](./lucid-software-inc-lucidchart-diagrams-for-word.md) | Lucid Software Inc | **✓** |  |
 | [Mendeley Cite](./elsevier-limited-mendeley-cite.md) | エルゼビア株式会社 | **✓** |  |
 | [neopolis](./neopolis-gmbh.md) | neopolis GmbH | **✓** |  |
 | [Office2SharePoint for Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
