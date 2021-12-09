@@ -2,17 +2,17 @@
 title: SaaS Apps のセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/07/2021
+ms.date: 12/08/2021
 ms.topic: article
 ms.service: attestation
 description: すべての SaaS アプリで使用可能なすべてのセキュリティおよびコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 9a96b3d33c06f3ec77989fcdb669f97c0f608bd8
-ms.sourcegitcommit: 06d460e64ccf4d150acd7f90309c902262ba2f7a
+ms.openlocfilehash: 14125ffe6afd36925adfb2e993f059ba4a3a84ba
+ms.sourcegitcommit: e50a2b92ad5918cb72b9cffca73aeffc8f2d6d76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 12/08/2021
-ms.locfileid: "61354402"
+ms.locfileid: "61359709"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS Apps のセキュリティとコンプライアンス
 
@@ -45,4 +45,5 @@ Microsoft は、Microsoft 365パートナーと協力して、組織が使用す
 | [テンプレート選択ブラウザー](./officeatwork-template-chooser-browser.md) | officeatwork | **✓** |  |
 | [アップローダー](./officeatwork-uploader.md) | officeatwork | **✓** |  |
 | [検証ツール](./officeatwork-verifier.md) | officeatwork | **✓** |  |
+| [幅広いアイデア - イノベーション ソフトウェア](./wide-ideasidea2innovation-ideas-innovation-software.md) | 幅広いアイデア/Idea2Innovation | **✓** |  |
 | [ウィザード](./officeatwork-wizard.md) | officeatwork | **✓** |  |
