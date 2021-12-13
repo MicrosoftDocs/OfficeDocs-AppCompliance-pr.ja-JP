@@ -2,17 +2,17 @@
 title: SaaS Apps のセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/08/2021
+ms.date: 12/10/2021
 ms.topic: article
 ms.service: attestation
 description: すべての SaaS アプリで使用可能なすべてのセキュリティおよびコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 14125ffe6afd36925adfb2e993f059ba4a3a84ba
-ms.sourcegitcommit: e50a2b92ad5918cb72b9cffca73aeffc8f2d6d76
+ms.openlocfilehash: 2a9bab81bc6786c4e3b8c49e7119f6993ebc449e
+ms.sourcegitcommit: e3daf82725ca37fec97f5ff639b6a9c2d5365c85
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/08/2021
-ms.locfileid: "61359709"
+ms.lasthandoff: 12/13/2021
+ms.locfileid: "61420775"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS Apps のセキュリティとコンプライアンス
 
@@ -40,6 +40,7 @@ Microsoft は、Microsoft 365パートナーと協力して、組織が使用す
 | [ポリシーインサイト &amp; ポリシー Microsoft Office 365](./avepoint-inc-policies-and-insights-for-microsoft-office-365.md) | AvePoint Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [SalesTim](./salestim.md) | SalesTim | **✓** |  |
+| [SendGuard for M365](./standss-south-pacific-pte-limited-sendguard-for-m365.md) | スタンド (南太平洋) PTE Limited | **✓** |  |
 | [スライドの選択](./officeatwork-slide-chooser.md) | officeatwork | **✓** |  |
 | [Template Chooser](./officeatwork-template-chooser.md) | officeatwork | **✓** |  |
 | [テンプレート選択ブラウザー](./officeatwork-template-chooser-browser.md) | officeatwork | **✓** |  |
