@@ -1,47 +1,47 @@
 ---
-title: Fabasoft オーストリア GmbH Office Fabasoft Cloud Office アドインのアプリケーション情報
+title: Chinchilla Software Limited による Strategy-AI のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/15/2021
+ms.date: 12/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Fabasoft Cloud Office アドイン、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: Strategy-AI、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ebd7a4f5bc9b99a84178204862d6be573d962365
+ms.openlocfilehash: ccd5a4d249cf5a27d0f1b99040b0278f1b31fb4a
 ms.sourcegitcommit: fc537c6574ed98a1706c4cadf02150a2f3e1137c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 12/16/2021
-ms.locfileid: "61536749"
+ms.locfileid: "61537903"
 ---
-# <a name="fabasoft-cloud-office-add-in"></a>Fabasoft クラウド Office アドイン
+# <a name="strategy-ai"></a>Strategy-AI
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 12 月 14 日</p>
+<p>開発者が最終更新日: 2021 年 12 月 1 日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA200002917" target="_blank">AppSource での表示</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003576" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Fabasoft Austria GmbH から Microsoft に提供される情報:
+Chinchilla Software Limited to Microsoft が提供する情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | Fabasoft クラウド Office アドイン |
-| ID | WA200002917 |
-| Office 365サポートされているクライアント | Word 2016 Mac、Word on the web Word 2013 以降のデバイスでWindows |
-| パートナー会社名 | Fabasoft Austria GmbH |
-| 会社の Web サイト | [https://www.fabasoft.com](https://www.fabasoft.com) |
-| アプリの利用規約 | [https://www.fabasoft.com/terms-of-use](https://www.fabasoft.com/terms-of-use) |
-| アプリのコア機能 | Fabasoft Business Process Cloud からビジネス データを共有する |
-| 会社の本社所在地 | オーストリア |
+| アプリ名 | Strategy-AI |
+| ID | WA200003576 |
+| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の場合は、Outlook on the web |
+| パートナー会社名 | チンチラ ソフトウェアリミテッド |
+| 会社の Web サイト | [https://www.strategy-ai.com](https://www.strategy-ai.com) |
+| アプリの利用規約 | [https://www.strategy-ai.com/terms](https://www.strategy-ai.com/terms) |
+| アプリのコア機能 | 一貫性のあるクロスビジネス、クロスプラットフォーム のデータ属性を提供する |
+| 会社の本社所在地 | ニュージーランド |
 | アプリ情報ページ | |
-| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | IsvHosted |
-| アプリで使用するホスティング クラウド プロバイダー |  |
+| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
+| アプリで使用するホスティング クラウド プロバイダー | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,7 +51,7 @@ Fabasoft Austria GmbH から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、Fabasoft Austria GmbH によって、このアプリが組織データを収集および保存する方法、およびアプリが収集するデータに対して組織が持つコントロールについて提供されています。
+この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関して、Chinchilla Software Limited によって提供されています。
 
 | **Information** | **Response** |
 |:----------------|:-------------|
@@ -77,7 +77,7 @@ Fabasoft Austria GmbH から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行しますか? | はい |
 | アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | はい |
-| 環境で従来のマルウェア対策保護またはアプリケーションコントロールを使用していますか? | ApplicationControls, TraditionalAntiMalware |
+| 環境で従来のマルウェア対策保護またはアプリケーションコントロールを使用していますか? | ApplicationControls |
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? | はい |
 | パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? | はい |
 | パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
@@ -87,7 +87,7 @@ Fabasoft Austria GmbH から Microsoft に提供される情報:
 | 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
 | 追加のユーザーが、元の開発者によって実稼働環境に提出されたコード変更要求を確認および承認していますか? | はい |
 | セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | はい |
-| 多要素認証 (MFA) が有効になっているのは、次の場合です。 | DNSManagement、CodeRepositories、Credential |
+| 多要素認証 (MFA) が有効になっているのは、次の場合です。 | CodeRepositories, DNSManagement, Credential |
 | 従業員アカウントのプロビジョニング、変更、削除のプロセスが確立されていますか? | はい |
 | アプリをサポートするネットワーク境界の境界の境界に侵入検出と防御 (IDPS) ソフトウェアが展開されていますか? | はい |
 | アプリをサポートしているすべてのシステム コンポーネントにイベント ログが設定されていますか? | はい |
@@ -109,20 +109,20 @@ Fabasoft Austria GmbH から Microsoft に提供される情報:
 | アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | N/A |
 | アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | N/A |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | はい |
-| どの SOC 2 認定を取得しましたか? |  type2 |
-| 最新の SOC2 認定日 |  2021-04-30 |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
+| どの SOC 2 認定を取得しましたか? | |
+| 最新の SOC2 認定日 | |
 | アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | いいえ |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | はい |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | はい |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | N/A |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | N/A |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | いいえ |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
 | アプリは NIST 800-171 に準拠していますか? | N/A |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
@@ -132,10 +132,11 @@ Fabasoft Austria GmbH から Microsoft に提供される情報:
 
 ::: zone pivot="privsection"
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
-| アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | いいえ |
+| アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | はい |
+| プライバシー ポリシーの URL | https://www.strategy-ai.com/privacy |
 | アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | いいえ |
 | アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
 | 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
