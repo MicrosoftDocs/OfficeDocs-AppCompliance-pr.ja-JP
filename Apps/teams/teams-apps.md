@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: ac09005f0031ef057c4bfef0f59ff00b179390cd
-ms.sourcegitcommit: 6ca6b2ad53cf18362b78ed725d295cc2590c6b36
+ms.openlocfilehash: 2fd22d4daa0723fc621e0d621b90fc0d15f45e0f
+ms.sourcegitcommit: 287c15520b2d24d1b150c144ee8001b713b0aa8a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/21/2021
-ms.locfileid: "61578905"
+ms.lasthandoff: 12/22/2021
+ms.locfileid: "61590634"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -219,6 +219,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Mentimeter](./mentimeter.md) | Mentimeter | **✓** |  |
 | [メッセージ リマインダー](./message-reminder.md) | &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; | **✓** |  |
 | [MGR360](./mgr360.md) | MGR360 | **✓** |  |
+| [Mia](./mihcm-mia.md) | MiHCM | **✓** |  |
 | [Micromate](./paixon-gmbh-micromate.md) | Paixon GmbH | **✓** |  |
 | [MindManager](./corel-mindmanager.md) | Corel | **✓** |  |
 | [MindMup](./sauf-pompiers-ltd-mindmup.md) | Sauf Pompiers Ltd | **✓** |  |
@@ -269,6 +270,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [PostBeyond](./postbeyond.md) | PostBeyond | **✓** |  |
 | [Powell Teams](./powell-software-teams.md) | Powell Software | **✓** |  |
 | [Power BI コラボレーション](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
+| [Powow](./powow-ai.md) | Powow AI | **✓** |  |
 | [プレゼンテーション AI](./infographfx-technologies-presentations-ai.md) | Infographfx テクノロジ | **✓** |  |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ProdBot](./prodoscore-prodbot.md) | Prodoscore | **✓** |  |
