@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: 790f21ce23639a69e7c5079286bd87e4e6cbf361
-ms.sourcegitcommit: 15d24d32e05987f1fafdbfb1bb3ab440cd76be03
+ms.openlocfilehash: b04cd8f6b5b8ef38742026e9077f53672942e6be
+ms.sourcegitcommit: 11ec7246fa8e1052155e98a0bff51d32e58ea2cf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/03/2022
-ms.locfileid: "61669037"
+ms.lasthandoff: 01/04/2022
+ms.locfileid: "61711356"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -357,6 +357,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [チーム トラッカー](./team-tracker-ltd.md) | チーム トラッカー LTD | **✓** |  |
 | [Teamble](./teamble.md) | Teamble | **✓** |  |
 | [TeaMe 正常性チェック ボット](./teame-health-check-bot.md) | &#26666;&#24335;&#20250;&#31038;&#12461;&#12515;&#12522;&#12450;&#12487;&#12505;&#12525;&#12483;&#12503;&#12513;&#12531;&#12488;&#12539;&#12450;&#12531;&#12489;&#12539;&#12463;&#12522;&#12456;&#12452;&#12471;&#12519;&#12531; | **✓** |  |
+| [Teameo クラス スペース](./ls2-innovation-teameo-class-space.md) | LS2 イノベーション | **✓** |  |
 | [Teamflect](./grepsi-software-teamflect.md) | Grepsi Software | **✓** |  |
 | [TeamGether](./effency-teamgether.md) | EFFENCY | **✓** |  |
 | [Teamhood](./eylean-uab-teamhood.md) | Eylean, UAB | **✓** |  |
@@ -421,6 +422,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [YAROOMS](./yarooms.md) | YAROOMS | **✓** |  |
 | [Yeeflow](./akmii-yeeflow.md) | Akmii | **✓** |  |
 | [yuccaHR](./yucca-technologies-gmbh-yuccahr.md) | Yucca Technologies GmbH | **✓** |  |
+| [Zesavi](./zesavi-gmbh.md) | Zesavi GmbH | **✓** |  |
 | [Zignals](./alight-zignals.md) | Alight | **✓** |  |
 | [Zoho CRM](./zoho-corporation-pvt-ltd-crm.md) | Zoho Corporation Pvt Ltd | **✓** |  |
 | [Zoho Desk](./zoho-corporation-private-limited-desk.md) | Zoho Corporation Private Limited | **✓** |  |
