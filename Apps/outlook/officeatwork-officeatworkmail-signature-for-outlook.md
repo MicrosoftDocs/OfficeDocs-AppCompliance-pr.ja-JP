@@ -1,27 +1,27 @@
 ---
-title: officeatwork による検証ツールのアプリケーション情報
+title: officeatwork |officeatwork Outlookメール署名
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/10/2022
+ms.date: 01/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 検証ツール、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: officeatwork サービスで使用可能なすべてのセキュリティおよびコンプライアンス情報|CSA STAR レジストリOutlook、そのデータ処理ポリシー、アプリ カタログ情報Microsoft Cloud App Securityセキュリティ/コンプライアンス情報を含むメール署名。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0b5f5733975394019068157efbb075fe5869ad30
+ms.openlocfilehash: 9c2b253c143a1efa249f0e4ea14387664bb68834
 ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/12/2022
-ms.locfileid: "61779222"
+ms.locfileid: "61788520"
 ---
-# <a name="verifier"></a>検証ツール
+# <a name="officeatwork--mail-signature-for-outlook"></a>officeatwork |メール署名のOutlook
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>開発者が最終更新日: 2022 年 1 月 7 日</p>
 
-* <a href="https://appsource.microsoft.com/product/web-apps/officeatwork-ag.verifier" target="_blank">AppSource での表示</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003062" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
@@ -29,14 +29,15 @@ ms.locfileid: "61779222"
 
 officeatwork から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | 検証ツール |
-| ID | officeatwork-ag.verifier |
+| アプリ名 | officeatwork - メール署名のOutlook |
+| ID | WA200003062 |
+| Office 365サポートされているクライアント | Outlook 2016以降は、Windows Outlook on the web |
 | パートナー会社名 | officeatwork |
 | 会社の Web サイト | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | アプリの利用規約 | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
-| アプリのコア機能 | 最新の一時管理コンテンツを使用してドキュメントを自動的に確認して更新します。 |
+| アプリのコア機能 | メール署名、シンプルで安全で、一人で管理され、組織全体でブランド &amp; 化されています。 |
 | 会社の本社所在地 | スイス |
 | アプリ情報ページ | |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
@@ -52,7 +53,7 @@ officeatwork から Microsoft に提供される情報:
 
 この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する officeatwork によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
 | アプリで処理されるデータは何ですか? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
@@ -74,11 +75,11 @@ officeatwork から Microsoft に提供される情報:
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行しますか? | はい |
 | アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | はい |
-| 環境で従来のマルウェア対策保護またはアプリケーションコントロールを使用していますか? | TraditionalAntiMalware |
+| 環境で従来のマルウェア対策保護またはアプリケーションコントロールを使用していますか? | ApplicationControls |
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? | はい |
 | パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? | はい |
 | パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
@@ -104,7 +105,7 @@ officeatwork から Microsoft に提供される情報:
 
 ::: zone pivot="compliance"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
 | アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
@@ -133,12 +134,12 @@ officeatwork から Microsoft に提供される情報:
 
 ::: zone pivot="privsection"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | はい |
 | プライバシー ポリシーの URL | https://links.officeatwork.com/officeatwork-privacypolicy |
-| アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | いいえ |
+| アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | なし |
 | アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
 | 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
 | アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
@@ -153,7 +154,7 @@ officeatwork から Microsoft に提供される情報:
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
@@ -163,7 +164,7 @@ officeatwork から Microsoft に提供される情報:
 | サポートされているポリシーの種類を一覧表示する | セキュリティの既定値 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています | はい |
 | アプリはコードに資格情報を保存しますか? | いいえ |
-| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
+| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | なし |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
@@ -172,10 +173,7 @@ officeatwork から Microsoft に提供される情報:
 >| openid | 委任 | サインインを有効にする |
 >| profile | 委任 | サインインを有効にする |
 >| offline_access | 委任 | 古いホストの自動サインインをOfficeする |
->| User.Read | 委任 | サインインしているユーザーの表示を有効にする |
->| Files.Read | 委任 | コンテンツの読み取りおよび比較を有効にする |
->| Files.Read.All | 委任 | コンテンツの読み取りおよび比較を有効にする |
->| Sites.Read.All | 委任 | コンテンツの読み取りおよび比較を有効にする |
+>| User.Read | 委任 | サインインしているユーザーの表示を有効にする、ユーザー プロパティを使用して動的メール署名を有効にする |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 
