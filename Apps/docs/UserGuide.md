@@ -6,12 +6,12 @@ description: ISV ユーザー ガイド for Microsoft 365 コンプライアン�
 keywords: ISV ユーザー ガイド for Microsoft 365 コンプライアンス プログラム
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 79a301d6825b3f9ea3d882e13e91b48f3808f60b
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: 2b2b84cec3be5167d67733a89ba13fa411a0e781
+ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60544568"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61787860"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>パートナーのユーザー ガイド for Microsoft 365 コンプライアンス プログラム
 
@@ -45,7 +45,7 @@ ms.locfileid: "60544568"
 
 ![商用マーケットプレースでのアプリの選択](../media/NewPCoffersComm.png)
 
-アプリを選択すると、別のナビゲーション バーにオプション 'App Compliance' が表示されます。
+アプリを選択すると、別のナビゲーション バーがポップアップし、[追加の認定情報] オプションが表示された後、[アプリコンプライアンス] をクリックします。
   
 **手順 3:**[アプリコンプライアンス] を選択する
 
@@ -174,9 +174,9 @@ ms.locfileid: "60544568"
 
 ![Publisher構成証明の更新](../media/UserGuidePhotos/30.png)
 
-**Publisher構成証明の有効期限が切れています。** Microsoft ドキュメントのアプリの [構成証明] ページを維持するには、有効期限の前にアプリのPublisher更新する必要があります。また、AppSource、Teams ストア、ストア、その他のストアフロントでアプリのOfficeアイコンを継続的に更新します。
+**Publisher構成** 証明の有効期限切れ: Microsoft ドキュメントでアプリの Publisher 構成証明ページを維持するには、有効期限の前にアプリの情報を更新する必要があります。また、AppSource、Teams ストア、ストア、その他のストアフロントでアプリのOfficeアイコンを継続的に更新します。
 
-![Publisher構成証明の有効期限が切れています](../media/UserGuidePhotos/31.png)
+![Publisher構成証明の有効期限切れ](../media/UserGuidePhotos/31.png)
 
 注: 有効期限が切れたPublisher[更新] をクリックすると、いつでも構成証明の更新プロセスを開始できます。 
 

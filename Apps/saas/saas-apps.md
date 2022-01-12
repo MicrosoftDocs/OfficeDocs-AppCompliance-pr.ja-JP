@@ -2,17 +2,17 @@
 title: SaaS Apps のセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/31/2021
+ms.date: 01/11/2022
 ms.topic: article
 ms.service: attestation
 description: すべての SaaS アプリで使用可能なすべてのセキュリティおよびコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 522695f841163def3dadc9969913b87be8bfec31
-ms.sourcegitcommit: b52a796899ec9fb4a27778773c1a1d5fb0c33610
+ms.openlocfilehash: d2a88c8169d7e49f7345f91bc274d3fba729bc57
+ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/03/2022
-ms.locfileid: "61663697"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61789291"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS Apps のセキュリティとコンプライアンス
 
@@ -20,6 +20,7 @@ Microsoft は、Microsoft 365パートナーと協力して、組織が使用す
 
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|
+| [管理センター](./officeatwork-admin-center.md) | officeatwork | **✓** |  |
 | [Buzzeasy Contact Center for Teams](./geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md) | Geomant-Algotech Zrt。 | **✓** |  |
 | [CC4Teams](./cc4all-cc4teams.md) | CC4ALL | **✓** |  |
 | [Classroom.cloud](./netsupport-ltd-classroomcloud.md) | NETSUPPORT LTD. | **✓** |  |
@@ -27,6 +28,7 @@ Microsoft は、Microsoft 365パートナーと協力して、組織が使用す
 | [CodeTwo 電子メール署名 for Office 365](./codetwo-email-signatures-for-office-365.md) | CodeTwo | **✓** |  |
 | [コンペテラ コミュニケーション スイート](./competella-ab-communication-suite.md) | コンペテラ AB | **✓** |  |
 | [コンテンツ選択](./officeatwork-content-chooser.md) | officeatwork | **✓** |  |
+| [コンテンツ選択ブラウザー](./officeatwork-content-chooser-browser.md) | officeatwork | **✓** |  |
 | [デザイナー](./officeatwork-designer.md) | officeatwork | **✓** |  |
 | [EmailNotes for Outlook](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | スタンド (南太平洋) PTE Limited | **✓** |  |
 | [iGlobe CRM Office 365 Microsoft 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -35,10 +37,12 @@ Microsoft は、Microsoft 365パートナーと協力して、組織が使用す
 | [LMS365](./elearningforce-international-aps-lms365.md) | ELEARNINGFORCE International Aps | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Luware コンプライアンスレコーディング for Microsoft Teams](./luware-ag-compliance-recording-for-microsoft-teams.md) | Luware AG | **✓** |  |
 | [Luware Nimbus for Microsoft Teams](./luware-ag-nimbus-for-microsoft-teams.md) | Luware AG | **✓** |  |
+| [メール署名](./officeatwork-mail-signature.md) | officeatwork | **✓** |  |
 | [MIPA - 個人用インテリジェント パーソナル アシスタント](./iglobe-mipa-my-intelligent-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [MyHub for Teams](./avepoint-inc-myhub-for-teams.md) | AvePoint Inc. | **✓** |  |
 | [Netskope for Microsoft Teams](./netskope-for-microsoft-teams.md) | Netskope | **✓** |  |
 | [Office2SharePoint](./iglobe-office2sharepoint.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Office2SharePoint for Teams](./iglobe-office2sharepoint-for-teams.md) | iGlobe | **✓** |  |
 | [MS365 の Onna Discovery](./onna-discovery-for-ms365.md) | Onna | **✓** |  |
 | [ポリシーインサイト &amp; ポリシー Microsoft Office 365](./avepoint-inc-policies-and-insights-for-microsoft-office-365.md) | AvePoint Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

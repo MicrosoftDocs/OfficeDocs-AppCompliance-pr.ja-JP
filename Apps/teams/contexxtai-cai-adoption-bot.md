@@ -2,24 +2,23 @@
 title: アプリケーション導入ボット C.AI アプリケーション情報(contexxt.ai
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/04/2021
+ms.date: 01/11/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: C.AI 導入ボット、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 85c64b89b739d96d48de528d2394f909f404b06e
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: f37bafaac714c26c948b4f2264c4d139f5863bf5
+ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430517"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61785604"
 ---
 # <a name="cai-adoption-bot"></a>C.AI Adoption Bot
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 5 月 6 日</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>開発者が最終更新日: 2022 年 1 月 11 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/f5323aab-3063-46cb-b632-ee01d95de494" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002633" target="_blank">AppSource での表示</a>
@@ -36,10 +35,12 @@ Microsoft に提供される contexxt.ai 情報:
 | ID | WA200002633 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | contexxt.ai |
-| パートナー Web サイトの URL | [https://contexxt.ai](https://contexxt.ai) |
-| [アプリケーション情報Teamsページの URL | [https://contexxt.ai/cai-adoption-bot/](https://contexxt.ai/cai-adoption-bot/) |
-| プライバシー ポリシーの URL | [https://contexxt.ai/privacy-policy](https://contexxt.ai/privacy-policy) |
-| 利用規約の URL | [https://contexxt.ai/terms-of-use](https://contexxt.ai/terms-of-use) |
+| 会社の Web サイト | [https://contexxt.ai](https://contexxt.ai) |
+| アプリの利用規約 | [https://contexxt.ai/terms-of-use](https://contexxt.ai/terms-of-use) |
+| アプリのコア機能 | 導入スイート全体を使用する場合は、含む。 &quot;パーソナル コーチング ブースター 、Graph API による分析エンジン (C.AI 導入分析) 分析は、Exchange Teams。 &quot; &amp; このデータに基づいて、ボット アルゴリズム (C.AI 導入ボット) は、特定の学習状況を検出し、ユーザーにクイック &amp; ヒントを送信します。 たとえば、ユーザーが Teams 投稿に件名を追加したことがない場合、ボットはこれを行う方法を知らないと仮定し、カスタマイズされた学習教材を送信します。 Analytics を使用しない場合は、Q &amp; A ボットになされます。 |
+| 会社の本社所在地 | ドイツ |
+| アプリ情報ページ | |
+| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,91 +52,120 @@ Microsoft に提供される contexxt.ai 情報:
 
 この情報は、このアプリ contexxt.ai 収集および保存する方法、およびアプリが収集するデータに対して組織が持つコントロールに関する情報を提供しています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
-
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
-
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Calendars.Read | アプリケーション | ユーザーの可用性は、フォーカス時ではなく、適切な時間にヒントを送信できる | 匿名化されたユーザーの可用性は、フォーカス時間中ではなく、適切な時間にヒントを送信できる | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
->| ChannelMessage.Read.All | アプリケーション | Microsoft Teamsの使用状況を分析するために、チャネルごとのプライベートまたは会話の量など、チャネル メタデータをTeams | 匿名化Microsoft Teams、プライベートまたはチャネルごとの会話の量など、チャネルメタデータを使用して、チャネルの使用状況をTeams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
->| Chat.Read.All | アプリケーション | Microsoft Teamsの利用状況を分析するために、メッセージが気に入ったか、グループと 1:1 のチャットが何件存在するかなど、チャット のメタデータをTeams | 匿名化Microsoft Teamsチャット メタデータ (メッセージが気に入った場合や、グループと 1:1 のチャットが存在する数など) を使用して、チャットの使用状況を分析Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
->| Directory.Read.All | アプリケーション | 後で specifi ユーザーにヒントを送信できるユーザー オブジェクト ID。 | 後で specifi ユーザーにヒントを送信できるユーザーのハッシュ (匿名化) オブジェクト ID。 | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
->| Group.Read.All | アプリケーション | Microsoft Teamsの使用状況を分析するTeamsの量やチャネルなど、メタデータをTeams | Microsoft Teamsの使用状況を分析するTeamsの量やチャネルなど、メタデータをTeams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
->| Mail.Read | アプリケーション | Microsoft Exchangeメタデータ (メールの量やグループ数など) と 1:1 の電子メールを使用して、Exchange の使用状況を分析します (Teams) | 匿名化された Microsoft Exchangeメタデータ (メールやグループの量と 1:1 メールなど) を使用して、Exchange の使用状況を分析します (Teams) | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
->| User.Read.All | アプリケーション | Microsoft Teamsの使用状況を分析するためにユーザーが言及された場合など、チャットと会話のメタデータをTeams | 匿名化Microsoft Teamsチャットと会話のメタデータ (ユーザーがユーザーの使用状況を分析するために言及された場合など) Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
-
-
-#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
-
-アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
-
->非Microsoft サービスは使用されません。
-
-#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
-
-このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
-
->| **EUII にアクセスする理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための理由** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Bot Framework では、ユーザー ID が自動的に送信され、ユーザーと通信できます。 C.AI Adoption Analytics のその他の使用状況データは、ユーザーの学習エクスペリエンスを個別化するために使用されます。したがって、これらのヒントを知らない可能性があるユーザーに適切で役立つヒントのみをユーザーに送信します。 | いいえ |  |
-
-
-#### <a name="telemetry-data"></a>テレメトリ データ
-
-組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
-
->アプリケーションのテレメトリまたはログに OII または EUII は表示されません。
-
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
-
-組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
-
->組織は、ユーザーのライセンスを管理 (割り当て/削除) できます。 組織は、ライセンスを管理するためにさまざまな役割を割り当てることができます。 Administartors は、常にデータの削除を要求できます。
-
-#### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
-
-人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
-
->はい
+| **Information** | **応答** |
+|:----------------|:-------------|
+| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
+| データベースに格納されているデータは何ですか? |  |
+| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
+| データの借入および廃棄プロセスが確立されていますか? |  |
+| アカウントの終了後にデータが保持される期間 | 2weeks 内で削除済み |
+| データ アクセス管理プロセスが確立されていますか? |  |
+| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? |  |
+| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="mcas"
+::: zone pivot="security"
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37589' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37589" target="_blank">新しいタブで表示する</a>
+| **Information** | **応答** |
+|:----------------|:-------------|
+| アプリで年間侵入テストを実行しますか? | いいえ |
+| アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | いいえ |
+| 環境で従来のマルウェア対策保護またはアプリケーションコントロールを使用していますか? |  |
+| セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? |  |
+| パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? |  |
+| パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? |  |
+| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? |  |
+| アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? |  |
+| 外部ネットワーク境界にファイアウォールがインストールされていますか? |  |
+| 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? |  |
+| 追加のユーザーが、元の開発者によって実稼働環境に提出されたコード変更要求を確認および承認していますか? |  |
+| セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? |  |
+| 多要素認証 (MFA) が有効になっているのは、次の場合です。 |  |
+| 従業員アカウントのプロビジョニング、変更、削除のプロセスが確立されていますか? |  |
+| アプリをサポートするネットワーク境界の境界の境界に侵入検出と防御 (IDPS) ソフトウェアが展開されていますか? |  |
+| アプリをサポートしているすべてのシステム コンポーネントにイベント ログが設定されていますか? |  |
+| すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動ツールによって定期的に確認されますか? | |
+| セキュリティ イベントが検出されると、アラートが従業員に自動的に送信され、トリアージが発生しますか? |  |
+| 正式な情報セキュリティリスク管理プロセスが確立されていますか? |  |
+| 正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? |  |
+| 検出から 72 時間以内に、侵害の影響を受けた監督当局や個人にアプリまたはサービスのデータ侵害を報告しますか?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="identity"
-
-### <a name="identity-information"></a>ID 情報
-
-この情報は、このアプリ contexxt.ai 認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について説明しています。
+::: zone pivot="compliance"
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
-| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
-| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
-| アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | はい |
-| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリは Web API を公開していますか? | 不要 |
-| アプリでプレビュー API を使用していますか? | 不要 |
-| アプリで非推奨の API を使用していますか? | いいえ |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
+| 最新の SOC1 認定日 |   |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | なし |
+| どの SOC 2 認定を取得しましたか? | |
+| 最新の SOC2 認定日 | |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| 最新の SOC3 認定日 | |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | なし |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
+| アプリは NIST 800-171 に準拠していますか? |  |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
+::: zone pivot="privsection"
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? |  |
+| アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? |  |
+| アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? |  |
+| アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? |  |
+| 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? |  |
+| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? |  |
+| アプリには、要求に応じて個人の個人データを削除する機能がありますか? |  |
+| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? |  |
+| アプリは個人に個人データを修正または更新する機能を提供しますか? |  |
+| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? |  |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="zerotrust"
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | はい |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | true |
+| アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは継続的アクセス評価 (CAE) をサポートしています |  |
+| アプリはコードに資格情報を保存しますか? |  |
+| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | なし |
+
+>このアプリケーションでは、Microsoft アプリケーションをGraph。
+
+>このアプリケーションには、追加の API が含まれる必要があります。
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
