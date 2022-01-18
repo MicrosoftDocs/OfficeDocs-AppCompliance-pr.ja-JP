@@ -2,17 +2,17 @@
 title: Microsoft Excel アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/13/2022
+ms.date: 01/17/2022
 ms.topic: article
 ms.service: attestation
 description: すべてのアプリで使用可能なすべてのセキュリティとコンプライアンスMicrosoft Excel情報。
 localization_priority: Normal
-ms.openlocfilehash: 17fb073b5bbdf008d5fe83ee400ec8e2b04d81c5
-ms.sourcegitcommit: 19aa86f2bbf281851e555ecc4465c25384ba97d7
+ms.openlocfilehash: 9cb86361200bfd87838da3c708f7eaf61898bfef
+ms.sourcegitcommit: 23ef75d7c108123853d76b1f80492a2f479c8aeb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2022
-ms.locfileid: "62028832"
+ms.lasthandoff: 01/18/2022
+ms.locfileid: "62065913"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel アプリのセキュリティとコンプライアンス
 
@@ -30,5 +30,4 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | [QuickCells グラフ](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  |
 | [QuickCells ソルバー](./cc-1c-quickcells-solvers.md) | CC-1C | **✓** |  |
 | [Report Builder](./adobe-inc-report-builder.md) | Adobe Inc. | **✓** |  |
-| [Wunder365 for Office](./jiji-technologies-private-limited-wunder365-for-office.md) | JiJi Technologies Private Limited | **✓** |  |
 | [XBRL ファイルデータ](./xbrl-us-filed-data.md) | XBRL US | **✓** |  |
