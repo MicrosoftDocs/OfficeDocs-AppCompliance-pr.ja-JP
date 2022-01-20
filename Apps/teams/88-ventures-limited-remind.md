@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: リ通知、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 94c70633add16eaaef067f8232328ab449d8a2ff
-ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
+ms.openlocfilehash: c65bd6433972a7014c6fa8853d2f5651891db5f7
+ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60719129"
+ms.lasthandoff: 01/20/2022
+ms.locfileid: "62144904"
 ---
 # <a name="remind"></a>Remind
 
@@ -30,7 +30,7 @@ ms.locfileid: "60719129"
 
 88 Ventures Limited to Microsoft が提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Remind |
 | ID | WA200001444 |
@@ -54,7 +54,7 @@ ms.locfileid: "60719129"
 
 この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関して、88 Ventures Limited によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | いいえ |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
@@ -74,7 +74,7 @@ ms.locfileid: "60719129"
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行しますか? | はい |
 | アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | はい |
@@ -104,7 +104,7 @@ ms.locfileid: "60719129"
 
 ::: zone pivot="compliance"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | いいえ |
 | アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | いいえ |
@@ -133,7 +133,7 @@ ms.locfileid: "60719129"
 
 ::: zone pivot="privsection"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | いいえ |
 | アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | いいえ |
@@ -141,10 +141,10 @@ ms.locfileid: "60719129"
 | アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
 | 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
 | アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
-| アプリには、要求に応じて個人の個人データを削除する機能がありますか? | いいえ |
-| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | いいえ |
-| アプリは個人に個人データを修正または更新する機能を提供しますか? | いいえ |
-| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | いいえ |
+| アプリには、要求に応じて個人の個人データを削除する機能がありますか? |  |
+| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? |  |
+| アプリは個人に個人データを修正または更新する機能を提供しますか? |  |
+| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -152,7 +152,7 @@ ms.locfileid: "60719129"
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |

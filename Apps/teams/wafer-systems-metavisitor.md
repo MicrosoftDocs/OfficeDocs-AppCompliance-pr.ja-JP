@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MetaVisitor、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 97611896142b66b021a10158782b4cdf8c6053a6
-ms.sourcegitcommit: 1be3c2ca2c8a781c6acda29412224061c90790c9
+ms.openlocfilehash: 2bff7b0a791fad027cfdfc1ef7dd20b2570790ff
+ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/23/2021
-ms.locfileid: "61603769"
+ms.lasthandoff: 01/20/2022
+ms.locfileid: "62144754"
 ---
 # <a name="metavisitor"></a>MetaVisitor
 
@@ -30,7 +30,7 @@ ms.locfileid: "61603769"
 
 ウェハ システムから Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | MetaVisitor |
 | ID | WA200003588 |
@@ -54,7 +54,7 @@ ms.locfileid: "61603769"
 
 この情報は、このアプリが組織データを収集して格納する方法と、組織がアプリが収集するデータに対して組織が持つ制御に関する情報を、Wafer Systems によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
 | アプリで処理されるデータは何ですか? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
@@ -76,7 +76,7 @@ ms.locfileid: "61603769"
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行しますか? | はい |
 | アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | はい |
@@ -106,7 +106,7 @@ ms.locfileid: "61603769"
 
 ::: zone pivot="compliance"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
 | アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
@@ -135,7 +135,7 @@ ms.locfileid: "61603769"
 
 ::: zone pivot="privsection"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | いいえ |
 | アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | いいえ |
@@ -143,10 +143,10 @@ ms.locfileid: "61603769"
 | アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
 | 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
 | アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
-| アプリには、要求に応じて個人の個人データを削除する機能がありますか? | いいえ |
-| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | いいえ |
-| アプリは個人に個人データを修正または更新する機能を提供しますか? | いいえ |
-| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | いいえ |
+| アプリには、要求に応じて個人の個人データを削除する機能がありますか? |  |
+| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? |  |
+| アプリは個人に個人データを修正または更新する機能を提供しますか? |  |
+| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

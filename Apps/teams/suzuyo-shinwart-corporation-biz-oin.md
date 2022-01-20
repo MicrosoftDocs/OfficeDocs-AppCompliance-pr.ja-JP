@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Biz-Oin、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b8fed8a911a6e31b6f99b291c72b1746c57f8664
-ms.sourcegitcommit: b0bc806a1e2b0d157eea62dec843e02d302b2c16
+ms.openlocfilehash: 2c551dc467d6c4e5934daa14c50f840d3b6c697e
+ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/19/2022
-ms.locfileid: "62078694"
+ms.lasthandoff: 01/20/2022
+ms.locfileid: "62144094"
 ---
 # <a name="biz-oin"></a>Biz-Oin
 
@@ -143,10 +143,10 @@ ms.locfileid: "62078694"
 | アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
 | 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
 | アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
-| アプリには、要求に応じて個人の個人データを削除する機能がありますか? | いいえ |
-| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | いいえ |
-| アプリは個人に個人データを修正または更新する機能を提供しますか? | いいえ |
-| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | いいえ |
+| アプリには、要求に応じて個人の個人データを削除する機能がありますか? |  |
+| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? |  |
+| アプリは個人に個人データを修正または更新する機能を提供しますか? |  |
+| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

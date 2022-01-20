@@ -2,17 +2,17 @@
 title: Microsoft OneNote アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/13/2022
+ms.date: 01/19/2022
 ms.topic: article
 ms.service: attestation
 description: すべてのアプリで使用可能なすべてのセキュリティとコンプライアンスMicrosoft OneNote情報。
 localization_priority: Normal
-ms.openlocfilehash: b7bc7dbcc140a19e2a574e3186c1886eb684b300
-ms.sourcegitcommit: 19aa86f2bbf281851e555ecc4465c25384ba97d7
+ms.openlocfilehash: ec9be90625e68817748455e0e6a7d29b5bd500f9
+ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2022
-ms.locfileid: "62028279"
+ms.lasthandoff: 01/20/2022
+ms.locfileid: "62143694"
 ---
 # <a name="microsoft-onenote-apps-security-and-compliance"></a>Microsoft OneNote アプリのセキュリティとコンプライアンス
 
@@ -20,4 +20,5 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Wunder365 for Office](./jiji-technologies-private-limited-wunder365-for-office.md) | JiJi Technologies Private Limited | **✓** |  |
+| [officeatwork | コンテンツの選択Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** |  |
+| [officeatwork | イメージの選択Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** |  |
