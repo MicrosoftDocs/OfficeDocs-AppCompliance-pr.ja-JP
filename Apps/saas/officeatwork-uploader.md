@@ -2,24 +2,23 @@
 title: officeatwork によるアップロード者のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/07/2022
+ms.date: 01/24/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Uploader、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5a2e906cc9ed4c187328b63f3a5e30de26588cba
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 810f6833d6a4d0845905cbdc03bbfe1338bba58d
+ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155311"
+ms.lasthandoff: 01/25/2022
+ms.locfileid: "62205724"
 ---
 # <a name="uploader"></a>アップローダー
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2022 年 1 月 7 日</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>開発者による最終更新日: 2022 年 1 月 23 日</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/officeatwork-ag.uploader" target="_blank">AppSource での表示</a>
 

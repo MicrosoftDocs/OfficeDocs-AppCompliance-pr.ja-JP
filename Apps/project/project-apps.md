@@ -2,17 +2,17 @@
 title: Microsoft Project アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/24/2022
+ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 description: すべてのアプリで使用可能なすべてのセキュリティとコンプライアンスMicrosoft Project情報。
 localization_priority: Normal
-ms.openlocfilehash: d6fb96c2e43e29c1516a0cb9112748b3e597ea88
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: b9e36915f98d58db796253d89b7f7c2ce8f2feb4
+ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/25/2022
-ms.locfileid: "62197414"
+ms.locfileid: "62205796"
 ---
 # <a name="microsoft-project-apps-security-and-compliance"></a>Microsoft Project アプリのセキュリティとコンプライアンス
 
@@ -20,4 +20,4 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [officeatwork | テンプレートの選択Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** |  |
+| [officeatwork | テンプレートの選択Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

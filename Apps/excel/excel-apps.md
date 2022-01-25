@@ -2,17 +2,17 @@
 title: Microsoft Excel アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/24/2022
+ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 description: すべてのアプリで使用可能なすべてのセキュリティとコンプライアンスMicrosoft Excel情報。
 localization_priority: Normal
-ms.openlocfilehash: 078b0c75b0ff931f717c640fb389ebac17bedfc8
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 9adc14a5dfd4ae8c8b08330703e02e33265f38a0
+ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/25/2022
-ms.locfileid: "62195754"
+ms.locfileid: "62209946"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel アプリのセキュリティとコンプライアンス
 
@@ -29,9 +29,9 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | [Jira Cloud for Excel](./atlassiancom-jira-cloud-for-excel.md) | Atlassian.com | **✓** |  |
 | [MeaningCloud Text Analytics for Excel](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
 | [Office2SharePoint for Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | コンテンツの選択Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** |  |
-| [officeatwork | イメージの選択Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** |  |
-| [officeatwork | テンプレートの選択Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** |  |
+| [officeatwork | コンテンツの選択Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | イメージの選択Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | テンプレートの選択Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [QuickCells グラフ](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  |
 | [QuickCells ソルバー](./cc-1c-quickcells-solvers.md) | CC-1C | **✓** |  |
 | [Report Builder](./adobe-inc-report-builder.md) | Adobe Inc. | **✓** |  |
