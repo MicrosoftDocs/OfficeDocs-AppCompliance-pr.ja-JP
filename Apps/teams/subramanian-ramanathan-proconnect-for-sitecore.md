@@ -2,24 +2,24 @@
 title: Subramanian Ramanathan による Sitecore 用 Proconnect のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2022
+ms.date: 01/24/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Proconnect for Sitecore で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0bd5876a65ebe7832a330f04ac9db086bdf1ff04
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 0b2861bf05a54d4a2019c32959f0c76a6a02f383
+ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144024"
+ms.lasthandoff: 01/25/2022
+ms.locfileid: "62198030"
 ---
 # <a name="proconnect-for-sitecore"></a>Proconnect for Sitecore
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 9 月 2 日</p>
+<p>開発者が最終更新日: 2022 年 1 月 22 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/a87fd06b-7e73-4374-ba75-4545b2470706" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003274" target="_blank">AppSource での表示</a>
@@ -81,14 +81,14 @@ Subramanian Ramanathan から Microsoft に提供される情報:
 | 環境で従来のマルウェア対策保護またはアプリケーションコントロールを使用していますか? | ApplicationControls |
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? | いいえ |
 | パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? | はい |
-| パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
+| パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | いいえ |
 | 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | はい |
 | アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | いいえ |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | いいえ |
 | 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
 | 追加のユーザーが、元の開発者によって実稼働環境に提出されたコード変更要求を確認および承認していますか? | いいえ |
 | セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | はい |
-| 多要素認証 (MFA) が有効になっているのは、次の場合です。 |  |
+| 多要素認証 (MFA) が有効になっているのは、次の場合です。 | NoneOfTheAbove |
 | 従業員アカウントのプロビジョニング、変更、削除のプロセスが確立されていますか? | いいえ |
 | アプリをサポートするネットワーク境界の境界の境界に侵入検出と防御 (IDPS) ソフトウェアが展開されていますか? | 該当なし |
 | アプリをサポートしているすべてのシステム コンポーネントにイベント ログが設定されていますか? | はい |

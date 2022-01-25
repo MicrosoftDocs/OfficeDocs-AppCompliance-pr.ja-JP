@@ -2,17 +2,17 @@
 title: Azure App ID d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d の情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/21/2022
+ms.date: 01/24/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d のすべての利用可能なセキュリティおよびコンプライアンス情報。
-ms.openlocfilehash: 9c894db685347e86c8fbdfb146b1ba49e567c1e9
-ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
+ms.openlocfilehash: fe277099a8c38bd42eae0fc6e15585d04c40ad0d
+ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62177530"
+ms.lasthandoff: 01/25/2022
+ms.locfileid: "62197254"
 ---
 # <a name="azure-app-id-d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d"></a>Azure App ID: d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d
 
