@@ -2,24 +2,23 @@
 title: officeatwork |officeatwork Officeデザイナー
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/07/2022
+ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: officeatwork サービスで使用可能なすべてのセキュリティおよびコンプライアンス情報|CSA STAR Office、データ処理ポリシー、アプリ カタログ情報Microsoft Cloud App Securityセキュリティ/コンプライアンス情報を提供するデザイナー。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 729bd5e3aae9e6aa3ddf1333c5170b559a79c9ff
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: be2496d13d9ed083614d209f025edb663cc9980c
+ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148914"
+ms.lasthandoff: 01/25/2022
+ms.locfileid: "62210972"
 ---
 # <a name="officeatwork--designer-for-office"></a>officeatwork |デザイナー Office
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2022 年 1 月 7 日</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>開発者が最終更新日: 2022 年 1 月 24 日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380518" target="_blank">AppSource での表示</a>
 

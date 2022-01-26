@@ -2,17 +2,17 @@
 title: Microsoft Word アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/24/2022
+ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 description: すべてのアプリで使用可能なすべてのセキュリティおよびコンプライアンス情報Microsoft Word。
 localization_priority: Normal
-ms.openlocfilehash: b1cc50abeb8d6cbf4dbceebff81f66dd07ed5e82
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 75837f5d35d29467f7ba660bd1cfcfe07a2c605e
+ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/25/2022
-ms.locfileid: "62193314"
+ms.locfileid: "62210636"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word アプリのセキュリティとコンプライアンス
 
@@ -34,13 +34,13 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | [Mendeley Cite](./elsevier-limited-mendeley-cite.md) | エルゼビア株式会社 | **✓** |  |
 | [neopolis](./neopolis-gmbh.md) | neopolis GmbH | **✓** |  |
 | [Office2SharePoint for Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | コンテンツの選択Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** |  |
-| [officeatwork | designer for Office](./officeatwork-officeatworkdesigner-for-office.md) | officeatwork | **✓** |  |
-| [officeatwork | イメージの選択Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** |  |
-| [officeatwork | テンプレートの選択Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** |  |
-| [officeatwork | Office](./officeatwork-officeatworkuploader-for-office.md) のアップ officeatwork-officeatworkuploader-for-office.md) | officeatwork | **✓** |  |
+| [officeatwork | コンテンツの選択Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | designer for Office](./officeatwork-officeatworkdesigner-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | イメージの選択Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | テンプレートの選択Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Office](./officeatwork-officeatworkuploader-for-office.md) のアップ officeatwork-officeatworkuploader-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Office](./officeatwork-officeatworkverifier-for-office.md) の officeatwork-officeatworkverifier-for-office.md) | officeatwork | **✓** |  |
-| [officeatwork | ウィザード Office](./officeatwork-officeatworkwizard-for-office.md) | officeatwork | **✓** |  |
+| [officeatwork | ウィザード Office](./officeatwork-officeatworkwizard-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [RetMig &amp; Kommaforslag](./grammarsoft-aps-retmig-and-kommaforslag.md) | GrammarSoft ApS | **✓** |  |
 | [SmartCite for Papers](./digital-science-smartcite-for-papers.md) | デジタル サイエンス | **✓** |  |
 | [Stilus for Word](./meaningcloud-stilus-for-word.md) | MeaningCloud | **✓** |  |
