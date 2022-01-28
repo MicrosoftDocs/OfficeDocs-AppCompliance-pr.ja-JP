@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: HeyTaco!、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3f1b475d0f571986427fe3c7339a70fc056419d0
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 5dcb471219ef00a758b62fd289135169dc865115
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200828"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62257783"
 ---
 # <a name="heytaco"></a>HeyTaco!
 
@@ -115,7 +115,7 @@ HeyTaco が提供する情報! Microsoft に:
 | 最新の SOC2 認定日 | |
 | アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | N/A |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
@@ -124,7 +124,7 @@ HeyTaco が提供する情報! Microsoft に:
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | いいえ |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | いいえ |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | いいえ |
-| アプリは NIST 800-171 に準拠していますか? | 該当なし |
+| アプリは NIST 800-171 に準拠していますか? | N/A |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -166,11 +166,11 @@ HeyTaco が提供する情報! Microsoft に:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
->|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          |
->|:------------------------|:--------------------|:------------------------------------|
->| openid | 委任 | ユーザーがタブにサインインを許可する |
->| profile | 委任 | ユーザーのプロファイル情報を保存するには |
->| メール | 委任 | ユーザー データを整理する場合 |
+>|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| メール | 委任 | ユーザー データを整理する場合 | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
+>| openid | 委任 | ユーザーがタブにサインインを許可する | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
+>| profile | 委任 | ユーザーのプロファイル情報を保存するには | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

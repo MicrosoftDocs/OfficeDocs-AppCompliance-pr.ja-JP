@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Jira Cloud で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6c0f6a2085f3bca86883f3ce5817cec32973e140
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 6f20ca178d988c5f89b03bd1da5b3100d5c552ef
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144174"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62256723"
 ---
 # <a name="jira-cloud"></a>Jira Cloud
 
@@ -167,11 +167,11 @@ Atlassian から Microsoft に提供される情報:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
->|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          |
->|:------------------------|:--------------------|:------------------------------------|
->| offline_access | 委任 | ユーザーの代わりにリソースへのアクセスを提供し、ユーザー エクスペリエンスを最高に高め、長い時間を過ごします。 |
->| openid | 委任 | ユーザーの指定した名前、姓、優先ユーザー名、およびオブジェクト ID を取得します。 |
->| profile | 委任 | ユーザーの指定した名前、姓、優先ユーザー名、およびオブジェクト ID を取得します。 |
+>|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| offline_access | 委任 | ユーザーの代わりにリソースへのアクセスを提供し、ユーザー エクスペリエンスを最高に高め、長い時間を過ごします。 | [512b84d2-5840-45d6-8d01-5f073836d039](https://docs.microsoft.com/microsoft-365-app-certification/azure/512b84d2-5840-45d6-8d01-5f073836d039) |
+>| openid | 委任 | ユーザーの指定した名前、姓、優先ユーザー名、およびオブジェクト ID を取得します。 | [512b84d2-5840-45d6-8d01-5f073836d039](https://docs.microsoft.com/microsoft-365-app-certification/azure/512b84d2-5840-45d6-8d01-5f073836d039) |
+>| profile | 委任 | ユーザーの指定した名前、姓、優先ユーザー名、およびオブジェクト ID を取得します。 | [512b84d2-5840-45d6-8d01-5f073836d039](https://docs.microsoft.com/microsoft-365-app-certification/azure/512b84d2-5840-45d6-8d01-5f073836d039) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 
