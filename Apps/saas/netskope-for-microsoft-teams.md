@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Microsoft Teams の Netskope で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a986a6f8fbbf98f408dcbf3e90b6bf219951889f
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: c4c65c048423c0f0e7bc1c1b396dd832cbebf341
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148736"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254004"
 ---
 # <a name="netskope-for-microsoft-teams"></a>Netskope for Microsoft Teams
 
@@ -115,14 +115,14 @@ Netskope から Microsoft に提供される情報:
 | 最新の SOC2 認定日 |  2021-10-21 |
 | アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | N/A |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | はい |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | はい |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | はい |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | N/A |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | いいえ |
 | アプリは NIST 800-171 に準拠していますか? | はい |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | はい |
@@ -158,7 +158,7 @@ Netskope から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | 該当なし |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | N/A |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリは継続的アクセス評価 (CAE) をサポートしています | はい |
@@ -167,23 +167,23 @@ Netskope から Microsoft に提供される情報:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
->|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          |
->|:------------------------|:--------------------|:------------------------------------|
->| ChannelMessage.Read.All | アプリケーション | チャネル メッセージと投稿の DLP |
->| ChannelMessage.UpdatePolicyViolation.All | アプリケーション | チャネル メッセージと投稿の DLP |
->| Chat.Read.All | アプリケーション | チャネル/DM チャットでの DLP |
->| Chat.ReadBasic.All | アプリケーション | チャネル/DM チャットでの DLP |
->| Chat.ReadWrite | アプリケーション | チャネル/DM チャットでの DLP |
->| Chat.UpdatePolicyViolation.All | アプリケーション | チャネル メッセージと投稿の DLP |
->| Directory.Read.All | アプリケーション | ユーザー メンバーシップの識別と表示 |
->| Files.Read.All | アプリケーション | MSTeams に投稿されたファイルの DLP |
->| Files.ReadWrite.All | アプリケーション | MSTeams に投稿されたファイルの DLP |
->| Group.Read.All | アプリケーション | グループの識別と表示 |
->| GroupMember.Read.All | アプリケーション | グループの識別と表示 |
->| Reports.Read.All | アプリケーション | レポートと表示 |
->| Sites.Read.All | アプリケーション | チームの SharePoint DLP |
->| TeamsActivity.Read | アプリケーション | ユーザー アクティビティ ベースのポリシー |
->| User.Read.All | アプリケーション | ユーザーの識別と表示 |
+>|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| ChannelMessage.Read.All | アプリケーション | チャネル メッセージと投稿の DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
+>| ChannelMessage.UpdatePolicyViolation.All | アプリケーション | チャネル メッセージと投稿の DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
+>| Chat.Read.All | アプリケーション | チャネル/DM チャットでの DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
+>| Chat.ReadBasic.All | アプリケーション | チャネル/DM チャットでの DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
+>| Chat.ReadWrite | アプリケーション | チャネル/DM チャットでの DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
+>| Chat.UpdatePolicyViolation.All | アプリケーション | チャネル メッセージと投稿の DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
+>| Directory.Read.All | アプリケーション | ユーザー メンバーシップの識別と表示 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
+>| Files.Read.All | アプリケーション | MSTeams に投稿されたファイルの DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
+>| Files.ReadWrite.All | アプリケーション | MSTeams に投稿されたファイルの DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
+>| Group.Read.All | アプリケーション | グループの識別と表示 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
+>| GroupMember.Read.All | アプリケーション | グループの識別と表示 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
+>| Reports.Read.All | アプリケーション | レポートと表示 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
+>| Sites.Read.All | アプリケーション | チームの SharePoint DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
+>| TeamsActivity.Read | アプリケーション | ユーザー アクティビティ ベースのポリシー | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
+>| User.Read.All | アプリケーション | ユーザーの識別と表示 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MWF による Confluence Connector の利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f7ac53112ad08bdb90ae3601c13074d541d63428
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 21c6474d5b21537a4ff04705fd16b760d6698b73
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144749"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251033"
 ---
 # <a name="confluence-connector-by-mwf"></a>Confluence Connector by MWF
 
@@ -121,10 +121,10 @@ Work Forward to Microsoft から提供される情報:
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | N/A |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | いいえ |
-| アプリは NIST 800-171 に準拠していますか? | 該当なし |
+| アプリは NIST 800-171 に準拠していますか? | N/A |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -166,13 +166,13 @@ Work Forward to Microsoft から提供される情報:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
->|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Channel.ReadBasic.All | 委任 | 構成ページがチャネルに通知を送信するチャネルの一覧を取得する。 |
->| Teams.ReadBasic.All | 委任 | 構成ページのチームの一覧を取得して、チームのチャネルに通知を送信します。 |
->| メール | 委任 | Microsoft と Atlassian 間のアカウント マッピングを強化するには |
->| TeamsAppInstallation.ReadForTeam | 委任 | Confluence Connector がインストールされているチームを確認するには |
->| User.Read | 委任 | 基本的なユーザー情報を読み取る |
+>|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Channel.ReadBasic.All | 委任 | 構成ページがチャネルに通知を送信するチャネルの一覧を取得する。 | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| Teams.ReadBasic.All | 委任 | 構成ページのチームの一覧を取得して、チームのチャネルに通知を送信します。 | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| TeamsAppInstallation.ReadForTeam | 委任 | Confluence Connector がインストールされているチームを確認するには | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| User.Read | 委任 | 基本的なユーザー情報を読み取る | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| メール | 委任 | Microsoft と Atlassian 間のアカウント マッピングを強化するには | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

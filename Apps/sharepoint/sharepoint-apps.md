@@ -2,21 +2,21 @@
 title: Microsoft SharePoint アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/26/2022
+ms.date: 01/27/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft SharePoint アプリで使用可能なすべてのセキュリティとコンプライアンスに関する情報。
 localization_priority: Normal
-ms.openlocfilehash: 1c921ee7506028ab72f9df0a175fa64a95e657c0
-ms.sourcegitcommit: 2e80b3cd0079ac50da5e6d878bbef6744e4659f2
+ms.openlocfilehash: 6618e9a9a4f4750136e38ab5fb2c55a17babe09a
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/26/2022
-ms.locfileid: "62235013"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254033"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint アプリのセキュリティとコンプライアンス
 
-Microsoft は、microsoft Microsoft 365開発者パートナーと協力して、組織が使用する Microsoft SharePoint アプリとアドインに関する決定を迅速に行い、通知するために必要な情報を提供します。 この情報は、[Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) アプリ カタログの情報と、開発者がアプリケーションを送信するときに提供する情報で補足されます。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
+Microsoft は、microsoft Microsoft 365開発者パートナーと協力して、組織が使用する Microsoft SharePoint アプリとアドインに関する決定を迅速に行い、通知するために必要な情報を提供します。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
 
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|

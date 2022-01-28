@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: LawToolBox Deadlines および Matter Management の利用可能なすべてのセキュリティおよびコンプライアンス情報 - Outlook、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9baa7ea9b51626f8d887d568b428a83999b77940
-ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
+ms.openlocfilehash: 5ed6b61fae63ec4c4608133613e78a4a5dd29e88
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61148125"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251823"
 ---
 # <a name="lawtoolbox-deadlines-and-matter-management---outlook"></a>LawToolBox Deadlines and Matter Management - Outlook
 
@@ -29,7 +29,7 @@ ms.locfileid: "61148125"
 
 LawToolBox.com Inc. から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | LawToolBox Deadlines and Matter Management - Outlook |
 | ID | WA200003103 |
@@ -52,7 +52,7 @@ LawToolBox.com Inc. から Microsoft に提供される情報:
 
 この情報は、LawToolBox.com Inc. から、このアプリが組織データを収集および保存する方法、およびアプリが収集するデータに対して組織が持つコントロールについて提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
@@ -72,7 +72,7 @@ LawToolBox.com Inc. から Microsoft に提供される情報:
 
 以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行しますか? | いいえ |
 | アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | いいえ |
@@ -102,11 +102,11 @@ LawToolBox.com Inc. から Microsoft に提供される情報:
 
 ::: zone pivot="compliance"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | はい |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | N/A |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | N/A |
 | 最新の SOC1 認定日 |   |
 | アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
 | どの SOC 2 認定を取得しましたか? | |
@@ -120,7 +120,7 @@ LawToolBox.com Inc. から Microsoft に提供される情報:
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | はい |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | はい |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
@@ -131,7 +131,7 @@ LawToolBox.com Inc. から Microsoft に提供される情報:
 
 ::: zone pivot="privsection"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? |  |
 | アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? |  |
@@ -150,7 +150,7 @@ LawToolBox.com Inc. から Microsoft に提供される情報:
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
@@ -162,7 +162,32 @@ LawToolBox.com Inc. から Microsoft に提供される情報:
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
->このアプリケーションでは、Microsoft アプリケーションをGraph。
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+
+>|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | 委任 | このアクセス許可は、ユーザーが自分の予定表情報&#8217;取得するために使用する &#8211; に既にアクセスしているユーザーの連絡先へのアクセスを制限されます。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Calendars.ReadWrite | 委任 | このアクセス許可は、ユーザーが既に &#8211; にアクセスできるユーザー&#8217;の連絡先へのアクセスを制限され、ユーザーが自分の予定表情報を取得して予定表に書き込むのを許可するために使用します。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Calendars.ReadWrite.Shared | 委任 | このアクセス許可は、ユーザーが自分の予定表情報&#8217;取得するために使用する &#8211; に既にアクセスしているユーザーの連絡先へのアクセスを制限されます。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Contacts.ReadWrite | 委任 | このアクセス許可は、ユーザーが既にアクセス&#8217;連絡先へのアクセスを制限されます。  このアクセス許可を使用して、ユーザーが自分の O365 連絡先を検索し、LawToolBox &#8211; に追加できます(この機能を手動で追加したくない場合は、これは取り消される可能性があります) | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Contacts.ReadWrite.Shared | 委任 | このアクセス許可を使用して、ユーザーが共有 O365 連絡先を検索し、LawToolBox に追加&#8211;連絡先を自動的に追加しない場合 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Directory.AccessAsUser.All | 委任 | 管理者ポータルで使用して、アカウントに追加する O365 テナントからユーザーの一覧を取得する | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Directory.ReadWrite.All | 委任 | 管理者ポータルで使用して、アカウントに追加する O365 テナントからユーザーの一覧を取得する | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.Read | 委任 | これにより、アドインは、ユーザーが既にアクセスできるユーザー ファイルを読み取り、一覧表示できます。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.Read.All | 委任 | このアクセス許可を使用して、ユーザーが既にアクセスできるユーザー ファイルを読み取り、一覧表示します。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.ReadWrite | 委任 | 会議用に Teams、グループ、OneDriveからファイルを読み取る (取り消すと、アドインがアプリ内の重要なファイルを一覧に表示できません) | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.ReadWrite.All | 委任 | 会議用に Teams、グループ、OneDriveファイルを読み取ります (無効にした場合、LTB はアプリ内の重要なファイルを一覧に表示できません)。  ユーザーは addin のみを使用して、ユーザーが既にアクセスできるユーザー ファイルを読み取り、一覧表示できます。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Group.ReadWrite.All | 委任 | GroupID、GroupName、GroupEmail | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.Read | 委任 | このアクセス許可を使用して、Outlook アドインで PACER メールを読み取り、その問題を自動的に開き、連絡先システムに追加するためにメールから連絡先を読み取る  | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.ReadWrite | 委任 | このアクセス許可を使用して、Outlook アドインで PACER メールを読み取り、その問題を自動的に開き、連絡先システムに追加するためにメールから連絡先を読み取る  | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.ReadWrite.Shared | 委任 | このアクセス許可を使用して、Outlook アドインで PACER メールを読み取り、その問題を自動的に開き、連絡先システムに追加するためにメールから連絡先を読み取る  | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.Send | 委任 | この送信メールをユーザーとして使用して、ユーザーが自分のシステムに既にアクセスできるデータのレポートのみを送信できます。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Tasks.ReadWrite.Shared | 委任 | このアクセス許可は、ユーザーが既に &#8211; タスクにアクセスできる&#8217;タスクへのアクセスを制限され、ユーザーが自分の TASK 情報を取得および更新できます。  | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.Read | 委任 | 会議や連絡先に追加する最近の連絡先を提案するために使用される | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.ReadWrite | 委任 | 会議や連絡先に追加する最近の連絡先を提案するために使用される | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.ReadWrite.All | 委任 | これは、API の読み取り、Teams作成、予定表Teams作成、チャネルの作成、ファイル共有機能Teams必要です。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| メール | 委任 | メール、Office365 UserID、ObjectID、TenantID。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| profile | 委任 | これは SSO 認証に必要です- M365 テナントに保存されたイメージと名前を取得して、ユーザーが正しいツールボックスに保存されていることをユーザーが知っているように表示することもできます。 | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

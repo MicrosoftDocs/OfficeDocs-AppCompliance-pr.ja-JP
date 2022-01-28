@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Emailgistics、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 84228626adf3865be785d8c58c78374db9620a90
-ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
+ms.openlocfilehash: cea41a85550bd0b2a5d4effda544674d46c06b67
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62177666"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62250253"
 ---
 # <a name="emailgistics"></a>Emailgistics
 
@@ -106,25 +106,25 @@ Emailgistics Corp. から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
 | アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | N/A |
 | 最新の SOC1 認定日 |   |
 | アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
 | アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | N/A |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | N/A |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
-| アプリは NIST 800-171 に準拠していますか? | 該当なし |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | N/A |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
+| アプリは NIST 800-171 に準拠していますか? | N/A |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -166,15 +166,15 @@ Emailgistics Corp. から Microsoft に提供される情報:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
->|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          |
->|:------------------------|:--------------------|:------------------------------------|
+>|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Mail.ReadWrite | 委任 | 共有メールボックス内のメッセージに関する情報を取得するには、アクセス req'd を読み取る。 メッセージ情報は、顧客定義のルールを実行するために必要です (メッセージに &#8220;請求書&#8221; が含まれている場合はユーザー A に配布する)、会話を正しく追跡する (会話履歴と自動割り当ての場合)、およびレポート ([メッセージの詳細を開く] レポートなど)。
-ルール (自動返信など) からメッセージを送信し、Emailgistics 会話 ID を使用してメッセージの件名を更新するアクセス req'd を記述します。 |
->| Mail.Send | 委任 | 共有メールボックスから電子メール メッセージを送信する Emailgistics を許可します。 ルール (自動返信など) からメッセージを送信するには、このアクセス許可が必要です。 |
->| MailboxSettings.ReadWrite | 委任 | Emailgistics が共有メールボックス名を取得し、受信メッセージを非表示の受信フォルダーにルーティングして初期処理、ルールの実行、および自動割り当てを行うメールボックス ルールを作成できます。 |
->| User.Read | 委任 | Emailgistics が共有メールボックスとしてログインし、サービス プリンシパル ID、電子メール アドレス、ユーザー名など、そのメールボックスに関する基本情報を読み取る許可を設定します。 |
->| User.ReadBasic.All | 委任 | Emailgistics がテナント内のユーザーに関する基本情報を読み取るのを許可します。 Emailgistics でメールボックス メンバーの電子メール アドレスと名前の変更を検出し、追跡およびレポートの目的で使用されるこの情報を自動的に更新するために必要です。 これは、スコープが共有メールボックスを超えて拡張される唯一のアクセス許可です。 |
->| offline_access | 委任 | ユーザーが動作するたびにログインする必要がある対話型ブラウザー ベースのアプリではなく、Emailgistics をバックエンド アプリケーションとして動作できます。 このアクセス許可を使用すると、Emailgistics は更新トークンを取得し、一定のアクセスを維持するために必要に応じて更新できます。 |
+ルール (自動返信など) からメッセージを送信し、Emailgistics 会話 ID を使用してメッセージの件名を更新するアクセス req'd を記述します。 | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3) |
+>| Mail.Send | 委任 | 共有メールボックスから電子メール メッセージを送信する Emailgistics を許可します。 ルール (自動返信など) からメッセージを送信するには、このアクセス許可が必要です。 | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3) |
+>| MailboxSettings.ReadWrite | 委任 | Emailgistics が共有メールボックス名を取得し、受信メッセージを非表示の受信フォルダーにルーティングして初期処理、ルールの実行、および自動割り当てを行うメールボックス ルールを作成できます。 | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3) |
+>| User.Read | 委任 | Emailgistics が共有メールボックスとしてログインし、サービス プリンシパル ID、電子メール アドレス、ユーザー名など、そのメールボックスに関する基本情報を読み取る許可を設定します。 | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3) |
+>| User.ReadBasic.All | 委任 | Emailgistics がテナント内のユーザーに関する基本情報を読み取るのを許可します。 Emailgistics でメールボックス メンバーの電子メール アドレスと名前の変更を検出し、追跡およびレポートの目的で使用されるこの情報を自動的に更新するために必要です。 これは、スコープが共有メールボックスを超えて拡張される唯一のアクセス許可です。 | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3) |
+>| offline_access | 委任 | ユーザーが動作するたびにログインする必要がある対話型ブラウザー ベースのアプリではなく、Emailgistics をバックエンド アプリケーションとして動作できます。 このアクセス許可を使用すると、Emailgistics は更新トークンを取得し、一定のアクセスを維持するために必要に応じて更新できます。 | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 
