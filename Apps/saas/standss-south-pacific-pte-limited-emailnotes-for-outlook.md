@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Outlook の EmailNotes、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 841b0ad019cda22d01b5990b8aabf80931ffe130
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: a09c055a42f69c7174773835e8c83b99e83f0013
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148356"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62261538"
 ---
 # <a name="emailnotes-for-outlook"></a>EmailNotes for Outlook
 
@@ -121,10 +121,10 @@ Standss (南太平洋) PTE が Microsoft に限定して提供する情報:
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
-| アプリは NIST 800-171 に準拠していますか? | 該当なし |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | N/A |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
+| アプリは NIST 800-171 に準拠していますか? | N/A |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -167,13 +167,13 @@ Standss (南太平洋) PTE が Microsoft に限定して提供する情報:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
->|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calendars.ReadWrite | 委任 | 件名、本文、会議出席依頼に添付されている添付ファイルの内容を読み取る  |
->| Mail.ReadWrite | 委任 | 件名、本文、メール アイテムに添付されている添付ファイルの内容を読み取る  |
->| openid | 委任 | シングル サインオン (SSO) アクセス許可の要件 |
->| profile | 委任 | シングル サインオン (SSO) アクセス許可の要件 |
->| User.Read | 委任 | これは、ユーザー データを読み取って、ドメイン/ユーザー アカウントのライセンス情報を確認することです。 |
+>|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 委任 | 件名、本文、会議出席依頼に添付されている添付ファイルの内容を読み取る  | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| Mail.ReadWrite | 委任 | 件名、本文、メール アイテムに添付されている添付ファイルの内容を読み取る  | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| User.Read | 委任 | これは、ユーザー データを読み取って、ドメイン/ユーザー アカウントのライセンス情報を確認することです。 | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| openid | 委任 | シングル サインオン (SSO) アクセス許可の要件 | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| profile | 委任 | シングル サインオン (SSO) アクセス許可の要件 | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Classroom.cloud、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d58df70912c5c9eedfca92e67f9f202960b7a23b
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 4e7fce8118f65a9fb01153baa2ccef8a1282df3c
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148313"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260829"
 ---
 # <a name="classroomcloud"></a>Classroom.cloud
 
@@ -106,8 +106,8 @@ NETSUPPORT LTD から提供される情報。 Microsoft に:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | N/A |
 | アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
 | 最新の SOC1 認定日 |   |
 | アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
@@ -123,8 +123,8 @@ NETSUPPORT LTD から提供される情報。 Microsoft に:
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | はい |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | はい |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
-| アプリは NIST 800-171 に準拠していますか? | 該当なし |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
+| アプリは NIST 800-171 に準拠していますか? | N/A |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -158,7 +158,7 @@ NETSUPPORT LTD から提供される情報。 Microsoft に:
 |:----------------|:-------------|
 | アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | 該当なし |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | N/A |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | MFA、IP/デバイスによる制限、登録済みデバイスへのアクセスのみ  |
@@ -168,14 +168,14 @@ NETSUPPORT LTD から提供される情報。 Microsoft に:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
->|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Team.ReadBasic.All | アプリケーション | 学生チャットTeamsのオンライン classroom.cloud 監視を提供するために、ユーザーからの統合に使用されます。 |
->| Channel.ReadBasic.All | アプリケーション | 学生チャットTeamsのオンライン classroom.cloud 監視を提供するために、ユーザーからの統合に使用されます。 |
->| ChannelMessage.Read.All | アプリケーション | 学生チャットTeamsのオンライン classroom.cloud 監視を提供するために、ユーザーからの統合に使用されます。 |
->| ChannelSettings.Read.All | アプリケーション | 学生チャットTeamsのオンライン classroom.cloud 監視を提供するために、ユーザーからの統合に使用されます。 |
->| Chat.Read.All | アプリケーション | 学生チャットTeamsのオンライン classroom.cloud 監視を提供するために、ユーザーからの統合に使用されます。 |
->| Directory.Read.All | アプリケーション | 学生チャットTeamsのオンライン classroom.cloud 監視を提供するために、ユーザーからの統合に使用されます。 |
+>|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Channel.ReadBasic.All | アプリケーション | 学生チャットTeamsのオンライン classroom.cloud 監視を提供するために、ユーザーからの統合に使用されます。 | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| ChannelMessage.Read.All | アプリケーション | 学生チャットTeamsのオンライン classroom.cloud 監視を提供するために、ユーザーからの統合に使用されます。 | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| ChannelSettings.Read.All | アプリケーション | 学生チャットTeamsのオンライン classroom.cloud 監視を提供するために、ユーザーからの統合に使用されます。 | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| Chat.Read.All | アプリケーション | 学生チャットTeamsのオンライン classroom.cloud 監視を提供するために、ユーザーからの統合に使用されます。 | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| Directory.Read.All | アプリケーション | 学生チャットTeamsのオンライン classroom.cloud 監視を提供するために、ユーザーからの統合に使用されます。 | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| Team.ReadBasic.All | アプリケーション | 学生チャットTeamsのオンライン classroom.cloud 監視を提供するために、ユーザーからの統合に使用されます。 | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

@@ -2,17 +2,17 @@
 title: Azure App ID affadfb6-f17b-428f-97f9-9aae3b6175bc の情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/26/2022
+ms.date: 01/28/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: affadfb6-f17b-428f-97f9-9aae3b6175bc で使用可能なすべてのセキュリティおよびコンプライアンス情報。
-ms.openlocfilehash: bda970d3a53e571c33db304e441a3ce88142a693
-ms.sourcegitcommit: 2e80b3cd0079ac50da5e6d878bbef6744e4659f2
+ms.openlocfilehash: b17875e3f2088286bac9e9b04182acb86454211c
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/26/2022
-ms.locfileid: "62235763"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260193"
 ---
 # <a name="azure-app-id-affadfb6-f17b-428f-97f9-9aae3b6175bc"></a>Azure アプリ ID: affadfb6-f17b-428f-97f9-9aae3b6175bc
 

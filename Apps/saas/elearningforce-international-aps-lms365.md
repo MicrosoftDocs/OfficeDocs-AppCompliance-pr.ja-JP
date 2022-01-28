@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: LMS365 で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 62a9a18b43a1740b8b83b59edac5051824c43266
-ms.sourcegitcommit: e756bf7bcad1b37cad74f3330b9885595fd6ab04
+ms.openlocfilehash: 3610fa868ff1195d72a311b68dd10e1ef171c8cc
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/26/2022
-ms.locfileid: "62222521"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260914"
 ---
 # <a name="lms365"></a>LMS365
 
@@ -102,9 +102,9 @@ ELEARNINGFORCE International Aps から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | N/A |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | N/A |
 | 最新の SOC1 認定日 |   |
 | アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
 | どの SOC 2 認定を取得しましたか? | |
@@ -112,14 +112,14 @@ ELEARNINGFORCE International Aps から Microsoft に提供される情報:
 | アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
 | 最新の SOC3 認定日 | |
 | アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | いいえ |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | N/A |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | N/A |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
@@ -160,7 +160,18 @@ ELEARNINGFORCE International Aps から Microsoft に提供される情報:
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
 
->このアプリケーションでは、Microsoft アプリケーションをGraph。
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+
+>|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| GroupMember.Read.All | アプリケーション | なし | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| Mail.Send | 委任 | なし | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| RoleManagement.Read.Directory | アプリケーション | なし | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| User.Invite.All | 委任 | なし | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| User.Read | 委任 | なし | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| User.Read.All | 委任 | なし | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| User.Read.All | アプリケーション | アプリが完全なユーザー プロファイルを読み取るを許可します。 階層&#8217;作成するには、管理者のユーザー&#8217;読み取る必要があります。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| profile | 委任 | なし | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

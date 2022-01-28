@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ASC Recording インサイト、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 23028cb70e0d93e3f086e499cd2b6595eeec932f
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 626de477768e85b62479862b53743e2ede42598a
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155391"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260790"
 ---
 # <a name="asc-recording-insights"></a>ASC レコーディング インサイト
 
@@ -108,25 +108,25 @@ ASC Technologies AG が Microsoft に提供する情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
 | アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | N/A |
 | 最新の SOC1 認定日 |   |
 | アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
 | アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | N/A |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | N/A |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
-| アプリは NIST 800-171 に準拠していますか? | 該当なし |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | N/A |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
+| アプリは NIST 800-171 に準拠していますか? | N/A |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -168,23 +168,23 @@ ASC Technologies AG が Microsoft に提供する情報:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
 
->|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Chat.Read | 委任 | ユーザー チャット メッセージの読み取り |
->| User.Read | 委任 | サインインおよびユーザー プロファイルの読み取り |
->| User.ReadBasic.All | 委任 | すべてのユーザーの基本プロファイルを読み取る |
->| Group.Read.All | 委任 | すべてのグループの読み取り |
->| openid | 委任 | ユーザーのサインイン |
->| profile | 委任 | ユーザーの基本プロファイルの表示 |
->| People.Read | 委任 | ユーザー関連のユーザーリストの読み取り |
->| Contacts.Read | 委任 | ユーザーの連絡先の読み取り |
->| OnlineMeetings.Read.All | アプリケーション | オンライン会議の詳細を読む |
->| Calendars.Read | アプリケーション | すべてのメールボックスのカレンダーの読み取り |
->| Group.Read.All | アプリケーション | すべてのグループの読み取り |
->| User.Read.All | アプリケーション | すべてのユーザーのフル プロファイルを読み取る |
->| ChannelMember.Read.All | アプリケーション | すべてのチャネルのメンバーを読み取る |
->| Chat.Read.All | アプリケーション | すべてのチャット メッセージの読み取り |
->| ChannelMessage.Read.All | アプリケーション | すべてのチャネル メッセージを読み取る |
+>|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | アプリケーション | すべてのメールボックスのカレンダーの読み取り | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| ChannelMember.Read.All | アプリケーション | すべてのチャネルのメンバーを読み取る | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| ChannelMessage.Read.All | アプリケーション | すべてのチャネル メッセージを読み取る | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| Chat.Read | 委任 | ユーザー チャット メッセージの読み取り | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| Chat.Read.All | アプリケーション | すべてのチャット メッセージの読み取り | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| Contacts.Read | 委任 | ユーザーの連絡先の読み取り | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| Group.Read.All | 委任 | すべてのグループの読み取り | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| Group.Read.All | アプリケーション | すべてのグループの読み取り | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| OnlineMeetings.Read.All | アプリケーション | オンライン会議の詳細を読む | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| People.Read | 委任 | ユーザー関連のユーザーリストの読み取り | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| User.Read | 委任 | サインインおよびユーザー プロファイルの読み取り | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| User.Read.All | アプリケーション | すべてのユーザーのフル プロファイルを読み取る | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| User.ReadBasic.All | 委任 | すべてのユーザーの基本プロファイルを読み取る | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| openid | 委任 | ユーザーのサインイン | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| profile | 委任 | ユーザーの基本プロファイルの表示 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 
