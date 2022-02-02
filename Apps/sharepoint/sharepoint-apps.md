@@ -2,17 +2,17 @@
 title: Microsoft SharePoint アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/27/2022
+ms.date: 02/01/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft SharePoint アプリで使用可能なすべてのセキュリティとコンプライアンスに関する情報。
 localization_priority: Normal
-ms.openlocfilehash: 6618e9a9a4f4750136e38ab5fb2c55a17babe09a
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 84e054bf0b1ca6bf7b830af03fce008ee20a92cf
+ms.sourcegitcommit: edd55f34c004f0b5c7e4418b92b8ba325b8ab336
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254033"
+ms.lasthandoff: 02/02/2022
+ms.locfileid: "62313842"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint アプリのセキュリティとコンプライアンス
 
@@ -31,7 +31,7 @@ Microsoft は、microsoft Microsoft 365開発者パートナーと協力して�
 | [Konnect eMail Parser](./konnect-email-parser.md) | Konnect eMail | **✓** |  |
 | [LifeWorks Viva Connections](./lifeworks-inc-viva-connections.md) | Lifeworks Inc | **✓** |  |
 | [Lightning Tools Lightning コンダクター](./lightning-tools-conductor.md) | Lightning Tools | **✓** |  |
-| [officeatwork | テンプレートの選択SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork - テンプレートの選択SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Power BI コラボレーション](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
 | [よりスマートなイベント予約](./smarter-business-solutions-gmbh-event-booking.md) | Smarter Business Solutions GmbH | **✓** |  |
 | [分類](./accuracy-software-inc-taxonomy.md) | Accuracy Software Inc. | **✓** |  |
