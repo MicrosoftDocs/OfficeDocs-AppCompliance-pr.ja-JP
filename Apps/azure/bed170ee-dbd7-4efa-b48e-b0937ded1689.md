@@ -2,17 +2,11 @@
 title: Azure App ID Information for bed170ee-dbd7-4efa-b48e-b0937ded1689
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/02/2022
+ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: bed170ee-dbd7-4efa-b48e-b0937ded1689 で使用可能なすべてのセキュリティおよびコンプライアンス情報。
-ms.openlocfilehash: 218de405dad213647df4366b6896a77ffe572787
-ms.sourcegitcommit: c02a78e87cd408ded50ad143138502ce1f1d883e
-ms.translationtype: MT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 02/03/2022
-ms.locfileid: "62336887"
 ---
 # <a name="azure-app-id-bed170ee-dbd7-4efa-b48e-b0937ded1689"></a>Azure App ID: bed170ee-dbd7-4efa-b48e-b0937ded1689
 
