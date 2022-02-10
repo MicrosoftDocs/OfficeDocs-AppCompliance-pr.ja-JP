@@ -2,17 +2,17 @@
 title: Azure App ID a9b0c190-bafb-49ca-a61a-dab99cf2c43b の情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/08/2022
+ms.date: 02/10/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: a9b0c190-bafb-49ca-a61a-dab99cf2c43b で使用可能なすべてのセキュリティおよびコンプライアンス情報。
-ms.openlocfilehash: a7c80ba5208358d53f6cf1614aaf3081b1f74606
-ms.sourcegitcommit: 27afe4d564e72c28ea073e4b31801ad983aec173
+ms.openlocfilehash: cae9988e72abd0e9d8b0e4d3fa92b7966feb3e7c
+ms.sourcegitcommit: c7d072ca68760947ef4d531b740550b3236c3c94
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62475453"
+ms.lasthandoff: 02/10/2022
+ms.locfileid: "62515002"
 ---
 # <a name="azure-app-id-a9b0c190-bafb-49ca-a61a-dab99cf2c43b"></a>Azure アプリ ID: a9b0c190-bafb-49ca-a61a-dab99cf2c43b
 
