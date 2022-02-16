@@ -2,17 +2,17 @@
 title: Microsoft Teams アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/14/2022
+ms.date: 02/15/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: ecf14cb0b0d02c3fa384a131609815edb2ffe3ce
-ms.sourcegitcommit: 608dc021537f8048f85f34b86c507a6461db1d5f
+ms.openlocfilehash: 1906cf1fde898ce0a3f82642cf15369812241b0a
+ms.sourcegitcommit: 2e7d3c3ce21db674e9964db4a0b5b8794e74142f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "62816116"
+ms.lasthandoff: 02/16/2022
+ms.locfileid: "62829687"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -189,6 +189,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Hi5](./hi5technologies-hi5.md) | Hi5Technologies | **✓** |  |
 | [HighSide](./highside-inc.md) | HighSide, Inc | **✓** |  |
 | [ハイスポット](./highspot.md) | Highspot | **✓** |  |
+| [HitHorizons](./finstat-sro-hithorizons.md) | FinStat s.r.o. | **✓** |  |
 | [Hive](./hive.md) | Hive | **✓** |  |
 | [HubSite 365](./netforce-365-gmbh-hubsite.md) | NetForce 365 GmbH | **✓** |  |
 | [ヒューゴ](./hugo.md) | ヒューゴ | **✓** |  |
