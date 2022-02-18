@@ -2,17 +2,17 @@
 title: Microsoft Teams アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/15/2022
+ms.date: 02/16/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: 1906cf1fde898ce0a3f82642cf15369812241b0a
-ms.sourcegitcommit: 2e7d3c3ce21db674e9964db4a0b5b8794e74142f
+ms.openlocfilehash: 72b7868eaa382a4bc4d140c62eea795a347bf75a
+ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/16/2022
-ms.locfileid: "62829687"
+ms.lasthandoff: 02/17/2022
+ms.locfileid: "62876765"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -122,6 +122,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [デスク予約](./tns-consulting-aps-desk-reservations.md) | TNS コンサルティング ApS | **✓** |  |
 | [Desk365](./kani-technologies-inc-desk365.md) | Kani Technologies Inc | **✓** |  |
 | [Digiplein](./educatieve-uitgeversgroep-bv-digiplein.md) | Educatieve Uitgeversgroep B.V. | **✓** |  |
+| [Diligent Boards](./diligent-boards.md) | Diligent | **✓** |  |
 | [Distribution Lists Pro](./witivio-distribution-lists-pro.md) | Witivio | **✓** |  |
 | [do!book CB](./digital-office-inc-do!book-cb.md) | Digital Office Inc. | **✓** |  |
 | [Docuo](./r2-docuo.md) | R2 Docuo | **✓** |  |
@@ -372,7 +373,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [SuperOffice](./superoffice-infobridge-software.md) | SuperOffice InfoBridge ソフトウェア | **✓** |  |
 | [SurveyMonkey](./surveymonkey.md) | SurveyMonkey | **✓** |  |
 | [SurveySparrow](./surveysparrow-inc.md) | SurveySparrow inc. | **✓** |  |
-| [Svava for Meetings](./svava-ab-for-meetings.md) | Svava AB | **✓** |  |
+| [Svava for Meetings](./svava-for-meetings.md) | Svava | **✓** |  |
 | [SwiftAssess](./gamalearn-swiftassess.md) | GamaLearn | **✓** |  |
 | [Switchvox](./sangoma-switchvox.md) | Sangoma | **✓** |  |
 | [Sympli](./sympli-llc.md) | Sympli, LLC | **✓** |  |
@@ -399,6 +400,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Teamwork](./teamwork.md) | Teamwork | **✓** |  |
 | [TELUS Business Connect](./ringcentral-inc-telus-business-connect.md) | RingCentral, Inc. | **✓** |  |
 | [Template Chooser](./officeatwork-template-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Tendfor](./tendfor.md) | Tendfor | **✓** |  |
 | [Text](./approved-contact-text.md) | 承認済みの連絡先 | **✓** |  |
 | [The Captivate Hub](./captivate-io-ltd-the-hub.md) | Captivate IO Ltd | **✓** |  |
 | [ThoughtExchange](./thoughtexchange.md) | ThoughtExchange | **✓** |  |
@@ -434,7 +436,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Weekly10](./binary-geek-limited-weekly10.md) | Binary Geek Limited | **✓** |  |
 | [Weet Screen Recording](./fyz-services-weet-screen-recording.md) | FYZ SERVICES | **✓** |  |
 | [Wellness Coach](./meditationlive-inc-wellness-coach.md) | Meditation.live, Inc. | **✓** |  |
-| [Wide Ideas](./wide-ideas.md) | Wide Ideas | **✓** |  |
+| [Wide Ideas](./idea2innovation-wide-ideas.md) | Idea2Innovation | **✓** |  |
 | [Wired2Perform](./wired2perform.md) | Wired2Perform | **✓** |  |
 | [Wisembly](./wisembly.md) | Wisembly | **✓** |  |
 | [Workbench Intelligence](./temporall-workbench-intelligence.md) | Temporall | **✓** |  |
