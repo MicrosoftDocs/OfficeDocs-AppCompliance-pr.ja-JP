@@ -2,24 +2,24 @@
 title: Accuracy Software Inc. による分類に関するアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2022
+ms.date: 02/18/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 分類、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e6ca7066e3ceaf975f3928885ea6cb5533c5e518
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 1106b9e00a94d133c167b04bb31e4bc71c060c73
+ms.sourcegitcommit: 0465c6dd3a2c42fb1fd785548654d5b7f2601adc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62146564"
+ms.lasthandoff: 02/19/2022
+ms.locfileid: "62909069"
 ---
 # <a name="taxonomy"></a>分類
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 12 月 26 日</p>
+<p>開発者が最終更新日: 2022 年 2 月 18 日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200003006" target="_blank">AppSource での表示</a>
 
@@ -40,7 +40,7 @@ Accuracy Software Inc. から Microsoft に提供される情報:
 | アプリのコア機能 | 分類では、さまざまな関係者との IM 専門家の共同作業で、ファイル計画を作成、確認、および組織全体に公開することで、ファイル分類計画を管理する効果的な方法が提供されます。 さらに、Taxonomy Microsoft コンプライアンス センターにインポートできる M365 保持ラベルエクスポートを生成し、SharePoint 用語ストアにインポートできる用語セット形式でファイル プランをエクスポートできます。 |
 | 会社の本社所在地 | カナダ |
 | アプリ情報ページ | |
-| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Iaas |
+| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
 | アプリで使用するホスティング クラウド プロバイダー | クライアント SharePoint テナント |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -58,7 +58,7 @@ Accuracy Software Inc. から Microsoft に提供される情報:
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | いいえ |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
 | データベースに格納されているデータは何ですか? | ファイル計画の分類データ |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | カナダ |
+| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
 | データの借入および廃棄プロセスが確立されていますか? | いいえ |
 | アカウントの終了後にデータが保持される期間 | 保持されない |
 | データ アクセス管理プロセスが確立されていますか? | いいえ |
@@ -71,7 +71,7 @@ Accuracy Software Inc. から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -87,7 +87,7 @@ Accuracy Software Inc. から Microsoft に提供される情報:
 | 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | いいえ |
 | 追加のユーザーが、元の開発者によって実稼働環境に提出されたコード変更要求を確認および承認していますか? | いいえ |
 | セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | いいえ |
-| 多要素認証 (MFA) が有効になっているのは、次の場合です。 |  |
+| 多要素認証 (MFA) が有効になっているのは、次の場合です。 | NoneOfTheAbove |
 | 従業員アカウントのプロビジョニング、変更、削除のプロセスが確立されていますか? | いいえ |
 | アプリをサポートするネットワーク境界の境界の境界に侵入検出と防御 (IDPS) ソフトウェアが展開されていますか? | 該当なし |
 | アプリをサポートしているすべてのシステム コンポーネントにイベント ログが設定されていますか? | はい |
