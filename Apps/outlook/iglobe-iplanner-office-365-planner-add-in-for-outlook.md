@@ -1,5 +1,5 @@
 ---
-title: iGlobe Office 365の iPlanner Outlook Planner アドインのアプリケーション情報
+title: iGlobe Office 365の iPlanner Office 365 Planner アドインのOutlook情報
 ms.author: elmalova
 author: elenamalova
 ms.date: 08/28/2021
@@ -7,15 +7,15 @@ ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Outlook 用 iPlanner Office 365 Planner アドイン、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: 131f199cd6143b770c5b1fec9aa7a4afd348e784
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: e5a6c2743408cc498443ea01a7bf548460485b25
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257943"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63075921"
 ---
-# <a name="iplanner-office-365-planner-add-in-for-outlook"></a>iPlanner Office 365 Planner アドインのOutlook
+# <a name="iplanner-office-365-planner-add-in-for-outlook"></a>iPlanner Office 365 プランナー アドインのOutlook
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>開発者が最終更新日: 2021 年 8 月 28 日</p>
@@ -30,13 +30,13 @@ iGlobe から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | iPlanner Office 365 Planner アドインのOutlook |
+| アプリ名 | iPlanner Office 365 プランナー アドインのOutlook |
 | ID | WA104380147 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の場合は、Outlook on the web |
+| Office 365サポートされているクライアント | Outlook 2013 以降の Mac 上Windows、Outlook 2016以降の Mac では、Outlook on the web |
 | パートナー会社名 | iGlobe |
 | 会社の Web サイト | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | アプリの利用規約 | [https://iglobecrm.com/content/end-user-license-agreement-ig...](https://iglobecrm.com/content/end-user-license-agreement-iglobe-iplanner-add-ins) |
-| アプリのコア機能 | 手の先端にある Office 365 Planner Teamsプランナー タスクを任意のデバイスOutlook &amp; 取得します。 タスクの管理と作成が容易になりました。 手の先端にある Office 365 Planner Teams、MAC、IOS、または Web メールOutlookのWindowsプランナー タスクを &amp; 取得します。 |
+| アプリのコア機能 | 手の先端にあるOffice 365 Planner Teamsプランナー &amp; タスクを任意のデバイスOutlook取得します。 タスクの管理と作成が容易になりました。 手の先端にある Office 365 Planner &amp; Teamsからプランナー タスクを取得し、Outlook MAC、IOS、または Web メールのWindowsを確認します。 |
 | 会社の本社所在地 | デンマーク |
 | アプリ情報ページ | |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
@@ -69,7 +69,7 @@ iGlobe から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -120,7 +120,7 @@ iGlobe から Microsoft に提供される情報:
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | はい |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | はい |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
@@ -161,7 +161,7 @@ iGlobe から Microsoft に提供される情報:
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
@@ -176,43 +176,6 @@ iGlobe から Microsoft に提供される情報:
 >| profile | 委任 | アプリケーション データベースにデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
-
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>認定情報
-
-| **Control** | **Microsoft 365認定結果** |
-|:------------|:---------------------------------------|
-| [**アプリケーション のセキュリティ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **該当なし** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入テスト | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性評価レビュー (DAST/SAST/侵入テスト) | N/A |
-| [**運用上のセキュリティ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **該当なし** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア保護 - ウイルス対策 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア保護 - アプリケーション制御 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - リスクランキング | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - パッチ適用 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性スキャン | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - ファイアウォール (または同等のテクノロジ) | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - Web アプリケーション ファイアウォール (WAF) (オプション) | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;変更コントロール | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secure Software Development/Deployment | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;アカウント管理 | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入の検出と防止 (オプション) | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント ログ | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;レビュー (ログ データ) | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベントの警告 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;情報セキュリティリスク管理 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;インシデント対応 | 該当なし |
-| [**データ処理の &amp; セキュリティプライバシー**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **該当なし** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;転送中のデータ | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;保存中のデータ | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データの保持と廃棄 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データ アクセスの管理 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | N/A |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

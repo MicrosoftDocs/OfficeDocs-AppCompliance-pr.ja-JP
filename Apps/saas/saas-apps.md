@@ -2,26 +2,27 @@
 title: SaaS Apps のセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/16/2022
+ms.date: 03/02/2022
 ms.topic: article
 ms.service: attestation
 description: すべての SaaS アプリで使用可能なすべてのセキュリティおよびコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 7e971759974fa7f3b35e02338708aeb8f3897741
-ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
+ms.openlocfilehash: 9df715d9923b3146870ad05e5a41f16c44ced38c
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62875610"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63076211"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS Apps のセキュリティとコンプライアンス
 
-Microsoft は、Microsoft 365パートナーと協力して、組織が使用する SaaS アプリとアドインに関する意思決定を迅速に行い、通知するために必要な情報を提供します。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
+Microsoft は、開発者Microsoft 365パートナーと協力して、組織が使用する SaaS アプリとアドインに関する意思決定を迅速に行い、通知するために必要な情報を提供します。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
 
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [管理センター](./officeatwork-admin-center.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Buzzeasy Contact Center for Teams](./geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md) | Geomant-Algotech Zrt。 | **✓** |  |
+| [Anywhere365 Attendant Console for Microsoft Teams](./workstreampeople-bv-anywhere365-attendant-console-for-microsoft-teams.md) | WORKSTREAMPEOPLE BV | **✓** |  |
+| [Buzzeasy Contact Center for Teams](./geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md) | Geomant-Algotech Zrt. | **✓** |  |
 | [CallCabinet Atmos Compliance Recording and Analytics](./callcabinet-corporation-atmos-compliance-recording-and-analytics.md) | CallCabinet Corporation | **✓** |  |
 | [CC4Teams](./cc4all-cc4teams.md) | CC4ALL | **✓** |  |
 | [Classroom.cloud](./netsupport-ltd-classroomcloud.md) | NETSUPPORT LTD. | **✓** |  |
@@ -32,7 +33,8 @@ Microsoft は、Microsoft 365パートナーと協力して、組織が使用す
 | [コンテンツ選択ブラウザー](./officeatwork-content-chooser-browser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [デザイナー](./officeatwork-designer.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Emailgistics](./emailgistics-corp.md) | Emailgistics Corp. | **✓** |  |
-| [EmailNotes for Outlook](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | スタンド (南太平洋) PTE Limited | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [EmailNotes for Outlook](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | スタンド (南太平洋) PTE Limited | **✓** |  |
+| [ジェネシス クラウド CX Teams統合](./genesys-cloud-services-inc-cx-teams-integration.md) | ジェネシス クラウド サービス, Inc | **✓** |  |
 | [ice Contact Center](./computertalk-ice-contact-center.md) | ComputerTalk | **✓** |  |
 | [iGlobe CRM Office 365 Microsoft 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Image Chooser](./officeatwork-image-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
