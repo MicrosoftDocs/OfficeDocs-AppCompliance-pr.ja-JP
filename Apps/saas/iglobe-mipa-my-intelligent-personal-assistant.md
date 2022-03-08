@@ -6,14 +6,14 @@ ms.date: 08/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: MIPA で使用可能なすべてのセキュリティおよびコンプライアンス情報 - My Intelligent Personal Assistant、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: 33b87c614d62c1934e24a408658204a33736f924
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+description: MIPA で使用可能なすべてのセキュリティおよびコンプライアンス情報 - My Intelligent Personal Assistant、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 8d56acb1cf147c57f06196e2e44acafbbf5f8ab1
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260883"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63078051"
 ---
 # <a name="mipa---my-intelligent-personal-assistant"></a>MIPA - 個人用インテリジェント パーソナル アシスタント
 
@@ -35,7 +35,7 @@ iGlobe から Microsoft に提供される情報:
 | パートナー会社名 | iGlobe |
 | 会社の Web サイト | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | アプリの利用規約 | [https://mipa.iglobe.dk/EULA](https://mipa.iglobe.dk/EULA) |
-| アプリのコア機能 | MIPA - My Intelligent パーソナル アシスタント - MIPA は、毎日のアクティビティと作業を整理および管理するための視覚的な簡単な方法を提供します。 MIPA は、OutlookおよびTeams。 iGlobe CRM MIPA を使用する組織では、iGlobe CRM にも統合されます。 MIPA App Services のアクセス許可レベルは、MIPA に対して、Teamsおよび iGlobe CRM 統合Outlook MIPA に対して設定されます。 |
+| アプリのコア機能 | MIPA - My Intelligent パーソナル アシスタント - MIPA は、毎日のアクティビティと作業を整理および管理するための視覚的な簡単な方法を提供します。 MIPA は、アプリケーションとOutlookでTeams。 iGlobe CRM MIPA を使用する組織では、iGlobe CRM にも統合されます。 MIPA App Services のアクセス許可レベルは、MIPA に対して、Teamsおよび iGlobe CRM 統合Outlook MIPA に対して設定されます。 |
 | 会社の本社所在地 | デンマーク |
 | アプリ情報ページ | |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
@@ -68,7 +68,7 @@ iGlobe から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -118,7 +118,7 @@ iGlobe から Microsoft に提供される情報:
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | はい |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | はい |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | はい |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | はい |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
@@ -160,7 +160,7 @@ iGlobe から Microsoft に提供される情報:
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
@@ -184,43 +184,6 @@ iGlobe から Microsoft に提供される情報:
 >| profile | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
-
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>認定情報
-
-| **Control** | **Microsoft 365認定結果** |
-|:------------|:---------------------------------------|
-| [**アプリケーション のセキュリティ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **該当なし** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入テスト | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性評価レビュー (DAST/SAST/侵入テスト) | N/A |
-| [**運用上のセキュリティ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **該当なし** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア保護 - ウイルス対策 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア保護 - アプリケーション制御 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - リスクランキング | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - パッチ適用 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性スキャン | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - ファイアウォール (または同等のテクノロジ) | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - Web アプリケーション ファイアウォール (WAF) (オプション) | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;変更コントロール | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secure Software Development/Deployment | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;アカウント管理 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入の検出と防止 (オプション) | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント ログ | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;レビュー (ログ データ) | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベントの警告 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;情報セキュリティリスク管理 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;インシデント対応 | N/A |
-| [**データ処理の &amp; セキュリティプライバシー**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **該当なし** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;転送中のデータ | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;保存中のデータ | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データの保持と廃棄 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データ アクセスの管理 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | N/A |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -2,17 +2,17 @@
 title: Microsoft Outlook アプリのセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/27/2022
+ms.date: 02/28/2022
 ms.topic: article
 ms.service: attestation
-description: すべての Microsoft Outlook アプリで使用可能なすべてのセキュリティとコンプライアンス情報。
+description: すべての Microsoft Outlook アプリで使用可能なすべてのセキュリティおよびコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 86006b608edc098b9c7e3abbcf49bfde1f89863f
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 5f6ff668bfcedb253042f02b965eb1eb75b7209b
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251343"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63078601"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook アプリのセキュリティとコンプライアンス
 
@@ -20,16 +20,15 @@ Microsoft は、microsoft Microsoft 365開発者パートナーと協力して�
 
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Adobe Sign Add-In Outlook](./adobe-inc-sign-add-in-for-outlook.md) | Adobe Inc. | **✓** |  |
+| [Adobe Sign Add-In Outlook](./adobe-inc-sign-add-in-for-outlook.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Altru ビデオ](./altru-videos.md) | Altru | **✓** |  |
 | [承認済みの連絡先の予定表](./approved-contact-calendars.md) | 承認済みの連絡先 | **✓** |  |
 | [CI-Signature](./ci-solution-gmbh-signature.md) | ci ソリューション GmbH | **✓** |  |
 | [CodeTwo for Outlook](./codetwo-for-outlook.md) | CodeTwo | **✓** |  |
 | [Commuty](./commuty.md) | Commuty | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
-| [harmon.ie のOutlook](./harmonie-corporation-for-outlook.md) | harmon.ie 株式会社 | **✓** |  |
 | [ユーザーのインプレッション署名Outlook](./impression-signatures-for-outlook.md) | インプレッション署名 | **✓** |  |
-| [iPlanner Office 365 Planner アドインのOutlook](./iglobe-iplanner-office-365-planner-add-in-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [iPlanner Office 365 プランナー アドインのOutlook](./iglobe-iplanner-office-365-planner-add-in-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iPlanner Pro Office 365](./iglobe-iplanner-pro-office-365.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Jira Cloud for Outlook (Official)](./atlassiancom-jira-cloud-for-outlook-official.md) | Atlassian.com | **✓** |  |
 | [LawToolBox Deadlines &amp; Matter Management - Outlook](./lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md) | LawToolBox.com Inc. | **✓** |  |
@@ -46,5 +45,5 @@ Microsoft は、microsoft Microsoft 365開発者パートナーと協力して�
 | [優先度マトリックス - メールをタスクに変換する](./appfluence-inc-priority-matrix-turn-emails-into-tasks.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Quantum Workplace](./quantum-workplace.md) | Quantum Workplace | **✓** |  |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
-| [企業向け Strategy-AI Outlook](./chinchilla-software-limited-strategy-ai-for-outlook.md) | チンチラ ソフトウェアリミテッド | **✓** |  |
+| [Strategy-AI for Outlook](./chinchilla-software-limited-strategy-ai-for-outlook.md) | チンチラ ソフトウェアリミテッド | **✓** |  |
 | [XQ Secure Email](./xq-message-secure-email.md) | XQ メッセージ | **✓** |  |

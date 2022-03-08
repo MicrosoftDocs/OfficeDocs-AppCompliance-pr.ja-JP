@@ -2,23 +2,22 @@
 title: Adobe Inc. による Adobe Sign Add-InのOutlookアプリケーション情報。
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/19/2021
+ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
-description: Outlook の Adobe Sign Add-In、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+certification_type: certified
+description: Outlook の Adobe Sign Add-In、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e443e296205864141c0d0c2e6923e2e971ac4d7e
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 55945315fcc8c34bd0badd80a0dfacf88bed8c54
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256849"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63079506"
 ---
 # <a name="adobe-sign-add-in-for-outlook"></a>Adobe Sign Add-In Outlook
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>開発者による最終更新日: 2021 年 10 月 15 日</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104381158" target="_blank">AppSource での表示</a>
@@ -33,7 +32,7 @@ Adobe Inc. から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリ名 | Adobe Sign Add-In Outlook |
 | ID | WA104381158 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の場合は、Outlook on the web |
+| Office 365サポートされているクライアント | Outlook 2013 以降の Mac 上Windows、Outlook 2016以降の Mac では、Outlook on the web |
 | パートナー会社名 | Adobe Inc. |
 | 会社の Web サイト | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
 | アプリの利用規約 | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
@@ -70,7 +69,7 @@ Adobe Inc. から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -121,7 +120,7 @@ Adobe Inc. から Microsoft に提供される情報:
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | はい |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | はい |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | いいえ |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
@@ -161,14 +160,14 @@ Adobe Inc. から Microsoft に提供される情報:
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Mail.ReadWrite | 委任 | 添付されたドキュメント、送信者と受信者の電子メール、およびメッセージ コンテンツを電子メールから Adobe 記号に入力して署名用に送信します。 これは、Adobe Sign でこれらのフィールドを再入力するユーザー時間を節約するために使用します。 契約が署名された後、ユーザーが電子メールを送信して、トランザクションが完了したことを受信者に通知する新しい電子メールを自動的に作成します。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| People.Read | 委任 | 署名用に送信エクスペリエンスで電子メール アドレスを自動入力するには、最初の文字を入力して、ユーザーにメール全体を入力 &quot; &quot; する必要が生じかねない。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| People.Read | 委任 | 署名用に送信エクスペリエンス&quot;&quot;で電子メール アドレスを自動入力するには、最初の文字を入力して、ユーザーにメール全体を入力する必要が生じかねない。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
 >| User.Read | 委任 | ユーザーのプロファイルを読み取り、自分のプロファイル (基本的には電子メールと userId) をデータベースに一致して、Adobe Sign を使用できます。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| offline_access | 委任 | アクセス トークンを更新するには、現在のトークンの有効期限が切れています。 たとえば、ユーザーが署名用の送信ウィンドウで非アクティブな状態を長くする場合は、ユーザーがアクティブなときに新しいトークンを更新 &quot; &quot; する必要があります。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| offline_access | 委任 | アクセス トークンを更新するには、現在のトークンの有効期限が切れています。 たとえば、ユーザーが署名用&quot;&quot;の送信ウィンドウで非アクティブな状態を長くする場合は、ユーザーがアクティブなときに新しいトークンを更新する必要があります。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
 >| openid | 委任 | メールと UserId。 ユーザーにサインインして、Adobe Sign アプリの使用許可に対する同意を得る。  | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。

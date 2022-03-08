@@ -5,20 +5,19 @@ author: elenamalova
 ms.date: 02/16/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
-description: Tendfor、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+certification_type: certified
+description: Tendfor、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ff5ab1636a1b5b0dcec4725e6090f813cfbfcf4c
-ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
+ms.openlocfilehash: baf74e60015e41621c070103154d92432d7abdb9
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62877876"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63080611"
 ---
 # <a name="tendfor"></a>Tendfor
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>開発者が最終更新日: 2022 年 2 月 15 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/212fcd92-bc06-4746-85c4-f7b5d39579ba" target="_blank">ストアでの表示Teamsする</a>
@@ -115,19 +114,19 @@ Tendfor から Microsoft に提供される情報:
 | アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
 | 最新の SOC3 認定日 | |
 | アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? | 該当なし |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,7 +166,7 @@ Tendfor から Microsoft に提供される情報:
 | アプリはコードに資格情報を保存しますか? | いいえ |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|

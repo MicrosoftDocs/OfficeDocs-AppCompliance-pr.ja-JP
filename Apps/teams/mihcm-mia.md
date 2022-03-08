@@ -2,24 +2,24 @@
 title: MiHCM による Mia のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/20/2021
+ms.date: 02/28/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Mia で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 60f642920ebe8406b6b16bcdcf940dd986962ae6
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 1e8fa45f92c45f54d50ce94397eeb5a9adba49ca
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253613"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63079721"
 ---
 # <a name="mia"></a>Mia
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 9 月 21 日</p>
+<p>開発者が最終更新日: 2022 年 2 月 28 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/0b48e71e-8f46-46d8-a545-608295f000ac" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002417" target="_blank">AppSource での表示</a>
@@ -38,7 +38,7 @@ MiHCM から Microsoft に提供される情報:
 | パートナー会社名 | MiHCM |
 | 会社の Web サイト | [https://mihcm.com](https://mihcm.com) |
 | アプリの利用規約 | [https://mia.work/terms-of-use](https://mia.work/terms-of-use) |
-| アプリのコア機能 | Mia Workplace Virtual Assistantを使用すると、組織は、すべてのユーザーに合わせた仮想アシスタントを提供Microsoft Teamsできます。 Microsoft Teams のこのワークプレース アシスタントは、生産性の向上、従業員のエンゲージメントの向上、多数の人事要求の実行、仕事に関連するサービス要求、フィットネスの充実など、組織を支援します。 &amp; Mia は、従業員のエンゲージメント、平凡な人事サービス/対話のためのシームレスな従業員エクスペリエンスを確認します。 |
+| アプリのコア機能 | Mia Workplace Virtual Assistantを使用すると、組織は、すべてのユーザーに合わせた仮想アシスタントを提供Microsoft Teamsできます。 Microsoft Teams のこのワークプレース アシスタントは、生産性の向上、従業員のエンゲージメントの向上、多数の人事&amp;要求の実行、仕事に関連するサービス要求、フィットネスの充実など、組織を支援します。 Mia は、従業員のエンゲージメント、平凡な人事サービス/対話のためのシームレスな従業員エクスペリエンスを確認します。 |
 | 会社の本社所在地 | スリランカ |
 | アプリ情報ページ | |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
@@ -61,7 +61,7 @@ MiHCM から Microsoft に提供される情報:
 | アプリは TLS 1.1 以上をサポートしていますか? | はい |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
 | データベースに格納されているデータは何ですか? | ユーザー 予定表イベント、ユーザー タイム ゾーン |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | シンガポール |
+| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
 | データの借入および廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後にデータが保持される期間 | 30 日未満 |
 | データ アクセス管理プロセスが確立されていますか? | はい |
@@ -74,7 +74,7 @@ MiHCM から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -92,7 +92,7 @@ MiHCM から Microsoft に提供される情報:
 | セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | はい |
 | 多要素認証 (MFA) が有効になっているのは、次の場合です。 | CodeRepositories, DNSManagement, Credential |
 | 従業員アカウントのプロビジョニング、変更、削除のプロセスが確立されていますか? | はい |
-| アプリをサポートするネットワーク境界の境界の境界に侵入検出と防御 (IDPS) ソフトウェアが展開されていますか? | N/A |
+| アプリをサポートするネットワーク境界の境界の境界に侵入検出と防御 (IDPS) ソフトウェアが展開されていますか? | 該当なし |
 | アプリをサポートしているすべてのシステム コンポーネントにイベント ログが設定されていますか? | はい |
 | すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動ツールによって定期的に確認されますか? | はい|
 | セキュリティ イベントが検出されると、アラートが従業員に自動的に送信され、トリアージが発生しますか? | いいえ |
@@ -108,7 +108,7 @@ MiHCM から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
 | アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
 | アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | いいえ |
 | 最新の SOC1 認定日 |   |
@@ -118,15 +118,15 @@ MiHCM から Microsoft に提供される情報:
 | アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
 | 最新の SOC3 認定日 | |
 | アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | N/A |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
-| アプリは NIST 800-171 に準拠していますか? | N/A |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
+| アプリは NIST 800-171 に準拠していますか? | 該当なし |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -159,15 +159,15 @@ MiHCM から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | N/A |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | 該当なし |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
-| サポートされているポリシーの種類を一覧表示する | アプリケーションは、すべての条件付Azure ADルールを使用できるよう、アプリケーションとフェデレーションを行います。 |
+| サポートされているポリシーの種類を一覧表示する | アプリケーションは、すべての条件付Azure ADを使用できるよう、アプリケーションとフェデレーションを行います。 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています | はい |
 | アプリはコードに資格情報を保存しますか? | いいえ |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|

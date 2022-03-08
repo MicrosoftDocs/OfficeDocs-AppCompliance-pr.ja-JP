@@ -2,24 +2,24 @@
 title: Witivio による連絡先Proアプリケーション情報
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/30/2021
+ms.date: 03/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 連絡先 Pro、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d509f5b18d833135ca0683720c264e5dc164b9a0
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: ca10bb626f33ce2c4b5bafc618c784b46fe3e1e7
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253313"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63080261"
 ---
 # <a name="contacts-pro"></a>Contacts Pro
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 11 月 29 日</p>
+<p>開発者が最終更新日: 2022 年 3 月 3 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/b4f85a61-fd95-49b8-8fb3-3cb473412407" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002804" target="_blank">AppSource での表示</a>
@@ -38,7 +38,7 @@ Witivio が Microsoft に提供する情報:
 | パートナー会社名 | Witivio |
 | 会社の Web サイト | [https://www.witivio.com](https://www.witivio.com) |
 | アプリの利用規約 | [https://www.teams-pro.com/en/terms-of-use/](https://www.teams-pro.com/en/terms-of-use/) |
-| アプリのコア機能 | 予定表Proは、ユーザーの共同作業Microsoft Teams。 [予定表] Proをチャネルまたはチャットに追加して、そのメンバーと共有する予定表を作成します。 |
+| アプリのコア機能 | 連絡先Proは、ユーザーの共同作業用の連絡先アプリMicrosoft Teams。 |
 | 会社の本社所在地 | フランス |
 | アプリ情報ページ | |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
@@ -61,7 +61,7 @@ Witivio が Microsoft に提供する情報:
 | アプリは TLS 1.1 以上をサポートしていますか? | はい |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
 | データベースに格納されているデータは何ですか? | 連絡先 |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | アイルランド |
+| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
 | データの借入および廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後にデータが保持される期間 | 60 日未満 |
 | データ アクセス管理プロセスが確立されていますか? | はい |
@@ -74,7 +74,7 @@ Witivio が Microsoft に提供する情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -108,9 +108,9 @@ Witivio が Microsoft に提供する情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
 | アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | N/A |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
 | 最新の SOC1 認定日 |   |
 | アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
 | どの SOC 2 認定を取得しましたか? | |
@@ -166,7 +166,7 @@ Witivio が Microsoft に提供する情報:
 | アプリはコードに資格情報を保存しますか? | いいえ |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|

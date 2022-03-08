@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: MIPA で使用可能なすべてのセキュリティおよびコンプライアンス情報 - 自分のパーソナル アシスタント、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: c019c00ec1fdb1640353d693069e41b2c61dcccc
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: d51eba652373176667c02c6c6e7d50249a877eb8
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260993"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63080301"
 ---
 # <a name="mipa---your-own-personal-assistant"></a>MIPA - 独自の個人用アシスタント
 
@@ -32,11 +32,11 @@ iGlobe から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリ名 | MIPA - 独自の個人用アシスタント |
 | ID | WA200000062 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の場合は、Outlook on the web |
+| Office 365サポートされているクライアント | Outlook 2013 以降の Mac 上Windows、Outlook 2016以降の Mac では、Outlook on the web |
 | パートナー会社名 | iGlobe |
 | 会社の Web サイト | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | アプリの利用規約 | [https://mipa.iglobe.dk/EULA](https://mipa.iglobe.dk/EULA) |
-| アプリのコア機能 | MIPA - My Intelligent パーソナル アシスタント - MIPA は、毎日のアクティビティと作業を整理および管理するための視覚的な簡単な方法を提供します。 MIPA は、OutlookおよびTeams。 iGlobe CRM MIPA を使用する組織では、iGlobe CRM にも統合されます。 MIPA App Services のアクセス許可レベルは、MIPA に対して、Teamsおよび iGlobe CRM 統合Outlook MIPA に対して設定されます。  |
+| アプリのコア機能 | MIPA - My Intelligent パーソナル アシスタント - MIPA は、毎日のアクティビティと作業を整理および管理するための視覚的な簡単な方法を提供します。 MIPA は、アプリケーションとOutlookでTeams。 iGlobe CRM MIPA を使用する組織では、iGlobe CRM にも統合されます。 MIPA App Services のアクセス許可レベルは、MIPA に対して、Teamsおよび iGlobe CRM 統合Outlook MIPA に対して設定されます。  |
 | 会社の本社所在地 | デンマーク |
 | アプリ情報ページ | |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
@@ -69,7 +69,7 @@ iGlobe から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -161,7 +161,7 @@ iGlobe から Microsoft に提供される情報:
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
@@ -185,43 +185,6 @@ iGlobe から Microsoft に提供される情報:
 >| profile | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
-
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>認定情報
-
-| **Control** | **Microsoft 365認定結果** |
-|:------------|:---------------------------------------|
-| [**アプリケーション のセキュリティ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **該当なし** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入テスト | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性評価レビュー (DAST/SAST/侵入テスト) | 該当なし |
-| [**運用上のセキュリティ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **該当なし** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア保護 - ウイルス対策 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア保護 - アプリケーション制御 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - リスクランキング | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - パッチ適用 | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性スキャン | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - ファイアウォール (または同等のテクノロジ) | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - Web アプリケーション ファイアウォール (WAF) (オプション) | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;変更コントロール | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secure Software Development/Deployment | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;アカウント管理 | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入の検出と防止 (オプション) | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント ログ | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;レビュー (ログ データ) | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベントの警告 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;情報セキュリティリスク管理 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;インシデント対応 | N/A |
-| [**データ処理の &amp; セキュリティプライバシー**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **該当なし** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;転送中のデータ | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;保存中のデータ | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データの保持と廃棄 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データ アクセスの管理 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | N/A |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

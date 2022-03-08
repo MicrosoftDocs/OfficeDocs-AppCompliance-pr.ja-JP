@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: office2SharePoint for Office、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: 579bbcf80a19cc224ff0ff4421fa98c72bfc18ab
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: b6330018461d182a7fce931f4c01ec4d79687ae6
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255130"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63078411"
 ---
 # <a name="office2sharepoint-for-office"></a>Office2SharePoint for Office
 
@@ -32,11 +32,11 @@ iGlobe から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリ名 | Office2SharePoint for Office |
 | ID | WA104381787 |
-| Office 365サポートされているクライアント | Excel 2016、Excel 2016 以降の Mac、Windows、Excel on the web、Word 2016 以降の Mac、Word on the web、Word 2016 以降、WindowsPowerPoint 2016 Mac、PowerPoint on the web、PowerPoint 2016以降の mac でWindows |
+| Office 365サポートされているクライアント | Excel 2016 Mac、Excel 2016 以降の mac、Windows、Excel on the web、Word 2016 以降の Mac、Word on the web、Word 2016 以降WindowsPowerPoint 2016の Mac、PowerPoint on the web、PowerPoint 2016以降のWindows |
 | パートナー会社名 | iGlobe |
 | 会社の Web サイト | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | アプリの利用規約 | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-office2sharepoint) |
-| アプリのコア機能 | Office2SharePoint - 簡単な方法でSharePoint、TeamsのOutlookとOffice操作します。 チーム メンバー間の通信における障壁を打ち破り、ドキュメントと電子メールの添付ファイルにアクセス &amp; SharePoint Teams。 電子メールとメールの添付ファイルを、任意のデバイスOutlookプラットフォームSharePointまたはTeamsに直接保存します。 Office2SharePoint App Services のアクセス許可レベルは、アドインと Outlookアドインの両方Office設定されます。 |
+| アプリのコア機能 | Office2SharePoint - 簡単な方法でSharePoint、Teams OutlookをOffice操作します。 チーム メンバー間の通信の障壁を打ち破り、ドキュメントと電子メール添付ファイル &amp; にアクセスSharePoint Teams。 電子メールとメールの添付ファイルを、任意のデバイスOutlookプラットフォームSharePointまたはTeamsに直接保存します。 Office2SharePoint App Services のアクセス許可レベルは、アドインと Outlookアドインの両方Office設定されます。 |
 | 会社の本社所在地 | デンマーク |
 | アプリ情報ページ | |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
@@ -69,7 +69,7 @@ iGlobe から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -120,7 +120,7 @@ iGlobe から Microsoft に提供される情報:
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | はい |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | はい |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
@@ -161,7 +161,7 @@ iGlobe から Microsoft に提供される情報:
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
@@ -177,43 +177,6 @@ iGlobe から Microsoft に提供される情報:
 >| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
-
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>認定情報
-
-| **Control** | **Microsoft 365認定結果** |
-|:------------|:---------------------------------------|
-| [**アプリケーション のセキュリティ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **該当なし** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入テスト | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性評価レビュー (DAST/SAST/侵入テスト) | 該当なし |
-| [**運用上のセキュリティ**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **該当なし** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア保護 - ウイルス対策 | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア保護 - アプリケーション制御 | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - リスクランキング | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - パッチ適用 | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性スキャン | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - ファイアウォール (または同等のテクノロジ) | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - Web アプリケーション ファイアウォール (WAF) (オプション) | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;変更コントロール | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secure Software Development/Deployment | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;アカウント管理 | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入の検出と防止 (オプション) | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント ログ | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;レビュー (ログ データ) | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベントの警告 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;情報セキュリティリスク管理 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;インシデント対応 | 該当なし |
-| [**データ処理の &amp; セキュリティプライバシー**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **該当なし** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;転送中のデータ | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;保存中のデータ | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データの保持と廃棄 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データ アクセスの管理 | N/A |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | N/A |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
