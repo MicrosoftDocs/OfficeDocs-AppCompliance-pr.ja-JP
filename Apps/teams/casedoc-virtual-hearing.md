@@ -2,18 +2,19 @@
 title: Casedoc による Casedoc 仮想聴覚のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+ms.manager: tonybal
 ms.date: 03/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Casedoc Virtual Hearing、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7235bc36a986a6ff254525d130f5fbd77ef7e0ac
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: b9d0b7d3800ad464cc49ab2afc7af483dd0de24b
+ms.sourcegitcommit: 0bd8c5bf11934d14ea75ec30388534345dcb02a5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63078061"
+ms.lasthandoff: 03/10/2022
+ms.locfileid: "63424645"
 ---
 # <a name="casedoc-virtual-hearing"></a>Casedoc Virtual Hearing
 
@@ -40,7 +41,7 @@ Casedoc が Microsoft に提供する情報:
 | アプリの利用規約 | [https://casedoc.com/wp-content/uploads/2021/07/Casedoc_Term...](https://casedoc.com/wp-content/uploads/2021/07/Casedoc_Terms_of_Use_2021.pdf) |
 | アプリのコア機能 | 会議をMicrosoft Teamsヒアリングに変換します。 ユーザー Microsoft Teams無料 |
 | 会社の本社所在地 | アイスランド |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://casedoc.com/virtual-hearing-for-microsoft-teams](https://casedoc.com/virtual-hearing-for-microsoft-teams) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
 | アプリで使用するホスティング クラウド プロバイダー | Azure |
 
@@ -57,14 +58,7 @@ Casedoc が Microsoft に提供する情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | いいえ |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 |  |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | いいえ |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -84,7 +78,7 @@ Casedoc が Microsoft に提供する情報:
 | パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
 | 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | いいえ |
 | アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | いいえ |
-| 外部ネットワーク境界にファイアウォールがインストールされていますか? | いいえ |
+| 外部ネットワーク境界にファイアウォールがインストールされていますか? | 不要 |
 | 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
 | 追加のユーザーが、元の開発者によって実稼働環境に提出されたコード変更要求を確認および承認していますか? | はい |
 | セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | いいえ |
@@ -108,9 +102,9 @@ Casedoc が Microsoft に提供する情報:
 |:----------------|:-------------|
 | アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
 | アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 不要 |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
 | アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
@@ -140,7 +134,7 @@ Casedoc が Microsoft に提供する情報:
 | アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | いいえ |
 | アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
 | 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
-| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
+| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | 不要 |
 | アプリには、要求に応じて個人の個人データを削除する機能がありますか? | 該当なし |
 | アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | 該当なし |
 | アプリは個人に個人データを修正または更新する機能を提供しますか? | 該当なし |
@@ -160,27 +154,27 @@ Casedoc が Microsoft に提供する情報:
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリは継続的アクセス評価 (CAE) をサポートしています | いいえ |
-| アプリはコードに資格情報を保存しますか? | いいえ |
+| アプリはコードに資格情報を保存しますか? | 不要 |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AppCatalog.ReadWrite.All | 委任 | アプリ カタログから会議にアプリを追加するには | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| Calendars.ReadWrite | 委任 | 会議の更新プログラムを購読するには | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| Calendars.ReadWrite | アプリケーション | 会議を作成するには | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| Directory.ReadWrite.All | アプリケーション | 会議に関連付けられたグループを作成するには | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| Files.ReadWrite.All | 委任 | ユーザーが会議グループにファイルをアップロードするには | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| Files.ReadWrite.All | アプリケーション | アプリケーションで会議データを会議グループにアップロードできます | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| Group.ReadWrite.All | アプリケーション | アプリケーションが会議に関連付けられたグループを作成するには | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| MailboxSettings.Read | アプリケーション | アプリケーションでユーザーのタイム ゾーンの読み取りを有効にするには | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| OnlineMeetings.ReadWrite | 委任 | 会議の種類のマーキングを有効にするには | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| TeamsAppInstallation.ReadForUser | 委任 | 会議にアプリケーションを追加するには | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| TeamsAppInstallation.ReadWriteSelfForUser | 委任 | 会議にアプリケーションを追加するには | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| TeamsTab.Create | 委任 | 会議にアプリケーションを追加するには | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| TeamsTab.ReadWrite.All | 委任 | 会議にアプリケーションを追加するには | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| User.Read.All | アプリケーション | サインインしているユーザーなしでユーザー プロファイルを読み取るアプリを許可する | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| AppCatalog.ReadWrite.All | 委任 | アプリ カタログから会議にアプリを追加するには | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Calendars.ReadWrite | 委任 | 会議の更新プログラムを購読するには | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Calendars.ReadWrite | アプリケーション | 会議を作成するには | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Directory.ReadWrite.All | アプリケーション | 会議に関連付けられたグループを作成するには | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Files.ReadWrite.All | 委任 | ユーザーが会議グループにファイルをアップロードするには | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Files.ReadWrite.All | アプリケーション | アプリケーションで会議データを会議グループにアップロードできます | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Group.ReadWrite.All | アプリケーション | アプリケーションが会議に関連付けられたグループを作成するには | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| MailboxSettings.Read | アプリケーション | アプリケーションでユーザーのタイム ゾーンの読み取りを有効にするには | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| OnlineMeetings.ReadWrite | 委任 | 会議の種類のマーキングを有効にするには | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| TeamsAppInstallation.ReadForUser | 委任 | 会議にアプリケーションを追加するには | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| TeamsAppInstallation.ReadWriteSelfForUser | 委任 | 会議にアプリケーションを追加するには | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| TeamsTab.Create | 委任 | 会議にアプリケーションを追加するには | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| TeamsTab.ReadWrite.All | 委任 | 会議にアプリケーションを追加するには | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| User.Read.All | アプリケーション | サインインしているユーザーなしでユーザー プロファイルを読み取るアプリを許可する | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 
