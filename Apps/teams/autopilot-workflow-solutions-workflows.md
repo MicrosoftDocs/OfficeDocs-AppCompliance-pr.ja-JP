@@ -2,18 +2,19 @@
 title: Autopilot ワークフロー ソリューションによる自動パイロット ワークフローのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/14/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: オートパイロット ワークフロー、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: Autopilot Workflows、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7eac665b024ff1f1474ea302af196dda40ec5252
-ms.sourcegitcommit: 9905237eb3270d099820cbf413d64b7cc066dc7c
+ms.openlocfilehash: bcfcb7cc0675aa859bc7302076e3c2382247d90a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "62811755"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540023"
 ---
 # <a name="autopilot-workflows"></a>Autopilot ワークフロー
 
@@ -40,7 +41,7 @@ Autopilot ワークフロー ソリューションによって Microsoft に提�
 | アプリの利用規約 | [https://cdn.autopilot.co.za/legal/Autopilot%20Client%20Term...](https://cdn.autopilot.co.za/legal/Autopilot%20Client%20Terms%20%20Conditions%2020160224.pdf) |
 | アプリのコア機能 | 検証済みの電子フォームと事前構成されたプロセスにより、タスクを実行しているユーザーに関係なく、プロセスは常に一貫した方法で実行されます。 実行されたアクションの包括的な監査証跡により、すべてのユーザーが自分の行った処理に対して責任を持ち続けできます。 Autopilot を使用すると、スタッフが休暇を取る際の継続性を確保し、新しいスタッフにプロセスに精通した新しいスタッフを得る素晴らしいトレーニング ツールとして機能できます。 組み込みのガイダンスは、すべての手順をガイドします。 |
 | 会社の本社所在地 | 南アフリカ |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://www.autopilot.co.za](https://www.autopilot.co.za) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
 | アプリで使用するホスティング クラウド プロバイダー | Azure |
 
@@ -61,7 +62,7 @@ Autopilot ワークフロー ソリューションによって Microsoft に提�
 | アプリは TLS 1.1 以上をサポートしていますか? | はい |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
 | データベースに格納されているデータは何ですか? | クライアントの Azure テナント ID |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
+| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | 英国英国と北アイルランド (the) |
 | データの借入および廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後にデータが保持される期間 | 30 日未満 |
 | データ アクセス管理プロセスが確立されていますか? | 不要 |
@@ -78,7 +79,7 @@ Autopilot ワークフロー ソリューションによって Microsoft に提�
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリで年間侵入テストを実行しますか? | 不要 |
+| アプリで年間侵入テストを実行しますか? | いいえ |
 | アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | はい |
 | 環境で従来のマルウェア対策保護またはアプリケーションコントロールを使用していますか? | TraditionalAntiMalware, ApplicationControls |
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? | 不要 |
@@ -89,12 +90,12 @@ Autopilot ワークフロー ソリューションによって Microsoft に提�
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
 | 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
 | 追加のユーザーが、元の開発者によって実稼働環境に提出されたコード変更要求を確認および承認していますか? | 不要 |
-| セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | 不要 |
+| セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | いいえ |
 | 多要素認証 (MFA) が有効になっているのは、次の場合です。 | DNSManagement、 Credential |
-| 従業員アカウントのプロビジョニング、変更、削除のプロセスが確立されていますか? | 不要 |
-| アプリをサポートするネットワーク境界の境界の境界に侵入検出と防御 (IDPS) ソフトウェアが展開されていますか? | 不要 |
+| 従業員アカウントのプロビジョニング、変更、削除のプロセスが確立されていますか? | いいえ |
+| アプリをサポートするネットワーク境界の境界の境界に侵入検出と防御 (IDPS) ソフトウェアが展開されていますか? | いいえ |
 | アプリをサポートしているすべてのシステム コンポーネントにイベント ログが設定されていますか? | はい |
-| すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動ツールによって定期的に確認されますか? | 不要|
+| すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動ツールによって定期的に確認されますか? | いいえ|
 | セキュリティ イベントが検出されると、アラートが従業員に自動的に送信され、トリアージが発生しますか? | はい |
 | 正式な情報セキュリティリスク管理プロセスが確立されていますか? | 不要 |
 | 正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? |  |
@@ -139,12 +140,12 @@ Autopilot ワークフロー ソリューションによって Microsoft に提�
 |:----------------|:-------------|
 | GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | 不要 |
-| アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | 不要 |
-| アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | 不要 |
-| 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | 不要 |
-| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | 不要 |
-| アプリには、要求に応じて個人の個人データを削除する機能がありますか? | 不要 |
-| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | 不要 |
+| アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | いいえ |
+| アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
+| 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
+| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
+| アプリには、要求に応じて個人の個人データを削除する機能がありますか? | いいえ |
+| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | いいえ |
 | アプリは個人に個人データを修正または更新する機能を提供しますか? | はい |
 | アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | 不要 |
 
@@ -165,17 +166,17 @@ Autopilot ワークフロー ソリューションによって Microsoft に提�
 | アプリはコードに資格情報を保存しますか? | はい |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Teams.ReadBasic.All | アプリケーション | Notifcations Teams送信 | [3970caf2-7c33-4668-8c74-91f3e094b789](https://docs.microsoft.com/microsoft-365-app-certification/azure/3970caf2-7c33-4668-8c74-91f3e094b789) |
->| TeamsActivity.Read | アプリケーション | Notifcations Teams送信 | [3970caf2-7c33-4668-8c74-91f3e094b789](https://docs.microsoft.com/microsoft-365-app-certification/azure/3970caf2-7c33-4668-8c74-91f3e094b789) |
->| TeamsActivity.Send | アプリケーション | Notifcations Teams送信 | [3970caf2-7c33-4668-8c74-91f3e094b789](https://docs.microsoft.com/microsoft-365-app-certification/azure/3970caf2-7c33-4668-8c74-91f3e094b789) |
->| User.Read.All | アプリケーション | Notifcations Teams送信 | [3970caf2-7c33-4668-8c74-91f3e094b789](https://docs.microsoft.com/microsoft-365-app-certification/azure/3970caf2-7c33-4668-8c74-91f3e094b789) |
->| Group.Read.All | 委任 | シングル サインオン | [3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc](https://docs.microsoft.com/microsoft-365-app-certification/azure/3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc) |
->| User.Read | 委任 | シングル サインオン | [3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc](https://docs.microsoft.com/microsoft-365-app-certification/azure/3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc) |
->| User.Read.All | 委任 | シングル サインオン | [3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc](https://docs.microsoft.com/microsoft-365-app-certification/azure/3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc) |
+>| Teams.ReadBasic.All | アプリケーション | Notifcations Teams送信 | [3970caf2-7c33-4668-8c74-91f3e094b789](../azure/3970caf2-7c33-4668-8c74-91f3e094b789.md) |
+>| TeamsActivity.Read | アプリケーション | Notifcations Teams送信 | [3970caf2-7c33-4668-8c74-91f3e094b789](../azure/3970caf2-7c33-4668-8c74-91f3e094b789.md) |
+>| TeamsActivity.Send | アプリケーション | Notifcations Teams送信 | [3970caf2-7c33-4668-8c74-91f3e094b789](../azure/3970caf2-7c33-4668-8c74-91f3e094b789.md) |
+>| User.Read.All | アプリケーション | Notifcations Teams送信 | [3970caf2-7c33-4668-8c74-91f3e094b789](../azure/3970caf2-7c33-4668-8c74-91f3e094b789.md) |
+>| Group.Read.All | 委任 | シングル サインオン | [3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc](../azure/3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc.md) |
+>| User.Read | 委任 | シングル サインオン | [3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc](../azure/3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc.md) |
+>| User.Read.All | 委任 | シングル サインオン | [3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc](../azure/3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

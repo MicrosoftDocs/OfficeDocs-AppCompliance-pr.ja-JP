@@ -2,18 +2,19 @@
 title: 構造による構造のアプリケーション情報 Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 構造、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: 構造、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: dc7e32b020dae92b88f2324701c704d5d8303743
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: bcd2ab91502f7057f2a5fd7ec002b80120ac760f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62264006"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553066"
 ---
 # <a name="structural"></a>Structural
 
@@ -38,9 +39,9 @@ Structural Inc. から Microsoft に提供される情報:
 | パートナー会社名 | Structural Inc. |
 | 会社の Web サイト | [https://www.structural.com](https://www.structural.com) |
 | アプリの利用規約 | [https://www.structural.com/terms-of-service](https://www.structural.com/terms-of-service) |
-| アプリのコア機能 | Connect人を互いに、機会に |
+| アプリのコア機能 | Connect人を互いに、機会に変更する |
 | 会社の本社所在地 | アメリカ |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://www.structural.com](https://www.structural.com) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Iaas |
 | アプリで使用するホスティング クラウド プロバイダー | AWS、GCP |
 
@@ -74,7 +75,7 @@ Structural Inc. から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -117,17 +118,17 @@ Structural Inc. から Microsoft に提供される情報:
 | 最新の SOC2 認定日 |  2020-07-22 |
 | アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | N/A |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | N/A |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | はい |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -160,20 +161,20 @@ Structural Inc. から Microsoft に提供される情報:
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | true |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | 委任 | はい: シングル サインオン中にユーザーを認証します。 | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
->| メール | 委任 | はい: シングル サインオン中にユーザーを認証します。 | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
->| offline_access | 委任 | はい: シングル サインオン中にユーザーを認証します。 | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
->| openid | 委任 | はい: シングル サインオン中にユーザーを認証します。 | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
->| profile | 委任 | はい: シングル サインオン中にユーザーを認証します。 | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
+>| Directory.AccessAsUser.All | 委任 | はい: シングル サインオン中にユーザーを認証します。 | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](../azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae.md) |
+>| メール | 委任 | はい: シングル サインオン中にユーザーを認証します。 | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](../azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae.md) |
+>| offline_access | 委任 | はい: シングル サインオン中にユーザーを認証します。 | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](../azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae.md) |
+>| openid | 委任 | はい: シングル サインオン中にユーザーを認証します。 | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](../azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae.md) |
+>| profile | 委任 | はい: シングル サインオン中にユーザーを認証します。 | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](../azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

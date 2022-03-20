@@ -2,18 +2,19 @@
 title: SWOOP Analytics Pty Ltd による SWOOP Analytics のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 03/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SWOOP Analytics、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 78a730924782ad8cd2f833bf3c4ee3a8a26d9fe5
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 406eb5a15fc2fc07f2746a6a33953869c2bd0db7
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081385"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553086"
 ---
 # <a name="swoop-analytics"></a>SWOOP Analytics
 
@@ -40,9 +41,8 @@ SWOOP Analytics Pty Ltd から Microsoft に提供される情報:
 | アプリの利用規約 | [https://www.swoopanalytics.com/terms](https://www.swoopanalytics.com/terms) |
 | アプリのコア機能 | SWOOP Analytics は、世界中の従業員やリーダーに、個人および企業のデータをデジタルワークプレースで成功に向け支援します。 Facebook の Microsoft Teams、Yammer、Workplace のコンテンツと関係を分析し、組織に深いコラボレーションと行動に関する洞察を提供します。 行動を調整して、より良いビジネス成果に到達し、コラボレーションの有効性に関する情報に基づいた意思決定を行うお手伝いをします。 |
 | 会社の本社所在地 | オーストラリア |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://www.swoopanalytics.com](https://www.swoopanalytics.com) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | IsvHosted |
-| アプリで使用するホスティング クラウド プロバイダー |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,15 +56,8 @@ SWOOP Analytics Pty Ltd から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | いいえ |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 |  |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | いいえ |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | 不要 |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -82,7 +75,7 @@ SWOOP Analytics Pty Ltd から Microsoft に提供される情報:
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? | はい |
 | パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? | はい |
 | パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
-| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | いいえ |
+| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | 不要 |
 | アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | はい |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
 | 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
@@ -117,15 +110,15 @@ SWOOP Analytics Pty Ltd から Microsoft に提供される情報:
 | 最新の SOC3 認定日 | |
 | アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? | 該当なし |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -138,7 +131,7 @@ SWOOP Analytics Pty Ltd から Microsoft に提供される情報:
 | GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | はい |
 | プライバシー ポリシーの URL | https://www.swoopanalytics.com/privacy |
-| アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | いいえ |
+| アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | 不要 |
 | アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
 | 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
 | アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
@@ -157,49 +150,49 @@ SWOOP Analytics Pty Ltd から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | 不要 |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリは継続的アクセス評価 (CAE) をサポートしています | はい |
-| アプリはコードに資格情報を保存しますか? | いいえ |
+| アプリはコードに資格情報を保存しますか? | 不要 |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | 両方とも | ユーザー分析を提供するには | [39cb9f28-b9d0-4bf7-a4f4-d9e38508a0db](https://docs.microsoft.com/microsoft-365-app-certification/azure/39cb9f28-b9d0-4bf7-a4f4-d9e38508a0db) |
->| User.Read | 両方とも | ユーザー分析を提供するには | [39cb9f28-b9d0-4bf7-a4f4-d9e38508a0db](https://docs.microsoft.com/microsoft-365-app-certification/azure/39cb9f28-b9d0-4bf7-a4f4-d9e38508a0db) |
->| ChannelMessage.Read.All | 両方とも | チャネル分析を提供するには | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](https://docs.microsoft.com/microsoft-365-app-certification/azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d) |
->| Directory.Read.All | 両方とも | ユーザー分析を提供するには | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](https://docs.microsoft.com/microsoft-365-app-certification/azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d) |
->| Group.Read.All | 両方とも | 分析を提供するには | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](https://docs.microsoft.com/microsoft-365-app-certification/azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d) |
->| Reports.Read.All | 両方とも | 分析を提供する | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](https://docs.microsoft.com/microsoft-365-app-certification/azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d) |
->| User.Read | 両方とも | ユーザー分析を提供するには | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](https://docs.microsoft.com/microsoft-365-app-certification/azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d) |
->| User.Read.All | 両方とも | ユーザー分析を提供するには | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](https://docs.microsoft.com/microsoft-365-app-certification/azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d) |
->| ChannelMessage.Read.All | 両方とも | チャネル分析を提供するには | [ad38b691-43a7-4261-8ad6-f6ebbb229116](https://docs.microsoft.com/microsoft-365-app-certification/azure/ad38b691-43a7-4261-8ad6-f6ebbb229116) |
->| Files.Read.All | 両方とも | ファイル分析を提供するには | [ad38b691-43a7-4261-8ad6-f6ebbb229116](https://docs.microsoft.com/microsoft-365-app-certification/azure/ad38b691-43a7-4261-8ad6-f6ebbb229116) |
->| Group.Read.All | 両方とも | ユーザー分析を提供するには | [ad38b691-43a7-4261-8ad6-f6ebbb229116](https://docs.microsoft.com/microsoft-365-app-certification/azure/ad38b691-43a7-4261-8ad6-f6ebbb229116) |
->| Reports.Read.All | 両方とも | レポート分析を提供するには | [ad38b691-43a7-4261-8ad6-f6ebbb229116](https://docs.microsoft.com/microsoft-365-app-certification/azure/ad38b691-43a7-4261-8ad6-f6ebbb229116) |
->| User.Read | 両方とも | ユーザー分析を提供するには | [ad38b691-43a7-4261-8ad6-f6ebbb229116](https://docs.microsoft.com/microsoft-365-app-certification/azure/ad38b691-43a7-4261-8ad6-f6ebbb229116) |
->| User.Read.All | 両方とも | ユーザー分析を提供するには | [ad38b691-43a7-4261-8ad6-f6ebbb229116](https://docs.microsoft.com/microsoft-365-app-certification/azure/ad38b691-43a7-4261-8ad6-f6ebbb229116) |
->| ChannelMessage.Read.All | 両方とも | チャネル分析を提供するには | [c6257830-ff1a-4e7f-86ca-da35c0278de2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c6257830-ff1a-4e7f-86ca-da35c0278de2) |
->| Chat.Read.All | 両方とも | チャット分析を提供するには | [c6257830-ff1a-4e7f-86ca-da35c0278de2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c6257830-ff1a-4e7f-86ca-da35c0278de2) |
->| Directory.Read.All | 両方とも | ユーザー分析を提供するには | [c6257830-ff1a-4e7f-86ca-da35c0278de2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c6257830-ff1a-4e7f-86ca-da35c0278de2) |
->| Group.Read.All | 両方とも | ユーザー分析を提供するには | [c6257830-ff1a-4e7f-86ca-da35c0278de2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c6257830-ff1a-4e7f-86ca-da35c0278de2) |
->| Reports.Read.All | 両方とも | ユーザー分析を提供するには | [c6257830-ff1a-4e7f-86ca-da35c0278de2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c6257830-ff1a-4e7f-86ca-da35c0278de2) |
->| TeamsAppInstallation.ReadForUser.All | 両方とも | ユーザー分析を提供するには | [c6257830-ff1a-4e7f-86ca-da35c0278de2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c6257830-ff1a-4e7f-86ca-da35c0278de2) |
->| User.Read | 両方とも | ユーザー分析を提供するには | [c6257830-ff1a-4e7f-86ca-da35c0278de2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c6257830-ff1a-4e7f-86ca-da35c0278de2) |
->| User.Read.All | 両方とも | ユーザー分析を提供するには | [c6257830-ff1a-4e7f-86ca-da35c0278de2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c6257830-ff1a-4e7f-86ca-da35c0278de2) |
->| ChannelMessage.Read.All | 両方とも | ユーザー分析を提供するには | [e208746a-2666-4d95-b925-e2ff64b3181d](https://docs.microsoft.com/microsoft-365-app-certification/azure/e208746a-2666-4d95-b925-e2ff64b3181d) |
->| Directory.Read.All | 両方とも | ユーザー分析を提供するには | [e208746a-2666-4d95-b925-e2ff64b3181d](https://docs.microsoft.com/microsoft-365-app-certification/azure/e208746a-2666-4d95-b925-e2ff64b3181d) |
->| Directory.Read.All | 両方とも | ユーザー分析を提供するには | [e208746a-2666-4d95-b925-e2ff64b3181d](https://docs.microsoft.com/microsoft-365-app-certification/azure/e208746a-2666-4d95-b925-e2ff64b3181d) |
->| Group.Read.All | 両方とも | ユーザー分析を提供するには | [e208746a-2666-4d95-b925-e2ff64b3181d](https://docs.microsoft.com/microsoft-365-app-certification/azure/e208746a-2666-4d95-b925-e2ff64b3181d) |
->| User.Read | 両方とも | ユーザー分析を提供するには | [e208746a-2666-4d95-b925-e2ff64b3181d](https://docs.microsoft.com/microsoft-365-app-certification/azure/e208746a-2666-4d95-b925-e2ff64b3181d) |
->| User.Read.All | 両方とも | ユーザー分析を提供するには | [e208746a-2666-4d95-b925-e2ff64b3181d](https://docs.microsoft.com/microsoft-365-app-certification/azure/e208746a-2666-4d95-b925-e2ff64b3181d) |
->| Group.Read.All | 両方とも | ユーザー分析を提供するには | [f4609298-6163-4ae3-9366-72a9d9c4c854](https://docs.microsoft.com/microsoft-365-app-certification/azure/f4609298-6163-4ae3-9366-72a9d9c4c854) |
->| People.Read | 両方とも | ユーザー分析を提供するには | [f4609298-6163-4ae3-9366-72a9d9c4c854](https://docs.microsoft.com/microsoft-365-app-certification/azure/f4609298-6163-4ae3-9366-72a9d9c4c854) |
->| User.Read | 両方とも | ユーザー分析を提供するには | [f4609298-6163-4ae3-9366-72a9d9c4c854](https://docs.microsoft.com/microsoft-365-app-certification/azure/f4609298-6163-4ae3-9366-72a9d9c4c854) |
->| User.ReadBasic.All | 両方とも | ユーザー分析を提供するには | [f4609298-6163-4ae3-9366-72a9d9c4c854](https://docs.microsoft.com/microsoft-365-app-certification/azure/f4609298-6163-4ae3-9366-72a9d9c4c854) |
+>| Directory.Read.All | 両方とも | ユーザー分析を提供するには | [39cb9f28-b9d0-4bf7-a4f4-d9e38508a0db](../azure/39cb9f28-b9d0-4bf7-a4f4-d9e38508a0db.md) |
+>| User.Read | 両方とも | ユーザー分析を提供するには | [39cb9f28-b9d0-4bf7-a4f4-d9e38508a0db](../azure/39cb9f28-b9d0-4bf7-a4f4-d9e38508a0db.md) |
+>| ChannelMessage.Read.All | 両方とも | チャネル分析を提供するには | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](../azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d.md) |
+>| Directory.Read.All | 両方とも | ユーザー分析を提供するには | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](../azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d.md) |
+>| Group.Read.All | 両方とも | 分析を提供するには | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](../azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d.md) |
+>| Reports.Read.All | 両方とも | 分析を提供する | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](../azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d.md) |
+>| User.Read | 両方とも | ユーザー分析を提供するには | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](../azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d.md) |
+>| User.Read.All | 両方とも | ユーザー分析を提供するには | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](../azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d.md) |
+>| ChannelMessage.Read.All | 両方とも | チャネル分析を提供するには | [ad38b691-43a7-4261-8ad6-f6ebbb229116](../azure/ad38b691-43a7-4261-8ad6-f6ebbb229116.md) |
+>| Files.Read.All | 両方とも | ファイル分析を提供するには | [ad38b691-43a7-4261-8ad6-f6ebbb229116](../azure/ad38b691-43a7-4261-8ad6-f6ebbb229116.md) |
+>| Group.Read.All | 両方とも | ユーザー分析を提供するには | [ad38b691-43a7-4261-8ad6-f6ebbb229116](../azure/ad38b691-43a7-4261-8ad6-f6ebbb229116.md) |
+>| Reports.Read.All | 両方とも | レポート分析を提供するには | [ad38b691-43a7-4261-8ad6-f6ebbb229116](../azure/ad38b691-43a7-4261-8ad6-f6ebbb229116.md) |
+>| User.Read | 両方とも | ユーザー分析を提供するには | [ad38b691-43a7-4261-8ad6-f6ebbb229116](../azure/ad38b691-43a7-4261-8ad6-f6ebbb229116.md) |
+>| User.Read.All | 両方とも | ユーザー分析を提供するには | [ad38b691-43a7-4261-8ad6-f6ebbb229116](../azure/ad38b691-43a7-4261-8ad6-f6ebbb229116.md) |
+>| ChannelMessage.Read.All | 両方とも | チャネル分析を提供するには | [c6257830-ff1a-4e7f-86ca-da35c0278de2](../azure/c6257830-ff1a-4e7f-86ca-da35c0278de2.md) |
+>| Chat.Read.All | 両方とも | チャット分析を提供するには | [c6257830-ff1a-4e7f-86ca-da35c0278de2](../azure/c6257830-ff1a-4e7f-86ca-da35c0278de2.md) |
+>| Directory.Read.All | 両方とも | ユーザー分析を提供するには | [c6257830-ff1a-4e7f-86ca-da35c0278de2](../azure/c6257830-ff1a-4e7f-86ca-da35c0278de2.md) |
+>| Group.Read.All | 両方とも | ユーザー分析を提供するには | [c6257830-ff1a-4e7f-86ca-da35c0278de2](../azure/c6257830-ff1a-4e7f-86ca-da35c0278de2.md) |
+>| Reports.Read.All | 両方とも | ユーザー分析を提供するには | [c6257830-ff1a-4e7f-86ca-da35c0278de2](../azure/c6257830-ff1a-4e7f-86ca-da35c0278de2.md) |
+>| TeamsAppInstallation.ReadForUser.All | 両方とも | ユーザー分析を提供するには | [c6257830-ff1a-4e7f-86ca-da35c0278de2](../azure/c6257830-ff1a-4e7f-86ca-da35c0278de2.md) |
+>| User.Read | 両方とも | ユーザー分析を提供するには | [c6257830-ff1a-4e7f-86ca-da35c0278de2](../azure/c6257830-ff1a-4e7f-86ca-da35c0278de2.md) |
+>| User.Read.All | 両方とも | ユーザー分析を提供するには | [c6257830-ff1a-4e7f-86ca-da35c0278de2](../azure/c6257830-ff1a-4e7f-86ca-da35c0278de2.md) |
+>| ChannelMessage.Read.All | 両方とも | ユーザー分析を提供するには | [e208746a-2666-4d95-b925-e2ff64b3181d](../azure/e208746a-2666-4d95-b925-e2ff64b3181d.md) |
+>| Directory.Read.All | 両方とも | ユーザー分析を提供するには | [e208746a-2666-4d95-b925-e2ff64b3181d](../azure/e208746a-2666-4d95-b925-e2ff64b3181d.md) |
+>| Directory.Read.All | 両方とも | ユーザー分析を提供するには | [e208746a-2666-4d95-b925-e2ff64b3181d](../azure/e208746a-2666-4d95-b925-e2ff64b3181d.md) |
+>| Group.Read.All | 両方とも | ユーザー分析を提供するには | [e208746a-2666-4d95-b925-e2ff64b3181d](../azure/e208746a-2666-4d95-b925-e2ff64b3181d.md) |
+>| User.Read | 両方とも | ユーザー分析を提供するには | [e208746a-2666-4d95-b925-e2ff64b3181d](../azure/e208746a-2666-4d95-b925-e2ff64b3181d.md) |
+>| User.Read.All | 両方とも | ユーザー分析を提供するには | [e208746a-2666-4d95-b925-e2ff64b3181d](../azure/e208746a-2666-4d95-b925-e2ff64b3181d.md) |
+>| Group.Read.All | 両方とも | ユーザー分析を提供するには | [f4609298-6163-4ae3-9366-72a9d9c4c854](../azure/f4609298-6163-4ae3-9366-72a9d9c4c854.md) |
+>| People.Read | 両方とも | ユーザー分析を提供するには | [f4609298-6163-4ae3-9366-72a9d9c4c854](../azure/f4609298-6163-4ae3-9366-72a9d9c4c854.md) |
+>| User.Read | 両方とも | ユーザー分析を提供するには | [f4609298-6163-4ae3-9366-72a9d9c4c854](../azure/f4609298-6163-4ae3-9366-72a9d9c4c854.md) |
+>| User.ReadBasic.All | 両方とも | ユーザー分析を提供するには | [f4609298-6163-4ae3-9366-72a9d9c4c854](../azure/f4609298-6163-4ae3-9366-72a9d9c4c854.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

@@ -2,18 +2,19 @@
 title: Avaamo による Avaamo IT アシスタントのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Avaamo IT アシスタント、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: Avaamo IT アシスタント、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0f30a4022ffa131170a28a9d9a63f011061f9344
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 32b5b6a92620e7b1dd25f58cde68cf68e5669028
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62149000"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63538285"
 ---
 # <a name="avaamo-it-assistant"></a>Avaamo IT Assistant
 
@@ -38,9 +39,9 @@ Avaamo から Microsoft に提供される情報:
 | パートナー会社名 | Avaamo |
 | 会社の Web サイト | [https://avaamo.ai](https://avaamo.ai) |
 | アプリの利用規約 | [https://avaamo.ai/tos/](https://avaamo.ai/tos/) |
-| アプリのコア機能 | インテリジェントな会話アシスタントで、サポート クエリMicrosoft Office 365即座に解決します。 |
+| アプリのコア機能 | サポート クエリを即座に解決するインテリジェントMicrosoft Office 365アシスタント。 |
 | 会社の本社所在地 | アメリカ |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://www.avaamo.ai/who-is-avaamo/](https://www.avaamo.ai/who-is-avaamo/) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
 | アプリで使用するホスティング クラウド プロバイダー | Aws |
 
@@ -65,7 +66,7 @@ Avaamo から Microsoft に提供される情報:
 | データの借入および廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後にデータが保持される期間 | 保持されない |
 | データ アクセス管理プロセスが確立されていますか? | はい |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | いいえ |
+| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | 不要 |
 | Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -74,7 +75,7 @@ Avaamo から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -112,14 +113,14 @@ Avaamo から Microsoft に提供される情報:
 | アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
 | アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
 | アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
@@ -142,9 +143,9 @@ Avaamo から Microsoft に提供される情報:
 | プライバシー ポリシーの URL | https://www.avaamo.ai/privacy/ |
 | アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | はい |
 | 個人は処理に対してオブジェクトを指定するオプションを提供されていますか? | はい |
-| アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
+| アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | 不要 |
 | 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
-| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
+| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | 不要 |
 | アプリには、要求に応じて個人の個人データを削除する機能がありますか? | はい |
 | アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | はい |
 | アプリは個人に個人データを修正または更新する機能を提供しますか? | はい |
@@ -158,16 +159,16 @@ Avaamo から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | いいえ |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | いいえ |
+| アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | 不要 |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | 不要 |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? |  |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
-| アプリは継続的アクセス評価 (CAE) をサポートしています | いいえ |
-| アプリはコードに資格情報を保存しますか? | いいえ |
-| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
+| アプリは継続的アクセス評価 (CAE) をサポートしています | 不要 |
+| アプリはコードに資格情報を保存しますか? | 不要 |
+| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | 不要 |
 
->このアプリケーションでは、Microsoft アプリケーションをGraph。
+>このアプリケーションでは、Microsoft のアプリケーションをGraph。
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

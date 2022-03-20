@@ -2,18 +2,19 @@
 title: 優先度マトリックスのアプリケーション情報 - Appfluence Inc によるメールをタスクに変換する
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Priority Matrix で使用可能なすべてのセキュリティおよびコンプライアンス情報 - CSA STAR レジストリのタスク、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報に電子メールを変換します。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 923a14b34e42689af0732a1c217310d9ece72a3e
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 9acea207013b458c174fb87c3ff26be247aa0ed3
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254173"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63536575"
 ---
 # <a name="priority-matrix---turn-emails-into-tasks"></a>優先度マトリックス - メールをタスクに変換する
 
@@ -32,14 +33,15 @@ Appfluence Inc から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリ名 | 優先度マトリックス - メールをタスクに変換する |
 | ID | WA104381735 |
-| Office 365サポートされているクライアント | Outlook 2016、Windows以降Outlook 2016 Mac、iOS Outlook、Android Outlook、Outlook on the web |
+| Office 365サポートされているクライアント | Outlook 2016、Windows以降Outlook 2016 Mac、iOS の Outlook、Android の Outlook、Outlook on the web |
 | パートナー会社名 | Appfluence Inc |
 | 会社の Web サイト | [https://appfluence.com/office-365-project-management-integr...](https://appfluence.com/office-365-project-management-integration/) |
 | アプリの利用規約 | [https://appfluence.com/eula](https://appfluence.com/eula) |
 | アプリのコア機能 | Priority Matrix は、プロジェクト、タスク、および優先度管理ソリューションであり、チームが行う必要があるすべての作業を調整する中心的な情報源を作成します。 |
 | 会社の本社所在地 | アメリカ |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://appfluence.com/project-management-integration-for-o...](https://appfluence.com/project-management-integration-for-outlook-365/) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
+| アプリで使用するホスティング クラウド プロバイダー | AWS、Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -54,14 +56,7 @@ Appfluence Inc から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 | 1 か月以内に削除された |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? |  |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -69,7 +64,7 @@ Appfluence Inc から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -103,23 +98,23 @@ Appfluence Inc から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | いいえ |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | いいえ |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | いいえ |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 不要 |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 不要 |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 不要 |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | いいえ |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | いいえ |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | いいえ |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 不要 |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 不要 |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 不要 |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | はい |
@@ -155,24 +150,24 @@ Appfluence Inc から Microsoft に提供される情報:
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | false |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | 委任 | 新しいユーザーがアカウントに追加された場合にのみ、メールを保存します。 | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
->| User.ReadBasic.All | 委任 | 新しいユーザーがアカウントに追加された場合にのみ、メールを保存します。 | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
->| offline_access | 委任 | ユーザーに代わって要求を実行するためにログイン トークンを保存します | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
->| Files.Read.All | 委任 | ユーザーが元のファイルにリンクする Priority Matrix アイテムを明示的に作成しない限り、ファイル情報は保存しない。 | [affadfb6-f17b-428f-97f9-9aae3b6175bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc) |
->| User.Read | 委任 | 基本的なユーザー プロファイル情報 (表示名、名、名、電子メール、アバター) は、私たちによって保存されます。 | [affadfb6-f17b-428f-97f9-9aae3b6175bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc) |
->| openid | 委任 | SSO 接続を保存して、ユーザーのログイン モードを示します。 | [affadfb6-f17b-428f-97f9-9aae3b6175bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc) |
->| Calendars.Read | 委任 | カレンダー イベントの数が少ない場合は、システムに格納されているタスクに変換されます。 | [d76f016f-52c7-41b5-835b-900361d7040c](https://docs.microsoft.com/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c) |
->| Mail.Read | 委任 | システムで作成されたタスクを、元のメッセージへのリンクと一緒に保存します。 | [d76f016f-52c7-41b5-835b-900361d7040c](https://docs.microsoft.com/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c) |
->| Tasks.Read | 委任 | 一部Outlook/Planner タスクは、新しいユーザーを支援するためにシステムにレプリケートされます。 | [d76f016f-52c7-41b5-835b-900361d7040c](https://docs.microsoft.com/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c) |
+>| Calendars.Read | 委任 | 新しいユーザーがアカウントに追加された場合にのみ、メールを保存します。 | [5be2b320-a5b7-4221-893c-dee506e4e365](../azure/5be2b320-a5b7-4221-893c-dee506e4e365.md) |
+>| User.ReadBasic.All | 委任 | 新しいユーザーがアカウントに追加された場合にのみ、メールを保存します。 | [5be2b320-a5b7-4221-893c-dee506e4e365](../azure/5be2b320-a5b7-4221-893c-dee506e4e365.md) |
+>| offline_access | 委任 | ユーザーに代わって要求を実行するためにログイン トークンを保存します | [5be2b320-a5b7-4221-893c-dee506e4e365](../azure/5be2b320-a5b7-4221-893c-dee506e4e365.md) |
+>| Files.Read.All | 委任 | ユーザーが元のファイルにリンクする Priority Matrix アイテムを明示的に作成しない限り、ファイル情報は保存しない。 | [affadfb6-f17b-428f-97f9-9aae3b6175bc](../azure/affadfb6-f17b-428f-97f9-9aae3b6175bc.md) |
+>| User.Read | 委任 | 基本的なユーザー プロファイル情報 (表示名、名、名、電子メール、アバター) は、私たちによって保存されます。 | [affadfb6-f17b-428f-97f9-9aae3b6175bc](../azure/affadfb6-f17b-428f-97f9-9aae3b6175bc.md) |
+>| openid | 委任 | SSO 接続を保存して、ユーザーのログイン モードを示します。 | [affadfb6-f17b-428f-97f9-9aae3b6175bc](../azure/affadfb6-f17b-428f-97f9-9aae3b6175bc.md) |
+>| Calendars.Read | 委任 | カレンダー イベントの数が少ない場合は、システムに格納されているタスクに変換されます。 | [d76f016f-52c7-41b5-835b-900361d7040c](../azure/d76f016f-52c7-41b5-835b-900361d7040c.md) |
+>| Mail.Read | 委任 | システムで作成されたタスクを、元のメッセージへのリンクと一緒に保存します。 | [d76f016f-52c7-41b5-835b-900361d7040c](../azure/d76f016f-52c7-41b5-835b-900361d7040c.md) |
+>| Tasks.Read | 委任 | 一部Outlook/Planner タスクは、新しいユーザーを支援するためにシステムにレプリケートされます。 | [d76f016f-52c7-41b5-835b-900361d7040c](../azure/d76f016f-52c7-41b5-835b-900361d7040c.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

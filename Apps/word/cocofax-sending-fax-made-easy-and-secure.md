@@ -1,21 +1,22 @@
 ---
-title: CocoFax のアプリケーション情報 - Fax を送信するとセキュリティで保護 &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; &amp;
+title: CocoFax のアプリケーション情報 - &amp; Fax を送信するとセキュリティで保護 &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496;
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CocoFax で使用可能なすべてのセキュリティおよびコンプライアンス情報 - 送信 FAX Made Easy Secure、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。 &amp;
+description: CocoFax で使用可能なすべてのセキュリティおよびコンプライアンス情報 - 送信 FAX Made Easy Secure&amp;、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: eea87d6f9291dc2c868e52a54e95539cac9e0d8c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d725ac3662ee63dbb59e2596d1ac85edddc810c8
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252053"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540355"
 ---
-# <a name="cocofax---sending-fax-made-easy-amp-secure"></a>CocoFax - 送信 FAX を簡単に安全に &amp; 送信する
+# <a name="cocofax---sending-fax-made-easy-amp-secure"></a>CocoFax - 送信 FAX を簡単に安全に送信 &amp; する
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -27,11 +28,11 @@ ms.locfileid: "62252053"
 
 ### <a name="general-information"></a>一般情報
 
-Microsoft に提供される &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; 情報:
+Microsoft に提供 &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; 情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | CocoFax - 送信 FAX を簡単に安全に &amp; 送信する |
+| アプリ名 | CocoFax - 送信 FAX を簡単に安全に送信 &amp; する |
 | ID | WA200002263 |
 | Office 365サポートされているクライアント | Word 2016 Mac、Word on the web Word 2013 以降のデバイスでWindows |
 | パートナー会社名 | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; |
@@ -39,8 +40,9 @@ Microsoft に提供される &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#2
 | アプリの利用規約 | [https://cocofax.com/terms.html](https://cocofax.com/terms.html) |
 | アプリのコア機能 | CocoFax を使用Microsoft Wordまたは Word Online から FAX を送信します。FAX モデムは不要で、固定電話は必要です。 |
 | 会社の本社所在地 | 中国 |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://cocofax.com/terms.html](https://cocofax.com/terms.html) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
+| アプリで使用するホスティング クラウド プロバイダー | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,14 +57,7 @@ Microsoft に提供される &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#2
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 | すぐに削除 |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? |  |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -70,11 +65,11 @@ Microsoft に提供される &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#2
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリで年間侵入テストを実行しますか? | いいえ |
+| アプリで年間侵入テストを実行しますか? | 不要 |
 | アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | はい |
 | 環境で従来のマルウェア対策保護またはアプリケーションコントロールを使用していますか? |  |
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? |  |
@@ -152,16 +147,16 @@ Microsoft に提供される &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#2
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | いいえ |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | いいえ |
+| アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | 不要 |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | 不要 |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? |  |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
->このアプリケーションでは、Microsoft アプリケーションをGraph。
+>このアプリケーションでは、Microsoft のアプリケーションをGraph。
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

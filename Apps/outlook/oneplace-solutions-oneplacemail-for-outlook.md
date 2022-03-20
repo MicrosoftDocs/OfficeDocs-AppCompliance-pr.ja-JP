@@ -2,18 +2,19 @@
 title: OnePlace ソリューションによる OnePlaceMail Outlookアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: onePlaceMail for Outlook、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 97716d5548180d2e1a4f59ecd9dfeaeb36ee99bf
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 16141496ee26fd338485f09b24004e866854be82
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250300"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553046"
 ---
 # <a name="oneplacemail-for-outlook"></a>OnePlaceMail for Outlook
 
@@ -33,14 +34,15 @@ OnePlace Solutions から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリ名 | OnePlaceMail for Outlook |
 | ID | WA104380723 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の mac Windows、Outlook 2016 以降、iOS の Outlook、Android、Outlook Outlook on the web |
+| Office 365サポートされているクライアント | Outlook 2013 以降の mac Windows、Outlook 2016 以降、iOS の Outlook、Android の Outlook、Outlook on the web |
 | パートナー会社名 | OnePlace ソリューション |
 | 会社の Web サイト | [https://www.oneplacesolutions.com](https://www.oneplacesolutions.com) |
 | アプリの利用規約 | [https://www.oneplacesolutions.com/eula.html](https://www.oneplacesolutions.com/eula.html) |
-| アプリのコア機能 | OnePlaceMail を使用すると、メールと添付ファイルをユーザー、SharePoint、OneDrive、Teams。 また、電子メールの作成SharePoint、OneDrive、Teamsコンテンツを使用できます。 |
+| アプリのコア機能 | OnePlaceMail を使用すると、電子メールと添付ファイルをSharePoint、OneDrive、Teams。 また、メールを作成するときに、SharePoint、OneDrive、Teamsのコンテンツを使用できます。 |
 | 会社の本社所在地 | オーストラリア |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://www.oneplacesolutions.com/oneplacemail-sharepoint-a...](https://www.oneplacesolutions.com/oneplacemail-sharepoint-app-for-outlook.html) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
+| アプリで使用するホスティング クラウド プロバイダー | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,14 +57,7 @@ OnePlace Solutions から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 | 3months 内で削除済み |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? |  |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -70,7 +65,7 @@ OnePlace Solutions から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -104,26 +99,26 @@ OnePlace Solutions から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
 | アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
 | アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | いいえ |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | N/A |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 不要 |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -156,23 +151,23 @@ OnePlace Solutions から Microsoft に提供される情報:
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | false |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.ReadWrite.All | 委任 | 現在のユーザー Teamsのメンバーを特定するために必要です。 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| Mail.ReadWrite.Shared | 委任 | メール のプロパティにアクセスして、SharePoint列を設定し、メール アイテムの [SharePointに転送] カテゴリを追加するために必要 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| MailboxSettings.ReadWrite | 委任 | 収集または使用されるデータがない場合、ユーザー メールボックスのマスター カテゴリ リストにカテゴリを追加するために使用されます。 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| Sites.ReadWrite.All | 委任 | アプリがアップロードしたアイテムのプロパティを設定するために必要SharePoint。 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| User.Read | 委任 | Microsoft サーバーへの認証にGraph。 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| User.ReadBasic.All | 委任 | ユーザー選択フィールドにユーザー プロファイル イメージを表示するために必要です。 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| User.ReadBasic.All | 委任 | ユーザー選択フィールドにユーザー プロファイル イメージを表示するために必要です。 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| User.ReadWrite.All | 委任 | テナントのユーザー内で Teamsサービスが有効になっているかどうかを確認Office 365必要です。 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| Group.ReadWrite.All | 委任 | 現在のユーザー Teamsを決定するために必要です。 | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| Mail.ReadWrite.Shared | 委任 | メール のプロパティにアクセスして、SharePoint列を設定し、メール アイテムの [SharePointに転送] カテゴリを追加するために必要 | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| MailboxSettings.ReadWrite | 委任 | 収集または使用されるデータがない場合、ユーザー メールボックスのマスター カテゴリ リストにカテゴリを追加するために使用されます。 | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| Sites.ReadWrite.All | 委任 | アプリがアップロードしたアイテムのプロパティを設定するために必要SharePoint。 | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| User.Read | 委任 | Microsoft サーバーへの認証に必要Graph。 | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| User.ReadBasic.All | 委任 | ユーザー選択フィールドにユーザー プロファイル イメージを表示するために必要です。 | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| User.ReadBasic.All | 委任 | ユーザー選択フィールドにユーザー プロファイル イメージを表示するために必要です。 | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| User.ReadWrite.All | 委任 | テナントのユーザー内で Teamsサービスが有効になっているOffice 365必要です。 | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

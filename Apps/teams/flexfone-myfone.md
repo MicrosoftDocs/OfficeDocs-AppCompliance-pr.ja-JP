@@ -2,18 +2,19 @@
 title: Flexfone による Myfone のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Myfone のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: Myfone、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: cd520df02151efa8412410dc740efbf8f1b42979
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 36cd70bc4f8e2040fa2e0f5398b8c9ff1eb79013
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250133"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63538165"
 ---
 # <a name="myfone"></a>Myfone
 
@@ -38,10 +39,11 @@ Flexfone から Microsoft に提供される情報:
 | パートナー会社名 | Flexfone |
 | 会社の Web サイト | [https://flexfone.dk](https://flexfone.dk) |
 | アプリの利用規約 | [https://flexfone.dk/Content/pdf/Slutkundebetingelser.pdf](https://flexfone.dk/Content/pdf/Slutkundebetingelser.pdf) |
-| アプリのコア機能 | H&#229;ndter dine telefonopkald i Teams, og f&#229;オーバーブリク over dine kolleger. |
+| アプリのコア機能 | H&#229;ndter dine telefonopkald i Teams, og f&#229; オーバーブリク over dine kolleger. |
 | 会社の本社所在地 | デンマーク |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://faq.flexfone.dk/da](https://faq.flexfone.dk/da) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
+| アプリで使用するホスティング クラウド プロバイダー | SelfHosted, Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Flexfone から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 | すぐに削除 |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? |  |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -71,11 +66,11 @@ Flexfone から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリで年間侵入テストを実行しますか? | いいえ |
+| アプリで年間侵入テストを実行しますか? | 不要 |
 | アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | はい |
 | 環境で従来のマルウェア対策保護またはアプリケーションコントロールを使用していますか? |  |
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? |  |
@@ -105,24 +100,24 @@ Flexfone から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | N/A |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | N/A |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | N/A |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | N/A |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | N/A |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
@@ -163,14 +158,14 @@ Flexfone から Microsoft に提供される情報:
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | 委任 | カレンダーは、ユーザーが同僚に自分のケーランドを表示し、会議を使用してテレフォニーを設定するために使用するために使用されます。 | [cdd5ed6f-ceda-4d46-a522-b7526d6d9e50](https://docs.microsoft.com/microsoft-365-app-certification/azure/cdd5ed6f-ceda-4d46-a522-b7526d6d9e50) |
->| Contacts.Read | 委任 | ユーザーの連絡先をアプリに表示して連絡先にダイヤルしやすくする場合は、連絡先を保存できます。 | [cdd5ed6f-ceda-4d46-a522-b7526d6d9e50](https://docs.microsoft.com/microsoft-365-app-certification/azure/cdd5ed6f-ceda-4d46-a522-b7526d6d9e50) |
->| User.Read | 委任 | このアプリケーションで読み取ったユーザーは、識別の目的で使用されます。 | [cdd5ed6f-ceda-4d46-a522-b7526d6d9e50](https://docs.microsoft.com/microsoft-365-app-certification/azure/cdd5ed6f-ceda-4d46-a522-b7526d6d9e50) |
->| User.Read | 委任 | データは保存しない。 アプリケーションは単に認証の目的で使用されます。 | [f0199b83-0ca3-4b41-a23b-d9b234484438](https://docs.microsoft.com/microsoft-365-app-certification/azure/f0199b83-0ca3-4b41-a23b-d9b234484438) |
+>| Calendars.Read | 委任 | カレンダーは、ユーザーが同僚に自分のケーランドを表示し、会議を使用してテレフォニーを設定するために使用するために使用されます。 | [cdd5ed6f-ceda-4d46-a522-b7526d6d9e50](../azure/cdd5ed6f-ceda-4d46-a522-b7526d6d9e50.md) |
+>| Contacts.Read | 委任 | ユーザーの連絡先をアプリに表示して連絡先にダイヤルしやすくする場合は、連絡先を保存できます。 | [cdd5ed6f-ceda-4d46-a522-b7526d6d9e50](../azure/cdd5ed6f-ceda-4d46-a522-b7526d6d9e50.md) |
+>| User.Read | 委任 | このアプリケーションで読み取ったユーザーは、識別の目的で使用されます。 | [cdd5ed6f-ceda-4d46-a522-b7526d6d9e50](../azure/cdd5ed6f-ceda-4d46-a522-b7526d6d9e50.md) |
+>| User.Read | 委任 | データは保存しない。 アプリケーションは単に認証の目的で使用されます。 | [f0199b83-0ca3-4b41-a23b-d9b234484438](../azure/f0199b83-0ca3-4b41-a23b-d9b234484438.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

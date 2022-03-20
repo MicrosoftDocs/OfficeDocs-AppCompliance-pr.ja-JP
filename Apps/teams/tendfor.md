@@ -2,18 +2,19 @@
 title: Tendfor による Tendfor のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/16/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Tendfor、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: baf74e60015e41621c070103154d92432d7abdb9
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: ac7e3d8cd1e9a9cf851107f49d7ec305b8292759
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080611"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63536385"
 ---
 # <a name="tendfor"></a>Tendfor
 
@@ -39,7 +40,7 @@ Tendfor から Microsoft に提供される情報:
 | アプリの利用規約 | [https://tendfor.com/tendfor_docs/en/StandardContractMarch20...](https://tendfor.com/tendfor_docs/en/StandardContractMarch2019.pdf) |
 | アプリのコア機能 | フル機能の連絡先センターとアテンダント コンソールで、Microsoft Teams。 |
 | 会社の本社所在地 | スウェーデン |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://www.tendfor.com](https://www.tendfor.com) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Iaas |
 | アプリで使用するホスティング クラウド プロバイダー | Azure |
 
@@ -60,11 +61,11 @@ Tendfor から Microsoft に提供される情報:
 | アプリは TLS 1.1 以上をサポートしていますか? | はい |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
 | データベースに格納されているデータは何ですか? | ユーザー プロファイル データ、ユーザー 予定表データ |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
+| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | オランダ (the) |
 | データの借入および廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後にデータが保持される期間 | 30 日未満 |
 | データ アクセス管理プロセスが確立されていますか? | はい |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | いいえ |
+| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | 不要 |
 | Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -83,7 +84,7 @@ Tendfor から Microsoft に提供される情報:
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? | はい |
 | パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? | はい |
 | パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
-| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | いいえ |
+| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | 不要 |
 | アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | はい |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
 | 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
@@ -91,7 +92,7 @@ Tendfor から Microsoft に提供される情報:
 | セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | はい |
 | 多要素認証 (MFA) が有効になっているのは、次の場合です。 | CodeRepositories, DNSManagement, Credential |
 | 従業員アカウントのプロビジョニング、変更、削除のプロセスが確立されていますか? | はい |
-| アプリをサポートするネットワーク境界の境界の境界に侵入検出と防御 (IDPS) ソフトウェアが展開されていますか? | いいえ |
+| アプリをサポートするネットワーク境界の境界の境界に侵入検出と防御 (IDPS) ソフトウェアが展開されていますか? | 不要 |
 | アプリをサポートしているすべてのシステム コンポーネントにイベント ログが設定されていますか? | はい |
 | すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動ツールによって定期的に確認されますか? | はい|
 | セキュリティ イベントが検出されると、アラートが従業員に自動的に送信され、トリアージが発生しますか? | はい |
@@ -108,16 +109,16 @@ Tendfor から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | いいえ |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | いいえ |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 不要 |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 不要 |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
 | アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
 | 最新の SOC3 認定日 | |
 | アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
@@ -126,7 +127,7 @@ Tendfor から Microsoft に提供される情報:
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? | 該当なし |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -158,21 +159,21 @@ Tendfor から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | いいえ |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | 不要 |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | Azure でサポートされているすべて |
 | アプリは継続的アクセス評価 (CAE) をサポートしています | はい |
-| アプリはコードに資格情報を保存しますか? | いいえ |
-| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
+| アプリはコードに資格情報を保存しますか? | 不要 |
+| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | 不要 |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委任 | ユーザーにサインインするには | [b7e8237f-d86d-4874-8f8b-7faa8f768436](https://docs.microsoft.com/microsoft-365-app-certification/azure/b7e8237f-d86d-4874-8f8b-7faa8f768436) |
->| User.Read.All | アプリケーション | ユーザー情報をインポートするには | [b7e8237f-d86d-4874-8f8b-7faa8f768436](https://docs.microsoft.com/microsoft-365-app-certification/azure/b7e8237f-d86d-4874-8f8b-7faa8f768436) |
->| User.Read.All | 委任 | ユーザー情報をインポートするには | [b7e8237f-d86d-4874-8f8b-7faa8f768436](https://docs.microsoft.com/microsoft-365-app-certification/azure/b7e8237f-d86d-4874-8f8b-7faa8f768436) |
+>| User.Read | 委任 | ユーザーにサインインするには | [b7e8237f-d86d-4874-8f8b-7faa8f768436](../azure/b7e8237f-d86d-4874-8f8b-7faa8f768436.md) |
+>| User.Read.All | アプリケーション | ユーザー情報をインポートするには | [b7e8237f-d86d-4874-8f8b-7faa8f768436](../azure/b7e8237f-d86d-4874-8f8b-7faa8f768436.md) |
+>| User.Read.All | 委任 | ユーザー情報をインポートするには | [b7e8237f-d86d-4874-8f8b-7faa8f768436](../azure/b7e8237f-d86d-4874-8f8b-7faa8f768436.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 
