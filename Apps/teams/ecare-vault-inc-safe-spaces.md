@@ -2,18 +2,19 @@
 title: eCare Vault inc. セーフスペースのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: セーフ Spaces、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: セーフ Spaces、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8fd68fffceb193aef909da0fe9d63f5333a46975
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 554e432b4b4e84a6395ea58367d62990c7e1637d
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259553"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544915"
 ---
 # <a name="safe-spaces"></a>安全なスペース
 
@@ -38,10 +39,11 @@ eCare Vault Inc. から Microsoft に提供される情報:
 | パートナー会社名 | eCare Vault Inc. |
 | 会社の Web サイト | [https://ecarevault.com](https://ecarevault.com) |
 | アプリの利用規約 | [https://downloads.ecarevault.com/downloads/eCare+Vault+-+Te...](https://downloads.ecarevault.com/downloads/eCare+Vault+-+Terms+of+Service.pdf) |
-| アプリのコア機能 | セーフスペースを使用すると、企業の境界を越えたコンプライアンスに準拠した通信とコラボレーションが可能になります。 eCare Vault プラットフォームによってセキュリティで保護され、セーフ スペースのユーザーは、HIPAA および FERPAA コンプライアンスの保証を受け、ドキュメントを共有し、ディスカッションに参加できます。  スペース セーフボットは、重要な更新や保留中のアクションについてユーザーを最新の状態に保っています。 |
+| アプリのコア機能 | セーフスペースを使用すると、企業の境界を越えて、コンプライアンスに準拠した通信とコラボレーションが可能になります。 eCare Vault プラットフォームによってセキュリティで保護され、セーフ スペースのユーザーは、HIPAA および FERPAA コンプライアンスの保証を受け、ドキュメントを共有し、ディスカッションに参加できます。  スペース セーフボットは、重要な更新や保留中のアクションについてユーザーを最新の状態に保っています。 |
 | 会社の本社所在地 | アメリカ |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://ecarevault.com/ecare-vault-for-teams](https://ecarevault.com/ecare-vault-for-teams) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
+| アプリで使用するホスティング クラウド プロバイダー | Azure、AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ eCare Vault Inc. から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 | すぐに削除 |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? |  |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -71,7 +66,7 @@ eCare Vault Inc. から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -106,25 +101,25 @@ eCare Vault Inc. から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | はい |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | N/A |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | N/A |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | いいえ |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | N/A |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 不要 |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | はい |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | はい |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -157,23 +152,23 @@ eCare Vault Inc. から Microsoft に提供される情報:
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | true |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| EduRoster.Read | 委任 | 名前と生年月日は、入力フィールドの事前入力に使用されます。 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| Group.Read.All | 委任 | アプリケーションで表示できるチャネルに関する情報を取得するために使用します。 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| GroupMember.Read.All | 委任 | AADのチーム名簿の生成に使用されるグループ メンバーの ID を指定します。 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| User.Read | 委任 | 電子メール アドレスAAD ID ユーザーをサインアップし、eCare Vault ユーザー アカウントに関連 &amp; 付ける場合に使用します。 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| User.Read.All | 委任 | スペースがインストールAADチャネルのメンバーであるユーザーに対してのみ、ID と電子メール アドレスセーフを指定します。 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| メール | 委任 | メール アドレスのみ | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| openid | 委任 | 電子メール アドレスAAD ID ユーザーをサインアップし、eCare Vault ユーザー アカウントに関連 &amp; 付ける場合に使用します。 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| profile | 委任 | ユーザーの名前は、ユーザーのサインアップ画面に入力するために使用されます。 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
+>| EduRoster.Read | 委任 | 名前と生年月日は、入力フィールドの事前入力に使用されます。 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](../azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md) |
+>| Group.Read.All | 委任 | アプリケーションで表示できるチャネルに関する情報を取得するために使用します。 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](../azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md) |
+>| GroupMember.Read.All | 委任 | AADのチーム名簿の生成に使用されるグループ メンバーの ID を指定します。 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](../azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md) |
+>| User.Read | 委任 | 電子メール アドレスAAD ID ユーザー&amp;をサインアップし、eCare Vault ユーザー アカウントに関連付ける場合に使用します。 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](../azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md) |
+>| User.Read.All | 委任 | スペースがインストールAADチャネルのメンバーであるユーザーに対してだけ、ID とメール アドレスのセーフを指定します。 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](../azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md) |
+>| メール | 委任 | メール アドレスのみ | [6919164d-b678-4c3d-a268-e6fbecc1e68d](../azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md) |
+>| openid | 委任 | 電子メール アドレスAAD ID ユーザー&amp;をサインアップし、eCare Vault ユーザー アカウントに関連付ける場合に使用します。 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](../azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md) |
+>| profile | 委任 | ユーザーの名前は、ユーザーのサインアップ画面に入力するために使用されます。 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](../azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 
