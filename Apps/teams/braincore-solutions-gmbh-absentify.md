@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 73642d7ff02b79175b19cb4141098917e500ad29
-ms.sourcegitcommit: 4d215076edbae690d7c44cd05dc15d0a495b82bf
+ms.openlocfilehash: 0bf3b44455bd598b532f0708654252f6620c60c6
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "63470208"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546115"
 ---
 # <a name="absentify"></a>absentify
 
@@ -62,7 +62,7 @@ BrainCore Solutions GmbH から Microsoft に提供される情報:
 | アプリは TLS 1.1 以上をサポートしていますか? | はい |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
 | データベースに格納されているデータは何ですか? | Microsoft ユーザー ID、Email、DisplayName |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
+| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | ドイツ |
 | データの借入および廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後にデータが保持される期間 | 30 日未満 |
 | データ アクセス管理プロセスが確立されていますか? | はい |
@@ -171,10 +171,10 @@ BrainCore Solutions GmbH から Microsoft に提供される情報:
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| TeamsActivity.Send | アプリケーション | オプション。 ユーザーに通知を送信Microsoft Teams。 | [0f5eabc0-89bf-4cc6-80d1-10094b5919d2](../azure/0f5eabc0-89bf-4cc6-80d1-10094b5919d2) |
->| Calendars.ReadWrite | 委任 | オプション: 休暇のカレンダー エントリOutlook自動的に作成します。 | [3dbcb38b-8d2f-4e97-9bd1-975fb770b31c](../azure/3dbcb38b-8d2f-4e97-9bd1-975fb770b31c) |
->| User.Read | 委任 | ログインの場合 | [4dce2abf-3f8e-4281-9f7a-d602fc391886](../azure/4dce2abf-3f8e-4281-9f7a-d602fc391886) |
->| User.ReadBasic.All | 委任 | オプション: ユーザーの Microsoft プロファイル画像を表示します。 | [4dce2abf-3f8e-4281-9f7a-d602fc391886](../azure/4dce2abf-3f8e-4281-9f7a-d602fc391886) |
+>| TeamsActivity.Send | アプリケーション | 省略可能。 ユーザーに通知を送信Microsoft Teams。 | [0f5eabc0-89bf-4cc6-80d1-10094b5919d2](../azure/0f5eabc0-89bf-4cc6-80d1-10094b5919d2.md) |
+>| Calendars.ReadWrite | 委任 | オプション: 休暇のカレンダー エントリOutlook自動的に作成します。 | [3dbcb38b-8d2f-4e97-9bd1-975fb770b31c](../azure/3dbcb38b-8d2f-4e97-9bd1-975fb770b31c.md) |
+>| User.Read | 委任 | ログインの場合 | [4dce2abf-3f8e-4281-9f7a-d602fc391886](../azure/4dce2abf-3f8e-4281-9f7a-d602fc391886.md) |
+>| User.ReadBasic.All | 委任 | オプション: ユーザーの Microsoft プロファイル画像を表示します。 | [4dce2abf-3f8e-4281-9f7a-d602fc391886](../azure/4dce2abf-3f8e-4281-9f7a-d602fc391886.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

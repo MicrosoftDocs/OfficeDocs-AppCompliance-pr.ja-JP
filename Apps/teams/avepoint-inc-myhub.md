@@ -2,18 +2,19 @@
 title: AvePoint, inc. による MyHub のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: MyHub で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7086ba2566e0b3d44b8a30edcd43e4dce7eb9963
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 0620429641e4e7b9669d48ec07af70eafe3accd3
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260789"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546825"
 ---
 # <a name="myhub"></a>MyHub
 
@@ -38,9 +39,9 @@ AvePoint, inc. から Microsoft に提供される情報:
 | パートナー会社名 | AvePoint, Inc. |
 | 会社の Web サイト | [https://www.avepoint.com](https://www.avepoint.com) |
 | アプリの利用規約 | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
-| アプリのコア機能 | 既存のワークスペースを管理する新しいワークスペースを要求するためのOffice 365、MyHub &amp; を満たします。 MyHub は、IT チームに負担をかけることなく、使いやすいプロビジョニング、再認定、ライフサイクル サービス &amp; を提供します。 ユーザーは、操作を実行する際に、スケーリング、セキュリティで保護されたワークスペースの自動化が通知され、To Do リストを簡単 &amp; &amp; に完了できます。 MyHub&#65533;の持続可能なセキュリティで保護されたフレームワークは &amp; 、AvePoint&#65533;クラウド ガバナンスを利用しています。 |
+| アプリのコア機能 | 既存のワークスペースを管理する新しいワークスペースを要求する 1 Office 365&amp;、MyHub を満たします。 MyHub は、IT チーム &amp; に負担をかけることなく、使いやすいプロビジョニング、再認定、ライフサイクル サービスを提供します。 ユーザーは、操作を実行&amp;&amp;する際に、スケーリング、セキュリティで保護されたワークスペースの自動化が通知され、To Do リストを簡単に完了できます。 MyHub&#65533;の持続可能なセキュリティで &amp; 保護されたフレームワークは、AvePoint&#65533;クラウド ガバナンスを利用しています。 |
 | 会社の本社所在地 | アメリカ |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://www.avepoint.com/products/cloud/myhub](https://www.avepoint.com/products/cloud/myhub) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
 | アプリで使用するホスティング クラウド プロバイダー | Azure |
 
@@ -56,14 +57,14 @@ AvePoint, inc. から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | いいえ |
+| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | 不要 |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
 | データベースに格納されているデータは何ですか? | サイト コレクション/O365 グループ/Teamsメタデータ、ユーザー ID、電子メール、名前 |
 | 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | アメリカ |
 | データの借入および廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後にデータが保持される期間 | 60 日未満 |
 | データ アクセス管理プロセスが確立されていますか? | はい |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | いいえ |
+| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | 不要 |
 | Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -72,7 +73,7 @@ AvePoint, inc. から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -82,7 +83,7 @@ AvePoint, inc. から Microsoft に提供される情報:
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? | はい |
 | パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? | はい |
 | パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
-| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | いいえ |
+| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | 不要 |
 | アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | はい |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
 | 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
@@ -106,25 +107,25 @@ AvePoint, inc. から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | N/A |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | いいえ |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 不要 |
 | 最新の SOC1 認定日 |   |
 | アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | はい |
 | どの SOC 2 認定を取得しましたか? |  type2 |
 | 最新の SOC2 認定日 |  2/9/2021 |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | N/A |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | はい |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | N/A |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | はい |
-| アプリは NIST 800-171 に準拠していますか? | N/A |
+| アプリは NIST 800-171 に準拠していますか? | 該当なし |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | はい |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -138,13 +139,13 @@ AvePoint, inc. から Microsoft に提供される情報:
 | GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | はい |
 | プライバシー ポリシーの URL | https://www.avepoint.com/company/privacy-and-security |
-| アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | いいえ |
+| アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | 不要 |
 | アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
 | 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
 | アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
-| アプリには、要求に応じて個人の個人データを削除する機能がありますか? | いいえ |
+| アプリには、要求に応じて個人の個人データを削除する機能がありますか? | 不要 |
 | アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | はい |
-| アプリは個人に個人データを修正または更新する機能を提供しますか? | いいえ |
+| アプリは個人に個人データを修正または更新する機能を提供しますか? | 不要 |
 | アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | はい |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -160,27 +161,27 @@ AvePoint, inc. から Microsoft に提供される情報:
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | はい |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
-| サポートされているポリシーの種類を一覧表示する | アプリケーションは、すべての条件付Azure ADルールを使用できるよう、アプリケーションとフェデレーションを行います。 |
+| サポートされているポリシーの種類を一覧表示する | アプリケーションは、すべての条件付Azure ADを使用できるよう、アプリケーションとフェデレーションを行います。 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています | はい |
-| アプリはコードに資格情報を保存しますか? | いいえ |
+| アプリはコードに資格情報を保存しますか? | 不要 |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | 両方とも | グループ設定オブジェクトの一覧を取得します。 外部共有のクラシックフィケーション、enableCreateGroup(application) など。 | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
->| Group.ReadWrite.All | 両方とも | グループの作成、グループ メンバーシップの取得、追加、または削除 | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
->| Mail.Send | 委任 | 現在のユーザーがプライベート グループに参加する場合は、グループの所有者に通知を送信します | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
->| Reports.Read.All | アプリケーション | サイト/グループの利用状況レポートを取得する | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
->| Sites.FullControl.All | アプリケーション | サイトを作成または削除する | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
->| Sites.Read.All | アプリケーション | サイトの基本情報を取得する | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
->| Sites.ReadWrite.All | 委任 | フォロー/フォロー解除サイト | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
->| User.Read.All | 両方とも | 委任: ユーザーの写真を取得します。アプリケーション: ユーザーの検索/解決 | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
->| メール | 委任 | Teams アプリ SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
->| offline_access | 委任 | Teams アプリ SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
->| openid | 委任 | Teams アプリ SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
->| profile | 委任 | Teams アプリ SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| Directory.Read.All | 両方とも | グループ設定オブジェクトの一覧を取得します。 外部共有のクラシックフィケーション、enableCreateGroup(application) など。 | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| Group.ReadWrite.All | 両方とも | グループの作成、グループ メンバーシップの取得、追加、または削除 | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| Mail.Send | 委任 | 現在のユーザーがプライベート グループに参加する場合は、グループの所有者に通知を送信します | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| Reports.Read.All | アプリケーション | サイト/グループの利用状況レポートを取得する | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| Sites.FullControl.All | アプリケーション | サイトを作成または削除する | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| Sites.Read.All | アプリケーション | サイトの基本情報を取得する | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| Sites.ReadWrite.All | 委任 | フォロー/フォロー解除サイト | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| User.Read.All | 両方とも | 委任: ユーザーの写真を取得します。アプリケーション: ユーザーの検索/解決 | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| メール | 委任 | Teams アプリ SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| offline_access | 委任 | Teams アプリ SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| openid | 委任 | Teams アプリ SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| profile | 委任 | Teams アプリ SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

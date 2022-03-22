@@ -2,18 +2,19 @@
 title: 意思決定による意思決定に関するアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 意思決定、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 78bb80e67214a26172c6f83f57d8614fb8c9e518
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 0353886df853f0916252e41e8829214ce1e0a4d5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259743"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544945"
 ---
 # <a name="decisions"></a>決定事項
 
@@ -38,9 +39,9 @@ Microsoft に対して Decisions によって提供される情報:
 | パートナー会社名 | 決定事項 |
 | 会社の Web サイト | [https://www.meetingdecisions.com](https://www.meetingdecisions.com) |
 | アプリの利用規約 | [https://www.meetingdecisions.com/terms-of-service](https://www.meetingdecisions.com/terms-of-service) |
-| アプリのコア機能 | 議題ビルダー、分のテンプレートなど、会議の数を会議の内部に組み込Teams。 |
+| アプリのコア機能 | 議題ビルダー、分テンプレートなど、会議の数を会議の内部に構築Teams。 |
 | 会社の本社所在地 | ノルウェー |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://www.meetingdecisions.com](https://www.meetingdecisions.com) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
 | アプリで使用するホスティング クラウド プロバイダー | Azure |
 
@@ -74,7 +75,7 @@ Microsoft に対して Decisions によって提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -108,24 +109,24 @@ Microsoft に対して Decisions によって提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | N/A |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | N/A |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | いいえ |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 不要 |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | N/A |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | いいえ |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 不要 |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
@@ -164,29 +165,29 @@ Microsoft に対して Decisions によって提供される情報:
 | サポートされているポリシーの種類を一覧表示する | すべて |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
-| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
+| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | 不要 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 委任 | 会議の一覧や検索&#8217;機能を有効にするには、ユーザーの予定表から情報を読み取る場合に使用します。 また、アイテムが Decisions から削除された場合に、予定表から特定の会議を削除するオプションもユーザーに与えます。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Chat.ReadWrite | 委任 | 投票の決定を送信し、個々の議題アイテムのスピーカー リストを会議チャットに直接送信Microsoft Teams使用します。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Directory.Read.All | 委任 | テナント名や検証済みドメインなど、Office 365に関する基本情報を収集するために使用します。 また、グループ メンバーシップの確認にも必要です。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Files.Read.All | 委任 | ユーザーと共有されているファイルを読み取り、それらのファイルを PDF 会議帳に結合するために使用します。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Files.ReadWrite.All | 委任 | 個人用ファイル注釈のサポートをユーザーに提供するために使用します。 注釈付きファイルは、ユーザーファイルに&#8217;保存OneDrive for Business。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Group.ReadWrite.All | 委任 | 会議の議題、関連ファイル、およびグループOffice 365の&#8217;グループ SharePointサイトにフォルダー構造を作成するために使用します。   注: 意思決定のユーザーは、組織のテナント内のリソース (グループなど) へのアクセス権を持Office 365できません。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Mail.Send | 委任 | 意思決定のユーザーが会議参加者の通知 (議題の更新や共同執筆者向け会議へのリンクなど) を送信するために使用します。 メールは、会議の参加者または会議の所有者が選択した配布リストに移動します。 送信された通知と電子メールはすべて、Decisions ユーザーによってアクティブに行われます。  注: これにより、ユーザーは Decisions を介して受信トレイにアクセスできます。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| MailboxSettings.Read | 委任 | ユーザーの言語設定&#8217;識別するために使用されます。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Notes.ReadWrite | 委任 | 会議用のプライベート ノートブックをセットアップしてメモを取り、備考や質問を準備するために使用します。 また、グループが会議の使用を選択した場合に、グループ会議の議OneNote共有ノートブック内に保存OneNote。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Sites.ReadWrite.All | 委任 | 会議情報のプライベート チャネルにフォルダー構造を作成するために使用します。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Tasks.ReadWrite | 委任 | タスクと決定を Microsoft Planner に同期するために使用します。 また、ユーザーはタスクや意思決定をエクスポートして、タスクをExcel。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| TeamsAppInstallation.ReadWriteForUser | 委任 | チャットに Decisions App をプログラムでインストールするために必要です。 これは、会議のエクスペリエンスに [決定] タブを追加する前に必要です。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| TeamsAppInstallation.ReadWriteForUser.All | 委任 | チャットに Decisions App をプログラムでインストールするために必要です。 これは、会議のエクスペリエンスに [決定] タブを追加する前に必要です。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| TeamsTab.Create | 委任 | [会議内/チャネル] タブを [会議内] タブに追加するTeams。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| TeamsTab.Read.All | 委任 | タブがインストールされていないか確認するために必要です。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| User.ReadBasic.All | 委任 | グループ メンバーと外部参加者の名前、写真、電子メール アドレスを表示するために使用します。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| profile | 委任 | サインインに使用します。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
+>| Calendars.ReadWrite | 委任 | 会議の一覧や検索&#8217;機能を有効にするには、ユーザーの予定表から情報を読み取る場合に使用します。 また、アイテムが Decisions から削除された場合に、予定表から特定の会議を削除するオプションもユーザーに与えます。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Chat.ReadWrite | 委任 | 投票の決定を送信し、個々の議題アイテムのスピーカー リストを会議チャットに直接Microsoft Teamsします。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Directory.Read.All | 委任 | テナント名や検証済みドメインなど、Office 365に関する基本情報を収集するために使用されます。 また、グループ メンバーシップの確認にも必要です。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Files.Read.All | 委任 | ユーザーと共有されているファイルを読み取り、それらのファイルを PDF 会議帳に結合するために使用します。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Files.ReadWrite.All | 委任 | 個人用ファイル注釈のサポートをユーザーに提供するために使用します。 注釈付きファイルは、ユーザーファイルの&#8217;にOneDrive for Business。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Group.ReadWrite.All | 委任 | 会議の議題、関連ファイル、グループOffice 365&#8217;SharePointグループサイトにフォルダー構造を作成するために使用します。   注: 意思決定のユーザーは、組織のテナント内のリソース (グループなど) へのアクセス権を持Office 365できません。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Mail.Send | 委任 | 意思決定のユーザーが会議参加者の通知 (議題の更新や共同執筆者向け会議へのリンクなど) を送信するために使用します。 メールは、会議の参加者または会議の所有者が選択した配布リストに移動します。 送信された通知と電子メールはすべて、Decisions ユーザーによってアクティブに行われます。  注: これにより、ユーザーは Decisions を介して受信トレイにアクセスできます。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| MailboxSettings.Read | 委任 | ユーザーの言語設定&#8217;識別するために使用します。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Notes.ReadWrite | 委任 | 会議用のプライベート ノートブックをセットアップしてメモを取り、備考や質問を準備するために使用します。 また、グループが会議の使用を選択した場合、グループ会議の議OneNote共有ノートブック内に保存OneNote。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Sites.ReadWrite.All | 委任 | 会議情報のプライベート チャネルにフォルダー構造を作成するために使用します。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Tasks.ReadWrite | 委任 | タスクと決定を Microsoft Planner に同期するために使用します。 また、ユーザーはタスクや決定をエクスポートして、ユーザーにExcel。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| TeamsAppInstallation.ReadWriteForUser | 委任 | チャットに Decisions App をプログラムでインストールするために必要です。 これは、会議のエクスペリエンスに [決定] タブを追加する前に必要です。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| TeamsAppInstallation.ReadWriteForUser.All | 委任 | チャットに Decisions App をプログラムでインストールするために必要です。 これは、会議のエクスペリエンスに [決定] タブを追加する前に必要です。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| TeamsTab.Create | 委任 | [会議内/チャネル] タブを追加する必要Teams。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| TeamsTab.Read.All | 委任 | タブがインストールされていないか確認するために必要です。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| User.ReadBasic.All | 委任 | グループ メンバーと外部参加者の名前、写真、電子メール アドレスを表示するために使用します。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| profile | 委任 | サインインに使用します。 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

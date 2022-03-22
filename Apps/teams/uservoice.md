@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: UserVoice、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0abf55a4dbed692837abab9beaa3ef01426b9991
-ms.sourcegitcommit: 6f2370c0eb79cc4acc9b53b2215b7a61c2ab30d6
+ms.openlocfilehash: b815858d1846f5388114a3c0c3329f4d54b97f06
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/17/2022
-ms.locfileid: "63563694"
+ms.locfileid: "63547235"
 ---
 # <a name="uservoice"></a>UserVoice
 
@@ -37,11 +37,11 @@ UserVoice が Microsoft に提供する情報:
 | ID | WA200001944 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | UserVoice |
-| 会社の Web サイト | 該当なし |
-| アプリの利用規約 | 該当なし |
+| 会社の Web サイト | [https://www.uservoice.com](https://www.uservoice.com) |
+| アプリの利用規約 | [https://www.uservoice.com/tos](https://www.uservoice.com/tos) |
 | アプリのコア機能 | 製品フィードバック プログラムのリアルタイム更新プログラムを、Microsoft Teams。 |
 | 会社の本社所在地 | アメリカ |
-| アプリ情報ページ | 該当なし |
+| アプリ情報ページ | [https://help.uservoice.com/hc/en-us/articles/360052330913-M...](https://help.uservoice.com/hc/en-us/articles/360052330913-Microsoft-Teams-Integration) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
 | アプリで使用するホスティング クラウド プロバイダー | GCP |
 
@@ -119,7 +119,7 @@ UserVoice が Microsoft に提供する情報:
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | はい |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | はい |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

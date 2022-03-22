@@ -2,18 +2,19 @@
 title: 休暇追跡ツールによる休暇トラッカーのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: バケーション トラッカー、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: bd7fc61e757600d1d1d87d09e3f67e9ade0546ba
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 3b8b92ed24e229982eac3edbda8b59b19e281a7b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251633"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546315"
 ---
 # <a name="vacation-tracker"></a>Vacation Tracker
 
@@ -40,7 +41,7 @@ ms.locfileid: "62251633"
 | アプリの利用規約 | [https://vacationtracker.io/terms-of-service/](https://vacationtracker.io/terms-of-service/) |
 | アプリのコア機能 | バケーション トラッカーは、企業が組織の休暇を追跡できるツールです。 管理者が組織の設定を構成する Web ダッシュボードがあります。 従業員は、ダッシュボードで要求を行い、クォータを確認することもできます。 さらに、従業員は要求を行い、承認者はボットまたはタブから要求を承認または拒否Microsoft Teamsできます。 |
 | 会社の本社所在地 | カナダ |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://vacationtracker.io/vacation-calendar-tracker-featur...](https://vacationtracker.io/vacation-calendar-tracker-features/) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
 | アプリで使用するホスティング クラウド プロバイダー | AWS |
 
@@ -74,7 +75,7 @@ ms.locfileid: "62251633"
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -108,7 +109,7 @@ ms.locfileid: "62251633"
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
 | アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
 | アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | いいえ |
 | 最新の SOC1 認定日 |   |
@@ -120,14 +121,14 @@ ms.locfileid: "62251633"
 | アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | いいえ |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,19 +166,19 @@ ms.locfileid: "62251633"
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.Read.All | 委任 | ユーザーが毎週または毎日の通知を設定すると、パブリック チャネルの ID と名前が読み取りされます。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| Team.ReadBasic.All | 委任 | ユーザーがバケーション トラッカー Microsoft Teamsするチームを選択するために、サインアップ中に参加したチームのメンバーを一覧表示します。 代わりに、組織全体にサインアップすることもできます。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| User.Read | 委任 | ユーザーの名前、ID、テナント ID など、基本的なユーザー情報を収集します。 このデータを使用して、ログインしているユーザーをバケーション トラッカーの組織に接続します。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| User.Read.All | 委任 | ユーザーは、組織またはチームからすべてのユーザー Microsoft 365インポートMicrosoft Teamsできます。 このアクセス許可を使用して、選択したユーザーまたはチームまたは組織Microsoft Teamsユーザーのみをインポートします。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| User.ReadBasic.All | 委任 | ユーザーは、自分の組織または自分のチームから他のユーザー Microsoft Teamsできます。 このアクセス許可を使用して、インポート ポップアップで使用可能なユーザーとその電子メール アドレスを一覧表示します。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| メール | 委任 | ユーザーが Microsoft AADを使用してログインすると、電子メール アドレスは一意の識別子として保存されます。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| offline_access | 委任 | この権限を持つデータは収集しない。 アクセス許可があるデータへのアクセスを維持するために使用されます。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| openid | 委任 | このアクセス許可を使用して、ユーザーをバケーション トラッカーにサインインまたはサインアップします。 この権限を持つ特定のデータは収集しない。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| profile | 委任 | ユーザーの名前、ID、テナント ID など、基本的なユーザー情報を収集します。 このデータを使用して、ログインしているユーザーをバケーション トラッカーの組織に接続します。 | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
+>| Group.Read.All | 委任 | ユーザーが毎週または毎日の通知を設定すると、パブリック チャネルの ID と名前が読み取りされます。 | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| Team.ReadBasic.All | 委任 | ユーザーがバケーション トラッカー Microsoft Teamsするチームを選択するために、サインアップ中に参加したチームのメンバーを一覧表示します。 代わりに、組織全体にサインアップすることもできます。 | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| User.Read | 委任 | ユーザーの名前、ID、テナント ID など、基本的なユーザー情報を収集します。 このデータを使用して、ログインしているユーザーをバケーション トラッカーの組織に接続します。 | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| User.Read.All | 委任 | ユーザーは、組織またはチームからすべてのユーザー Microsoft 365インポートMicrosoft Teamsできます。 このアクセス許可を使用して、選択したユーザーまたはチームまたは組織Microsoft Teamsユーザーのみをインポートします。 | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| User.ReadBasic.All | 委任 | ユーザーが自分の組織または自分のチームから他のユーザー Microsoft Teamsできます。 このアクセス許可を使用して、インポート ポップアップで使用可能なユーザーとその電子メール アドレスを一覧表示します。 | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| メール | 委任 | ユーザーが Microsoft AADを使用してログインすると、電子メール アドレスは一意の識別子として保存されます。 | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| offline_access | 委任 | この権限を持つデータは収集しない。 アクセス許可があるデータへのアクセスを維持するために使用されます。 | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| openid | 委任 | このアクセス許可を使用して、ユーザーをバケーション トラッカーにサインインまたはサインアップします。 この権限を持つ特定のデータは収集しない。 | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| profile | 委任 | ユーザーの名前、ID、テナント ID など、基本的なユーザー情報を収集します。 このデータを使用して、ログインしているユーザーをバケーション トラッカーの組織に接続します。 | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

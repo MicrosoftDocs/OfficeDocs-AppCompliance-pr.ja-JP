@@ -1,19 +1,20 @@
 ---
-title: 完全なPublisher構成証明
+title: 発行元の構成証明を完了する
 author: LGerrard
 ms.author: legerrar
+manager: tonybal
 description: 構成証明プログラムのPublisher詳細
 keywords: アプリ構成証明認定 365 アンケート appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 286d14e580bdb9f24ccf1754685ebeeaef6d0c11
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d702fbf27a326f916ee5bd5f89a0b0b7f2ae6c17
+ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287139"
+ms.lasthandoff: 03/22/2022
+ms.locfileid: "63692649"
 ---
-# <a name="complete-publisher-attestation"></a>完全なPublisher構成証明
+# <a name="complete-publisher-attestation"></a>発行元の構成証明を完了する
 
 Publisher構成証明は、アプリのセキュリティ、データ処理、コンプライアンスプラクティスの自己評価を完了する自主的なプログラムです。 提供する情報は顧客に提示され、組織でアプリを有効にする前にアプリをより良く評価できます。 
 
@@ -36,13 +37,13 @@ Publisher構成証明は、Web アプリ (パートナー センターの商用�
 - 企業組織のセキュリティとコンプライアンスの内部レビュータイムラインを加速する。
 - 透明度の向上。
 - ストア内の他のアプリとの差別化。 
-- AppSource のエントリ、Teams 管理センター、Microsoft 管理センター、Teams ストアからドキュメント ページにリンクします。 
-- 認定を開始するMicrosoft 365します。
+- AppSource、Teams 管理センター、Microsoft 管理センター、およびサイト ストアのエントリからドキュメント ページTeamsリンクします。 
+- 認定資格を取得して、Microsoft 365を開始します。
  
 
 ## <a name="publisher-attestation-process"></a>Publisher構成証明プロセス
 
-1. **参加する**- Publisher構成証明がパートナー センターに [統合されました](https://partner.microsoft.com)。 構成証明は、パートナー センター内のすべてのユーザー フレンドリーなアンケートで完了できます。 詳細な手順については[Officeストア](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide)と商用マーケットプレース[](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide)のユーザー ガイドを参照してください。
+1. **参加する** - Publisher構成証明がパートナー センターに [統合されました](https://partner.microsoft.com)。 構成証明は、パートナー センター内のすべてのユーザー フレンドリーなアンケートで完了できます。 詳細な手順については[Officeストア](../docs/userguide.md)と商用マーケットプレース[](../docs/saasuserguide.md)のユーザー ガイドを参照してください。
 
 2. **レビューのフィードバックと結果** を待つ - 整合性チェックのレビュー中に、アナリストが応答データが不十分ななどのブロックの問題を見つけた場合は、詳細について連絡を受ける必要があります。 アナリストは、プロセス全体を通じて、レビュー結果とフォローアップ提出の詳細を示すアプリ アクティビティ ログを維持します。 構成証明レポートが完了し、応答が受け入れられると判断されると、申請が承認されます。 承認の状態は、申請時から 1 年間有効です。
 
@@ -57,16 +58,16 @@ Publisher構成証明は、Web アプリ (パートナー センターの商用�
 
 たとえば、「*アプリのセキュリティ*[Microsoft Teamsコンプライアンス」を参照してください。](../teams/teams-apps.md)
 
-4. **レビューと再提出**- Publisher構成証明は、毎年再送信する必要があります。 構成証明が 1 年のマークに近い場合は、パートナー センターを通じて構成証明の再送信を促す通知を受け取ります。 
+4. **レビューと再提出** - Publisher構成証明は、毎年再提出する必要があります。 構成証明が 1 年のマークに近い場合は、パートナー センターを通じて構成証明の再送信を促す通知を受け取ります。 
 
    有効期限Publisher前に Publisher 構成証明が更新されない場合、アプリの構成証明の状態は取り消され、Publisher 構成証明は Microsoft ドキュメント ページから削除されます。 
 
 >[!IMPORTANT]
->Publisher 構成証明プログラムに参加することで、これらの補足条項に同意し、Microsoft Corporation との Publisher 構成証明プログラムへの参加に適用される関連ドキュメント ("Microsoft"、"we"、"us"、または "our") に準拠することに同意するものとします。 お客様は、該当する場合、お客様自身、会社、その他のエンティティに代わって、Publisher 構成証明の補足条項を受け入れる権限を持っているものとします。 弊社は、いつでもこれらの補足条項を変更、修正、または終了する場合があります。 変更または修正後にPublisher構成証明プログラムへの継続的な参加は、新しい補足条項に同意する必要があります。 お客様が新しい補足条項に同意しない場合、または本規約を終了する場合は、Publisher構成証明プログラムへの参加を停止する必要があります。
+>Publisher 構成証明プログラムに参加することで、これらの補足条項に同意し、Microsoft Corporation との Publisher 構成証明プログラムへの参加に適用される関連ドキュメント ("Microsoft"、"we"、"us"、または "our") に準拠することに同意するものとします。 お客様は、該当する場合、お客様自身、会社、その他のエンティティに代わって、Publisher 構成証明の補足条項を受け入れる権限を持っているものとします。 弊社は、いつでもこれらの補足条項を変更、修正、または終了する場合があります。 変更または修正後にPublisher構成証明プログラムに継続的に参加する場合は、新しい補足条項に同意するものとします。 お客様が新しい補足条項に同意しない場合、または本規約を終了する場合は、Publisher構成証明プログラムへの参加を停止する必要があります。
 
 ## <a name="learn-more"></a>詳細情報
 
-* [Microsoft 365アプリ コンプライアンス プログラムの概要](~/overview.md)  
-* [完全なPublisher検証](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)  
+* [Microsoft 365 コンプライアンス プログラムの概要](~/overview.md)  
+* [発行元の検証を完了する](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)  
 * [構成証明Publisherとは](~/docs/enterprise-app-attestation-guide.md)  
-* [完全なMicrosoft 365認定](~/docs/certification.md)
+* [完全な Microsoft 365 認定](~/docs/certification.md)

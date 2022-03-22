@@ -2,18 +2,19 @@
 title: officeatwork |officeatwork Officeの検証ツール
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/10/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: officeatwork サービスで使用可能なすべてのセキュリティおよびコンプライアンス情報|CSA STAR レジストリOffice、データ処理ポリシー、アプリ カタログMicrosoft Cloud App Security情報、セキュリティ/コンプライアンス情報を検証します。
+description: officeatwork サービスで使用可能なすべてのセキュリティおよびコンプライアンス情報|CSA STAR レジストリOffice、データ処理ポリシー、アプリ カタログ情報Microsoft Cloud App Securityセキュリティ/コンプライアンス情報の検証ツール。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: bbf8d9d21939928adfeba4e9d421120e7197beeb
-ms.sourcegitcommit: c7d072ca68760947ef4d531b740550b3236c3c94
+ms.openlocfilehash: ab52f5d22e5cedbd90c6a1843b8e05836f244318
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "62514602"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547115"
 ---
 # <a name="officeatwork--verifier-for-office"></a>officeatwork |検証ツールのOffice
 
@@ -32,13 +33,13 @@ officeatwork から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリ名 | officeatwork - 検証ツールのOffice |
 | ID | WA200000133 |
-| Office 365サポートされているクライアント | Word 2016 Mac 上、Word 2016以降の Mac、Windows、Word on the web、Word on iPad |
+| Office 365サポートされているクライアント | Word 2016 Mac、Word 2016以降の場合は、Windows、Word on the web、Word on iPad |
 | パートナー会社名 | officeatwork |
 | 会社の Web サイト | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | アプリの利用規約 | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 | アプリのコア機能 | 最新の一時管理コンテンツを使用してドキュメントを自動的に確認して更新します。 |
 | 会社の本社所在地 | スイス |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://links.officeatwork.com/officeatwork-apps](https://links.officeatwork.com/officeatwork-apps) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
 | アプリで使用するホスティング クラウド プロバイダー | Azure |
 
@@ -57,14 +58,7 @@ officeatwork から Microsoft に提供される情報:
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
 | アプリで処理されるデータは何ですか? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | アプリは TLS 1.1 以上をサポートしていますか? | はい |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 |  |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | いいえ |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -82,7 +76,7 @@ officeatwork から Microsoft に提供される情報:
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? | はい |
 | パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? | はい |
 | パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
-| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | いいえ |
+| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | 不要 |
 | アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | はい |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
 | 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
@@ -113,14 +107,14 @@ officeatwork から Microsoft に提供される情報:
 | アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
 | アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
@@ -165,17 +159,17 @@ officeatwork から Microsoft に提供される情報:
 | アプリはコードに資格情報を保存しますか? | 不要 |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.Read | 委任 | コンテンツの読み取りおよび比較を有効にする | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| Files.Read.All | 委任 | コンテンツの読み取りおよび比較を有効にする | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| Sites.Read.All | 委任 | コンテンツの読み取りおよび比較を有効にする | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| User.Read | 委任 | サインインしているユーザーの表示を有効にする | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| offline_access | 委任 | 古いホストの自動サインインをOfficeする | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| openid | 委任 | サインインを有効にする | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| profile | 委任 | サインインを有効にする | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| Files.Read | 委任 | コンテンツの読み取りおよび比較を有効にする | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
+>| Files.Read.All | 委任 | コンテンツの読み取りおよび比較を有効にする | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
+>| Sites.Read.All | 委任 | コンテンツの読み取りおよび比較を有効にする | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
+>| User.Read | 委任 | サインインしているユーザーの表示を有効にする | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
+>| offline_access | 委任 | 古いホストの自動サインインをOfficeする | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
+>| openid | 委任 | サインインを有効にする | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
+>| profile | 委任 | サインインを有効にする | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

@@ -2,18 +2,19 @@
 title: Idea2Innovation による幅広いアイデアのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Wide Ideas、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: Wide Ideas、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 69e417f81896c284406c5408d20f9aff32ac09a2
-ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
+ms.openlocfilehash: c744df41324bd82a299fbee58b7d724f9fef1033
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62877884"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546035"
 ---
 # <a name="wide-ideas"></a>Wide Ideas
 
@@ -38,10 +39,11 @@ Idea2Innovation から Microsoft に提供される情報:
 | パートナー会社名 | Idea2Innovation |
 | 会社の Web サイト | [https://getwideideas.com](https://getwideideas.com) |
 | アプリの利用規約 | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474849364/Product_42949683744/Asset_0831a14b-e5df-4f0b-8385-3c06edaeceeb/GENERALTERMSANDCONDITIONSWideI.pdf) |
-| アプリのコア機能 | Wide Ideas は、クラウド サービスに基Microsoft 365なアイデア管理ソリューションです。 オープン イノベーション機能をMicrosoft Teams完全に統合され、企業は日々の課題に対して最適なアイデアを見つけることに協力できます。 Wide Ideas は、企業グループ内の各部署または部署が独自のカスタム プロセスを実行し、組織全体でアイデアとベスト プラクティスを共有するのに十分な柔軟性を備えた、市場で唯一のアイデア管理ソフトウェアです。 |
+| アプリのコア機能 | ワイド アイデアは、クラウド サービスに基Microsoft 365なアイデア管理ソリューションです。 オープン イノベーション機能Microsoft Teams完全に統合され、企業は日々の課題に最適なアイデアを見つけることに協力できます。 Wide Ideas は、企業グループ内の各部署または部署が独自のカスタム プロセスを実行し、組織全体でアイデアとベスト プラクティスを共有するのに十分な柔軟性を備えた、市場で唯一のアイデア管理ソフトウェアです。 |
 | 会社の本社所在地 | スウェーデン |
 | アプリ情報ページ | |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
+| アプリで使用するホスティング クラウド プロバイダー | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Idea2Innovation から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 | 3months 内で削除済み |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? |  |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -114,17 +109,17 @@ Idea2Innovation から Microsoft に提供される情報:
 | 最新の SOC2 認定日 | |
 | アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | いいえ |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 不要 |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -161,18 +156,18 @@ Idea2Innovation から Microsoft に提供される情報:
 | サポートされているポリシーの種類を一覧表示する | MFA |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
-| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | 不要 |
+| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.Create | 委任 | チームにチャネルを作成するには  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
->| Directory.Read.All | 委任 | これを使用して顧客ディレクトリからユーザーを一覧表示する  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
->| Group.Read.All | 委任 | これを使用して、チームを読み取り、同期Microsoft Teams。 | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
->| TeamsAppInstallation.ReadWriteForTeam | 委任 | これは、アプリをアプリに自動的にインストールTeamsします。  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
->| TeamsTab.Create | 委任 | これを使用して、Wide Ideas によって作成されたチャネルにアプリケーション (チャレンジ/検索のアイデア) タブを自動的に作成します。 | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
->| User.Read | 委任 | SSO を使用してユーザーを認証し、ユーザー データを同期するために使用されます。 | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| Channel.Create | 委任 | チームにチャネルを作成するには  | [b0656c15-44aa-4aab-8956-bb97e3016535](../azure/b0656c15-44aa-4aab-8956-bb97e3016535.md) |
+>| Directory.Read.All | 委任 | これを使用して顧客ディレクトリからユーザーを一覧表示する  | [b0656c15-44aa-4aab-8956-bb97e3016535](../azure/b0656c15-44aa-4aab-8956-bb97e3016535.md) |
+>| Group.Read.All | 委任 | これを使用して、チームを読み取り、同期Microsoft Teams。 | [b0656c15-44aa-4aab-8956-bb97e3016535](../azure/b0656c15-44aa-4aab-8956-bb97e3016535.md) |
+>| TeamsAppInstallation.ReadWriteForTeam | 委任 | これは、アプリを自動的にインストールTeamsします  | [b0656c15-44aa-4aab-8956-bb97e3016535](../azure/b0656c15-44aa-4aab-8956-bb97e3016535.md) |
+>| TeamsTab.Create | 委任 | これを使用して、Wide Ideas によって作成されたチャネルにアプリケーション (チャレンジ/検索のアイデア) タブを自動的に作成します。 | [b0656c15-44aa-4aab-8956-bb97e3016535](../azure/b0656c15-44aa-4aab-8956-bb97e3016535.md) |
+>| User.Read | 委任 | SSO を使用してユーザーを認証し、ユーザー データを同期するために使用されます。 | [b0656c15-44aa-4aab-8956-bb97e3016535](../azure/b0656c15-44aa-4aab-8956-bb97e3016535.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

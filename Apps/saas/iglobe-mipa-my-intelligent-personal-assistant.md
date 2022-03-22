@@ -2,18 +2,19 @@
 title: MIPA のアプリケーション情報 - iGlobe による個人用インテリジェント パーソナル アシスタント
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: MIPA で使用可能なすべてのセキュリティおよびコンプライアンス情報 - My Intelligent Personal Assistant、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8d56acb1cf147c57f06196e2e44acafbbf5f8ab1
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 48325d6eed615375a8cd236432f5ed97dd350ab1
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63078051"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546865"
 ---
 # <a name="mipa---my-intelligent-personal-assistant"></a>MIPA - 個人用インテリジェント パーソナル アシスタント
 
@@ -37,8 +38,9 @@ iGlobe から Microsoft に提供される情報:
 | アプリの利用規約 | [https://mipa.iglobe.dk/EULA](https://mipa.iglobe.dk/EULA) |
 | アプリのコア機能 | MIPA - My Intelligent パーソナル アシスタント - MIPA は、毎日のアクティビティと作業を整理および管理するための視覚的な簡単な方法を提供します。 MIPA は、アプリケーションとOutlookでTeams。 iGlobe CRM MIPA を使用する組織では、iGlobe CRM にも統合されます。 MIPA App Services のアクセス許可レベルは、MIPA に対して、Teamsおよび iGlobe CRM 統合Outlook MIPA に対して設定されます。 |
 | 会社の本社所在地 | デンマーク |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://mipa.iglobe.dk/Support](https://mipa.iglobe.dk/Support) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
+| アプリで使用するホスティング クラウド プロバイダー | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,14 +55,7 @@ iGlobe から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 | すぐに削除 |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? |  |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -164,26 +159,63 @@ iGlobe から Microsoft に提供される情報:
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Contacts.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Directory.AccessAsUser.All | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Directory.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Files.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Group.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Group.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Mail.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| MailboxSettings.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Tasks.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| User.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| User.ReadBasic.All | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| User.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| メール | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| offline_access | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| openid | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| profile | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Calendars.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Contacts.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Directory.AccessAsUser.All | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Directory.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Files.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Group.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Group.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Mail.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| MailboxSettings.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Tasks.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| User.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| User.ReadBasic.All | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| User.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| メール | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| offline_access | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| openid | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| profile | 委任 | アプリケーション データベースにデータは格納されません。 | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>認定情報
+
+| **Control** | **Microsoft 365認定結果** |
+|:------------|:---------------------------------------|
+| [**アプリケーション のセキュリティ**](../docs/certification-submission-guide.md#application-security) | **該当なし** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入テスト | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性評価レビュー (DAST/SAST/侵入テスト) | 該当なし |
+| [**運用上のセキュリティ**](../docs/certification-submission-guide.md#operational-security) | **該当なし** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア保護 - ウイルス対策 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア保護 - アプリケーション制御 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - リスクランキング | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - パッチ適用 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性スキャン | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - ファイアウォール (または同等のテクノロジ) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - Web アプリケーション ファイアウォール (WAF) (オプション) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;変更コントロール | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secure Software Development/Deployment | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;アカウント管理 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入の検出と防止 (オプション) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント ログ | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;レビュー (ログ データ) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベントの警告 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;情報セキュリティリスク管理 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;インシデント対応 | 該当なし |
+| [**データ処理のセキュリティ &amp; プライバシー**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **該当なし** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;転送中のデータ | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;保存中のデータ | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データの保持と廃棄 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データ アクセスの管理 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | N/A |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

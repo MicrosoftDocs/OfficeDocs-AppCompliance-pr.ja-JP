@@ -2,18 +2,19 @@
 title: RockDove Solutions, Inc. による危機の場合のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: In Case of Crisis、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f8dde14386683816f9a1dcd7f4f9d1365aa3a4d4
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 5add607e4c0c1d78c2ed214fd15ec549d2bf70dd
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254740"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547275"
 ---
 # <a name="in-case-of-crisis"></a>非常時の場合
 
@@ -40,8 +41,9 @@ RockDove Solutions, Inc. から Microsoft に提供される情報:
 | アプリの利用規約 | [https://www.rockdovesolutions.com/terms-of-use](https://www.rockdovesolutions.com/terms-of-use) |
 | アプリのコア機能 | ケース オブ クライシスは、動的な問題と危機管理ライフサイクルの目的に合ったプラットフォームです。 このアプリを使用すると、組織は、状況が展開する中で、応答プロトコルやベスト プラクティスを含むアクション可能なプレイブックを簡単に共有およびアクティブ化できます。  また、最初のレポートから解決まで、ビジネスに影響を与える問題のライフサイクル全体を管理およびキャプチャできます。   |
 | 会社の本社所在地 | アメリカ |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://www.rockdovesolutions.com/in-case-of-crisis/in-case...](https://www.rockdovesolutions.com/in-case-of-crisis/in-case-of-crisis-platform) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
+| アプリで使用するホスティング クラウド プロバイダー | Azure、AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ RockDove Solutions, Inc. から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 | 1 か月以内に削除された |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? |  |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -71,7 +66,7 @@ RockDove Solutions, Inc. から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -105,26 +100,26 @@ RockDove Solutions, Inc. から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | N/A |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | いいえ |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 不要 |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | N/A |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | N/A |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -157,24 +152,24 @@ RockDove Solutions, Inc. から Microsoft に提供される情報:
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | true |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
-| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
+| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | 不要 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 委任 | これにより、ユーザーの予定表にフル アクセスできます。 アプリには、説明、会議リンク、開始日と終了日が表示されます。 また、Outlook カレンダーでイベントを作成することもできます。 | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| Channel.ReadBasic.All | 委任 | ユーザー チャネルへのアクセスを許可します。  チャネルのユーザーリストは、ファイルをアップロードするチャネルを選択するために使用されます。 | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| Files.ReadWrite | 委任 | 該当なし | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| Files.ReadWrite.All | 委任 | ユーザーは、Issue Management からファイルをファイルにアップロードTeams | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| Sites.ReadWrite.All | 委任 | これは、プライベート チャネルにアップロードする場合に必要です。 | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| Team.ReadBasic.All | 委任 | ユーザーが属するチャネルの一覧を取得するには、チームの一覧が必要です。 これにより、利用可能なアップロード チャネルの一覧を表示できます。 | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| メール | 委任 | 認証後にユーザーのメールを取得して、データベース内のメールと比較する必要があります。 ユーザーがシステムにアカウントを持ってない場合は、アカウントを作成します。 | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| offline_access | 委任 | これにより、グラフ アクセス トークンを更新できます。 | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| openid | 委任 | openid による認証に必要なアクセス許可 | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| Calendars.ReadWrite | 委任 | これにより、ユーザーの予定表にフル アクセスできます。 アプリには、説明、会議リンク、開始日と終了日が表示されます。 また、Outlook カレンダーでイベントを作成することもできます。 | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
+>| Channel.ReadBasic.All | 委任 | ユーザー チャネルへのアクセスを許可します。  チャネルのユーザーリストは、ファイルをアップロードするチャネルを選択するために使用されます。 | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
+>| Files.ReadWrite | 委任 | 該当なし | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
+>| Files.ReadWrite.All | 委任 | ユーザーが Issue Management からファイルをファイルにアップロードTeams | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
+>| Sites.ReadWrite.All | 委任 | これは、プライベート チャネルにアップロードする場合に必要です。 | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
+>| Team.ReadBasic.All | 委任 | ユーザーが属するチャネルの一覧を取得するには、チームの一覧が必要です。 これにより、利用可能なアップロード チャネルの一覧を表示できます。 | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
+>| メール | 委任 | 認証後にユーザーのメールを取得して、データベース内のメールと比較する必要があります。 ユーザーがシステムにアカウントを持ってない場合は、アカウントを作成します。 | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
+>| offline_access | 委任 | これにより、グラフ アクセス トークンを更新できます。 | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
+>| openid | 委任 | openid による認証に必要なアクセス許可 | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

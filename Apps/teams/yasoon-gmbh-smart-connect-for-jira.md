@@ -2,18 +2,19 @@
 title: yasoon GmbH による Jira Connectスマート デバイスのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Smart Connect for Jira で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2f8db5fc4087ece98bf19f20ff3b91ab96875ed0
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: af133a525bc0809ecea134167b6a24b95b8c45d4
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252074"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545845"
 ---
 # <a name="smart-connect-for-jira"></a>Smart Connect for Jira
 
@@ -38,10 +39,11 @@ yasoon GmbH から Microsoft に提供される情報:
 | パートナー会社名 | yasoon GmbH |
 | 会社の Web サイト | [https://www.yasoon.com](https://www.yasoon.com) |
 | アプリの利用規約 | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474846970/Product_42949680957/Asset_3f25ec80-eacb-454f-8cc2-eeee583b65c6/170825EULAOfficeaddinEN.doc) |
-| アプリのコア機能 | yasoon は、Atlassian とユーザー間のスマートで深いセキュリティで保護された統合を提供 &amp; Microsoft サービス。 Atlassian Jira を使用してOutlookとTeamsツールを提供しています。 Jira アプリは、Microsoft Teamsチャットや会話を Jira の問題に接続することで、ソフトウェアチームとビジネス チームがTeams作業を支援します。 |
+| アプリのコア機能 | yasoon は、Atlassian と &amp; Microsoft サービス の間で、スマートで深いセキュリティで保護された統合を提供Microsoft サービス。 Atlassian Jira とネットワークOutlook Teamsツールを提供しています。 Jira アプリは、Microsoft Teamsチャットや会話を Jira の問題に接続することで、ソフトウェアチームとビジネス チームがTeamsに役立ちます。 |
 | 会社の本社所在地 | ドイツ |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://yasoon.com/microsoft-teams-for-jira/](https://yasoon.com/microsoft-teams-for-jira/) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
+| アプリで使用するホスティング クラウド プロバイダー | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ yasoon GmbH から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 | 3months 内で削除済み |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? |  |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -71,12 +66,12 @@ yasoon GmbH から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行しますか? | はい |
-| アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | いいえ |
+| アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | 不要 |
 | 環境で従来のマルウェア対策保護またはアプリケーションコントロールを使用していますか? |  |
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? |  |
 | パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? |  |
@@ -106,25 +101,25 @@ yasoon GmbH から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | いいえ |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | いいえ |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | いいえ |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 不要 |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 不要 |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | いいえ |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 不要 |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -157,24 +152,24 @@ yasoon GmbH から Microsoft に提供される情報:
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | true |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
-| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
+| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | 不要 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.ReadBasic.All | 委任 | このアクセス許可は、ユーザーが Jira でこの参加チャネルの 1 つを選択するために使用されます。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| ChannelMessage.Read.Group | アプリケーション | アプリが Jira でリンクされたチャネル メッセージを表示できます。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| ChannelMessage.Send | 委任 | データは使用されません。この API は、ユーザーが Jira からのチャネル メッセージに返信するために使用されます。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| ChannelSettings.Read.Group | アプリケーション | チャネルに関する詳細情報を参照するために使用します。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| Chat.ReadWrite | 委任 | ユーザーがチャットに新しい返信を追加し、Jira からのチャット メッセージを表示するために使用します。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| Member.Read.Group | アプリケーション | アクセス許可のチェックに使用され、アプリはユーザーのチーム メンバーシップを検証できます。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| Team.ReadBasic.All | 委任 | このアクセス許可は、ユーザーが Jira でこの参加チームの 1 つを選択するために使用されます。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| TeamSettings.Read.Group | アプリケーション | アプリでチーム設定を読み取り、特定の既定値を尊重できます。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| User.ReadBasic.All | 委任 | ユーザーがチャネル メッセージで @-mention する同僚を選択できます | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| Channel.ReadBasic.All | 委任 | このアクセス許可は、ユーザーが Jira でこの参加チャネルの 1 つを選択するために使用されます。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| ChannelMessage.Read.Group | アプリケーション | アプリが Jira でリンクされたチャネル メッセージを表示できます。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| ChannelMessage.Send | 委任 | データは使用されません。この API は、ユーザーが Jira からのチャネル メッセージに返信するために使用されます。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| ChannelSettings.Read.Group | アプリケーション | チャネルに関する詳細情報を参照するために使用します。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| Chat.ReadWrite | 委任 | ユーザーがチャットに新しい返信を追加し、Jira からのチャット メッセージを表示するために使用します。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| Member.Read.Group | アプリケーション | アクセス許可のチェックに使用され、アプリはユーザーのチーム メンバーシップを検証できます。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| Team.ReadBasic.All | 委任 | このアクセス許可は、ユーザーが Jira でこの参加チームの 1 つを選択するために使用されます。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| TeamSettings.Read.Group | アプリケーション | アプリでチーム設定を読み取り、特定の既定値を尊重できます。 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| User.ReadBasic.All | 委任 | ユーザーがチャネル メッセージで @-mention する同僚を選択できます | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 
