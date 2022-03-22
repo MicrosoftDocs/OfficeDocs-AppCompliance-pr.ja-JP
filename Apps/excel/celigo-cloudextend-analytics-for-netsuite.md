@@ -2,18 +2,19 @@
 title: CloudExtend Analytics for NetSuite by Celigo CloudExtend のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CloudExtend Analytics for NetSuite で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b676b57692590b1c0744399c085a0c089e4b3dfa
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 687edf914ba5842ed60ac95f2edf7dfe838cbb73
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254253"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549075"
 ---
 # <a name="cloudextend-analytics-for-netsuite"></a>CloudExtend Analytics for NetSuite
 
@@ -33,7 +34,7 @@ Celigo CloudExtend から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリ名 | CloudExtend Analytics for NetSuite |
 | ID | WA200002784 |
-| Office 365サポートされているクライアント | Excel 2016 Mac の場合は、Excel 2016または以降の mac でWindows、Excel on the web |
+| Office 365サポートされているクライアント | Excel 2016 Mac の場合は、Excel 2016以降の場合Windows、Excel on the web |
 | パートナー会社名 | Celigo CloudExtend |
 | 会社の Web サイト | [https://www.cloudextend.io](https://www.cloudextend.io) |
 | アプリの利用規約 | [https://www.cloudextend.io/agreements/ssa/2019-12/](https://www.cloudextend.io/agreements/ssa/2019-12/) |
@@ -41,6 +42,7 @@ Celigo CloudExtend から Microsoft に提供される情報:
 | 会社の本社所在地 | アメリカ |
 | アプリ情報ページ | |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
+| アプリで使用するホスティング クラウド プロバイダー | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,14 +57,7 @@ Celigo CloudExtend から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 | Retained |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? |  |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -70,7 +65,7 @@ Celigo CloudExtend から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -104,26 +99,26 @@ Celigo CloudExtend から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | いいえ |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | いいえ |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | いいえ |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 不要 |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 不要 |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 不要 |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | いいえ |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | N/A |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 不要 |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -156,17 +151,17 @@ Celigo CloudExtend から Microsoft に提供される情報:
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | false |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | 両方とも | ユーザーがサイトを通じて共有されるブックの情報を取得できるアクセス権を持つサイトのコレクションを読み取る | [7040f194-bf08-400e-acb1-69df7939416a](https://docs.microsoft.com/microsoft-365-app-certification/azure/7040f194-bf08-400e-acb1-69df7939416a) |
->| Files.ReadWrite.All | 両方とも | テーブルやシートのようなブックのコンテンツを読み取り、それらのテーブルにコンテンツを書き込む | [7040f194-bf08-400e-acb1-69df7939416a](https://docs.microsoft.com/microsoft-365-app-certification/azure/7040f194-bf08-400e-acb1-69df7939416a) |
+>| Directory.Read.All | 両方とも | ユーザーがサイトを通じて共有されるブックの情報を取得できるアクセス権を持つサイトのコレクションを読み取る | [7040f194-bf08-400e-acb1-69df7939416a](../azure/7040f194-bf08-400e-acb1-69df7939416a.md) |
+>| Files.ReadWrite.All | 両方とも | テーブルやシートのようなブックのコンテンツを読み取り、それらのテーブルにコンテンツを書き込む | [7040f194-bf08-400e-acb1-69df7939416a](../azure/7040f194-bf08-400e-acb1-69df7939416a.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

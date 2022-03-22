@@ -2,18 +2,19 @@
 title: キャロットHR 社によるアセンブリのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: アセンブリで使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6015c68e34f9d1f1a08685968281d563de08088f
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 8271fa02cf76c7747a2a4f24f699484c02e7a5c8
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257958"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547965"
 ---
 # <a name="assembly"></a>Assembly
 
@@ -40,8 +41,9 @@ ms.locfileid: "62257958"
 | アプリの利用規約 | [https://joinassembly.com/terms-of-service](https://joinassembly.com/terms-of-service) |
 | アプリのコア機能 | アセンブリは、従業員のエンゲージメントと認識プラットフォームです。 |
 | 会社の本社所在地 | アメリカ |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://www.joinassembly.com/about](https://www.joinassembly.com/about) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
+| アプリで使用するホスティング クラウド プロバイダー | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ ms.locfileid: "62257958"
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 | 2weeks 内で削除済み |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? |  |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -71,7 +66,7 @@ ms.locfileid: "62257958"
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -105,26 +100,26 @@ ms.locfileid: "62257958"
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | N/A |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
 | アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | はい |
 | 最新の SOC1 認定日 |  2020-09-01 |
 | アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | はい |
 | どの SOC 2 認定を取得しましたか? |   |
 | 最新の SOC2 認定日 |  2021-02-28 |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
 | アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | はい |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -157,22 +152,22 @@ ms.locfileid: "62257958"
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | false |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
-| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
+| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | 不要 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.Create | 委任 | ユーザーがアプリから新しく作成したチャネルにアプリを割り当て許可する | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
->| Directory.Read.All | アプリケーション | Assembly でメンバーが適切に検索可能な状態でプロファイルを同期する | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
->| Group.Read.All | 委任 | データを確認して、アプリを正しいグループに割り当て可能 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
->| Teams.ReadBasic.All | アプリケーション | アプリを正しいチーム タブに割り当てる機能 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
->| TeamsTab.Create | アプリケーション | これを使用して、アプリをチャネル/チームに適切に追加できます。 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
->| メール | 委任 | ユーザーの電子メールを使用して、ユーザーに特定のアカウントへのアクセス権を付与する | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
->| profile | 委任 | アセンブリを自動入力し、アセンブリ内の変更と同期を維持するユーザー Microsoft Teams | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| Channel.Create | 委任 | ユーザーがアプリから新しく作成したチャネルにアプリを割り当て許可する | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](../azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905.md) |
+>| Directory.Read.All | アプリケーション | Assembly でメンバーが適切に検索可能な状態でプロファイルを同期する | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](../azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905.md) |
+>| Group.Read.All | 委任 | データを確認して、アプリを正しいグループに割り当て可能 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](../azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905.md) |
+>| Teams.ReadBasic.All | アプリケーション | アプリを正しいチーム タブに割り当てる機能 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](../azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905.md) |
+>| TeamsTab.Create | アプリケーション | これを使用して、アプリをチャネル/チームに適切に追加できます。 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](../azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905.md) |
+>| メール | 委任 | ユーザーの電子メールを使用して、ユーザーに特定のアカウントへのアクセス権を付与する | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](../azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905.md) |
+>| profile | 委任 | アセンブリを自動入力し、アセンブリ内の変更と同期を維持するユーザー Microsoft Teams | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](../azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

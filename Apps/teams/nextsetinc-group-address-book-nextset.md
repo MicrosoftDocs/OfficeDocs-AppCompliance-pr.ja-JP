@@ -2,18 +2,19 @@
 title: グループ アドレス帳のアプリケーション情報 - NextSet,Inc. による NextSet
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: グループ アドレス帳 - NextSet、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: グループ アドレス帳 - NextSet、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 09e5d01426bdba43990510c4e9b0574deaa648ef
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: a74bbe8c40d4db32d9c6eeb64b59fd1af4f4b916
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254843"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547865"
 ---
 # <a name="group-address-book---nextset"></a>組織アドレス帳 - ネクストセット
 
@@ -40,8 +41,9 @@ NextSet,Inc. から Microsoft に提供される情報:
 | アプリの利用規約 | [https://www.nextset.co.jp/terms/address.pdf](https://www.nextset.co.jp/terms/address.pdf) |
 | アプリのコア機能 | NextSet グループ アドレス帳には、スタッフ一覧の表示、スタッフ検索などの機能があります。 管理者は、スタッフと組織情報をインポートしてグループ アドレス帳を生成します。 さらに、ユーザーは個人用アドレス帳 (電話番号、内線番号など) を登録できます。 |
 | 会社の本社所在地 | 日本 |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://www.nextset.co.jp/address.html](https://www.nextset.co.jp/address.html) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
+| アプリで使用するホスティング クラウド プロバイダー | GCP、Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ NextSet,Inc. から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 | 3months 以降に削除された |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? |  |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -71,7 +66,7 @@ NextSet,Inc. から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -105,26 +100,26 @@ NextSet,Inc. から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | N/A |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | N/A |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | N/A |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | はい |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | N/A |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -157,18 +152,18 @@ NextSet,Inc. から Microsoft に提供される情報:
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | false |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.ReadWrite.All | 委任 | Microsoft 365&#19978;&#12398;&#32068;&#32340;&#12434;&#21462;&#24471;&#12375;&#12484;&#12522;&#12540;&#24418;&#24335;&#12391;&#34920;&#31034;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | [53d19d16-137b-4365-a095-685d5044d28c](https://docs.microsoft.com/microsoft-365-app-certification/azure/53d19d16-137b-4365-a095-685d5044d28c) |
->| User.Read.All | 両方とも | Microsoft 365&#19978;&#12398;&#32068;&#32340;&#12395;&#25152;&#23646;&#12377;&#12427;&#12518;&#12540;&#12470;&#12540;&#19968;&#35239;&#12434;&#34920;&#31034;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | [53d19d16-137b-4365-a095-685d5044d28c](https://docs.microsoft.com/microsoft-365-app-certification/azure/53d19d16-137b-4365-a095-685d5044d28c) |
->| openid | 委任 | &#12525;&#12464;&#12452;&#12531;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12434;&#21462;&#24471;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | [53d19d16-137b-4365-a095-685d5044d28c](https://docs.microsoft.com/microsoft-365-app-certification/azure/53d19d16-137b-4365-a095-685d5044d28c) |
+>| Group.ReadWrite.All | 委任 | Microsoft 365&#19978;&#12398;&#32068;&#32340;&#12434;&#21462;&#24471;&#12375;&#12484;&#12522;&#12540;&#24418;&#24335;&#12391;&#34920;&#31034;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | [53d19d16-137b-4365-a095-685d5044d28c](../azure/53d19d16-137b-4365-a095-685d5044d28c.md) |
+>| User.Read.All | 両方とも | Microsoft 365&#19978;&#12398;&#32068;&#32340;&#12395;&#25152;&#23646;&#12377;&#12427;&#12518;&#12540;&#12470;&#12540;&#19968;&#35239;&#12434;&#34920;&#31034;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | [53d19d16-137b-4365-a095-685d5044d28c](../azure/53d19d16-137b-4365-a095-685d5044d28c.md) |
+>| openid | 委任 | &#12525;&#12464;&#12452;&#12531;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12434;&#21462;&#24471;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | [53d19d16-137b-4365-a095-685d5044d28c](../azure/53d19d16-137b-4365-a095-685d5044d28c.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

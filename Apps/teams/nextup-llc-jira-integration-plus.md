@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Jira Integration Plus、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8adf13a171e6a075ff4b22e9325912f6c1738cf8
-ms.sourcegitcommit: 4d215076edbae690d7c44cd05dc15d0a495b82bf
+ms.openlocfilehash: 92f2d7375e92a2ff69e83af28380d6e6d038700c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "63470223"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548385"
 ---
 # <a name="jira-integration-plus"></a>Jira Integration Plus
 
@@ -43,7 +43,6 @@ Nextup、LLC から Microsoft に提供される情報:
 | 会社の本社所在地 | アメリカ |
 | アプリ情報ページ | [https://www.nextup.ai/microsoft-teams/jira-integration-plus/](https://www.nextup.ai/microsoft-teams/jira-integration-plus/) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | IsvHosted |
-| アプリで使用するホスティング クラウド プロバイダー |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -62,7 +61,7 @@ Nextup、LLC から Microsoft に提供される情報:
 | アプリは TLS 1.1 以上をサポートしていますか? | はい |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
 | データベースに格納されているデータは何ですか? | 一意の識別子と電子メール アドレス |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
+| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | アメリカ |
 | データの借入および廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後にデータが保持される期間 | 30 日未満 |
 | データ アクセス管理プロセスが確立されていますか? | はい |
@@ -171,16 +170,16 @@ Nextup、LLC から Microsoft に提供される情報:
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AccessReview.Read.All | 両方とも | この API を使用して、ユーザーがアプリケーションにアクセスするアクセス許可を持っているか確認します。 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| AccessReview.ReadWrite.All | 両方とも | この API を使用して、ユーザーがアプリケーションにアクセスするアクセス許可を持っているか確認します。 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Directory.Read.All | 両方とも | この API を使用して、ユーザーがアプリケーションとチームとチャネルでボットをTeams許可を得る | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Directory.Read.All | 両方とも | この API を使用して、ユーザーがアプリケーションとチームとチャネルでボットをTeams許可を得る | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Files.ReadWrite.All | 両方とも | この API を使用して、Jira の問題に添付できるユーザーからのファイルを受け入れる | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Files.ReadWrite.All | 両方とも | この API を使用して、Jira の問題に添付できるユーザーからのファイルを受け入れる | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Sites.Read.All | 両方とも | この API を使用して、ユーザーがアクセスできるサイトを確認し、適切な場所でチケットを作成できます。 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Sites.Read.All | 両方とも | この API を使用して、ユーザーがアクセスできるサイトを確認し、適切な場所でチケットを作成できます。 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| User.ReadWrite.All | 両方とも | この API を使用して、管理者ユーザーが自分の組織が Jira でアプリケーションを使用するために割り当て許可を与えるのを許可します。 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| User.ReadWrite.All | 両方とも | この API を使用して、管理者ユーザーが自分の組織が Jira でアプリケーションを使用するために割り当て許可を与えるのを許可します。 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
+>| AccessReview.Read.All | 両方とも | この API を使用して、ユーザーがアプリケーションにアクセスするアクセス許可を持っているか確認します。 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| AccessReview.ReadWrite.All | 両方とも | この API を使用して、ユーザーがアプリケーションにアクセスするアクセス許可を持っているか確認します。 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Directory.Read.All | 両方とも | この API を使用して、ユーザーがアプリケーションとチームとチャネルでボットをTeams許可を得る | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Directory.Read.All | 両方とも | この API を使用して、ユーザーがアプリケーションとチームとチャネルでボットをTeams許可を得る | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Files.ReadWrite.All | 両方とも | この API を使用して、Jira の問題に添付できるユーザーからのファイルを受け入れる | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Files.ReadWrite.All | 両方とも | この API を使用して、Jira の問題に添付できるユーザーからのファイルを受け入れる | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Sites.Read.All | 両方とも | この API を使用して、ユーザーがアクセスできるサイトを確認し、適切な場所でチケットを作成できます。 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Sites.Read.All | 両方とも | この API を使用して、ユーザーがアクセスできるサイトを確認し、適切な場所でチケットを作成できます。 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| User.ReadWrite.All | 両方とも | この API を使用して、管理者ユーザーが自分の組織が Jira でアプリケーションを使用するために割り当て許可を与えるのを許可します。 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| User.ReadWrite.All | 両方とも | この API を使用して、管理者ユーザーが自分の組織が Jira でアプリケーションを使用するために割り当て許可を与えるのを許可します。 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

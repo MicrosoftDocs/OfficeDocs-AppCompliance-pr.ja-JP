@@ -2,18 +2,19 @@
 title: Evocom Informationssysteme GmbH による Evocom のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Evocom、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 26aa34b7e3c8bfc167a771a7e6f630f24dbf9487
-ms.sourcegitcommit: 27afe4d564e72c28ea073e4b31801ad983aec173
+ms.openlocfilehash: 980a6217bd5967af64dd2cb6f3d47cc3eb2dab42
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62477150"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547895"
 ---
 # <a name="evocom"></a>Evocom
 
@@ -38,9 +39,9 @@ Evocom Informationssysteme GmbH から Microsoft に提供される情報:
 | パートナー会社名 | Evocom Informationssysteme GmbH |
 | 会社の Web サイト | [https://evocom.de](https://evocom.de) |
 | アプリの利用規約 | [https://evocom.de/termsofuse](https://evocom.de/termsofuse) |
-| アプリのコア機能 | Evocom&#180;S USP = 簡易性。 Evocom は、共同作業ワークフロー、プロジェクト、タスク管理のための直感的なソリューションです。 情報作業者はプロセスを設計し、すぐに生き生きとします。 部署のユーザーは、Evocom を使用して、内部作業を調整するマイクロ プロセスをデジタル化します。 プロセス スペシャリストは、部署のマイクロ プロセスを使用して部門間プロセスを調整し、CRM、ERP などの LOB システムとの既存の統合を利用します。 |
+| アプリのコア機能 | Evocom&#180;S USP = 簡易性です。 Evocom は、共同作業ワークフロー、プロジェクト、タスク管理のための直感的なソリューションです。 情報作業者はプロセスを設計し、すぐに生き生きとします。 部署のユーザーは、Evocom を使用して、内部作業を調整するマイクロ プロセスをデジタル化します。 プロセス スペシャリストは、部署のマイクロ プロセスを使用して部門間プロセスを調整し、CRM、ERP などの LOB システムとの既存の統合を利用します。 |
 | 会社の本社所在地 | ドイツ |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://evocom.de/microsoft365](https://evocom.de/microsoft365) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
 | アプリで使用するホスティング クラウド プロバイダー | Azure |
 
@@ -65,7 +66,7 @@ Evocom Informationssysteme GmbH から Microsoft に提供される情報:
 | データの借入および廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後にデータが保持される期間 | 保持されない |
 | データ アクセス管理プロセスが確立されていますか? | はい |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | いいえ |
+| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | 不要 |
 | Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -84,7 +85,7 @@ Evocom Informationssysteme GmbH から Microsoft に提供される情報:
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? | はい |
 | パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? | はい |
 | パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
-| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | いいえ |
+| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | 不要 |
 | アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | はい |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
 | 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
@@ -120,8 +121,8 @@ Evocom Informationssysteme GmbH から Microsoft に提供される情報:
 | アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
@@ -141,8 +142,8 @@ Evocom Informationssysteme GmbH から Microsoft に提供される情報:
 | アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | はい |
 | プライバシー ポリシーの URL | https://evocom.de/datenschutz |
 | アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | 不要 |
-| アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | 不要 |
-| 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | 不要 |
+| アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
+| 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
 | アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
 | アプリには、要求に応じて個人の個人データを削除する機能がありますか? | はい |
 | アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | はい |
@@ -167,12 +168,12 @@ Evocom Informationssysteme GmbH から Microsoft に提供される情報:
 | アプリはコードに資格情報を保存しますか? | 不要 |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委任 | Profilbild anzeigen | [3e745135-a761-48a7-ab54-5c0277b2e642](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e745135-a761-48a7-ab54-5c0277b2e642) |
->| User.ReadBasic.All | 委任 | PeoplePicker, Benutzerverwaltung | [3e745135-a761-48a7-ab54-5c0277b2e642](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e745135-a761-48a7-ab54-5c0277b2e642) |
+>| User.Read | 委任 | Profilbild anzeigen | [3e745135-a761-48a7-ab54-5c0277b2e642](../azure/3e745135-a761-48a7-ab54-5c0277b2e642.md) |
+>| User.ReadBasic.All | 委任 | PeoplePicker, Benutzerverwaltung | [3e745135-a761-48a7-ab54-5c0277b2e642](../azure/3e745135-a761-48a7-ab54-5c0277b2e642.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: vimheslo、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0149e5bd2930cc2cbb93964cfdcd0399ce119f88
-ms.sourcegitcommit: 4d215076edbae690d7c44cd05dc15d0a495b82bf
+ms.openlocfilehash: c419392746cbd58dcd3ba656b0da369f5294a06a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "63470228"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548475"
 ---
 # <a name="vimheslo"></a>vimheslo
 
@@ -36,7 +36,7 @@ ms.locfileid: "63470228"
 | アプリ名 | vimheslo |
 | ID | WA200003843 |
 | Office 365サポートされているクライアント | Microsoft Teams |
-| パートナー会社名 | ヨーロッパのコード ファクトリ s.r.o. |
+| パートナー会社名 | European Code Factory s.r.o. |
 | 会社の Web サイト | [https://ecodef.cz](https://ecodef.cz) |
 | アプリの利用規約 | [https://ecodef.cz/terms_of_use.html](https://ecodef.cz/terms_of_use.html) |
 | アプリのコア機能 | パスワード マネージャー |
@@ -57,7 +57,7 @@ ms.locfileid: "63470228"
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | いいえ |
+| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | 不要 |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -161,10 +161,10 @@ ms.locfileid: "63470228"
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.Read.All | 委任 | データはドキュメント ライブラリOneDriveまたはSharePointに格納され、アプリケーションはデータを読み取る必要があります。 | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845) |
->| Sites.Read.All | 委任 | 関連するドキュメント ライブラリ内のチーム コンテキスト ストア SharePointアプリケーションでは、データを含むファイルが格納されているセットアップ パスへのサイト名を読み取る必要があります。 | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845) |
->| User.Read | 委任 | アプリケーションは、個人データを保存OneDrive個人データを知る必要があります。 | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845) |
->| メール | 委任 | データの共有を許可する。 | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845) |
+>| Files.Read.All | 委任 | データはドキュメント ライブラリOneDriveまたはSharePointに格納され、アプリケーションはデータを読み取る必要があります。 | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845.md) |
+>| Sites.Read.All | 委任 | 関連するドキュメント ライブラリ内のチーム コンテキスト ストア SharePointアプリケーションでは、データを含むファイルが格納されているセットアップ パスへのサイト名を読み取る必要があります。 | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845.md) |
+>| User.Read | 委任 | アプリケーションは、個人データを保存OneDrive個人データを知る必要があります。 | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845.md) |
+>| メール | 委任 | データの共有を許可する。 | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

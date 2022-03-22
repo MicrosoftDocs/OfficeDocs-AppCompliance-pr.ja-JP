@@ -2,18 +2,19 @@
 title: Senso による Senso のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Senso、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ebea7a764d7df4ca34e4ae28d471f61b04b473c5
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: ab3249962a8941124a8a407bc46dd8d8d5edfad9
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250967"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547765"
 ---
 # <a name="senso"></a>Senso
 
@@ -40,8 +41,9 @@ Senso から Microsoft に提供される情報:
 | アプリの利用規約 | [https://www.senso.cloud/eula](https://www.senso.cloud/eula) |
 | アプリのコア機能 | 不適切なメッセージや画像のキーワードや画像を分析する。  |
 | 会社の本社所在地 | 英国英国と北アイルランド (the) |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://www.senso.cloud/safeguarding-microsoft-teams/](https://www.senso.cloud/safeguarding-microsoft-teams/) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
+| アプリで使用するホスティング クラウド プロバイダー | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Senso から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 | 3months 以降に削除された |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? |  |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -71,7 +66,7 @@ Senso から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -105,26 +100,26 @@ Senso から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | N/A |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | N/A |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | いいえ |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | N/A |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 不要 |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | はい |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | はい |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -161,20 +156,20 @@ Senso から Microsoft に提供される情報:
 | サポートされているポリシーの種類を一覧表示する | 役割ベースのアクセス許可 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
-| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
+| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | 不要 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.ReadBasic.All | アプリケーション | すべてのチャネルのチャネル名と説明を読み、違反のフラグが設定された場所を特定します。   | [a9d28fcf-036e-4a85-9003-332303e3a29b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b) |
->| ChannelMember.Read.All | アプリケーション | すべてのチャネルのメンバー リストとチャット メッセージを読み取る。 | [a9d28fcf-036e-4a85-9003-332303e3a29b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b) |
->| ChannelMessage.Read.All | アプリケーション | すべてのチャネル メッセージを読み取る | [a9d28fcf-036e-4a85-9003-332303e3a29b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b) |
->| Chat.Read.All | アプリケーション | すべてのチャット メッセージの読み取り | [a9d28fcf-036e-4a85-9003-332303e3a29b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b) |
->| Directory.Read.All | アプリケーション | ディレクトリ データの読み取り | [a9d28fcf-036e-4a85-9003-332303e3a29b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b) |
->| Files.Read.All | アプリケーション | すべてのサイト コレクションにおけるファイルの読み取り | [a9d28fcf-036e-4a85-9003-332303e3a29b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b) |
->| User.Read | 委任 | サインインおよびユーザー プロファイルの読み取り | [a9d28fcf-036e-4a85-9003-332303e3a29b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b) |
->| User.Read.All | アプリケーション | すべてのユーザーの完全なプロファイルの読み取り | [a9d28fcf-036e-4a85-9003-332303e3a29b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b) |
+>| Channel.ReadBasic.All | アプリケーション | すべてのチャネルのチャネル名と説明を読み、違反のフラグが設定された場所を特定します。   | [a9d28fcf-036e-4a85-9003-332303e3a29b](../azure/a9d28fcf-036e-4a85-9003-332303e3a29b.md) |
+>| ChannelMember.Read.All | アプリケーション | すべてのチャネルのメンバー リストとチャット メッセージを読み取る。 | [a9d28fcf-036e-4a85-9003-332303e3a29b](../azure/a9d28fcf-036e-4a85-9003-332303e3a29b.md) |
+>| ChannelMessage.Read.All | アプリケーション | すべてのチャネル メッセージを読み取る | [a9d28fcf-036e-4a85-9003-332303e3a29b](../azure/a9d28fcf-036e-4a85-9003-332303e3a29b.md) |
+>| Chat.Read.All | アプリケーション | すべてのチャット メッセージの読み取り | [a9d28fcf-036e-4a85-9003-332303e3a29b](../azure/a9d28fcf-036e-4a85-9003-332303e3a29b.md) |
+>| Directory.Read.All | アプリケーション | ディレクトリ データの読み取り | [a9d28fcf-036e-4a85-9003-332303e3a29b](../azure/a9d28fcf-036e-4a85-9003-332303e3a29b.md) |
+>| Files.Read.All | アプリケーション | すべてのサイト コレクションにおけるファイルの読み取り | [a9d28fcf-036e-4a85-9003-332303e3a29b](../azure/a9d28fcf-036e-4a85-9003-332303e3a29b.md) |
+>| User.Read | 委任 | サインインおよびユーザー プロファイルの読み取り | [a9d28fcf-036e-4a85-9003-332303e3a29b](../azure/a9d28fcf-036e-4a85-9003-332303e3a29b.md) |
+>| User.Read.All | アプリケーション | すべてのユーザーの完全なプロファイルの読み取り | [a9d28fcf-036e-4a85-9003-332303e3a29b](../azure/a9d28fcf-036e-4a85-9003-332303e3a29b.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

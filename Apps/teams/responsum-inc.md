@@ -2,18 +2,19 @@
 title: Responsum Inc. による Responsum のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Responsum で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: Responsum で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 4493dc2a315ff7e800e551f8e436b755cebe4ebf
-ms.sourcegitcommit: dd610febc885b7c5766014e7364ed43c4bd942ac
+ms.openlocfilehash: fc5491bf2157ac27e1a7c852b7ade55dc8fe2244
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/08/2022
-ms.locfileid: "62449442"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548865"
 ---
 # <a name="responsum"></a>Responsum
 
@@ -59,14 +60,7 @@ Responsum Inc.から Microsoft に提供される情報:
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
 | アプリで処理されるデータは何ですか? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | アプリは TLS 1.1 以上をサポートしていますか? | はい |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 |  |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | はい |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? | 不要 |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -118,11 +112,11 @@ Responsum Inc.から Microsoft に提供される情報:
 | アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
 | アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
@@ -138,7 +132,7 @@ Responsum Inc.から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | いいえ |
-| アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | いいえ |
+| アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | 不要 |
 | アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | いいえ |
 | アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
 | 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
@@ -165,7 +159,7 @@ Responsum Inc.から Microsoft に提供される情報:
 | アプリはコードに資格情報を保存しますか? | 不要 |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
->このアプリケーションでは、Microsoft アプリケーションをGraph。
+>このアプリケーションでは、Microsoft のアプリケーションをGraph。
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: ServiceDesk Plus Cloud で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 806f347e7083889c01e9c8e7649621c155184d75
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: f0d450a5aed6f38dd2083c094a9280241c8b9545
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63454276"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549545"
 ---
 # <a name="servicedesk-plus-cloud"></a>ServiceDesk Plus Cloud
 
@@ -43,7 +43,6 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 | 会社の本社所在地 | アメリカ |
 | アプリ情報ページ | [https://help.sdpondemand.com/servicedeskplus_cloud_for_teams](https://help.sdpondemand.com/servicedeskplus_cloud_for_teams) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | IsvHosted |
-| アプリで使用するホスティング クラウド プロバイダー |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -62,7 +61,7 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 | アプリは TLS 1.1 以上をサポートしていますか? | はい |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
 | データベースに格納されているデータは何ですか? | ユーザー ID、ユーザー名、電子メール アドレス |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
+| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | アメリカ |
 | データの借入および廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後にデータが保持される期間 | 90days 未満 |
 | データ アクセス管理プロセスが確立されていますか? | はい |
@@ -172,8 +171,8 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委任 | サインインおよびユーザー プロファイルの読み取り | [127e5be9-da2c-4335-a284-da367379428a](../azure/127e5be9-da2c-4335-a284-da367379428a) |
->| offline_access | 委任 | アクセス許可を付与したデータへのアクセスの維持 | [127e5be9-da2c-4335-a284-da367379428a](../azure/127e5be9-da2c-4335-a284-da367379428a) |
+>| User.Read | 委任 | サインインおよびユーザー プロファイルの読み取り | [127e5be9-da2c-4335-a284-da367379428a](../azure/127e5be9-da2c-4335-a284-da367379428a.md) |
+>| offline_access | 委任 | アクセス許可を付与したデータへのアクセスの維持 | [127e5be9-da2c-4335-a284-da367379428a](../azure/127e5be9-da2c-4335-a284-da367379428a.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

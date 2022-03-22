@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: ENA SmartUC Connector、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d2095a16fc5f3d9a0e28f8cf782ae292c330a947
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: 4f3825a2a210998277fcf00634fc8e78679ff6a5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63459794"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548885"
 ---
-# <a name="ena-smartuc-connector"></a>ENA SmartUC コネクタ
+# <a name="ena-smartuc-connector"></a>ENA SmartUC Connector
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,7 +33,7 @@ ENA から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | ENA SmartUC コネクタ |
+| アプリ名 | ENA SmartUC Connector |
 | ID | WA200003354 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | ENA |
@@ -102,8 +102,8 @@ ENA から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | いいえ |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 不要 |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 不要 |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | いいえ |
 | アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | いいえ |
 | 最新の SOC1 認定日 |   |
 | アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
@@ -163,13 +163,13 @@ ENA から Microsoft に提供される情報:
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMember.Read.All | 委任 | 現在のチャネル/チャットのメンバーのユーザー ID と表示名。 アプリはこれを使用して、通話するチャネル/チャット メンバーの一覧をユーザーに提示します。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| Chat.ReadBasic | 委任 | 現在のチャットのメンバーのユーザー ID と表示名。 アプリはこれを使用して、通話するチャット メンバーの一覧をユーザーに提示します。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| People.Read.All | 委任 | 現在のチームのメンバーのユーザー ID と表示名。 アプリはこれを使用して、呼び出すチーム メンバーの一覧をユーザーに提示します。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| User.Read.All | 委任 | ユーザーのビジネス電話番号と携帯電話番号。 これは、これらの番号への電話を開始するために必要です。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| offline_access | 委任 | ユーザーの承認トークンで、アプリが自分の代わりに一覧にGraph API エンドポイントにアクセスする権限を付与します。 Microsoft Identity プラットフォーム アプリケーションが動作するには、これらのアクセス許可が必要です。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| openid | 委任 | ユーザーの承認トークンで、アプリが自分の代わりに一覧にGraph API エンドポイントにアクセスする権限を付与します。 Microsoft Identity プラットフォーム アプリケーションが動作するには、これらのアクセス許可が必要です。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| profile | 委任 | ユーザーの承認トークンで、アプリが自分の代わりに一覧にGraph API エンドポイントにアクセスする権限を付与します。 Microsoft Identity プラットフォーム アプリケーションが動作するには、これらのアクセス許可が必要です。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
+>| ChannelMember.Read.All | 委任 | 現在のチャネル/チャットのメンバーのユーザー ID と表示名。 アプリはこれを使用して、通話するチャネル/チャット メンバーの一覧をユーザーに提示します。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| Chat.ReadBasic | 委任 | 現在のチャットのメンバーのユーザー ID と表示名。 アプリはこれを使用して、通話するチャット メンバーの一覧をユーザーに提示します。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| People.Read.All | 委任 | 現在のチームのメンバーのユーザー ID と表示名。 アプリはこれを使用して、呼び出すチーム メンバーの一覧をユーザーに提示します。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| User.Read.All | 委任 | ユーザーのビジネス電話番号と携帯電話番号。 これは、これらの番号への電話を開始するために必要です。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| offline_access | 委任 | ユーザーの承認トークンで、アプリが自分の代わりに一覧にGraph API エンドポイントにアクセスする権限を付与します。 Microsoft Identity プラットフォーム アプリケーションが動作するには、これらのアクセス許可が必要です。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| openid | 委任 | ユーザーの承認トークンで、アプリが自分の代わりに一覧にGraph API エンドポイントにアクセスする権限を付与します。 Microsoft Identity プラットフォーム アプリケーションが動作するには、これらのアクセス許可が必要です。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| profile | 委任 | ユーザーの承認トークンで、アプリが自分の代わりに一覧にGraph API エンドポイントにアクセスする権限を付与します。 Microsoft Identity プラットフォーム アプリケーションが動作するには、これらのアクセス許可が必要です。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

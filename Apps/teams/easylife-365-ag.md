@@ -2,18 +2,19 @@
 title: EasyLife 365 AG による EasyLife 365 のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/04/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: EasyLife 365 で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+description: EasyLife 365 で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 489c314ca81a9701d1e8304ca5c278f20f270d97
-ms.sourcegitcommit: dd610febc885b7c5766014e7364ed43c4bd942ac
+ms.openlocfilehash: cf7a3b8b77e915f42d1a8d3d1573ca23fcf1cf78
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/08/2022
-ms.locfileid: "62449450"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548495"
 ---
 # <a name="easylife-365"></a>EasyLife 365
 
@@ -40,9 +41,8 @@ EasyLife 365 AG から Microsoft に提供される情報:
 | アプリの利用規約 | [https://www.easylife365.cloud/terms](https://www.easylife365.cloud/terms) |
 | アプリのコア機能 | ガバナンスを簡単に! |
 | 会社の本社所在地 | スイス |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://www.easylife365.cloud/governance/features](https://www.easylife365.cloud/governance/features) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | IsvHosted |
-| アプリで使用するホスティング クラウド プロバイダー |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -85,7 +85,7 @@ EasyLife 365 AG から Microsoft に提供される情報:
 | パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? | はい |
 | パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
 | 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | 不要 |
-| アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | いいえ |
+| アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | 不要 |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | いいえ |
 | 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
 | 追加のユーザーが、元の開発者によって実稼働環境に提出されたコード変更要求を確認および承認していますか? | はい |
@@ -112,20 +112,20 @@ EasyLife 365 AG から Microsoft に提供される情報:
 | アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 不要 |
 | アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 不要 |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
 | アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | いいえ |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 不要 |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | いいえ |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | いいえ |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 不要 |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 不要 |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | いいえ |
 | アプリは NIST 800-171 に準拠していますか? | いいえ |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
@@ -140,14 +140,14 @@ EasyLife 365 AG から Microsoft に提供される情報:
 | GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | はい |
 | プライバシー ポリシーの URL | https://www.easylife365.cloud/web/privacy |
-| アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | いいえ |
+| アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | 不要 |
 | アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
 | 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
 | アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
-| アプリには、要求に応じて個人の個人データを削除する機能がありますか? | いいえ |
-| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | いいえ |
-| アプリは個人に個人データを修正または更新する機能を提供しますか? | 不要 |
-| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | 不要 |
+| アプリには、要求に応じて個人の個人データを削除する機能がありますか? | 不要 |
+| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | 不要 |
+| アプリは個人に個人データを修正または更新する機能を提供しますか? | いいえ |
+| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,30 +166,30 @@ EasyLife 365 AG から Microsoft に提供される情報:
 | アプリはコードに資格情報を保存しますか? | いいえ |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.Read.All | 委任 | アプリ内のMicrosoft 365グループを管理できます | [192ba193-b68c-464c-a920-7eaa93b59a12](https://docs.microsoft.com/microsoft-365-app-certification/azure/192ba193-b68c-464c-a920-7eaa93b59a12) |
->| User.Read.All | 委任 | アプリケーション内のユーザー情報を取得するために使用します。 ユーザーピッカーで使用される | [192ba193-b68c-464c-a920-7eaa93b59a12](https://docs.microsoft.com/microsoft-365-app-certification/azure/192ba193-b68c-464c-a920-7eaa93b59a12) |
->| ChannelMember.ReadWrite.All | アプリケーション | バックエンド アプリのチャネル メンバーの読み取りおよび操作に使用されます。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Directory.ReadWrite.All | 両方とも | EasyLife 365 のテナントでアプリのアクセス許可を確認するために使用します。 バックエンド内のグループへのゲスト アクセスをMicrosoft 365/有効にする場合に使用します。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Group.ReadWrite.All | アプリケーション | グループのプロビジョニングMicrosoft 365、グループの所有者の確認、グループのアーカイブ、バックエンド サービスTeamsグループの削除に使用されます。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Mail.Send | アプリケーション | 環境内のすべてのメールボックスを持つユーザーにメール通知を送信できます。 これは、共有メールボックスまたはユーザーからメールを送信するように管理者によって構成されます。 管理者は通常、このアプリのアクセス許可をアプリ ID に制限します。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| MailboxSettings.Read | アプリケーション | 特定の言語で通知を送信する前に、ユーザー メールボックスの言語設定を読み取る場合に使用します。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Reports.Read.All | アプリケーション | バックエンド内のグループの使用状況Microsoft 365確認するために使用されます。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Sites.Read.All | アプリケーション | テナント内のオンライン SharePointを列挙するために使用します。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| User.Read.All | アプリケーション | ユーザーを参照し、通知を送信する基本情報を取得するために使用します。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| User.ReadWrite.All | アプリケーション | バックエンド アプリケーションで必要に応じて、ゲスト アカウントの招待、ゲスト アカウントのメタデータの変更、ゲスト アカウントの削除に使用されます。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| ChannelMember.ReadWrite.All | 委任 | ユーザーがチームのチャネル メンバーシップを操作するために使用する | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| Group.ReadWrite.All | 委任 | グループとグループのメタデータを操作Microsoft 365使用Teams。 環境内のグループを検索するために使用されます。 | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| TeamsActivity.Send | アプリケーション | バックエンドでTeams通知を送信するために使用します。 | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| TeamsAppInstallation.ReadForUser.All | アプリケーション | ユーザーが EasyLife アプリがインストールされていることを確認してから、ユーザーに通知を送信Teams。 | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| User.Read.All | 委任 | 組織内のユーザーを検索するためにユーザー選択者によって使用されます。ゲスト アカウントの列挙に使用する | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| メール | 委任 | SSO 認証で使用される | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| offline_access | 委任 | SSO 認証で使用される | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| openid | 委任 | SSO 認証で使用される | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| profile | 委任 | SSO 認証で使用される | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
+>| Group.Read.All | 委任 | アプリ内のMicrosoft 365グループを管理できます | [192ba193-b68c-464c-a920-7eaa93b59a12](../azure/192ba193-b68c-464c-a920-7eaa93b59a12.md) |
+>| User.Read.All | 委任 | アプリケーション内のユーザー情報を取得するために使用します。 ユーザーピッカーで使用される | [192ba193-b68c-464c-a920-7eaa93b59a12](../azure/192ba193-b68c-464c-a920-7eaa93b59a12.md) |
+>| ChannelMember.ReadWrite.All | アプリケーション | バックエンド アプリのチャネル メンバーの読み取りおよび操作に使用されます。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Directory.ReadWrite.All | 両方とも | EasyLife 365 のテナントでアプリのアクセス許可を確認するために使用します。 バックエンド内のグループへのゲスト アクセスをMicrosoft 365/有効にする場合に使用します。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Group.ReadWrite.All | アプリケーション | グループのプロビジョニングMicrosoft 365、グループの所有者の確認、アーカイブ、バックエンド サービスTeamsグループの削除に使用されます。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Mail.Send | アプリケーション | 環境内のすべてのメールボックスを持つユーザーにメール通知を送信できます。 これは、共有メールボックスまたはユーザーからメールを送信するように管理者によって構成されます。 管理者は通常、このアプリのアクセス許可をアプリ ID に制限します。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| MailboxSettings.Read | アプリケーション | 特定の言語で通知を送信する前に、ユーザー メールボックスの言語設定を読み取る場合に使用します。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Reports.Read.All | アプリケーション | バックエンド内のグループの使用状況Microsoft 365確認するために使用されます。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Sites.Read.All | アプリケーション | テナント内のオンライン SharePointを列挙するために使用されます。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| User.Read.All | アプリケーション | ユーザーを参照し、通知を送信する基本情報を取得するために使用します。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| User.ReadWrite.All | アプリケーション | バックエンド アプリケーションで必要に応じて、ゲスト アカウントの招待、ゲスト アカウントのメタデータの変更、ゲスト アカウントの削除に使用されます。 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| ChannelMember.ReadWrite.All | 委任 | ユーザーがチームのチャネル メンバーシップを操作するために使用する | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| Group.ReadWrite.All | 委任 | グループとグループのメタデータを操作Microsoft 365使用Teams。 環境内のグループを検索するために使用されます。 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| TeamsActivity.Send | アプリケーション | バックエンドで通知Teams送信する場合に使用します。 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| TeamsAppInstallation.ReadForUser.All | アプリケーション | ユーザーが EasyLife アプリがインストールされていることを確認してから、ユーザーに通知を送信Teams。 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| User.Read.All | 委任 | 組織内のユーザーを検索するためにユーザー選択者によって使用されます。ゲスト アカウントの列挙に使用する | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| メール | 委任 | SSO 認証で使用される | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| offline_access | 委任 | SSO 認証で使用される | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| openid | 委任 | SSO 認証で使用される | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| profile | 委任 | SSO 認証で使用される | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

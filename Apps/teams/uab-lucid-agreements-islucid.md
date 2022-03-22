@@ -2,18 +2,19 @@
 title: UAB Lucid Agreements による isLucid のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: isLucid、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 83c9786dcb0cd7f8ff6c5d744c5eaf3fb63b9ab3
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: ac2d52a234c50cd0a59ecb4bbbc62bd346a929d7
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255463"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547755"
 ---
 # <a name="islucid"></a>isLucid
 
@@ -38,9 +39,9 @@ UAB Lucid Agreements から Microsoft に提供される情報:
 | パートナー会社名 | UAB Lucid Agreements |
 | 会社の Web サイト | [https://islucid.com](https://islucid.com) |
 | アプリの利用規約 | [https://islucid.com/eula/](https://islucid.com/eula/) |
-| アプリのコア機能 | 通話中のチームMicrosoft Teamsを有効にして、文字起こしからタスクをリアルタイムでキャプチャして作成します。 これらのタスクを既存の管理ソフトウェアProject統合します。 |
+| アプリのコア機能 | リアルタイムで文字起こしMicrosoft Teamsタスクをキャプチャして作成するために、通話中のチームを有効にしてください。 これらのタスクを既存の管理ソフトウェアProject統合します。 |
 | 会社の本社所在地 | リトアニア |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://islucid.com](https://islucid.com) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | ハイブリッド |
 | アプリで使用するホスティング クラウド プロバイダー | Azure |
 
@@ -74,12 +75,12 @@ UAB Lucid Agreements から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリで年間侵入テストを実行しますか? | いいえ |
-| アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | いいえ |
+| アプリで年間侵入テストを実行しますか? | 不要 |
+| アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | 不要 |
 | 環境で従来のマルウェア対策保護またはアプリケーションコントロールを使用していますか? | ApplicationControls |
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? |  |
 | パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? |  |
@@ -108,9 +109,9 @@ UAB Lucid Agreements から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
 | アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | N/A |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
 | 最新の SOC1 認定日 |   |
 | アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
 | どの SOC 2 認定を取得しましたか? | |
@@ -119,15 +120,15 @@ UAB Lucid Agreements から Microsoft に提供される情報:
 | 最新の SOC3 認定日 | |
 | アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | N/A |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | いいえ |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | いいえ |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 不要 |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 不要 |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,17 +166,17 @@ UAB Lucid Agreements から Microsoft に提供される情報:
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calls.AccessMedia.All | 両方とも | 各呼び出しに対するユーザー固有の同意 (開始された文字起こし) を使用すると、オーディオ ストリームにアクセスします。 オーディオ ストリームはトランスクリプション サービスに転送され、ユーザーはさらに機能を利用できます。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| Calls.JoinGroupCall.All | 両方とも | 各呼び出しに対するユーザー固有の同意 (開始された文字起こし) を使用すると、オーディオ ストリームにアクセスします。 オーディオ ストリームはトランスクリプション サービスに転送され、ユーザーはさらに機能を利用できます。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| Group.ReadWrite.All | 両方とも | ユーザーが Microsoft Planner との統合を使用して通話からタスクを作成し、MS Planner に自動的に保存する場合、isLucid は、そのユーザーが利用可能なグループ、計画、担当者に対して収集します。 この権限がない場合、ユーザーは isLucid を使用して文字起こしからタスクを作成できない | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| OnlineMeetings.Read.All | 両方とも | アプリケーションは会議のタイトルを収集し、ユーザーが後で (会議が終了すると) 以前のトランスクリプトやタスクを簡単に見つけ出す可能性があります。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| Tasks.ReadWrite | 両方とも | ユーザーが Microsoft Planner との統合を使用して通話からタスクを作成し、MS Planner に自動的に保存する場合、isLucid は、そのユーザーが利用可能なグループ、計画、担当者に対して収集します。 この権限がない場合、ユーザーは isLucid を使用して文字起こしからタスクを作成できない | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| User.ReadWrite.All | 両方とも | ユーザーが Microsoft Planner との統合を使用して通話からタスクを作成し、MS Planner に自動的に保存する場合、isLucid は、そのユーザーが利用可能なグループ、計画、担当者に対して収集します。 この権限がない場合、ユーザーは isLucid を使用して文字起こしからタスクを作成できない | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| openid | 両方とも | ユーザー ID、テナント ID が収集され、Azure Active Directoryのログイン機能が提供されます。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
+>| Calls.AccessMedia.All | 両方とも | 各呼び出しに対するユーザー固有の同意 (開始された文字起こし) を使用すると、オーディオ ストリームにアクセスします。 オーディオ ストリームはトランスクリプション サービスに転送され、ユーザーはさらに機能を利用できます。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| Calls.JoinGroupCall.All | 両方とも | 各呼び出しに対するユーザー固有の同意 (開始された文字起こし) を使用すると、オーディオ ストリームにアクセスします。 オーディオ ストリームはトランスクリプション サービスに転送され、ユーザーはさらに機能を利用できます。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| Group.ReadWrite.All | 両方とも | ユーザーが Microsoft Planner との統合を使用して通話からタスクを作成し、MS Planner に自動的に保存する場合、isLucid は、そのユーザーが利用可能なグループ、計画、担当者に対して収集します。 この権限がない場合、ユーザーは isLucid を使用して文字起こしからタスクを作成できない | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| OnlineMeetings.Read.All | 両方とも | アプリケーションは会議のタイトルを収集し、ユーザーが後で (会議が終了すると) 以前のトランスクリプトやタスクを簡単に見つけ出す可能性があります。 | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| Tasks.ReadWrite | 両方とも | ユーザーが Microsoft Planner との統合を使用して通話からタスクを作成し、MS Planner に自動的に保存する場合、isLucid は、そのユーザーが利用可能なグループ、計画、担当者に対して収集します。 この権限がない場合、ユーザーは isLucid を使用して文字起こしからタスクを作成できない | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| User.ReadWrite.All | 両方とも | ユーザーが Microsoft Planner との統合を使用して通話からタスクを作成し、MS Planner に自動的に保存する場合、isLucid は、そのユーザーが利用可能なグループ、計画、担当者に対して収集します。 この権限がない場合、ユーザーは isLucid を使用して文字起こしからタスクを作成できない | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| openid | 両方とも | ユーザー ID、テナント ID が収集され、Azure Active Directoryのログイン機能を提供する | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

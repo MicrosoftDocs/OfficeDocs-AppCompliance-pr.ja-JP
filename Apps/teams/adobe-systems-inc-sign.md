@@ -2,18 +2,19 @@
 title: Adobe Systems Inc. による Adobe Sign のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Adobe Sign、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 767df9d0511187e01f2bad299f9c935c8fa5f7e2
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: c09c32f171ac4e7565ce172a27992287f5a2bb1b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63079509"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549815"
 ---
 # <a name="adobe-sign"></a>Adobe Sign
 
@@ -39,8 +40,9 @@ Adobe Systems Inc. から Microsoft に提供される情報:
 | アプリの利用規約 | [https://www.adobe.com/legal/terms.html](https://www.adobe.com/legal/terms.html) |
 | アプリのコア機能 | ドキュメント署名のワークフローを合理化し、Adobe Sign の機能を利用して従業員と顧客の優れたエクスペリエンスを提供Teams。 Microsoft の優先電子署名ソリューションである Teams 用 Adobe Sign を使用して、ドキュメントに署名し、法的に拘束力のある電子署名と承認のためにドキュメントを送信し、その状態 &#8212; を追跡できます。 |
 | 会社の本社所在地 | アメリカ |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://helpx.adobe.com/sign/help/adobesign_microsoft_teams...](https://helpx.adobe.com/sign/help/adobesign_microsoft_teams.html) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
+| アプリで使用するホスティング クラウド プロバイダー | AWS、Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,14 +57,7 @@ Adobe Systems Inc. から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 | 1 か月以内に削除された |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? |  |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -75,7 +70,7 @@ Adobe Systems Inc. から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行しますか? | はい |
-| アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | いいえ |
+| アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | 不要 |
 | 環境で従来のマルウェア対策保護またはアプリケーションコントロールを使用していますか? |  |
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? |  |
 | パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? |  |
@@ -105,25 +100,25 @@ Adobe Systems Inc. から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | はい |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | いいえ |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | いいえ |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 不要 |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 不要 |
 | 最新の SOC1 認定日 |   |
 | アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | はい |
 | どの SOC 2 認定を取得しましたか? |   |
 | 最新の SOC2 認定日 |  2020-11-24 |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
 | アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | はい |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | はい |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | はい |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | いいえ |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 不要 |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -156,7 +151,7 @@ Adobe Systems Inc. から Microsoft に提供される情報:
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | false |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
@@ -165,11 +160,11 @@ Adobe Systems Inc. から Microsoft に提供される情報:
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Mail.ReadWrite | 委任 | 添付されたドキュメント、送信者と受信者の電子メール、およびメッセージ コンテンツを電子メールから Adobe 記号に入力して署名用に送信します。 これは、Adobe Sign でこれらのフィールドを再入力するユーザー時間を節約するために使用します。 契約が署名された後、ユーザーが電子メールを送信して、トランザクションが完了したことを受信者に通知する新しい電子メールを自動的に作成します。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| People.Read | 委任 | 署名用に送信エクスペリエンス&quot;&quot;で電子メール アドレスを自動入力するには、最初の文字を入力して、ユーザーにメール全体を入力する必要が生じかねない。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| User.Read | 委任 | ユーザーのプロファイルを読み取り、自分のプロファイル (基本的には電子メールと userId) をデータベースに一致して、Adobe Sign を使用できます。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| offline_access | 委任 | アクセス トークンを更新するには、現在のトークンの有効期限が切れています。 たとえば、ユーザーが署名&quot;&quot;ウィンドウの送信中で非アクティブな状態を長くする場合は、ユーザーをアクティブに保つために新しいトークンを更新する必要があります。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| openid | 委任 | メールと UserId。 ユーザーにサインインして、Adobe Sign アプリの使用許可に対する同意を得る。  | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| Mail.ReadWrite | 委任 | 添付されたドキュメント、送信者と受信者の電子メール、およびメッセージ コンテンツを電子メールから Adobe 記号に入力して署名用に送信します。 これは、Adobe Sign でこれらのフィールドを再入力するユーザー時間を節約するために使用します。 契約が署名された後、ユーザーが電子メールを送信して、トランザクションが完了したことを受信者に通知する新しい電子メールを自動的に作成します。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| People.Read | 委任 | 署名用に送信エクスペリエンス&quot;&quot;で電子メール アドレスを自動入力するには、最初の文字を入力して、ユーザーにメール全体を入力する必要が生じかねない。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| User.Read | 委任 | ユーザーのプロファイルを読み取り、自分のプロファイル (基本的には電子メールと userId) をデータベースに一致して、Adobe Sign を使用できます。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| offline_access | 委任 | アクセス トークンを更新するには、現在のトークンの有効期限が切れています。 たとえば、ユーザーが署名&quot;&quot;ウィンドウの送信中で非アクティブな状態を長くする場合は、ユーザーをアクティブに保つために新しいトークンを更新する必要があります。 | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| openid | 委任 | メールと UserId。 ユーザーにサインインして、Adobe Sign アプリの使用許可に対する同意を得る。  | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 
