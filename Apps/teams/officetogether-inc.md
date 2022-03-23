@@ -2,18 +2,19 @@
 title: OfficeTogether, Inc. による OfficeTogether のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: OfficeTogether で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f291b6d1586c5b119fb01eafc9a18ce867f63646
-ms.sourcegitcommit: e43a258f089034069a6101a3290dc315725762fc
+ms.openlocfilehash: f2a68a5e4438a078f5ceab8fe9389b3b834a7608
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/16/2022
-ms.locfileid: "62832538"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552036"
 ---
 # <a name="officetogether"></a>OfficeTogether
 
@@ -40,7 +41,7 @@ OfficeTogether, Inc. から Microsoft に提供される情報:
 | アプリの利用規約 | [https://www.officetogether.com/terms-of-use/](https://www.officetogether.com/terms-of-use/) |
 | アプリのコア機能 | OfficeTogether は、スケジュール設定とオフィス予約プラットフォームです。 |
 | 会社の本社所在地 | アメリカ |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://help.officetogether.com](https://help.officetogether.com) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Iaas |
 | アプリで使用するホスティング クラウド プロバイダー | Aws |
 
@@ -61,11 +62,11 @@ OfficeTogether, Inc. から Microsoft に提供される情報:
 | アプリは TLS 1.1 以上をサポートしていますか? | はい |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
 | データベースに格納されているデータは何ですか? | ユーザーメール、Teams ID、テナント ID |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
+| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | アメリカ |
 | データの借入および廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後にデータが保持される期間 | 30 日未満 |
 | データ アクセス管理プロセスが確立されていますか? | はい |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | いいえ |
+| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | 不要 |
 | Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -112,16 +113,16 @@ OfficeTogether, Inc. から Microsoft に提供される情報:
 | アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
 | アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
 | アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
 | アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
@@ -142,7 +143,7 @@ OfficeTogether, Inc. から Microsoft に提供される情報:
 | プライバシー ポリシーの URL | https://www.officetogether.com/privacy-policy |
 | アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | 不要 |
 | アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
-| 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | 不要 |
+| 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
 | アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
 | アプリには、要求に応じて個人の個人データを削除する機能がありますか? | はい |
 | アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | はい |
@@ -162,26 +163,26 @@ OfficeTogether, Inc. から Microsoft に提供される情報:
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | はい |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
-| アプリは継続的アクセス評価 (CAE) をサポートしています | いいえ |
-| アプリはコードに資格情報を保存しますか? | いいえ |
+| アプリは継続的アクセス評価 (CAE) をサポートしています | 不要 |
+| アプリはコードに資格情報を保存しますか? | 不要 |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | 不要 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 両方とも | このアクセス許可を使用して、従業員の予定表を管理します 。たとえば、内務日の同期や会議室の管理などです。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| Group.ReadWrite.All | アプリケーション | オフィスに入ってくるすべてのユーザーに対して、ユーザーがチャットしてオフィスについて話す毎日のチームを作成します。 このアクセス許可は、管理に必要です  | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| Presence.Read | 委任 | 従業員の OfficeTogether 状態をユーザーに同期Teams。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| Team.ReadBasic.All | アプリケーション | このアクセス許可を使用して、作成された毎日のチーム (アーカイブなど) を管理します。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| Teams。作成 | アプリケーション | オフィスに入ってくるすべてのユーザーに対して、ユーザーがチャットしてオフィスについて話す毎日のチームを作成します。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| TeamsAppInstallation.ReadWriteSelfForUser.All | アプリケーション | アプリは個人用アプリです。 会社の 1 人のユーザーにインストールすると、同じ会社の登録済み OfficeTogether ユーザー全員に自動的にインストールされます。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| User.Read | 委任 | チームのメールへの SSO。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| User.ReadWrite.All | アプリケーション | 「TeamsAppInstallation.ReadWriteSelfForUser.All」を参照してください。 関連するすべてのユーザーに OfficeTogether をインストールするには、ディレクトリをスキャンし、ユーザーと一致します。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| メール | 委任 | チームのメールへの SSO。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| offline_access | 委任 | チームのメールへの SSO。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| openid | 委任 | チームのメールへの SSO。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| profile | 委任 | チームのメールへの SSO。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| Calendars.ReadWrite | 両方とも | このアクセス許可を使用して、従業員の予定表を管理します 。たとえば、内務日の同期や会議室の管理などです。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| Group.ReadWrite.All | アプリケーション | オフィスに入ってくるすべてのユーザーに対して、ユーザーがチャットしてオフィスについて話す毎日のチームを作成します。 このアクセス許可は、管理に必要です  | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| Presence.Read | 委任 | 従業員の OfficeTogether 状態をユーザーに同期Teams。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| Team.ReadBasic.All | アプリケーション | このアクセス許可を使用して、作成された毎日のチーム (アーカイブなど) を管理します。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| Teams。作成 | アプリケーション | オフィスに入ってくるすべてのユーザーに対して、ユーザーがチャットしてオフィスについて話す毎日のチームを作成します。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| TeamsAppInstallation.ReadWriteSelfForUser.All | アプリケーション | アプリは個人用アプリです。 会社の 1 人のユーザーにインストールすると、同じ会社の登録済み OfficeTogether ユーザー全員に自動的にインストールされます。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| User.Read | 委任 | チームのメールへの SSO。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| User.ReadWrite.All | アプリケーション | 「TeamsAppInstallation.ReadWriteSelfForUser.All」を参照してください。 関連するすべてのユーザーに OfficeTogether をインストールするには、ディレクトリをスキャンし、ユーザーと一致します。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| メール | 委任 | チームのメールへの SSO。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| offline_access | 委任 | チームのメールへの SSO。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| openid | 委任 | チームのメールへの SSO。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| profile | 委任 | チームのメールへの SSO。 | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

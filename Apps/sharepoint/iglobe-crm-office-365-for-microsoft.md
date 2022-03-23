@@ -2,18 +2,19 @@
 title: iGlobe による iGlobe CRM Office 365 Microsoft Office 365アプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: Microsoft Office 365 の iGlobe CRM Office 365、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: Microsoft Office 365 の iGlobe CRM Office 365、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 747bfa362361e263d6f4bfc04e6aa5a65b50f948
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: e09675a0df8d7f383a1b63b6b190bcab09e14a38
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62261553"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552776"
 ---
 # <a name="iglobe-crm-office-365-for-microsoft-office-365"></a>iGlobe CRM Office 365 Microsoft Office 365
 
@@ -38,8 +39,9 @@ iGlobe から Microsoft に提供される情報:
 | アプリの利用規約 | [https://iglobecrm.com/content/iglobe-crm-office-365-end-use...](https://iglobecrm.com/content/iglobe-crm-office-365-end-user-license-agreement) |
 | アプリのコア機能 | iGlobe CRM Office 365提供SharePointホストされます。 iGlobe CRM Office 365は、シンプルで使いやすい Office 365 CRM アドインです。 Outlook、Excel、Word アドイン、Teams アプリを使用すると、Office 365 Planner、SharePoint、Teams の iGlobe SharePoint アドインとのシームレスな統合が組み合わさって、Office 365 拡張機能になります。 iGlobe CRM のアクセス許可レベルは、すべての使用されるサービス間の統合に基Microsoft 365されます。  |
 | 会社の本社所在地 | デンマーク |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
+| アプリで使用するホスティング クラウド プロバイダー | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -54,14 +56,7 @@ iGlobe から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 | すぐに削除 |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? |  |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -69,7 +64,7 @@ iGlobe から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -120,9 +115,9 @@ iGlobe から Microsoft に提供される情報:
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | はい |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | はい |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -161,23 +156,23 @@ iGlobe から Microsoft に提供される情報:
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Contacts.ReadWrite | 委任 |  Directory.AccessAsUser.All | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Directory.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Directory.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Files.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Group.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Group.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Mail.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Sites.Manage.All | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Sites.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Sites.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Tasks.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Calendars.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Contacts.ReadWrite | 委任 |  Directory.AccessAsUser.All | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Directory.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Directory.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Files.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Group.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Group.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Mail.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Sites.Manage.All | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Sites.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Sites.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Tasks.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

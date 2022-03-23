@@ -2,18 +2,19 @@
 title: フェローによるフェロー向けアプリケーション情報 インサイト Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: フェローに利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: フェローに利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c05c00736ba08bdcb663342ca6a692ead21ac83c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d1860bcfddfdc3de17b409014ff6a1a68cdf6286
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257833"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552886"
 ---
 # <a name="fellow"></a>Fellow
 
@@ -42,6 +43,7 @@ ms.locfileid: "62257833"
 | 会社の本社所在地 | カナダ |
 | アプリ情報ページ | |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
+| アプリで使用するホスティング クラウド プロバイダー | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,19 +53,12 @@ ms.locfileid: "62257833"
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関して、フェロー インサイト Inc. から提供されています。
+この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関して、フェロー インサイト Inc. から提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? |  |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
-| データの借入および廃棄プロセスが確立されていますか? |  |
-| アカウントの終了後にデータが保持される期間 | 1 か月以内に削除された |
-| データ アクセス管理プロセスが確立されていますか? |  |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? |  |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -71,7 +66,7 @@ ms.locfileid: "62257833"
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -105,26 +100,26 @@ ms.locfileid: "62257833"
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | いいえ |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | N/A |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 不要 |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
 | 最新の SOC1 認定日 |   |
 | アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | はい |
 | どの SOC 2 認定を取得しましたか? |   |
 | 最新の SOC2 認定日 |  2020-10-01 |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
 | アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | はい |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | N/A |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | N/A |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -157,25 +152,25 @@ ms.locfileid: "62257833"
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | false |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
-| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
+| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | 不要 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 両方とも | フェローはユーザーの予定表に接続して、データにメモを取る機能を提供します。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| Channel.ReadBasic.All | 委任 | ユーザーがメンバーであるチャネルの名前を収集して、メモを送信できるチャネルの一覧を表示します。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| Directory.Read.All | アプリケーション | このデータは、組織全体に対して管理者のインストールが行われた場合にのみ収集されます。 ディレクトリ データを使用して、ユーザーの一覧を同期し、アカウントを自動的にプロビジョニングします。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| Group.Read.All | アプリケーション | このデータは、組織全体に対して管理者のインストールが行われた場合にのみ収集されます。 ディレクトリ データを使用して、ユーザーの一覧を同期し、アカウントを自動的にプロビジョニングします。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| People.Read | 委任 | ユーザーの連絡先は、特定の連絡先の表示名と電子メール アドレスで収集されます。 これは、フェロー内で、メモへの招待やメモの共有に招待するユーザーのリストを提供するために使用されます。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| People.Read.All | アプリケーション | このデータは、組織全体に対して管理者のインストールが行われた場合にのみ収集されます。 ユーザーの連絡先は、特定の連絡先の表示名と電子メール アドレスで収集されます。 これは、フェロー内で、メモへの招待やメモの共有に招待するユーザーのリストを提供するために使用されます。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| Team.ReadBasic.All | 委任 | ユーザーが参加しているチームの一覧が収集されます。 これは、ユーザーがフェローからチームにメモを送信することを許可する目的で、fellow 内で使用されます。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| User.Read | 委任 | 基本的なユーザー情報が収集されます。 ユーザー名、電子メール、役職。 この情報は、Fellow 内でユーザー アカウントと会社アカウントを作成するために使用されます。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| User.Read.All | アプリケーション | このデータは、組織全体に対して管理者のインストールが行われた場合にのみ収集されます。 ディレクトリ データを使用して、ユーザーの一覧を同期し、アカウントを自動的にプロビジョニングします。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| offline_access | 委任 | 他のスコープを介して収集されたデータへのアクセスを維持するためのユーザーの更新トークン。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
+>| Calendars.ReadWrite | 両方とも | フェローはユーザーの予定表に接続して、データにメモを取る機能を提供します。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| Channel.ReadBasic.All | 委任 | ユーザーがメンバーであるチャネルの名前を収集して、メモを送信できるチャネルの一覧を表示します。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| Directory.Read.All | アプリケーション | このデータは、組織全体に対して管理者のインストールが行われた場合にのみ収集されます。 ディレクトリ データを使用して、ユーザーの一覧を同期し、アカウントを自動的にプロビジョニングします。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| Group.Read.All | アプリケーション | このデータは、組織全体に対して管理者のインストールが行われた場合にのみ収集されます。 ディレクトリ データを使用して、ユーザーの一覧を同期し、アカウントを自動的にプロビジョニングします。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| People.Read | 委任 | ユーザーの連絡先は、特定の連絡先の表示名と電子メール アドレスで収集されます。 これは、フェロー内で、メモへの招待やメモの共有に招待するユーザーのリストを提供するために使用されます。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| People.Read.All | アプリケーション | このデータは、組織全体に対して管理者のインストールが行われた場合にのみ収集されます。 ユーザーの連絡先は、特定の連絡先の表示名と電子メール アドレスで収集されます。 これは、フェロー内で、メモへの招待やメモの共有に招待するユーザーのリストを提供するために使用されます。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| Team.ReadBasic.All | 委任 | ユーザーが参加しているチームの一覧が収集されます。 これは、ユーザーがフェローからチームにメモを送信することを許可する目的で、fellow 内で使用されます。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| User.Read | 委任 | 基本的なユーザー情報が収集されます。 ユーザー名、電子メール、役職。 この情報は、Fellow 内でユーザー アカウントと会社アカウントを作成するために使用されます。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| User.Read.All | アプリケーション | このデータは、組織全体に対して管理者のインストールが行われた場合にのみ収集されます。 ディレクトリ データを使用して、ユーザーの一覧を同期し、アカウントを自動的にプロビジョニングします。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| offline_access | 委任 | 他のスコープを介して収集されたデータへのアクセスを維持するためのユーザーの更新トークン。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

@@ -2,18 +2,19 @@
 title: Luware AG による Luware Nimbus for Microsoft Teamsアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Microsoft Teams 用 Luware Nimbus の利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: luware Nimbus for Microsoft Teams、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1d64355be961a730caf60af7fd12bcb0326ade34
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: f5fbd82c09e9560a600191a9d5001f148b93f685
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252436"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550405"
 ---
 # <a name="luware-nimbus-for-microsoft-teams"></a>Luware Nimbus for Microsoft Teams
 
@@ -38,7 +39,7 @@ Luware AG が Microsoft に提供する情報:
 | アプリの利用規約 | [https://luware.com/en/agreements/saas/](https://luware.com/en/agreements/saas/) |
 | アプリのコア機能 | Nimbus は、通話キュー、プレゼンス ベースのルーティング、レポート機能、およびスイッチボードをユーザーに追加Teams |
 | 会社の本社所在地 | スイス |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://luware.com/en/solution/advanced-routing-for-microso...](https://luware.com/en/solution/advanced-routing-for-microsoft-teams/) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
 | アプリで使用するホスティング クラウド プロバイダー | Azure |
 
@@ -72,7 +73,7 @@ Luware AG が Microsoft に提供する情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -106,26 +107,26 @@ Luware AG が Microsoft に提供する情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | N/A |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | N/A |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | いいえ |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 不要 |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | いいえ |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 不要 |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | N/A |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -162,25 +163,25 @@ Luware AG が Microsoft に提供する情報:
 | サポートされているポリシーの種類を一覧表示する | クライアント アプリ、ユーザー、グループ |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
-| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
+| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | 不要 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | 委任 | アテンダント コンソール: ログインしているユーザーの予定表を読み取る予定を含む予定表を表示する | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| Calendars.Read.Shared | 委任 | アテンダント コンソール: 共有予定表を読み取り、予定を含む予定表を表示する | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| Contacts.Read | 委任 | 応答コンソール: ログインしているユーザー Exchange連絡先で検索する | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| Contacts.Read.Shared | 委任 | アテンダント コンソール: 共有連絡先のExchangeする | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| GroupMember.Read.All | アプリケーション | チーム メンバーの取得、セキュリティ グループの読み取り | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| Presence.Read.All | 委任 | [応答コンソールの連絡先検索でプレゼンスを表示する] ページ | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| User.Read | 委任 | UserInformation を取得する (ログインしているユーザーから) | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| User.Read.All | 両方とも | Nimbus アプリ - CallerInformation を取得します。 連絡先センターへの内部呼び出しで、その情報をエージェントに表示するために、そのユーザーを逆参照します。 アテンダント コンソール (委任されたアクセス許可を持つ) で、内部ディレクトリ全体で転送ターゲットを検索します。 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| User.ReadBasic.All | 委任 | 制限付きユーザー検索 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| Calls.AccessMedia.All | アプリケーション | これらのアプリ/ボットの多く (連絡先センター キューごとに 1 つ): 顧客が実際に IVR で自分の位置を選択できる DTMF トーンを購読する | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc) |
->| Calls.Initiate.All | アプリケーション | これらのアプリ/ボットの多く (連絡先センター キューごとに 1 つ): エージェントを呼び出す  | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc) |
->| Calls.InitiateGroupCall.All | アプリケーション | これらのアプリ/ボットの多く (連絡先センター キューごとに 1 つ): エージェントを呼び出す  | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc) |
->| Calls.JoinGroupCall.All | アプリケーション | これらのアプリ/ボットの多く (連絡先センター キューごとに 1 つ): エスカレートされた通話に参加してアナウンスを再生する | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc) |
+>| Calendars.Read | 委任 | アテンダント コンソール: ログインしているユーザーの予定表を読み取る予定を含む予定表を表示する | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| Calendars.Read.Shared | 委任 | アテンダント コンソール: 共有予定表を読み取り、予定を含む予定表を表示する | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| Contacts.Read | 委任 | 応答コンソール: ログインしているユーザー Exchange連絡先で検索する | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| Contacts.Read.Shared | 委任 | 応答コンソール: 共有連絡先の連絡先Exchangeする | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| GroupMember.Read.All | アプリケーション | チーム メンバーの取得、セキュリティ グループの読み取り | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| Presence.Read.All | 委任 | [応答コンソールの連絡先検索でプレゼンスを表示する] ページ | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| User.Read | 委任 | UserInformation を取得する (ログインしているユーザーから) | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| User.Read.All | 両方とも | Nimbus アプリ - CallerInformation を取得します。 連絡先センターへの内部呼び出しで、その情報をエージェントに表示するために、そのユーザーを逆参照します。 アテンダント コンソール (委任されたアクセス許可を持つ) で、内部ディレクトリ全体で転送ターゲットを検索します。 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| User.ReadBasic.All | 委任 | 制限付きユーザー検索 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| Calls.AccessMedia.All | アプリケーション | これらのアプリ/ボットの多く (連絡先センター キューごとに 1 つ): 顧客が実際に IVR で自分の位置を選択できる DTMF トーンを購読する | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](../azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md) |
+>| Calls.Initiate.All | アプリケーション | これらのアプリ/ボットの多く (連絡先センター キューごとに 1 つ): エージェントを呼び出す  | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](../azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md) |
+>| Calls.InitiateGroupCall.All | アプリケーション | これらのアプリ/ボットの多く (連絡先センター キューごとに 1 つ): エージェントを呼び出す  | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](../azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md) |
+>| Calls.JoinGroupCall.All | アプリケーション | これらのアプリ/ボットの多く (連絡先センター キューごとに 1 つ): エスカレートされた通話に参加してアナウンスを再生する | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](../azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

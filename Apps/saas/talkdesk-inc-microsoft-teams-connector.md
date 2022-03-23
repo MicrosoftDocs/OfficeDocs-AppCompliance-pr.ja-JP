@@ -1,19 +1,20 @@
 ---
-title: Talkdesk による Talkdesk Microsoft Teams コネクタのアプリケーション情報
+title: Talkdesk 社による Talkdesk Microsoft Teams コネクタのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Talkdesk Microsoft Teams Connector、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: Talkdesk Microsoft Teams Connector で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8f64011c4e6d1e5a7cfa385a89925bcac27ca6b8
-ms.sourcegitcommit: 49991df115de43a1e5e5579ebef4ebc71df29fae
+ms.openlocfilehash: dd59c9e9902f0c3dbd975efc711cc4c63dfa2f5f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62795821"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550395"
 ---
 # <a name="talkdesk-microsoft-teams-connector"></a>Talkdesk Microsoft Teams コネクタ
 
@@ -59,7 +60,7 @@ Talkdesk, Inc. から Microsoft に提供される情報:
 | アプリは TLS 1.1 以上をサポートしていますか? | はい |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
 | データベースに格納されているデータは何ですか? | ユーザー プロファイル データ - 名、名、氏名、電子メール アドレス、電話番号 |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
+| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | アメリカ |
 | データの借入および廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後にデータが保持される期間 | 保持されない |
 | データ アクセス管理プロセスが確立されていますか? | はい |
@@ -119,8 +120,8 @@ Talkdesk, Inc. から Microsoft に提供される情報:
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
@@ -136,7 +137,7 @@ Talkdesk, Inc. から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
-| アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | いいえ |
+| アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | 不要 |
 | アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | いいえ |
 | アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
 | 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
@@ -163,12 +164,12 @@ Talkdesk, Inc. から Microsoft に提供される情報:
 | アプリはコードに資格情報を保存しますか? | いいえ |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read.All | 委任 | ユーザーのプロファイル データTeams MS データを収集するために必要 | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](https://docs.microsoft.com/microsoft-365-app-certification/azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8) |
->| offline_access | 委任 | アクセスを許可したユーザーがログインしていない場合でも、アプリがデータを表示できます。 | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](https://docs.microsoft.com/microsoft-365-app-certification/azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8) |
+>| User.Read.All | 委任 | ユーザーのプロファイル データTeams MS データを収集するために必要 | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](../azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8.md) |
+>| offline_access | 委任 | アクセスを許可したユーザーがログインしていない場合でも、アプリがデータを表示できます。 | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](../azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

@@ -2,18 +2,19 @@
 title: Move Work Forward による Jira での作業の移動に関するアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Jira を使用して作業を進め、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 44ed4ba1ac4dbfd4d311083701a21a1cee846f24
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: b1d64e9bc54fbd67d3eeb60d2fc72898a1982c37
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255693"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551426"
 ---
 # <a name="move-work-forward-with-jira"></a>Move Work Forward with Jira
 
@@ -38,9 +39,9 @@ Work Forward to Microsoft から提供される情報:
 | パートナー会社名 | Move Work Forward |
 | 会社の Web サイト | [https://www.moveworkforward.com](https://www.moveworkforward.com) |
 | アプリの利用規約 | [https://www.moveworkforward.com/license-agreement/eula](https://www.moveworkforward.com/license-agreement/eula) |
-| アプリのコア機能 | Move Work Forward は、アトラス ツールと Microsoft Teams、GitHub、Azure DevOps、その他のチーム生産性ツールを統合する一連の製品を提供することで、企業の生産性、チームの透明性、時間の節約を支援します。 |
+| アプリのコア機能 | Move Work Forward は、アトラスツールと Microsoft Teams、GitHub、Azure DevOps、その他のチーム生産性ツールを統合する一連の製品を提供することで、企業の生産性、チームの透明性、時間の節約を支援します。 |
 | 会社の本社所在地 | シンガポール |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://www.moveworkforward.com/product/microsoft-teams-jir...](https://www.moveworkforward.com/product/microsoft-teams-jira-connector) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Iaas |
 | アプリで使用するホスティング クラウド プロバイダー | Aws |
 
@@ -62,10 +63,10 @@ Work Forward to Microsoft から提供される情報:
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
 | データベースに格納されているデータは何ですか? | Teams送信するチャネルの設定も可能です。 |
 | 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | アメリカ |
-| データの借入および廃棄プロセスが確立されていますか? | いいえ |
+| データの借入および廃棄プロセスが確立されていますか? | 不要 |
 | アカウントの終了後にデータが保持される期間 | 30 日未満 |
 | データ アクセス管理プロセスが確立されていますか? | はい |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | いいえ |
+| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | 不要 |
 | Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -74,7 +75,7 @@ Work Forward to Microsoft から提供される情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -84,7 +85,7 @@ Work Forward to Microsoft から提供される情報:
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? | はい |
 | パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? | はい |
 | パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
-| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | いいえ |
+| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | 不要 |
 | アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | いいえ |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | いいえ |
 | 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
@@ -108,26 +109,26 @@ Work Forward to Microsoft から提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | いいえ |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | いいえ |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | いいえ |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 不要 |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 不要 |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 不要 |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | いいえ |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 不要 |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | N/A |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | N/A |
-| アプリは NIST 800-171 に準拠していますか? | N/A |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
+| アプリは NIST 800-171 に準拠していますか? | 該当なし |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -145,8 +146,8 @@ Work Forward to Microsoft から提供される情報:
 | 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
 | アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
 | アプリには、要求に応じて個人の個人データを削除する機能がありますか? | はい |
-| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | いいえ |
-| アプリは個人に個人データを修正または更新する機能を提供しますか? | いいえ |
+| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | 不要 |
+| アプリは個人に個人データを修正または更新する機能を提供しますか? | 不要 |
 | アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | はい |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -161,21 +162,21 @@ Work Forward to Microsoft から提供される情報:
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | はい |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
-| アプリは継続的アクセス評価 (CAE) をサポートしています | いいえ |
-| アプリはコードに資格情報を保存しますか? | いいえ |
-| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
+| アプリは継続的アクセス評価 (CAE) をサポートしています | 不要 |
+| アプリはコードに資格情報を保存しますか? | 不要 |
+| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | 不要 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.Create | 委任 | Jira の問題に関する議論チャネルを作成する | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
->| Channel.ReadBasic.All | 委任 | チームのチャネルを読み取って通知を送信する | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
->| Team.ReadBasic.All | 委任 | 構成ページに表示するチームを読み取ります。 Jira からの通知の場合。 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
->| TeamsAppInstallation.ReadForTeam | 委任 | アプリがチームにインストールされているかどうかを確認します。 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
->| User.Read | 委任 | ユーザー エクスペリエンスを向上させる。 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
->| メール | 委任 | Microsoft アカウントと Atlassian アカウントをマップする | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| Channel.Create | 委任 | Jira の問題に関する議論チャネルを作成する | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](../azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) |
+>| Channel.ReadBasic.All | 委任 | チームのチャネルを読み取って通知を送信する | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](../azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) |
+>| Team.ReadBasic.All | 委任 | 構成ページに表示するチームを読み取ります。 Jira からの通知の場合。 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](../azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) |
+>| TeamsAppInstallation.ReadForTeam | 委任 | アプリがチームにインストールされているかどうかを確認します。 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](../azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) |
+>| User.Read | 委任 | ユーザー エクスペリエンスを向上させる。 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](../azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) |
+>| メール | 委任 | Microsoft アカウントと Atlassian アカウントをマップする | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](../azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

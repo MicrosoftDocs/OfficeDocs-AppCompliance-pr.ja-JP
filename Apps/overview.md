@@ -7,12 +7,12 @@ keywords: microsoft 365 m365 アプリ Publisher の構成証明書
 ms.topic: overview
 ms.service: attestation
 localization_priority: Priority
-ms.openlocfilehash: e36bee4289de320d264a8a5e55c7bc20a4ea803b
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: 17aab158f4fc7803966afed9df88adf9688fcc63
+ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60545769"
+ms.lasthandoff: 03/22/2022
+ms.locfileid: "63697069"
 ---
 # <a name="microsoft-365-app-compliance-program"></a>Microsoft 365 アプリ コンプライアンス プログラム
 
@@ -38,7 +38,7 @@ Microsoft 365 認定プロセスには、**認証** と **認定** の 2 つの�
 1.  **認定** には、主要な業界標準フレームワークから派生した一連のコントロールに対するアプリの徹底的な監査が含まれます。 ISV では、認定を取得する前に、各コントロールを満たしていることを示す証拠を提供するよう求められます。 目標は、Microsoft 365 認定を取得したアプリが強力なセキュリティを備え、データのセキュリティとプライバシーを保護するためのコンプライアンス設定を実施し、アプリが信頼できることを顧客に保証することです。
 
 
-Microsoft 365 認定は、WebApp、および次の Microsoft 製品と統合されるすべてのアプリに適用されます。
+Microsoft 365 認定は、次の Microsoft 製品と統合されるすべてのアプリに適用されます:
 -   Teams
 -   Word
 -   Excel
@@ -47,8 +47,9 @@ Microsoft 365 認定は、WebApp、および次の Microsoft 製品と統合さ�
 - SharePoint
 - Project
 - OneNote
+- **Webapps** (パートナー センターの商用マーケットプレースを通じて公開されている SaaS アプリは、現在プライベート プレビュー中です。参加に興味がある場合は、[このフォーム](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3Om82jEdWlAkFiVJRhmM_xUQkY0SjVVOVVLR0RUN0RYNlRWMDRTSjVQRy4u)に記入してください。
 
 ### <a name="get-started"></a>はじめに
-- [Publisher の検証を完了する方法](https://docs.microsoft.com/en-us/azure/active-directory/develop/mark-app-as-publisher-verified)
-- [Microsoft 365 認定を完了する方法](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification)
+- [Publisher の検証を完了する方法](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)
+- [Microsoft 365 認定を完了する方法](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification)
 

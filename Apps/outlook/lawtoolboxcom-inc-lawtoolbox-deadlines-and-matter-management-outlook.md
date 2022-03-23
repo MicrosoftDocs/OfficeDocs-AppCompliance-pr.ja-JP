@@ -1,28 +1,28 @@
 ---
-title: LawToolBox Deadlines &amp; Matter Management のアプリケーション情報 - Outlook LawToolBox.com Inc.
+title: LawToolBox Deadlines and Matter Management のアプリケーション情報 - Outlook LawToolBox.com Inc.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/11/2022
+ms.date: 03/16/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: LawToolBox Deadlines &amp; Matter Management - Outlook、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: LawToolBox Deadlines および Matter Management で使用可能なすべてのセキュリティおよびコンプライアンス情報 - Outlook、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c15a934f25c3f7650d2fd7ac927029f8a08e2b56
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: b1bf6d736341aef40ae0087ef005f490a37db23f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63459190"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552426"
 ---
-# <a name="lawtoolbox-deadlines-amp-matter-management---outlook"></a>LawToolBox Deadlines &amp; Matter Management - Outlook
+# <a name="lawtoolbox-deadlines-and-matter-management---outlook"></a>LawToolBox Deadlines and Matter Management - Outlook
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2022 年 3 月 7 日</p>
+<p>開発者による最終更新日: 2022 年 3 月 15 日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104120953" target="_blank">AppSource での表示</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003103" target="_blank">AppSource での表示</a>
 
 ::: zone pivot="general"
 
@@ -32,8 +32,8 @@ LawToolBox.com Inc. から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | LawToolBox Deadlines &amp; Matter Management - Outlook |
-| ID | WA104120953 |
+| アプリ名 | LawToolBox Deadlines and Matter Management - Outlook |
+| ID | WA200003103 |
 | Office 365サポートされているクライアント | Outlook 2013 以降の Mac 上Windows、Outlook 2016以降の Mac では、Outlook on the web |
 | パートナー会社名 | LawToolBox.com Inc. |
 | 会社の Web サイト | [https://www.lawtoolbox.com](https://www.lawtoolbox.com) |
@@ -61,7 +61,7 @@ LawToolBox.com Inc. から Microsoft に提供される情報:
 | アプリは TLS 1.1 以上をサポートしていますか? | はい |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
 | データベースに格納されているデータは何ですか? | 電子メール、UPN、名前、groupid、グループメール、tenantid、ユーザー オブジェクト ID |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? |  |
+| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | アメリカ |
 | データの借入および廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後にデータが保持される期間 | 90days 未満 |
 | データ アクセス管理プロセスが確立されていますか? | はい |
@@ -171,22 +171,38 @@ LawToolBox.com Inc. から Microsoft に提供される情報:
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.ReadWrite.All | アプリケーション | このアクセス許可は、通常のユーザーに限定されず、250 グループを超えるグループを設定するために使用されます。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa) |
->| User.ReadWrite.All | アプリケーション | このアクセス許可は、ディレクトリからユーザー関連の情報を読み取り、エンドユーザーが LawToolBox 管理ポータルにアクセスして、メンバーではないグループにユーザーを追加するために使用されます。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa) |
->| Calendars.ReadWrite | 委任 | このアクセス許可を使用すると、ユーザーは自分の予定表情報を取得できます。  エンド ユーザーのみアクセス権を持つユーザーは、アプリを使用して独自の予定表情報 (予定表を開いて取得できるのと同じ情報) をOutlookできます。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| Contacts.ReadWrite | 委任 | このアクセス許可は、ユーザーが連絡先を検索しMicrosoft 365 Outlook連絡先が自動的に追加される&#8211;管理システムに追加するために使用されます。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| Contacts.ReadWrite.Shared | 委任 | このアクセス許可は、ユーザーが共有 M365 連絡先を検索し、連絡先として追加し、連絡先が自動的&#8211;追加されません。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| Files.ReadWrite | 委任 | LawToolBox は、Teams、グループ、および OneDrive から会議用にファイルを読み取り、書き込みます (エンド ユーザーがこのアクセス許可を取り消すと、LTB がテンプレートからフォルダーやファイルを作成したり、アプリ内の重要なファイルをリストしたりすることはできません) | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| Group.ReadWrite.All | 委任 | このアクセス許可は、Teams API の読み取り、Teams の作成、予定表イベントの作成、チャネルの作成を行う場合に必要であり、1 回クリックで外部ファイル共有機能を使用する場合に必要です。  グループの管理に必要です。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| Mail.Read | 委任 | このアクセス許可は、Outlook アドインで PACER メールを読み取って、その問題を自動的に開き、電子メールから連絡先を読み取る場合にも使用されます。  エンド ユーザーがこのアクセス許可を取り消した場合、受信トレイのメールから連絡先システムにメール連絡先を追加することはできません。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| Mail.Send | 委任 | このアクセス許可は、ユーザーとして電子メールを送信するために使用されます 。たとえば、ユーザーは自分自身から重要な期限グラフを送信できます。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| MailboxSettings.ReadWrite | 委任 | このアクセス許可は、アプリを使用してグループ フォルダーに保存されたことを示すラベル付きメールをスタンプするために使用されます。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| Notes.ReadWrite.All | 委任 | このアクセス許可を使用すると、ユーザーは、ケース ノート、期限グラフ、連絡先など、選択したデータを、問題に関連付けられたOneNoteに保存できます。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| OnlineMeetings.ReadWrite | 委任 | このアクセス許可は、会議の作成と管理を効率化し、出席者の役割を使用して出席者を提案するために使用されます。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| People.Read | 委任 | このアクセス許可は、ユーザーが Microsoft AI を使用して共有 M365 連絡先を検索し、LawToolBox 連絡先管理システムに追加し、連絡先を自動的に追加しないアプリ連絡先管理システム&#8211; に追加するユーザーを提案するために使用されます。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| User.Read | 委任 | このアクセス許可は、管理者がシステムに正確なユーザーを追加できるよう、ユーザーの基本情報 (名前、電子メール、タイム ゾーンなど) を読み取る場合に必要です。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| メール | 委任 | このアクセス許可を使用すると、アプリは電子メールを読み取り、エンド ユーザーが受信トレイ内のメールから電子メール連絡先情報を収集できます。このアクセス許可により、アプリは PACER 情報を含むメールを読み取り、アプリは PACER ドックセット番号を使用して既定で関連ケースを開くことができる。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| profile | 委任 | これは SSO 認証に必要です (LawToolBox はプロファイルに書き込む権限を要求しない) ユーザーがシングル サインオン認証を使用して LAWTOOLBOX アプリにサインインするには、このアクセス許可が必要です。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
+>| Calendars.ReadWrite | 委任 | このアクセス許可を使用すると、ユーザーは自分の予定表情報を取得できます。  エンド ユーザーのみアクセス権を持つユーザーは、アプリを使用して独自の予定表情報 (予定表を開いて取得できるのと同じ情報) をOutlookできます。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Contacts.ReadWrite | 委任 | このアクセス許可は、ユーザーが連絡先を検索しMicrosoft 365 Outlook連絡先が自動的に追加される&#8211;管理システムに追加するために使用されます。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Contacts.ReadWrite.Shared | 委任 | このアクセス許可は、ユーザーが共有 M365 連絡先を検索し、連絡先として追加し、連絡先が自動的&#8211;追加されません。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Files.ReadWrite | 委任 | LawToolBox は、Teams、グループ、および OneDrive から会議用にファイルを読み取り、書き込みます (エンド ユーザーがこのアクセス許可を取り消すと、LTB がテンプレートからフォルダーやファイルを作成したり、アプリ内の重要なファイルをリストしたりすることはできません) | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Group.ReadWrite.All | 委任 | このアクセス許可は、Teams API の読み取り、Teams の作成、予定表イベントの作成、チャネルの作成を行う場合に必要であり、1 回クリックで外部ファイル共有機能を使用する場合に必要です。  グループの管理に必要です。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Group.ReadWrite.All | アプリケーション | このアクセス許可は、通常のユーザーに限定されず、250 グループを超えるグループを設定するために使用されます。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Mail.Read | 委任 | このアクセス許可は、Outlook アドインで PACER メールを読み取って、その問題を自動的に開き、電子メールから連絡先を読み取る場合にも使用されます。  エンド ユーザーがこのアクセス許可を取り消した場合、受信トレイのメールから連絡先システムにメール連絡先を追加することはできません。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Mail.Send | 委任 | このアクセス許可は、ユーザーとして電子メールを送信するために使用されます 。たとえば、ユーザーは自分自身から重要な期限グラフを送信できます。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| MailboxSettings.ReadWrite | 委任 | このアクセス許可は、アプリを使用してグループ フォルダーに保存されたことを示すラベル付きメールをスタンプするために使用されます。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Notes.ReadWrite.All | 委任 | このアクセス許可を使用すると、ユーザーは、ケース ノート、期限グラフ、連絡先など、選択したデータを、問題に関連付けられたOneNoteに保存できます。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| OnlineMeetings.ReadWrite | 委任 | このアクセス許可は、会議の作成と管理を効率化し、出席者の役割を使用して出席者を提案するために使用されます。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| People.Read | 委任 | このアクセス許可は、ユーザーが Microsoft AI を使用して共有 M365 連絡先を検索し、LawToolBox 連絡先管理システムに追加し、連絡先を自動的に追加しないアプリ連絡先管理システム&#8211; に追加するユーザーを提案するために使用されます。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| User.Read | 委任 | このアクセス許可は、管理者がシステムに正確なユーザーを追加できるよう、ユーザーの基本情報 (名前、電子メール、タイム ゾーンなど) を読み取る場合に必要です。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| User.ReadWrite.All | アプリケーション | このアクセス許可は、ディレクトリからユーザー関連の情報を読み取り、エンドユーザーが LawToolBox 管理ポータルにアクセスして、メンバーではないグループにユーザーを追加するために使用されます。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| メール | 委任 | このアクセス許可を使用すると、アプリは電子メールを読み取り、エンド ユーザーが受信トレイ内のメールから電子メール連絡先情報を収集できます。このアクセス許可により、アプリは PACER 情報を含むメールを読み取り、アプリは PACER ドックセット番号を使用して既定で関連ケースを開くことができる。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| profile | 委任 | これは SSO 認証に必要です (LawToolBox はプロファイルに書き込む権限を要求しない) ユーザーがシングル サインオン認証を使用して LAWTOOLBOX アプリにサインインするには、このアクセス許可が必要です。 | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Calendars.ReadWrite | 委任 | このアクセス許可を使用すると、ユーザーは自分の予定表情報を取得できます。  エンド ユーザーのみアクセス権を持つユーザーは、アプリを使用して独自の予定表情報 (予定表を開いて取得できるのと同じ情報) をOutlookできます。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Contacts.ReadWrite | 委任 | このアクセス許可は、ユーザーが連絡先を検索しMicrosoft 365 Outlook連絡先が自動的に追加される&#8211;管理システムに追加するために使用されます。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Contacts.ReadWrite.Shared | 委任 | このアクセス許可は、ユーザーが共有 M365 連絡先を検索し、連絡先として追加し、連絡先が自動的&#8211;追加されません。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Files.ReadWrite | 委任 | LawToolBox は、Teams、グループ、および OneDrive から会議用にファイルを読み取り、書き込みます (エンド ユーザーがこのアクセス許可を取り消すと、LTB がテンプレートからフォルダーやファイルを作成したり、アプリ内の重要なファイルをリストしたりすることはできません) | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Group.ReadWrite.All | 委任 | このアクセス許可は、Teams API の読み取り、Teams の作成、予定表イベントの作成、チャネルの作成を行う場合に必要であり、1 回クリックで外部ファイル共有機能を使用する場合に必要です。  グループの管理に必要です。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Group.ReadWrite.All | アプリケーション | このアクセス許可は、通常のユーザーに限定されず、250 グループを超えるグループを設定するために使用されます。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Mail.Read | 委任 | このアクセス許可は、Outlook アドインで PACER メールを読み取って、その問題を自動的に開き、電子メールから連絡先を読み取る場合にも使用されます。  エンド ユーザーがこのアクセス許可を取り消した場合、受信トレイのメールから連絡先システムにメール連絡先を追加することはできません。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Mail.Send | 委任 | このアクセス許可は、ユーザーとして電子メールを送信するために使用されます 。たとえば、ユーザーは自分自身から重要な期限グラフを送信できます。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| MailboxSettings.ReadWrite | 委任 | このアクセス許可は、アプリを使用してグループ フォルダーに保存されたことを示すラベル付きメールをスタンプするために使用されます。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Notes.ReadWrite.All | 委任 | このアクセス許可を使用すると、ユーザーは、ケース ノート、期限グラフ、連絡先など、選択したデータを、問題に関連付けられたOneNoteに保存できます。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| OnlineMeetings.ReadWrite | 委任 | このアクセス許可は、会議の作成と管理を効率化し、出席者の役割を使用して出席者を提案するために使用されます。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| People.Read | 委任 | このアクセス許可は、ユーザーが Microsoft AI を使用して共有 M365 連絡先を検索し、LawToolBox 連絡先管理システムに追加し、連絡先を自動的に追加しないアプリ連絡先管理システム&#8211; に追加するユーザーを提案するために使用されます。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| User.Read | 委任 | このアクセス許可は、管理者がシステムに正確なユーザーを追加できるよう、ユーザーの基本情報 (名前、電子メール、タイム ゾーンなど) を読み取る場合に必要です。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| User.ReadWrite.All | アプリケーション | このアクセス許可は、ディレクトリからユーザー関連の情報を読み取り、エンドユーザーが LawToolBox 管理ポータルにアクセスして、メンバーではないグループにユーザーを追加するために使用されます。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| メール | 委任 | このアクセス許可を使用すると、アプリは電子メールを読み取り、エンド ユーザーが受信トレイ内のメールから電子メール連絡先情報を収集できます。このアクセス許可により、アプリは PACER 情報を含むメールを読み取り、アプリは PACER ドックセット番号を使用して既定で関連ケースを開くことができる。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| profile | 委任 | これは SSO 認証に必要です (LawToolBox はプロファイルに書き込む権限を要求しない) ユーザーがシングル サインオン認証を使用して LAWTOOLBOX アプリにサインインするには、このアクセス許可が必要です。 | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 
