@@ -2,18 +2,19 @@
 title: 'eTeamer のアプリケーション情報 : &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496;'
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 05/25/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: eTeamer で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: eTeamer で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 149cc78306c01d767de2a646a67d4d2848bf95db
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: a542760d33527db8de77e8643bdffd9b2cb67f07
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525471"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63748257"
 ---
 # <a name="eteamer"></a>eTeamer
 
@@ -28,7 +29,7 @@ ms.locfileid: "53525471"
 
 ### <a name="general-information"></a>一般情報
 
-Microsoft に提供される &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; 情報:
+Microsoft に提供 &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; 情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -50,13 +51,13 @@ Microsoft に提供される &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#2
 
 この情報は、このアプリ &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; 収集および保存する方法、およびアプリが収集するデータに対して組織が持つコントロールに関する情報を提供しています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| ChannelMember.ReadWrite.All | 両方とも | OAuth 2.0 の暗黙的な承認に対してテナント アプリケーション ID とアプリケーション パスワードが収集され、ユーザー情報が同期されます。 | テナント ID、テナント アプリケーション ID、アプリケーション パスワード、およびユーザー情報がデータベースに格納され、Teams 内のユーザーのチャネル ファイル情報を取得し、ファイルを操作するために使用されます。 | [3407e97c-3eed-4eca-add5-2549ed881269](https://docs.microsoft.com/microsoft-365-app-certification/azure/3407e97c-3eed-4eca-add5-2549ed881269) |
+>| ChannelMember.ReadWrite.All | 両方とも | OAuth 2.0 の暗黙的な承認に対してテナント アプリケーション ID とアプリケーション パスワードが収集され、ユーザー情報が同期されます。 | テナント ID、テナント アプリケーション ID、アプリケーション パスワード、およびユーザー情報がデータベースに格納され、Teams 内のユーザーのチャネル ファイル情報を取得し、ファイルを操作するために使用されます。 | [3407e97c-3eed-4eca-add5-2549ed881269](../azure/3407e97c-3eed-4eca-add5-2549ed881269.md) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -88,7 +89,7 @@ Microsoft に提供される &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#2
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->なし
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -96,7 +97,7 @@ Microsoft に提供される &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#2
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/40122' frameborder='no' style='width: 100%;'></iframe>
 
@@ -110,23 +111,23 @@ Microsoft に提供される &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#2
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリ &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; 認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について説明しています。
+この情報は、このアプリ &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; 認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について説明しています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | なし |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリの場合、何を使用しないのですか? | ,<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
-| アプリは Web API を公開していますか? | なし |
+| アプリの場合、何を使用しないのですか? | ,<br/>- OAuth2 暗黙的Flow、SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリは Web API を公開していますか? | 不要 |
 | アプリでプレビュー API を使用していますか? | はい |
-| アプリで非推奨の API を使用していますか? | なし |
+| アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

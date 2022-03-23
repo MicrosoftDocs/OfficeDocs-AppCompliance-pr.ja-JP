@@ -2,18 +2,19 @@
 title: Hyperproof による Hyperproof のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Hyperproof、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: Hyperproof、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 61874a0b54123d9276301f9e386326f5fa0f8a23
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 34d6bd23d2da450515edebf3720c617f89b65fa0
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428584"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63750724"
 ---
 # <a name="hyperproof"></a>Hyperproof
 
@@ -30,14 +31,14 @@ ms.locfileid: "60428584"
 
 Hyperproof から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Hyperproof |
 | ID | WA200002692 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Hyperproof |
 | パートナー Web サイトの URL | [https://hyperproof.io](https://hyperproof.io) |
-| [アプリケーション情報Teamsページの URL | [https://hyperproof.io/product](https://hyperproof.io/product) |
+| アプリケーション情報Teamsページの URL | [https://hyperproof.io/product](https://hyperproof.io/product) |
 | プライバシー ポリシーの URL | [https://hyperproof.io/privacy-policy](https://hyperproof.io/privacy-policy) |
 | 利用規約の URL | [https://hyperproof.io/terms-of-use](https://hyperproof.io/terms-of-use) |
 
@@ -51,11 +52,11 @@ Hyperproof から Microsoft に提供される情報:
 
 この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関するハイパープルーフによって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションでは、Microsoft アプリケーションをGraph。
+>このアプリケーションでは、Microsoft のアプリケーションをGraph。
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -95,7 +96,7 @@ Hyperproof から Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37868' frameborder='no' style='width: 100%;'></iframe>
 
@@ -111,7 +112,7 @@ Hyperproof から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について Hyperproof によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
