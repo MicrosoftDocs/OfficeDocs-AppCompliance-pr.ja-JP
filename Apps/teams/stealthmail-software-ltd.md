@@ -2,18 +2,19 @@
 title: StealthMail Software Ltd による StealthMail のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: StealthMail で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: StealthMail で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d7a0a738c475111a237720f329d1728d15d1f8fb
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 53b80f2835bbea55ccd2d571fead808dca70ba05
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428864"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63752535"
 ---
 # <a name="stealthmail"></a>StealthMail
 
@@ -30,14 +31,14 @@ ms.locfileid: "60428864"
 
 Stealthmail Software Ltd が Microsoft に提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | StealthMail |
 | ID | WA200001748 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Stealthmail Software Ltd |
 | パートナー Web サイトの URL | [https://stealthmail.com](https://stealthmail.com) |
-| [アプリケーション情報Teamsページの URL | [https://stealthmail.com/product/teams](https://stealthmail.com/product/teams) |
+| アプリケーション情報Teamsページの URL | [https://stealthmail.com/product/teams](https://stealthmail.com/product/teams) |
 | プライバシー ポリシーの URL | [https://stealthmail.com/privacy-statement](https://stealthmail.com/privacy-statement) |
 | 利用規約の URL | [https://stealthmail.com/terms-and-conditions](https://stealthmail.com/terms-and-conditions) |
 
@@ -51,19 +52,19 @@ Stealthmail Software Ltd が Microsoft に提供する情報:
 
 この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つ制御に関して、Stealthmail Software Ltd によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| ChannelMessage.Read.All | 委任 | アプリケーションは、作成されたセキュリティで保護された電子メールの参照を使用してメッセージをチャネルに送信します。 | なし | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| ChannelMessage.Send | 委任 | アプリケーションは、作成されたセキュリティで保護された電子メールの参照を使用してメッセージをチャネルに送信します。 | なし | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| Chat.ReadWrite | 委任 | アプリケーションは、作成されたセキュリティで保護された電子メールの参照とチャットするメッセージを送信します | なし | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| GroupMember.Read.All | 委任 | アプリケーションは、チャネル メンバーを取得して、セキュリティで保護されたメールを作成します。 | なし | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| User.Read.All | 委任 | アプリケーションはチャット メンバーを取得して、セキュリティで保護されたメールを作成します。 | なし | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| User.ReadBasic.All | 委任 | アプリケーションはチャット メンバーを取得して、セキュリティで保護されたメールを作成します。 | なし | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| メール | 委任 | ユーザーの認証 | データベースに何も格納しない | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| ChannelMessage.Read.All | 委任 | アプリケーションは、作成されたセキュリティで保護された電子メールの参照を使用してメッセージをチャネルに送信します。 | なし | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| ChannelMessage.Send | 委任 | アプリケーションは、作成されたセキュリティで保護された電子メールの参照を使用してメッセージをチャネルに送信します。 | なし | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| Chat.ReadWrite | 委任 | アプリケーションは、作成されたセキュリティで保護された電子メールの参照とチャットするメッセージを送信します | なし | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| GroupMember.Read.All | 委任 | アプリケーションは、チャネル メンバーを取得して、セキュリティで保護されたメールを作成します。 | なし | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| User.Read.All | 委任 | アプリケーションはチャット メンバーを取得して、セキュリティで保護されたメールを作成します。 | なし | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| User.ReadBasic.All | 委任 | アプリケーションはチャット メンバーを取得して、セキュリティで保護されたメールを作成します。 | なし | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| メール | 委任 | ユーザーの認証 | データベースに何も格納しない | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -95,7 +96,7 @@ Stealthmail Software Ltd が Microsoft に提供する情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -103,7 +104,7 @@ Stealthmail Software Ltd が Microsoft に提供する情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37867' frameborder='no' style='width: 100%;'></iframe>
 
@@ -119,7 +120,7 @@ Stealthmail Software Ltd が Microsoft に提供する情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、Stealthmail Software Ltd によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -130,7 +131,7 @@ Stealthmail Software Ltd が Microsoft に提供する情報:
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | 不要 |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow、SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
 | アプリでプレビュー API を使用していますか? | はい |

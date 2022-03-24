@@ -2,18 +2,19 @@
 title: Anaek による AttendanceBot のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bd6cda0bf9f1a7b05684cee46ae68f286c59bfad
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 56e5dc8ea5847564786f53bcf879686decb0b59f
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60429074"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63752761"
 ---
 # <a name="attendancebot"></a>AttendanceBot
 
@@ -30,14 +31,14 @@ ms.locfileid: "60429074"
 
 Anaek が Microsoft に提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | AttendanceBot |
 | ID | WA104381652 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Anaek |
 | パートナー Web サイトの URL | [https://www.harmonizehq.com](https://www.harmonizehq.com) |
-| [アプリケーション情報Teamsページの URL | [https://www.attendancebot.com](https://www.attendancebot.com) |
+| アプリケーション情報Teamsページの URL | [https://www.attendancebot.com](https://www.attendancebot.com) |
 | プライバシー ポリシーの URL | [https://www.attendancebot.com/privacy](https://www.attendancebot.com/privacy) |
 | 利用規約の URL | [https://www.attendancebot.com/attendance/tos/](https://www.attendancebot.com/attendance/tos/) |
 
@@ -51,11 +52,11 @@ Anaek が Microsoft に提供する情報:
 
 この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関して、Anaek によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションでは、Microsoft アプリケーションをGraph。
+>このアプリケーションでは、Microsoft のアプリケーションをGraph。
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -97,7 +98,7 @@ Anaek が Microsoft に提供する情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35980' frameborder='no' style='width: 100%;'></iframe>
 
@@ -113,7 +114,7 @@ Anaek が Microsoft に提供する情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について、Anaek によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

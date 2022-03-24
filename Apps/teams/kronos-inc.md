@@ -2,18 +2,19 @@
 title: Kronos, Inc. による Kronos のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR レジストリ内のすべての利用可能なセキュリティおよびコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、およびセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3a20e3a40ce61d6610b6f36e4c2943da1e9293d2
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 29bf43294bf500a1698a6527cd6b9b83cd4dab41
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288124"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753237"
 ---
 # <a name="kronos"></a>Kronos
 
@@ -30,14 +31,14 @@ ms.locfileid: "59288124"
 
 Kronos, Inc. から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Kronos |
 | ID | WA104381629 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Kronos, Inc. |
 | パートナー Web サイトの URL | [https://www.kronos.com/](https://www.kronos.com/) |
-| [アプリケーション情報Teamsページの URL | [https://www.kronos.com/contact/en-us/form](https://www.kronos.com/contact/en-us/form) |
+| アプリケーション情報Teamsページの URL | [https://www.kronos.com/contact/en-us/form](https://www.kronos.com/contact/en-us/form) |
 | プライバシー ポリシーの URL | [https://www.kronos.com/privacy-policy](https://www.kronos.com/privacy-policy) |
 | 利用規約の URL | [https://www.kronos.com/terms-of-use](https://www.kronos.com/terms-of-use) |
 
@@ -51,11 +52,11 @@ Kronos, Inc. から Microsoft に提供される情報:
 
 この情報は、Kronos, Inc. から、このアプリが組織データを収集および保存する方法、およびアプリが収集するデータに対して組織が持つコントロールについて提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションでは、Microsoft アプリケーションをGraph。
+>このアプリケーションでは、Microsoft のアプリケーションをGraph。
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -75,7 +76,7 @@ Kronos, Inc. から Microsoft に提供される情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->これは、テナント管理システムに対して、別のテナント管理システムにのみTeams
+>これは、テナント管理システム上でのみ保存され、テナント管理システムTeams
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
@@ -90,7 +91,7 @@ Kronos, Inc. から Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/17313' frameborder='no' style='width: 100%;'></iframe>
 

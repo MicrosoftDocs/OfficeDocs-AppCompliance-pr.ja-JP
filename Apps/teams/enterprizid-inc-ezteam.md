@@ -2,18 +2,19 @@
 title: EnterprizID Inc による ezTeam のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ezTeam で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8a058d3d4e8d96a0c915585e75b7c0e53c2f2341
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: ff6cde9fda8939e2be6d45025f0c1b9e173340e6
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428804"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63752601"
 ---
 # <a name="ezteam"></a>ezTeam
 
@@ -30,14 +31,14 @@ ms.locfileid: "60428804"
 
 EnterprizID Inc から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | ezTeam |
 | ID | WA200002546 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | EnterprizID Inc |
 | パートナー Web サイトの URL | [https://enterprizid.com](https://enterprizid.com) |
-| [アプリケーション情報Teamsページの URL | [https://enterprizid.com/discover/](https://enterprizid.com/discover/) |
+| アプリケーション情報Teamsページの URL | [https://enterprizid.com/discover/](https://enterprizid.com/discover/) |
 | プライバシー ポリシーの URL | [https://enterprizid.com/privacy-policy/](https://enterprizid.com/privacy-policy/) |
 | 利用規約の URL | [https://enterprizid.com/terms-of-use/](https://enterprizid.com/terms-of-use/) |
 
@@ -51,36 +52,36 @@ EnterprizID Inc から Microsoft に提供される情報:
 
 この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する EnterprizID Inc. によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| AppCatalog.Read.All | 委任 | 要求の作成プロセスTeamsに表示できるアプリの一覧Teams一覧 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Application.Read.All | 委任 | サインインしたユーザーの代理としてアプリとサービスプリンシパルを読み取ることをアプリに許可します。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Directory.AccessAsUser.All | 委任 | サインインしているユーザーと同じように、アプリでディレクトリ内の情報にアクセスできるようにします。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Directory.Read.All | 委任 | アプリで、ユーザー、グループ、アプリなどの組織のディレクトリ内のデータを読み取ることができるようにします。 | Teams所有権とメンバーシップ情報  | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Directory.Read.All | アプリケーション | サインインしているユーザーなしで、ユーザー、グループ、アプリなどの組織のディレクトリ内のデータをアプリで読み取りできるようにします。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Directory.ReadWrite.All | 委任 | ユーザーやグループなど、組織のディレクトリ内のデータの読み取りおよび書き込みをアプリに許可する | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Directory.ReadWrite.All | アプリケーション | アプリで、サインインしているユーザーなしで、ユーザー、グループなどの組織のディレクトリ内のデータを読み取りと書き込みができるようにします。ユーザーまたはグループの削除はできません。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Files.Read.All | アプリケーション | アプリで、サインインしているユーザーなしで、すべてのサイト コレクション内のすべてのファイルを読み取れるようにします。 | エンド ユーザー ガバナンス下のデータ量 (GB) | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| AppCatalog.Read.All | 委任 | 要求の作成プロセスでTeams表示できるよう、アプリの一覧Teams一覧 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| Application.Read.All | 委任 | サインインしたユーザーの代理としてアプリとサービスプリンシパルを読み取ることをアプリに許可します。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| Directory.AccessAsUser.All | 委任 | サインインしているユーザーと同じように、アプリでディレクトリ内の情報にアクセスできるようにします。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| Directory.Read.All | 委任 | アプリで、ユーザー、グループ、アプリなどの組織のディレクトリ内のデータを読み取ることができるようにします。 | Teams所有権とメンバーシップ情報  | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| Directory.Read.All | アプリケーション | サインインしているユーザーなしで、ユーザー、グループ、アプリなどの組織のディレクトリ内のデータをアプリで読み取りできるようにします。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| Directory.ReadWrite.All | 委任 | ユーザーやグループなど、組織のディレクトリ内のデータの読み取りおよび書き込みをアプリに許可する | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| Directory.ReadWrite.All | アプリケーション | アプリで、サインインしているユーザーなしで、ユーザー、グループなどの組織のディレクトリ内のデータを読み取りと書き込みができるようにします。ユーザーまたはグループの削除はできません。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| Files.Read.All | アプリケーション | アプリで、サインインしているユーザーなしで、すべてのサイト コレクション内のすべてのファイルを読み取れるようにします。 | エンド ユーザー ガバナンス下のデータ量 (GB) | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
 >| Group.Create | アプリケーション | アプリで、サインインしているユーザーなしでグループを作成できます。 | 新しいグループ プロパティの詳細。 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Group.Read.All | 委任 | アプリで、サインインしているユーザーの代わりに、グループを一覧表示し、グループのプロパティとすべてのグループ メンバーシップを読み取ることができるようにします。 My Teams  | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Group.Read.All | アプリケーション | サインインしているユーザーなしで、アプリがグループのプロパティとメンバーシップを読み取り、すべてのグループの予定表と会話を読み取ることができます。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Group.ReadWrite.All | 委任 | アプリで、サインインしているユーザーの代わりに、グループを作成したり、すべてのグループのプロパティとメンバーシップを読み取ったりできるようにします。  | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Group.ReadWrite.All | アプリケーション | アプリでグループの作成、すべてのグループ プロパティとメンバーシップの読み取り、グループのプロパティとメンバーシップの更新、グループの削除を行います。 また、アプリがグループの予定表と会話を読み書きすることもできます。  | チームの最後のアクティビティ。 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| GroupMember.Read.All | アプリケーション | アプリで、サインインしているユーザーがいなくても、すべてのグループのメンバーシップおよび基本的なグループのプロパティを読み取れるようにします。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| GroupMember.ReadWrite.All | アプリケーション | サインインしているユーザーがいなくても、グループのリスト、基本的なプロパティの読み取り、およびこのアプリのグループのメンバーシップの読み取りと更新をアプリに許可します。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| People.Read.All | アプリケーション | アプリは、サインインしているユーザーなしで、関連するユーザーのユーザーのスコア付きリストを読み取るを許可します。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Reports.Read.All | 委任 | サインインしているユーザーの代わりに、アプリですべてのサービス利用状況レポートの読み取りを実行できるようにします。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Reports.Read.All | アプリケーション | アプリでサインインしているユーザーがいなくても、すべてのサービス利用状況レポートの読み取りができるようにします。 | グループごとの最後のユーザー アクティビティ | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| Sites.ReadWrite.All | アプリケーション | アプリは、サインインしているユーザーなしで、すべてのサイト コレクション内のドキュメントの作成、読み取り、更新、削除と、アイテムの一覧表示を行うことができます。 | 各ユーザーのサイズ別上位 10 サイト | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| User.Read | 委任 | ユーザーがアプリにサインインし、アプリがサインインしているユーザーのプロファイルを読み取るのを許可します。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| User.Read.All | アプリケーション | アプリは、サインインしているユーザーなしで、ユーザー プロファイルを読み取ることができます。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| offline_access | 委任 | ユーザーが現在アプリを使用していない場合でも、アクセス権を与えたデータをアプリが表示および更新できます。  | ボット通知 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| openid | 委任 | ユーザーが職場または学校アカウントでアプリにサインインできるようにします。またアプリで、ユーザーの基本的なプロファイル情報を読み取れるようにします。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| profile | 委任 | アプリでユーザーの基本的なプロファイル (名前、画像、ユーザー名) を表示できます。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Group.Read.All | 委任 | アプリで、サインインしているユーザーの代わりに、グループを一覧表示し、グループのプロパティとすべてのグループ メンバーシップを読み取ることができるようにします。 My Teams  | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| Group.Read.All | アプリケーション | サインインしているユーザーなしで、アプリがグループのプロパティとメンバーシップを読み取り、すべてのグループの予定表と会話を読み取ることができます。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| Group.ReadWrite.All | 委任 | アプリで、サインインしているユーザーの代わりに、グループを作成したり、すべてのグループのプロパティとメンバーシップを読み取ったりできるようにします。  | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| Group.ReadWrite.All | アプリケーション | アプリでグループの作成、すべてのグループ プロパティとメンバーシップの読み取り、グループのプロパティとメンバーシップの更新、グループの削除を行います。 また、アプリがグループの予定表と会話を読み書きすることもできます。  | チームの最後のアクティビティ。 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| GroupMember.Read.All | アプリケーション | アプリで、サインインしているユーザーがいなくても、すべてのグループのメンバーシップおよび基本的なグループのプロパティを読み取れるようにします。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| GroupMember.ReadWrite.All | アプリケーション | サインインしているユーザーがいなくても、グループのリスト、基本的なプロパティの読み取り、およびこのアプリのグループのメンバーシップの読み取りと更新をアプリに許可します。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| People.Read.All | アプリケーション | アプリは、サインインしているユーザーなしで、関連するユーザーのユーザーのスコア付きリストを読み取るを許可します。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| Reports.Read.All | 委任 | サインインしているユーザーの代わりに、アプリですべてのサービス利用状況レポートの読み取りを実行できるようにします。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| Reports.Read.All | アプリケーション | アプリでサインインしているユーザーがいなくても、すべてのサービス利用状況レポートの読み取りができるようにします。 | グループごとの最後のユーザー アクティビティ | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| Sites.ReadWrite.All | アプリケーション | アプリは、サインインしているユーザーなしで、すべてのサイト コレクション内のドキュメントの作成、読み取り、更新、削除と、アイテムの一覧表示を行うことができます。 | 各ユーザーのサイズ別上位 10 サイト | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| User.Read | 委任 | ユーザーがアプリにサインインし、アプリがサインインしているユーザーのプロファイルを読み取るのを許可します。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| User.Read.All | アプリケーション | アプリは、サインインしているユーザーなしで、ユーザー プロファイルを読み取ることができます。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| offline_access | 委任 | ユーザーが現在アプリを使用していない場合でも、アクセス権を与えたデータをアプリが表示および更新できます。  | ボット通知 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| openid | 委任 | ユーザーが職場または学校アカウントでアプリにサインインできるようにします。またアプリで、ユーザーの基本的なプロファイル情報を読み取れるようにします。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
+>| profile | 委任 | アプリでユーザーの基本的なプロファイル (名前、画像、ユーザー名) を表示できます。 | 該当なし | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](../azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -102,7 +103,7 @@ EnterprizID Inc から Microsoft に提供される情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->EndUser と Organization の完全な名前。 保持ポリシーと削除ポリシーは、[個人データの保持] セクション https://enterprizid.com/privacy-policy &quot; で確認 &quot; できます。
+>EndUser と Organization の完全な名前。 保持ポリシーと削除ポリシーは、[個人データのhttps://enterprizid.com/privacy-policy&quot;保持] セクションで確認&quot;できます。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
@@ -122,7 +123,7 @@ EnterprizID Inc から Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36552' frameborder='no' style='width: 100%;'></iframe>
 
@@ -138,7 +139,7 @@ EnterprizID Inc から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity 条件を処理する方法について EnterprizID Inc によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -149,7 +150,7 @@ EnterprizID Inc から Microsoft に提供される情報:
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | 不要 |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow、SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
 | アプリでプレビュー API を使用していますか? | はい |

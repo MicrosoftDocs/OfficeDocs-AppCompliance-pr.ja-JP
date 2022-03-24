@@ -2,18 +2,19 @@
 title: Talview Inc. による Talview Interviews のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Talview Interviews、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 380c0e14a2aa7d4d680fbe4c375b5f0e01e16a43
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 19dc757e6bd95c434999f7f2228f8cb757addd28
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428494"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753147"
 ---
 # <a name="talview-interviews"></a>Talview Interviews
 
@@ -30,14 +31,14 @@ ms.locfileid: "60428494"
 
 Talview Inc から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Talview Interviews |
 | ID | WA200002437 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Talview Inc |
 | パートナー Web サイトの URL | [https://talview.com](https://talview.com) |
-| [アプリケーション情報Teamsページの URL | [https://info.talview.com/talview-partners-microsoft-teams](https://info.talview.com/talview-partners-microsoft-teams) |
+| アプリケーション情報Teamsページの URL | [https://info.talview.com/talview-partners-microsoft-teams](https://info.talview.com/talview-partners-microsoft-teams) |
 | プライバシー ポリシーの URL | [https://www.talview.com/privacy](https://www.talview.com/privacy) |
 | 利用規約の URL | [https://www.talview.com/terms](https://www.talview.com/terms) |
 
@@ -51,16 +52,16 @@ Talview Inc から Microsoft に提供される情報:
 
 この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて、Talview Inc.によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | 委任 | サインインおよびユーザー プロファイルの読み取り | 通知と認証用の電子メール アドレス/ユーザー名 | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
->| メール | 委任 | ユーザー アカウントをマッピングするユーザーの電子メール アドレスを表示する | 通知と認証用の電子メール アドレス/ユーザー名 | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
->| openid | 委任 | ユーザーにサインインする、プラットフォームにログインするには | 通知と認証用の電子メール アドレス/ユーザー名 | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
->| profile | 委任 | ユーザーの基本プロファイルの表示 | 通知と認証用の電子メール アドレス/ユーザー名 | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
+>| User.Read | 委任 | サインインおよびユーザー プロファイルの読み取り | 通知と認証用の電子メール アドレス/ユーザー名 | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
+>| メール | 委任 | ユーザー アカウントをマッピングするユーザーの電子メール アドレスを表示する | 通知と認証用の電子メール アドレス/ユーザー名 | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
+>| openid | 委任 | ユーザーにサインインする、プラットフォームにログインするには | 通知と認証用の電子メール アドレス/ユーザー名 | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
+>| profile | 委任 | ユーザーの基本プロファイルの表示 | 通知と認証用の電子メール アドレス/ユーザー名 | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -100,7 +101,7 @@ Talview Inc から Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36431' frameborder='no' style='width: 100%;'></iframe>
 
@@ -116,7 +117,7 @@ Talview Inc から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の Identity の条件を処理する方法について、Talview Inc. から提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

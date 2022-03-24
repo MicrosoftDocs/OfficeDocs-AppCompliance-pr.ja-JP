@@ -2,18 +2,19 @@
 title: Officevibe による Officevibe のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Officevibe で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: Officevibe で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c347c1de602d889829ac22aaad650871959be6be
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: c96f4bc23b5f1201567276c64de7ff411746c105
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430789"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753733"
 ---
 # <a name="officevibe"></a>Officevibe
 
@@ -30,14 +31,14 @@ ms.locfileid: "60430789"
 
 Officevibe から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Officevibe |
 | ID | WA200002508 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Officevibe |
 | パートナー Web サイトの URL | [https://officevibe.com](https://officevibe.com) |
-| [アプリケーション情報Teamsページの URL | [https://officevibe-portal.zendesk.com/hc/en-us/articles/360...](https://officevibe-portal.zendesk.com/hc/en-us/articles/360048865311-Officevibe-Communications-via-Microsoft-Teams-Coming-soon-) |
+| アプリケーション情報Teamsページの URL | [https://officevibe-portal.zendesk.com/hc/en-us/articles/360...](https://officevibe-portal.zendesk.com/hc/en-us/articles/360048865311-Officevibe-Communications-via-Microsoft-Teams-Coming-soon-) |
 | プライバシー ポリシーの URL | [https://officevibe.com/privacy](https://officevibe.com/privacy) |
 | 利用規約の URL | [https://officevibe.com/terms](https://officevibe.com/terms) |
 
@@ -51,24 +52,24 @@ Officevibe から Microsoft に提供される情報:
 
 この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールについて Officevibe によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
 このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
->| Group.Read.All | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
->| TeamsAppInstallation.ReadWriteForUser | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
->| User.Read | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
->| User.Read.All | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
+>| Directory.AccessAsUser.All | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
+>| Group.Read.All | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
+>| TeamsAppInstallation.ReadWriteForUser | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
+>| User.Read | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
+>| User.Read.All | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
 アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
 
->| **OII のすべての非Microsoft サービスに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
+>| **すべての非Microsoft サービス OII がに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Hubspot、Recurly、Xero、MongoDB Atlas | 会社名と業種 | 顧客管理、支払い、サブスクリプション管理、アプリケーション データ ストレージ |
 
@@ -95,7 +96,7 @@ Officevibe から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -103,7 +104,7 @@ Officevibe から Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 <iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35160' frameborder='no' style='width: 100%;'></iframe>
 
@@ -119,7 +120,7 @@ Officevibe から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Officevibe によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 

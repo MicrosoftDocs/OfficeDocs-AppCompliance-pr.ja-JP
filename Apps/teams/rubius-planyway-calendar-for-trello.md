@@ -2,20 +2,21 @@
 title: Rubius による Trello の Planyway カレンダーのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Trello 用 Planyway Calendar、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: Trello 用 Planyway Calendar、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1f7f0b736cbe100b0131d4064c2702cb28e9ea35
-ms.sourcegitcommit: 06d460e64ccf4d150acd7f90309c902262ba2f7a
+ms.openlocfilehash: 5936b0c382642d1e614803928111e14a38ab1a5e
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/08/2021
-ms.locfileid: "61354639"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753767"
 ---
-# <a name="planyway-calendar-for-trello"></a>Trello の Planyway カレンダー
+# <a name="planyway-calendar-for-trello"></a>Planyway Calendar for Trello
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +33,7 @@ Rubius が Microsoft に提供する情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | Trello の Planyway カレンダー |
+| アプリ名 | Planyway Calendar for Trello |
 | ID | WA200002712 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Rubius |
@@ -71,11 +72,11 @@ Rubius が Microsoft に提供する情報:
 
 ::: zone pivot="security"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリで年間侵入テストを実行しますか? | いいえ |
+| アプリで年間侵入テストを実行しますか? | 不要 |
 | アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | 不要 |
 | 環境で従来のマルウェア対策保護またはアプリケーションコントロールを使用していますか? |  |
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? |  |
@@ -106,9 +107,9 @@ Rubius が Microsoft に提供する情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | N/A |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
 | アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | {
-  &quot;CMP08_complianceSOC_1 : &quot; &quot; Na &quot; } | |最新の SOC1 認定日|  | |アプリはサービス組織のコントロール (SOC 2) に準拠していますか? |いいえ| |どの SOC 2 認定を取得しましたか? | | |最新の SOC2 認定日| | |アプリは Service Organization Controls (SOC 3) に準拠していますか? |いいえ| |最新の SOC3 認定日| | |アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 |いいえ| |アプリの国際標準化機構 (ISO 27001) は認定されていますか? |いいえ| |アプリは国際標準化機構 (ISO 27018) に準拠していますか? |{ &quot; CMP16_complianceISO_27018 : Na } &quot; &quot; &quot; | |アプリは国際標準化機構 (ISO 27017) に準拠していますか? |いいえ| |アプリは国際標準化機構 (ISO 27002) に準拠していますか? |いいえ| |アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? |いいえ| |アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? |N/A | |アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? |N/A | |アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? |N/A | |アプリは NIST 800-171 に準拠していますか? | | |アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? |いいえ|
+  &quot;&quot;CMP08_complianceSOC_1: &quot;Na&quot; } | |最新の SOC1 認定日|  | |アプリはサービス組織のコントロール (SOC 2) に準拠していますか? |いいえ| |どの SOC 2 認定を取得しましたか? | | |最新の SOC2 認定日| | |アプリは Service Organization Controls (SOC 3) に準拠していますか? |いいえ| |最新の SOC3 認定日| | |アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 |いいえ| |アプリの国際標準化機構 (ISO 27001) は認定されていますか? |いいえ| |アプリは国際標準化機構 (ISO 27018) に準拠していますか? |{ CMP16_complianceISO_27018&quot;&quot;: &quot;Na&quot; } | |アプリは国際標準化機構 (ISO 27017) に準拠していますか? |いいえ| |アプリは国際標準化機構 (ISO 27002) に準拠していますか? |いいえ| |アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? |いいえ| |アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? |N/A | |アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? |N/A | |アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? |N/A | |アプリは NIST 800-171 に準拠していますか? | | |アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? |いいえ|
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -116,7 +117,7 @@ Rubius が Microsoft に提供する情報:
 
 ::: zone pivot="privsection"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? |  |
 | アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? |  |
@@ -137,16 +138,16 @@ Rubius が Microsoft に提供する情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | いいえ |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | いいえ |
+| アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | 不要 |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | 不要 |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? |  |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | 不要 |
 
->このアプリケーションでは、Microsoft アプリケーションをGraph。
+>このアプリケーションでは、Microsoft のアプリケーションをGraph。
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 
