@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Talview Interviews、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 19dc757e6bd95c434999f7f2228f8cb757addd28
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: c4465b676ea2b85e8f2d6fcbffaf1f00c2a5d349
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753147"
+ms.locfileid: "63773548"
 ---
 # <a name="talview-interviews"></a>Talview Interviews
 
@@ -54,14 +54,14 @@ Talview Inc から Microsoft に提供される情報:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | 委任 | サインインおよびユーザー プロファイルの読み取り | 通知と認証用の電子メール アドレス/ユーザー名 | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
->| メール | 委任 | ユーザー アカウントをマッピングするユーザーの電子メール アドレスを表示する | 通知と認証用の電子メール アドレス/ユーザー名 | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
->| openid | 委任 | ユーザーにサインインする、プラットフォームにログインするには | 通知と認証用の電子メール アドレス/ユーザー名 | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
->| profile | 委任 | ユーザーの基本プロファイルの表示 | 通知と認証用の電子メール アドレス/ユーザー名 | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
+>| User.Read | 委任 | サインインおよびユーザー プロファイルの読み取り | 通知と認証用の電子メール アドレス/ユーザー名 | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
+>| メール | 委任 | ユーザー アカウントをマッピングするユーザーの電子メール アドレスを表示する | 通知と認証用の電子メール アドレス/ユーザー名 | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
+>| openid | 委任 | ユーザーにサインインする、プラットフォームにログインするには | 通知と認証用の電子メール アドレス/ユーザー名 | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
+>| profile | 委任 | ユーザーの基本プロファイルの表示 | 通知と認証用の電子メール アドレス/ユーザー名 | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -103,7 +103,7 @@ Talview Inc から Microsoft に提供される情報:
 
 次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36431' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36431' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36431" target="_blank">新しいタブで表示する</a>
 

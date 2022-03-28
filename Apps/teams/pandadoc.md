@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: PandaDoc で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7cfd701c52bfc076fb1352bac439479426bc8475
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 32e31e9939444901b3c5cf44ac512d1958c13cd2
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63549675"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64458250"
 ---
 # <a name="pandadoc"></a>PandaDoc
 
@@ -101,25 +101,25 @@ PandaDoc が Microsoft に提供する情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | はい |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 不要 |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | いいえ |
 | アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
 | 最新の SOC1 認定日 |   |
 | アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | はい |
 | どの SOC 2 認定を取得しましたか? |   |
 | 最新の SOC2 認定日 |  2020-06-10 |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
 | 最新の SOC3 認定日 | |
 | アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | はい |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | はい |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 不要 |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | いいえ |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -149,10 +149,10 @@ PandaDoc が Microsoft に提供する情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | はい |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | 不要 |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | いいえ |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | false |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
@@ -169,8 +169,8 @@ PandaDoc が Microsoft に提供する情報:
 >| Files.Read | 両方とも | Tab からの sso ユーザーの場合 (例 - https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs). Microsoft サービスへのアクセス権を持つユーザー トークンを取得し、Graphファイルを取得するために必要です。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| Files.Read.All | 両方とも | Tab からの sso ユーザーの場合 (例 - https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs). Microsoft サービスへのアクセス権を持つユーザー トークンを取得し、Graphファイルを取得するために必要です。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| Files.Read.Selected | 両方とも | Tab からの sso ユーザーの場合 (例 - https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs). Microsoft サービスへのアクセス権を持つユーザー トークンを取得し、Graphファイルを取得するために必要です。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
->| Group.Read.All | 両方とも | をクリックして、以前に受信した各コマンドのチャネルのリスト ID を取得し、各チャネルのファイル ドライブ ID を取得します。 ドキュメント - https://docs.microsoft.com/en-us/graph/api/channel-list?view=graph-rest-1.0&amp;tabs=http | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
->| Group.ReadWrite.All | 両方とも | をクリックして、以前に受信した各コマンドのチャネルのリスト ID を取得し、各チャネルのファイル ドライブ ID を取得します。 ドキュメント - https://docs.microsoft.com/en-us/graph/api/channel-list?view=graph-rest-1.0&amp;tabs=http | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| Group.Read.All | 両方とも | をクリックして、以前に受信した各コマンドのチャネルのリスト ID を取得し、各チャネルのファイル ドライブ ID を取得します。 ドキュメント - https://docs.microsoft.com/graph/api/channel-list?view=graph-rest-1.0&amp;tabs=http | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| Group.ReadWrite.All | 両方とも | をクリックして、以前に受信した各コマンドのチャネルのリスト ID を取得し、各チャネルのファイル ドライブ ID を取得します。 ドキュメント - https://docs.microsoft.com/graph/api/channel-list?view=graph-rest-1.0&amp;tabs=http | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| Team.ReadBasic.All | 両方とも | を使用して、ユーザー Microsoft Teamsメンバーであるチームの ID を取得します。 その後、各コマンド識別子のチャネルを受信します。 ファイル コンテナー ID を取得するには、まずユーザーが入力したチームの一覧を取得する必要があります。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| TeamSettings.Read.All | 両方とも | ユーザーが直接メンバー Microsoft Teamsのチーム ID を取得します。 その後、各コマンド識別子のチャネルを受信します。 ファイル コンテナー ID を取得するには、まずユーザーが入力したチームの一覧を取得する必要があります。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| TeamSettings.ReadWrite.All | 両方とも | または、ユーザーが直接メンバー Microsoft Teamsチームの ID を取得します。 その後、各コマンド識別子のチャネルを受信します。 ファイル コンテナー ID を取得するには、まずユーザーが入力したチームの一覧を取得する必要があります。 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |

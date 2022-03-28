@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Officevibe で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c96f4bc23b5f1201567276c64de7ff411746c105
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: fffda2392deb49081516387a0987d9ff711f327d
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753733"
+ms.locfileid: "63773508"
 ---
 # <a name="officevibe"></a>Officevibe
 
@@ -54,15 +54,15 @@ Officevibe から Microsoft に提供される情報:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
->| Group.Read.All | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
->| TeamsAppInstallation.ReadWriteForUser | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
->| User.Read | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
->| User.Read.All | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
+>| Directory.AccessAsUser.All | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 3e500164-df82-4d1e-9db8-0901e07d374d |
+>| Group.Read.All | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 3e500164-df82-4d1e-9db8-0901e07d374d |
+>| TeamsAppInstallation.ReadWriteForUser | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 3e500164-df82-4d1e-9db8-0901e07d374d |
+>| User.Read | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 3e500164-df82-4d1e-9db8-0901e07d374d |
+>| User.Read.All | 委任 | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | メール、名前、画像: Officevibe でユーザーを作成します。 すべてのユーザーにリンクされたグループ: 組織の概要を確認するには。 テナント ID &amp; テナント名: Officevibe で組織をセットアップするには | 3e500164-df82-4d1e-9db8-0901e07d374d |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -106,7 +106,7 @@ Officevibe から Microsoft に提供される情報:
 
 次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35160' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35160' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35160" target="_blank">新しいタブで表示する</a>
 

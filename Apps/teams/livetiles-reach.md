@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Reach で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c58462500079df7f7b8b2736eec9289443df4a4c
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: 59022602a3102344dd130a1d6782464d9fa836ef
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753743"
+ms.locfileid: "63773658"
 ---
 # <a name="reach"></a>Reach
 
@@ -54,15 +54,15 @@ LiveTiles から Microsoft に提供される情報:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| TeamsActivity.Send | アプリケーション | none | none | [a7c1920d-3ac0-42db-9757-078a2b321fd8 ](../azure/a7c1920d-3ac0-42db-9757-078a2b321fd8.md ) |
->| User.Read | 委任 | ユーザーの DisplayName、ユーザーの電子メール アドレス、UPN。 ユーザーがアプリにサインインし、サインインしているユーザーの基本情報 (表示名など) を取得するために必要です。 電子メール アドレスは、電子メール通知の送信に使用されます。  | ユーザーの DisplayName、ユーザーの電子メール アドレス、UPN。 ユーザーがアプリにサインインし、サインインしているユーザーの基本情報 (表示名など) を取得するために必要です。 電子メール アドレスは、電子メール通知の送信に使用されます。  | [d492530a-8cff-481c-90da-9c3c3f1be7da](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md) |
->| User.ReadBasic.All | 委任 | User DisplayName, User Email Address, UPN, User Department, User Job Title, User Mobile 電話 Number, User Business 電話 Number, User Office Location. ユーザーがアプリ (Phonebook) 内で他のユーザーを検索し、他のユーザーの基本的なプロファイルと連絡先情報を表示するために必要です。  | none | [d492530a-8cff-481c-90da-9c3c3f1be7da](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md) |
->| Directory.Read.All | アプリケーション | グループ メンバーシップ、ディレクトリADグループ。 ユーザーのグループ メンバーシップは、キャッシュに格納され、Microsoft の api への呼び出しGraphされます。 ユーザーが Active Directory グループを検索するには必須です。 さらに、このアクセス許可は、アプリケーションがバックエンドの web ジョブADのグループ メンバーシップを解決するために必要です。 | ユーザーのグループ メンバーシップ。 ユーザーのグループ メンバーシップは、キャッシュに格納され、Microsoft の api への呼び出しGraphされます。 ユーザーが Active Directory グループを検索するには必須です。 さらに、このアクセス許可は、アプリケーションがバックエンドの web ジョブADのグループ メンバーシップを解決するために必要です。  | [d492530a-8cff-481c-90da-9c3c3f1be7da ](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md ) |
->| User.Read.All | アプリケーション | ユーザー プロファイルから取得されるデータは、アプリ内で指定された対象ユーザーターゲット機能の構成によって異なります。 サインインしているユーザーなしでユーザー プロファイルを読み取るアプリを許可するために必要です。 プロファイル データの読み取りは、特定のプロファイル プロパティ値に基づいて特定のユーザーに情報を表示するために、アプリケーション内の情報ターゲット機能に必要です。  | none | [d492530a-8cff-481c-90da-9c3c3f1be7da ](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md ) |
+>| TeamsActivity.Send | アプリケーション | none | none | a7c1920d-3ac0-42db-9757-078a2b321fd8 |
+>| User.Read | 委任 | ユーザーの DisplayName、ユーザーの電子メール アドレス、UPN。 ユーザーがアプリにサインインし、サインインしているユーザーの基本情報 (表示名など) を取得するために必要です。 電子メール アドレスは、電子メール通知の送信に使用されます。  | ユーザーの DisplayName、ユーザーの電子メール アドレス、UPN。 ユーザーがアプリにサインインし、サインインしているユーザーの基本情報 (表示名など) を取得するために必要です。 電子メール アドレスは、電子メール通知の送信に使用されます。  | d492530a-8cff-481c-90da-9c3c3f1be7da |
+>| User.ReadBasic.All | 委任 | User DisplayName, User Email Address, UPN, User Department, User Job Title, User Mobile 電話 Number, User Business 電話 Number, User Office Location. ユーザーがアプリ (Phonebook) 内で他のユーザーを検索し、他のユーザーの基本的なプロファイルと連絡先情報を表示するために必要です。  | none | d492530a-8cff-481c-90da-9c3c3f1be7da |
+>| Directory.Read.All | アプリケーション | グループ メンバーシップ、ディレクトリADグループ。 ユーザーのグループ メンバーシップは、キャッシュに格納され、Microsoft の api への呼び出しGraphされます。 ユーザーが Active Directory グループを検索するには必須です。 さらに、このアクセス許可は、アプリケーションがバックエンドの web ジョブADのグループ メンバーシップを解決するために必要です。 | ユーザーのグループ メンバーシップ。 ユーザーのグループ メンバーシップは、キャッシュに格納され、Microsoft の api への呼び出しGraphされます。 ユーザーが Active Directory グループを検索するには必須です。 さらに、このアクセス許可は、アプリケーションがバックエンドの web ジョブADのグループ メンバーシップを解決するために必要です。  | d492530a-8cff-481c-90da-9c3c3f1be7da |
+>| User.Read.All | アプリケーション | ユーザー プロファイルから取得されるデータは、アプリ内で指定された対象ユーザーターゲット機能の構成によって異なります。 サインインしているユーザーなしでユーザー プロファイルを読み取るアプリを許可するために必要です。 プロファイル データの読み取りは、特定のプロファイル プロパティ値に基づいて特定のユーザーに情報を表示するために、アプリケーション内の情報ターゲット機能に必要です。  | none | d492530a-8cff-481c-90da-9c3c3f1be7da |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -106,7 +106,7 @@ LiveTiles から Microsoft に提供される情報:
 
 次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36551' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36551' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36551" target="_blank">新しいタブで表示する</a>
 
