@@ -2,18 +2,19 @@
 title: Zoho Corporation Private Limited による ServiceDesk Plus for Email のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/04/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ServiceDesk Plus for Email、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0ccf0b8f7a17077bbf468369779e70335ac8e7e5
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: f41cd7e3b578b3eea68a8d83c8bc8f39c64f2735
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60439268"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64462130"
 ---
 # <a name="servicedesk-plus-for-email"></a>電子メール用 ServiceDesk Plus
 
@@ -29,11 +30,11 @@ ms.locfileid: "60439268"
 
 Zoho Corporation Private Limited to Microsoft から提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | 電子メール用 ServiceDesk Plus |
 | ID | WA104381518 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の場合は、Outlook on the web |
+| Office 365サポートされているクライアント | Outlook 2013 以降の Mac 上Windows、Outlook 2016以降の Mac では、Outlook on the web |
 | パートナー会社名 | Zoho Corporation Private Limited |
 | パートナー Web サイトの URL | [https://www.manageengine.com/products/service-desk](https://www.manageengine.com/products/service-desk) |
 | プライバシー ポリシーの URL | [https://www.manageengine.com/privacy.html](https://www.manageengine.com/privacy.html) |
@@ -49,21 +50,21 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 
 この情報は、Zoho Corporation Private Limited から、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Calendars.ReadWrite | アプリケーション |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| Files.Read | 委任 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| Files.Read.Selected | 委任 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| User.Read | 委任 | ユーザーの電子メール ID。 | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインを有効にできます。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| User.Read.All | アプリケーション |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| User.ReadBasic.All | 委任 | メール ID、名前、従業員 ID、役職、電話、モバイル、サイト、部署、ロケール、ユーザーのプロファイル写真。 | ユーザーの基本情報をユーザーからインポートAzure Active Directory。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| メール | 委任 | ユーザーの電子メール ID。 | ユーザーのメール アドレスを表示します。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| offline_access | 委任 |  | アクセス権を与えられたデータへのアクセスを維持します。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| profile | 委任 |  | ユーザーの基本的なプロファイルを表示します。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Calendars.ReadWrite | アプリケーション |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Files.Read | 委任 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Files.Read.Selected | 委任 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.Read | 委任 | ユーザーの電子メール ID。 | ユーザーがサインインし、アプリに UPN へのアクセス権を与え、サイレント ログインを有効にできます。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.Read.All | アプリケーション |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.ReadBasic.All | 委任 | メール ID、名前、従業員 ID、役職、電話、モバイル、サイト、部署、ロケール、ユーザーのプロファイル写真。 | ユーザーの基本情報をユーザーからインポートAzure Active Directory。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| メール | 委任 | ユーザーの電子メール ID。 | ユーザーのメール アドレスを表示します。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| offline_access | 委任 |  | アクセス権を与えられたデータへのアクセスを維持します。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| profile | 委任 |  | ユーザーの基本的なプロファイルを表示します。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -93,9 +94,9 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/18802' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/18802' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/18802" target="_blank">新しいタブで表示する</a>
 

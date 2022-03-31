@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Powell Teams、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7245730e77597a9d22c387f3001990786ea1f827
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 7fffe34f51520ebec1cc5dce2761ce59269b0e35
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63550075"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64462930"
 ---
 # <a name="powell-teams"></a>Powell Teams
 
@@ -39,7 +39,7 @@ ms.locfileid: "63550075"
 | パートナー会社名 | Powell Software |
 | 会社の Web サイト | [https://www.powell-software.com](https://www.powell-software.com) |
 | アプリの利用規約 | [https://powell-software.com/en/powell-teams-terms-of-use/](https://powell-software.com/en/powell-teams-terms-of-use/) |
-| アプリのコア機能 | Powell Teams &amp; アプリは、すべての会社の従業員にスマート ダッシュボードを提供し、タグを簡単に整理し、すべてのチームを簡単に整理し、最も重要な昇格された会社チームを発見し、最後に定義済みの役割ベースのチーム テンプレートを使用して時間を節約するのに役立ちます。 API を使用して、Powell Teams データベースのデータ セットを取得して処理することもできます (https://docapiteams.powell-software.com)最後に、Logic Apps および Power Automate コネクタも利用できます (https://docs.microsoft.com/en-us/connectors/powellteams) |
+| アプリのコア機能 | Powell Teams &amp; アプリは、すべての会社の従業員にスマート ダッシュボードを提供し、タグを簡単に整理し、すべてのチームを簡単に整理し、最も重要な昇格された会社チームを発見し、最後に定義済みの役割ベースのチーム テンプレートを使用して時間を節約するのに役立ちます。 API を使用して、Powell Teams データベースのデータ セットを取得して処理することもできます (https://docapiteams.powell-software.com)最後に、Logic Apps および Power Automate コネクタも利用できます (https://docs.microsoft.com/connectors/powellteams) |
 | 会社の本社所在地 | フランス |
 | アプリ情報ページ | [https://helpteams.powell-software.com](https://helpteams.powell-software.com) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
@@ -100,26 +100,26 @@ ms.locfileid: "63550075"
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 不要 |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 不要 |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 不要 |
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | いいえ |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | いいえ |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | いいえ |
 | 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | いいえ |
 | どの SOC 2 認定を取得しましたか? | |
 | 最新の SOC2 認定日 | |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
 | 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 不要 |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 不要 |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 不要 |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 不要 |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | いいえ |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | いいえ |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | いいえ |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | いいえ |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -152,10 +152,10 @@ ms.locfileid: "63550075"
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | true |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
-| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | 不要 |
+| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 

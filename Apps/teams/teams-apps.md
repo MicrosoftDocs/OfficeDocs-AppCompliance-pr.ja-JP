@@ -3,17 +3,17 @@ title: Microsoft Teams アプリのセキュリティとコンプライアンス
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/23/2022
+ms.date: 03/25/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: fa3075217469ed594fbc02c66f50606a9b8e5512
-ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
+ms.openlocfilehash: 55a71d2eea794dd779ff2dc8d2ac90ed05b90458
+ms.sourcegitcommit: c0192e544acac1e5b80a80fca21bf271cbcd0a28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/23/2022
-ms.locfileid: "63773208"
+ms.lasthandoff: 03/26/2022
+ms.locfileid: "64480489"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -31,6 +31,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Adobe Sign](./adobe-systems-inc-sign.md) | Adobe Systems Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [上司の予定一覧](./appfluence-inc-agenda-boss.md) | Appfluence Inc | **✓** |  |
 | [Aimful](./aimful.md) | Aimful | **✓** |  |
+| [Akouo Interpretation](./akouo-technologies-inc-interpretation.md) | Akouo Technologies Inc. | **✓** |  |
 | [Alloy Self-Service Assistant](./alloy-software-self-service-assistant.md) | Alloy Software | **✓** |  |
 | [Alvao Service Desk](./alvao-sro-service-desk.md) | ALVAO s.r.o. | **✓** |  |
 | [Amber](./infeedo-amber.md) | inFeedo | **✓** |  |
@@ -42,6 +43,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Appraisd](./appraisd-ltd.md) | Appraisd Ltd. | **✓** |  |
 | [Appspace](./appspace-inc.md) | Appspace, Inc. | **✓** |  |
 | [ArcGIS Maps](./esri-arcgis-maps.md) | Esri | **✓** |  |
+| [Are You Safe?](./avista-technology-solutions-are-you-safe.md) | Avista テクノロジー ソリューション | **✓** |  |
 | [ARGUSnylar](./argus-data-insights-schweiz-ag-argusnylar.md) | ARGUS DATA INSIGHTS Schweiz AG | **✓** |  |
 | [Arrangr](./arrangr-inc.md) | Arrangr, Inc. | **✓** |  |
 | [Asa](./two-app-studio-pte-ltd-asa.md) | Two App Studio Pte Ltd. | **✓** |  |
@@ -95,6 +97,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [ChurnZero](./churnzero.md) | ChurnZero | **✓** |  |
 | [CI-Out-of-Office Lite](./ci-solution-gmbh-out-of-office-lite.md) | ci ソリューション GmbH | **✓** |  |
 | [ClipTraining](./cliptraining.md) | ClipTraining | **✓** |  |
+| [Clixie](./clixie-media-llc.md) | Clixie Media LLC | **✓** |  |
 | [Cloud Effective](./cloud-effective.md) | Cloud Effective | **✓** |  |
 | [Cloud Hub](./atwork-gmbh-cloud-hub.md) | Atwork GmbH | **✓** |  |
 | [CloudLabs](./spektra-systems-llc-cloudlabs.md) | Spektra Systems LLC | **✓** |  |
@@ -129,6 +132,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [DELTAoverC](./deltaoverc.md) | DELTAoverC | **✓** |  |
 | [デスク予約](./tns-consulting-aps-desk-reservations.md) | TNS コンサルティング ApS | **✓** |  |
 | [Desk365](./kani-technologies-inc-desk365.md) | Kani Technologies Inc | **✓** |  |
+| [DeskBooking](./desknow-gmbh-deskbooking.md) | DeskNow GmbH | **✓** |  |
 | [DeskManager](./desknow-gmbh-deskmanager.md) | DeskNow GmbH | **✓** |  |
 | [Digiplein](./educatieve-uitgeversgroep-bv-digiplein.md) | Educatieve Uitgeversgroep B.V. | **✓** |  |
 | [Diligent Boards](./diligent-boards.md) | Diligent | **✓** |  |
@@ -139,7 +143,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Dubber Unified Call Recording](./dubber-unified-call-recording.md) | ダバー | **✓** |  |
 | [Easy Projects](./logic-software-inc-easy-projects.md) | Logic Software Inc. | **✓** |  |
 | [EasyLife 365](./easylife-365-ag.md) | EasyLife 365 AG | **✓** |  |
-| [eCademy Lernplattform](./cornelsen-ecademy-and-inside-gmbh-lernplattform.md) | Cornelsen eCademy &amp;inside GmbH | **✓** |  |
+| [eCademy Lernplattform](./cornelsen-ecademyinside-gmbh-ecademy-lernplattform.md) | Cornelsen eCademy &amp;inside GmbH | **✓** |  |
 | [ecBooking](./expert-systems-ivrasia-coltd-ecbooking.md) | Expert Systems IVR(Asia) Co.Ltd. | **✓** |  |
 | [EdMill](./my-serious-game-edmill.md) | My-Serious-Game | **✓** |  |
 | [Efecte サービス管理](./efecte-oyj-service-management.md) | Efecte Oyj | **✓** |  |
@@ -157,10 +161,12 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Engagedly](./engagedly-inc.md) | Engagedly Inc | **✓** |  |
 | [EngageWith](./springrole-engagewith.md) | SpringRole | **✓** |  |
 | [enmacc](./enmacc.md) | enmacc | **✓** |  |
+| [Espresso](./solutions2share-gmbh-espresso.md) | Solutions2Share GmbH | **✓** |  |
 | [eTeamer](./eteamer.md) | &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [イベント管理](./sharepointsapiens-event-management.md) | SharePoint-Sapiens | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
 | [Evocom](./evocom-informationssysteme-gmbh.md) | Evocom Informationssysteme GmbH | **✓** |  |
+| [External User Manager](./solutions2share-gmbh-external-user-manager.md) | Solutions2Share GmbH | **✓** |  |
 | [ezTeam](./enterprizid-inc-ezteam.md) | EnterprizID Inc | **✓** |  |
 | [Fabasoft Cloud](./fabasoft-austria-gmbh-cloud.md) | Fabasoft Austria GmbH | **✓** |  |
 | [FactSet](./factset-research-systems-inc.md) | FactSet Research Systems Inc. | **✓** |  |
@@ -168,6 +174,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Fellow](./fellow-insights-inc.md) | Fellow Insights Inc | **✓** |  |
 | [Fifty](./fifty.md) | Fifty | **✓** |  |
 | [File Fabric](./storage-made-easy-file-fabric.md) | Storage Made Easy | **✓** |  |
+| [File Manager](./solutions2share-gmbh-file-manager.md) | Solutions2Share GmbH | **✓** |  |
 | [Findit](./ctelo-findit.md) | CTELO | **✓** |  |
 | [Fireflies AI](./firefliesai-fireflies-ai.md) | Fireflies.ai | **✓** |  |
 | [FireHydrant](./firehydrant.md) | FireHydrant | **✓** |  |
@@ -181,6 +188,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Freehand by InVision](./invisionapp-inc-freehand-by-invision.md) | InVisionApp, Inc. | **✓** |  |
 | [Futureworks](./futureworks-as.md) | Futureworks AS | **✓** |  |
 | [Gameinar](./heuristix-gameinar.md) | Heuristix | **✓** |  |
+| [gauge.it](./cloud-cover-it-gaugeit.md) | クラウド カバー IT | **✓** |  |
 | [Geekbot](./geekbot-ltd.md) | Geekbot Ltd | **✓** |  |
 | [Gensys](./gensys-solutions-bv.md) | ensys Solutions BV | **✓** |  |
 | [Gfacility](./gfacility.md) | Gfacility | **✓** |  |
@@ -193,6 +201,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [GoToConnect](./logmein-inc-gotoconnect.md) | LogMeIn Inc. | **✓** |  |
 | [組織アドレス帳 - ネクストセット](./nextsetinc-group-address-book-nextset.md) | NextSet,Inc. | **✓** |  |
 | [GroupLotse](./controlex-gmbh-grouplotse.md) | controlex GmbH | **✓** |  |
+| [Grow360](./grow360.md) | Grow360 | **✓** |  |
 | [Gtmhub](./gtmhub.md) | Gtmhub | **✓** |  |
 | [GuideSpark コミュニケーション クラウド](./guidespark-communicate-cloud.md) | GuideSpark | **✓** |  |
 | [GuineaPig](./guineapig-health-technologies-ab.md) | Pig Health Technologies AB | **✓** |  |
@@ -211,7 +220,9 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [ヒューゴ](./hugo.md) | ヒューゴ | **✓** |  |
 | [huminos](./soe-technologies-huminos.md) | SOE Technologies | **✓** |  |
 | [Humu](./humu-inc.md) | Humu Inc. | **✓** |  |
+| [Hyperlinks](./solutions2share-gmbh-hyperlinks.md) | Solutions2Share GmbH | **✓** |  |
 | [Hyperproof](./hyperproof.md) | Hyperproof | **✓** |  |
+| [Ideanote](./ideanote-aps.md) | Ideanote ApS | **✓** |  |
 | [Sideways 6 のアイデア](./sideways-6-ideas-by.md) | Sideways 6 | **✓** |  |
 | [IdeaScale](./ideascale.md) | IdeaScale | **✓** |  |
 | [iGlobe CRM for Teams](./iglobe-crm-for-teams.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -315,8 +326,9 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Perdoo](./perdoo-gmbh.md) | Perdoo GmbH | **✓** |  |
 | [Perfect Wiki](./ooo-rd17-perfect-wiki.md) | OOO RD17 | **✓** |  |
 | [Perflo](./perflo.md) | Perflo | **✓** |  |
+| [Photo Filer](./ichicraft-photo-filer.md) | Ichicraft | **✓** |  |
 | [Planyway Calendar for Trello](./rubius-planyway-calendar-for-trello.md) | Rubius | **✓** |  |
-| [PlayQuiz - Aprende &amp; Juega](./teamschamp-playquiz-aprende-and-juega.md) | TeamsChamp | **✓** |  |
+| [PlayQuiz - Aprende &amp; Juega](./teamschamp-playquiz-aprendejuega.md) | TeamsChamp | **✓** |  |
 | [Plumm](./plumm-health-ltd.md) | Plumm Health LTD | **✓** |  |
 | [POPP Cloud VoIP Connector](./popp-communications-cloud-voip-connector.md) | POPP Communications | **✓** |  |
 | [PostBeyond](./postbeyond.md) | PostBeyond | **✓** |  |
@@ -421,7 +433,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Teameo クラス スペース](./ls2-innovation-teameo-class-space.md) | LS2 イノベーション | **✓** |  |
 | [Teamflect](./grepsi-software-teamflect.md) | Grepsi Software | **✓** |  |
 | [TeamGether](./effency-teamgether.md) | EFFENCY | **✓** |  |
-| [Teamhood](./eylean-uab-teamhood.md) | Eylean, UAB | **✓** |  |
+| [Teamhood](./eylean-teamhood.md) | Eylean | **✓** |  |
 | [TeamMate by ChitChattr](./chitchattr-teammate-by.md) | ChitChattr | **✓** |  |
 | [TeamMood](./power-up-conseil-teammood.md) | Power Up Conseil | **✓** |  |
 | [Teams Manager](./solutions2share-gmbh-teams-manager.md) | Solutions2Share GmbH | **✓** |  |
@@ -435,7 +447,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [The Captivate Hub](./captivate-io-ltd-the-hub.md) | Captivate IO Ltd | **✓** |  |
 | [ThoughtExchange](./thoughtexchange.md) | ThoughtExchange | **✓** |  |
 | [ThoughtWire EWS](./thoughtwire-corp-ews.md) | ThoughtWire Corp. | **✓** |  |
-| [ti8m places](./tiandm-ag-ti8m-places.md) | ti&amp;m AG | **✓** |  |
+| [ti8m places](./tim-ag-ti8m-places.md) | ti&amp;m AG | **✓** |  |
 | [Tikit](./cireson-tikit.md) | Cireson | **✓** |  |
 | [TimeClock 365](./softsale-timeclock-365.md) | Softsale | **✓** |  |
 | [timeghost - 時間管理](./kollisch-gmbh-timeghost-time-tracking.md) | K&#246;llisch GmbH | **✓** |  |
@@ -448,6 +460,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Trivia Engine](./enableuc-trivia-engine.md) | EnableUC | **✓** |  |
 | [Trivie](./trivie-inc.md) | Trivie, Inc. | **✓** |  |
 | [UKG Pro](./ukg-inc-pro.md) | UKG, Inc. | **✓** |  |
+| [Unified Contacts](./glueckkanja-gab-ag-unified-contacts.md) | glueckkanja-gab AG | **✓** |  |
 | [UserVoice](./uservoice.md) | UserVoice | **✓** |  |
 | [Vacation Tracker](./vacation-tracker.md) | Vacation Tracker | **✓** |  |
 | [Verto 365](./tmi-systems-verto-365.md) | TMI Systems | **✓** |  |

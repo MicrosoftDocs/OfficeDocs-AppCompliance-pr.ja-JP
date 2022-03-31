@@ -2,16 +2,17 @@
 title: ユーザー ガイド
 author: LGerrard
 ms.author: legerrar
+manager: tonybal
 description: ISV ユーザー ガイド for Microsoft 365 コンプライアンス プログラム
 keywords: ISV ユーザー ガイド for Microsoft 365 コンプライアンス プログラム
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 2b2b84cec3be5167d67733a89ba13fa411a0e781
-ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
+ms.openlocfilehash: e76655384acfe0ae65721c11c6f1e789a598bc3e
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61787860"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64461510"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>パートナーのユーザー ガイド for Microsoft 365 コンプライアンス プログラム
 
@@ -21,10 +22,10 @@ ms.locfileid: "61787860"
 |フェーズ 2| Microsoft 365 認定|
 
 ## <a name="1-overview"></a>1. 概要
-このドキュメントは、パートナー センター ポータルを通して Publisher 構成証明と認定を受けることを目指す Microsoft 365 アプリ コンプライアンス プログラムに登録されているパートナー向けステップバイステップのユーザー ガイドとして機能します。
+このドキュメントは、パートナー センター ポータルを通して Publisher 構成証明と認定を受けることを目指す Microsoft 365 アプリ コンプライアンス プログラムに登録されているパートナーのステップ バイ ステップ のユーザー ガイドとして機能します。
 
 
-## <a name="2-acronyms--definitions"></a>2. 定義&頭字語
+## <a name="2-acronyms--definitions"></a>2. 頭字語&定義
 | 略語 |定義 |
 |---|----|
 |PC [(パートナー センター)](https://partner.microsoft.com/)|すべての Microsoft パートナーのポータル。 パートナーがパートナー センターにログインし、自己評価アンケートを送信します。 [パートナー センター](https://partner.microsoft.com/dashboard/home) for Microsoft 365 コンプライアンス|
@@ -37,21 +38,21 @@ ms.locfileid: "61787860"
 
 **ホーム ページ** : パートナーがパートナー センターにログインした後のランディング ページです。
 
-**手順 1:** [Marketplace Offers] を選択します。 
+**手順 1** : [Marketplace Offers] を選択します。 
 
 ![パートナー センターの商用マーケットプレース](../media/NewPChomepage.png)
   
-**手順 2**: [Marketplace のオファー] を選択した後、[ストア] にOfficeします。 一覧からアプリを選択して、構成証明プロセスPublisher開始します。
+**手順 2**: [Marketplace オファー] を選択した後、[ストアのOfficeします。 一覧からアプリを選択して、構成証明Publisher開始します。
 
 ![商用マーケットプレースでのアプリの選択](../media/NewPCoffersComm.png)
 
 アプリを選択すると、別のナビゲーション バーがポップアップし、[追加の認定情報] オプションが表示された後、[アプリコンプライアンス] をクリックします。
   
-**手順 3:**[アプリコンプライアンス] を選択する
+**手順 3**: [アプリコンプライアンス] を選択する
 
 ![[アプリのコンプライアンス] の選択](../media/PCappcompliance3.png)
 
-**手順 4**: 自己評価アンケートに記入して、Publisher構成証明
+**手順 4**: 構成証明の自己評価アンケートにPublisherする
 
 ![Publisher の構成証明](../media/UserGuidePhotos/5.5.png)
 
@@ -59,7 +60,7 @@ ms.locfileid: "61787860"
 
 ![Clone](../media/UserGuidePhotos/05.png)
 
-また、この機能を活用Import/Exportフォームをオフラインで完成し、完了したらインポートすることもできます。
+また、この機能を活用Import/Exportフォームをオフラインで完了し、完了したらインポートすることもできます。
 
 ![エクスポートのインポート機能](../media/UserGuidePhotos/06.png)
 
@@ -76,7 +77,7 @@ ms.locfileid: "61787860"
 - この段階で拒否された場合、パートナーは次の機能を使用できます。
     - エラー レポートの表示
          - パートナーは電子メールで通知され、パートナー センターでエラー レポートを表示できます。
-    - 構成証明の更新と再送信Publisherする
+    - 構成証明の更新とPublisher送信
 
 ![評価の更新と再送信](../media/UserGuidePhotos/09.png)
 
@@ -105,8 +106,8 @@ ms.locfileid: "61787860"
 
 **手順 1:** [最初のドキュメント提出] すべての詳細を入力し、関連するドキュメントをアップロードし、[送信] をクリックします。
 
-![初期提出 ](../media/UserGuidePhotos/14.png)
- ![ 初期申請 2](../media/UserGuidePhotos/15.png)
+![初期申請](../media/UserGuidePhotos/14.png)
+![Initial Submission 2](../media/UserGuidePhotos/15.png)
 
 [送信] をクリックすると、構成証明の申請が審査中です。 
 
@@ -120,9 +121,9 @@ ms.locfileid: "61787860"
 
 **手順 2:** Control Requirement Submission すべての詳細を入力し、関連するドキュメントをアップロードし、[送信] をクリックします。 
 
-![完全な制御要件 ](../media/UserGuidePhotos/18.png)
- ![ アップロード Evidence ](../media/UserGuidePhotos/19.png)
- ![ Assure コントロールの要件が完了しました](../media/UserGuidePhotos/20.png)
+![完全な制御要件](../media/UserGuidePhotos/18.png)
+![アップロード EvidenceAssure](../media/UserGuidePhotos/19.png)
+![ コントロールの要件は完全です](../media/UserGuidePhotos/20.png)
 
 [送信] をクリックすると、認定申請が審査中です。 
 
@@ -130,9 +131,9 @@ ms.locfileid: "61787860"
 
 分析者は、制御要件ドキュメントが十分または関連性がない場合に、改訂を要求します。 アナリストはパートナーと作業を行い、承認に適切なドキュメントを取得します。 
 
-![証拠の更新が必要 ](../media/UserGuidePhotos/22.png)
- ![ レビュー中の証拠を更新する必要 ](../media/UserGuidePhotos/23.png)
- ![ がある証拠を理解する](../media/UserGuidePhotos/24.png)
+![証拠の更新が必要](../media/UserGuidePhotos/22.png)
+![ですレビュー中の](../media/UserGuidePhotos/23.png)
+![Evidenceを更新する必要がある証拠を見る](../media/UserGuidePhotos/24.png)
 
 申請が承認基準を満たしていない場合、アナリストは提出を拒否します。 パートナーはアナリストと一緒に関連する情報とドキュメントを提供できます。 
 
@@ -148,7 +149,7 @@ ms.locfileid: "61787860"
 
 ## <a name="5---microsoft-365-renewal-workflow"></a>5. Microsoft 365ワークフロー:
   
-**Microsoft 365 Publisher構成** 証明と認定更新ワークフロー: Microsoft 365コンプライアンス プログラムでは、年次更新プロセスが提供されます。 このプロセスの間、アプリ開発者は、既存の認証Publisherおよび認定に必要なドキュメントMicrosoft 365できます。 
+**Microsoft 365 Publisher証明と** 認定更新ワークフロー: Microsoft 365コンプライアンス プログラムで年次更新プロセスが提供されます。 このプロセスの間、アプリ開発者は、既存の認証Publisherおよび認定に必要なドキュメントMicrosoft 365できます。 
  
 **利点:** 
 
@@ -162,21 +163,21 @@ ms.locfileid: "61787860"
 
 新しい更新プロセスは、シームレスなエクスペリエンス [を提供するためにパートナー](https://partner.microsoft.com/dashboard/home) センターで利用できます。 有効期限の 90 日前からパートナー センターに更新通知が表示されます。 定期的なリマインダーは、有効期限の 90 日前、60 日前、30 日前に電子メールで送信されます。 
 
-**手順 1:**[更新 **] を** 選択して、構成証明Publisher更新します。 
+**手順 1**: [更新 **] を選択** して、構成証明Publisher更新します。 
 
 ![Microsoft 365Publisher証明と認定更新ワークフロー ](../media/UserGuidePhotos/28.png)
 
-**手順 2:** 以前の構成証明Publisher確認し、必要に応じて最新情報を更新します。 準備ができたらPublisherの構成証明を送信します。 これは、アプリコンプライアンスアナリストによってMicrosoft 365されます。
+**手順 2**: 構成証明のPublisherを確認し、必要に応じて最新情報を更新します。 準備ができたらPublisher更新の証明を送信します。 これは、アプリコンプライアンスアナリストによってMicrosoft 365されます。
 
-![構成証明Publisher更新する](../media/UserGuidePhotos/29.png)
+![構成証明をPublisherする](../media/UserGuidePhotos/29.png)
 
 **Publisher構成証明の更新が承認されました**
 
 ![Publisher構成証明の更新](../media/UserGuidePhotos/30.png)
 
-**Publisher構成** 証明の有効期限切れ: Microsoft ドキュメントでアプリの Publisher 構成証明ページを維持するには、有効期限の前にアプリの情報を更新する必要があります。また、AppSource、Teams ストア、ストア、その他のストアフロントでアプリのOfficeアイコンを継続的に更新します。
+**Publisher構成** 証明の有効期限切れ: Microsoft ドキュメントでアプリの Publisher 構成証明ページを維持するには、有効期限の前にアプリの情報を更新する必要があります。また、AppSource、Teams ストア、Officeストア、その他のストアフロントでアプリの継続的な問題とアイコンが更新されます。
 
-![Publisher構成証明の有効期限切れ](../media/UserGuidePhotos/31.png)
+![Publisher構成証明の有効期限](../media/UserGuidePhotos/31.png)
 
 注: 有効期限が切れたPublisher[更新] をクリックすると、いつでも構成証明の更新プロセスを開始できます。 
 
@@ -215,7 +216,7 @@ ms.locfileid: "61787860"
 Microsoft ドキュメントでアプリの認定ページを維持するには、有効期限より前にアプリの情報を更新する必要があります。また、AppSource と Team Store でアプリのバッドとアイコンを継続的に更新できます。
 
 
-Microsoft ドキュメントでアプリの認定ページを維持するには、有効期限より前にアプリの情報を更新する必要があります。また、AppSource、Teams ストア、ストア、その他のストアフロントでアプリのOfficeアイコンを継続的に更新します。 
+Microsoft ドキュメントでアプリの認定ページを維持するには、有効期限より前にアプリの情報を更新する必要があります。また、AppSource、Teams ストア、Officeストア、その他のストアフロントでアプリの継続的な問題とアイコンが更新されます。 
 
 ![証明書の更新の有効期限が切れています](../media/UserGuidePhotos/36.png)
     

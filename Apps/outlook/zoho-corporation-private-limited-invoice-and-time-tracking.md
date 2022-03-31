@@ -2,18 +2,19 @@
 title: 請求書と時間追跡のアプリケーション情報 - Zoho Corporation Private Limited による Zoho Invoice
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/04/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 請求書と時間追跡で使用可能なすべてのセキュリティおよびコンプライアンス情報 - Zoho Invoice、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cc7454e5f1181637f2ecacbf510c8191d51da0e7
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 65d71d027c2101c5332a9070e641300e77a39081
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428189"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64461370"
 ---
 # <a name="invoice-and-time-tracking---zoho-invoice"></a>請求書と時間の追跡 - Zoho 請求書
 
@@ -29,11 +30,11 @@ ms.locfileid: "60428189"
 
 Zoho Corporation Private Limited to Microsoft から提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | 請求書と時間の追跡 - Zoho 請求書 |
 | ID | WA104381067 |
-| Office 365サポートされているクライアント | Outlook 2013 以降の Mac Windows、Outlook 2016以降の場合は、Outlook on the web |
+| Office 365サポートされているクライアント | Outlook 2013 以降の Mac 上Windows、Outlook 2016以降の Mac では、Outlook on the web |
 | パートナー会社名 | Zoho Corporation Private Limited |
 | パートナー Web サイトの URL | [https://www.zoho.com/](https://www.zoho.com/) |
 | プライバシー ポリシーの URL | [https://www.zoho.com/privacy.html](https://www.zoho.com/privacy.html) |
@@ -49,20 +50,20 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 
 この情報は、Zoho Corporation Private Limited から、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](/graph/permissions-reference)を一覧表示します。
 
 >| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Contacts.Read | 委任 |  |  ユーザーが Office365 連絡先と Zoho Invoice を同期できます。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| Mail.Read | 委任 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| Mail.Send | 委任 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| User.Export.All | 委任 |  | ユーザーがすべてのユーザー関連情報をエクスポートできます。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| User.Read.All | 委任 |  | ユーザーがサインインしてユーザー プロファイルを読み取るのを許可します。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| User.ReadBasic.All | 委任 |  | ユーザーが Office365 ユーザーを Zoho にインポートできます。 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| メール | 委任 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| profile | 委任 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Contacts.Read | 委任 |  |  ユーザーが Office365 連絡先と Zoho Invoice を同期できます。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Mail.Read | 委任 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Mail.Send | 委任 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.Export.All | 委任 |  | ユーザーがすべてのユーザー関連情報をエクスポートできます。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.Read.All | 委任 |  | ユーザーがサインインしてユーザー プロファイルを読み取るのを許可します。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.ReadBasic.All | 委任 |  | ユーザーが Office365 ユーザーを Zoho にインポートできます。 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| メール | 委任 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| profile | 委任 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
 
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
@@ -83,7 +84,7 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->データは、ユーザーの同意後にのみフェッチされます。 サーバーへの論理的なアクセスは、分離された専用ネットワークを介して提供され &amp; 、高度にセキュリティで保護され、監視されます。 このネットワークはファイアウォール、2 要素認証、Kerberos Authent で保護されています
+>データは、ユーザーの同意後にのみフェッチされます。 サーバーへの論理的なアクセスは、分離された &amp; 専用ネットワークを介して提供され、高度にセキュリティで保護され、監視されます。 このネットワークはファイアウォール、2 要素認証、Kerberos Authent で保護されています
 
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -92,9 +93,9 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/28305' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/28305' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/28305" target="_blank">新しいタブで表示する</a>
 

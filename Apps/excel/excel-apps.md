@@ -3,17 +3,17 @@ title: Microsoft Excel アプリのセキュリティとコンプライアンス
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/17/2022
+ms.date: 03/24/2022
 ms.topic: article
 ms.service: attestation
 description: すべてのアプリで使用可能なすべてのセキュリティとコンプライアンスMicrosoft Excel情報。
 localization_priority: Normal
-ms.openlocfilehash: 4c68eec6e40deecf9e226843d0a1ee70425a7f75
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: f0e281d946560d3ef13c0019870894e2eddc4722
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63545645"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64462173"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel アプリのセキュリティとコンプライアンス
 
@@ -33,6 +33,7 @@ Microsoft は、開発者パートナー Microsoft 365協力して、組織が�
 | [officeatwork - 画像の選択Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork - テンプレートの選択Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Report Builder](./adobe-inc-report-builder.md) | Adobe Inc. | **✓** |  |
+| [RocketDocs LaunchPad](./rocketdocs-launchpad.md) | RocketDocs | **✓** |  |
 | [Sheetgo](./sheetgo-europe-sl.md) | SHEETGO EUROPE SL | **✓** |  |
 | [Supermetrics](./supermetrics.md) | Supermetrics | **✓** |  |
 | [XBRL ファイルデータ](./xbrl-us-filed-data.md) | XBRL US | **✓** |  |

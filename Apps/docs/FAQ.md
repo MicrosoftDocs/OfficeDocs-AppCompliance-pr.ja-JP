@@ -2,22 +2,23 @@
 title: Publisher構成証明に関する FAQ
 author: LGerrard
 ms.author: Legerrar
+manager: tonybal
 description: Publisher構成証明に関する FAQ
 keywords: アプリ構成証明認定 365 アンケート appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 44898296bede4b34837ee18726164a636cc05824aa1710f273a4cc822b448953
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: ee18e15e802b87f069ebe8390931a52e497813e0
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54747697"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64461760"
 ---
 # <a name="publisher-attestation-faq"></a>Publisher構成証明に関する FAQ
 
 |質問                                       |展開された定義                          |
 |----------------------------------------       |---------------------------------------------|
-|アプリ ソース ID | これは、 / と ? の間の数字または文字です。 AppSource リストをクリックします。 GUID、数字/文字の品揃えのいずれか、または WA で始まります。 アプリを見つけるには、appsource.com を見つけ、URL で / と ?                                                例:https://appsource.microsoft.com/product/office/WA200001454? |
+|アプリ ソース ID | これは、 / と ? の間の数字または文字です。 AppSource リストをクリックします。 GUID、数字/文字の品揃えのいずれか、または WA で始まります。 アプリを見つけるには、appsource.com を見つけ、URL で / と ? の間の文字を指定します。                                                例:https://appsource.microsoft.com/product/office/WA200001454? |
 |会社の Web サイトの URL とは何ですか?   |会社またはアプリケーションのホームページの URL|
 |アプリの情報ページの URL は何ですか? |アプリケーションに関する詳細を示すページの URL。 アプリケーションの詳細については、どこでユーザーに確認できますか? このページを持ってない場合は、N/A をマークしてください。 |
 |アプリ のカテゴリ |関連するフィールドに従ったアプリの分類 |
@@ -27,21 +28,21 @@ ms.locfileid: "54747697"
 |アプリで使用される一意のドメインは何ですか?|インターネット内の管理の自主性、権限、または制御の領域を定義するプロバイダーの ID 文字列。 応答には Web アドレスが含まれる必要があります。 複数の場合は、コンマで区切ってください。|
 |サインインに使用する URL は何ですか?|該当する場合は、ポップアウトの URL を含む可能性があるログイン ページを提供します。 サブスクライバーがアプリケーションにログインできる一意の URL。 これを使用しない場合は、"N/A" をマークしてください。|
 |ホスティング クラウド サービス プロバイダーの名前は何ですか?|たとえば、Microsoft Azure、Amazon AWS、Google.などです。これには、会社に固有のソリューションが含まれる場合があります。 |
-|アプリは Microsoft のアクセス許可をGraphしますか? |Azure ADアプリに一意のアプリケーション (クライアント) ID を割り当てる必要があります。 ポータルがアプリケーションの [概要] ページを開きます。 アプリケーションに機能を追加するには、ブランド化、証明書とシークレット、API アクセス許可など、他の構成オプションを選択できます。 ページへのリンク。|
+|アプリは Microsoft のアクセス許可をGraphしますか? |Azure AD一意のアプリケーション (クライアント) ID をアプリに割り当てる必要があります。 ポータルがアプリケーションの [概要] ページを開きます。 アプリケーションに機能を追加するには、ブランド化、証明書とシークレット、API アクセス許可など、他の構成オプションを選択できます。 ページへのリンク。|
 |Microsoft Graphアクセス許可|受け入れ可能なアクセス許可の一覧を次に示します。 https://docs.microsoft.com/graph/permissions-reference#directory-permissions |
-|このアプリで使用される Azure アプリケーションの ID は何ですか?|Azure ADアプリに一意のアプリケーション (クライアント) ID を割り当てる必要があります。 ポータルが https://portal.azure.com/ アプリケーションの [概要] ページを開きます。 アプリケーションに機能を追加するには、ブランド化、証明書とシークレット、API アクセス許可など、他の構成オプションを選択できます。 |
+|このアプリで使用される Azure アプリケーションの ID は何ですか?|Azure AD一意のアプリケーション (クライアント) ID をアプリに割り当てる必要があります。 ポータルが https://portal.azure.com/ アプリケーションの [概要] ページを開きます。 アプリケーションに機能を追加するには、ブランド化、証明書とシークレット、API アクセス許可など、他の構成オプションを選択できます。 |
 |アクセス許可の種類は何ですか?|"委任されたアクセス許可は、サインインしているユーザーが存在するアプリで使用されます。 これに該当するアプリの場合は、ユーザーまたは管理者がアプリの要求するアクセス許可に同意します。アプリは、Microsoft Graph の呼び出し時に、サインインしているユーザーとして動作できます。 一部の委任されたアクセス許可は非管理ユーザーの同意によって付与できますが、高度な特権が付与されるアクセス許可には管理者の同意が必要になります。                                アプリケーションのアクセス許可は、サインインしているユーザーが存在しないアプリで使用します。たとえば、バックグラウンド サービスやデーモンとして実行されるアプリです。 アプリケーションのアクセス許可には、管理者のみ同意できます。                                                                           https://docs.microsoft.com/graph/auth/auth-concepts#microsoft-graph-permissions"|
-|収集または使用されるデータ  データを収集または使用する理由を追加します。|例は、ドキュメント ページで確認できます。アプリをクリックして、[データ処理] をクリックすると、他の理由の例 https://docs.microsoft.com/microsoft-365-app-certification/teams/teams-apps を確認できます。 |
+|収集または使用されるデータ  データを収集または使用する理由を追加します。|例は、ドキュメント https://docs.microsoft.com/microsoft-365-app-certification/teams/teams-appsページで確認できます。アプリをクリックして、[データ処理] をクリックすると、他の理由の例を確認できます。 |
 |アプリがデータベースに格納するデータは何ですか?  該当する場合のシナリオや例を含む、データを格納するための位置合わせを追加します。 |ボット機能を備Teamsアプリの構成証明ですか?https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots|
 |ボットは個人を特定できる情報 (PII) にアクセスできますか?|PII は、特定の人物を識別するために使用できる任意のデータです。 例 名前、電子メール アドレス。|
-|PII にアクセスする理由を追加します。|例は、ドキュメント ページで確認できます。アプリをクリックし、[データ処理] をクリックすると、ボットを介したデータ アクセスに関するその他の理由の例 https://docs.microsoft.com/microsoft-365-app-certification/teams/teams-apps を確認できます。|
+|PII にアクセスする理由を追加します。|例は、 https://docs.microsoft.com/microsoft-365-app-certification/teams/teams-appsドキュメント ページで確認できます。アプリをクリックし、[データ処理] をクリックすると、ボットを介したデータ アクセスに関するその他の理由の例を確認できます。|
 |どのような PII が保存されていますか?|個人識別情報 (PII) は、特定の個人を識別するために使用できる任意のデータです。 例 名前、電子メール アドレス。|
 |PII を格納するための位置合わせを追加します。|個人を特定できる情報を保存する必要がある理由 |
 |アプリがこれらの API を通じて収集する組織識別可能な情報 (OII) を一覧表示します。 |OII は、組織/テナントを識別するために使用できる任意のデータです。 例 テナント ID または IP アドレス、テナント使用状況データ、電子メール アドレス内のテナント ドメイン名 (joe@contoso.com)。|
 |アプリが保存する OII の種類|Organiaztional 識別可能な情報 (OII) は、組織/テナントを識別するために使用できる任意のデータです。 例 テナント ID または IP アドレス、テナント使用状況データ、電子メール アドレス内のテナント ドメイン名 (joe@contoso.com)。|
 |OII を格納するための位置合わせを追加します。|組織の識別可能な情報を保存する必要がある理由 |
 |エンド ユーザー識別可能な情報 (EUII) または OII を、ユーザー以外のユーザーと転送または共有Microsoft サービス?|EUII は、顧客データを識別するために使用できる任意のデータです。 例 従業員のユーザー名または ID、ユーザーの位置情報、ユーザー固有の IP アドレス。 |
-|OII を転送する非Microsoft サービスを一覧表示します。|例 Google クラウド、AWS|
+|OII を転送するMicrosoft サービスの一覧を表示します。|例 Google クラウド、AWS|
 |組織の管理者がパートナー システムで情報を制御する方法について説明します。|例 暗号化、2FA|
 |ユーザーはアプリ内のデータを分類できますか? |例 制限付き、機密、インターアル、パブリック |
 |多要素認証|多要素認証 (MFA) は、複数の資格情報を必要とすることでユーザーの ID を検証するセキュリティ システムです。 MFA では、ユーザー名とパスワードを要求するのではなく、ユーザーのスマートフォンのコード、セキュリティの質問への答え、指紋、顔認識などの他の資格情報が必要です。|
@@ -87,7 +88,7 @@ ms.locfileid: "54747697"
 
 ## <a name="learn-more"></a>詳細情報
 
-* [Microsoft 365アプリ コンプライアンス プログラムの概要](~/overview.md)  
-* [完全なPublisher検証](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)  
+* [Microsoft 365 コンプライアンス プログラムの概要](~/overview.md)  
+* [発行元の検証を完了する](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)  
 * [構成証明Publisherとは](~/docs/enterprise-app-attestation-guide.md)  
-* [完全なMicrosoft 365認定](~/docs/certification.md)
+* [完全な Microsoft 365 認定](~/docs/certification.md)
