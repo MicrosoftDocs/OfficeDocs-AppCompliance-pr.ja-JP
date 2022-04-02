@@ -2,16 +2,17 @@
 ms.author: oromalle
 title: Microsoft 365認定 - 初期ドキュメント提出ガイド
 author: orionomalley
+manager: tonybal
 description: Microsoft 365認定申請ガイドの詳細ビュー
-keywords: アプリ認定チームMicrosoft 365コンプライアンス m365 の初期ドキュメント提出
+keywords: アプリ認定チームMicrosoft 365コンプライアンス m365 初期ドキュメントの提出
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: 0f879ce6b02fb469b0210500e4706d468ccb4011
-ms.sourcegitcommit: 3e72bc447a90cd8b0313dab55f6a9374be8ae358
+ms.openlocfilehash: 66afcbd482ee1269ce21e2af6fdeea5026b294ee
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2021
-ms.locfileid: "61261679"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64463280"
 ---
 # <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365認定 - 最初のドキュメント提出ガイド
 
@@ -40,24 +41,24 @@ ms.locfileid: "61261679"
 
 |アセット名|    アセットの種類| 説明|    製造元|   モデル|
 |-|-|-|-|-|
-|D212|  Windowsコンピューター|   仮想コンピューター|    該当なし| N/A|
+|D212|  Windowsコンピューター|   仮想コンピューター|    該当なし| 該当なし|
 |LT101| ノート PC| ワークステーション|    Microsoft|  Surface 3|
-|C2938| スイッチ| スイッチ|該当なし|N/A|     
-|LXM2|  Linux マシン|  テスト マシン|該当なし|N/A|       
+|C2938| スイッチ| スイッチ|該当なし|該当なし|     
+|LXM2|  Linux マシン|  テスト マシン|該当なし|該当なし|       
 
 
 ## <a name="software-inventory"></a>ソフトウェア インベントリ
 
 スコープ内環境内で使用されるすべてのソフトウェアとバージョンを含む、すべてのソフトウェア資産の最新のインベントリ。
 
-**例:**
+**例:** 
 
 |ソフトウェア|  発行者|  バージョン|     用途|
 |-|-|-|-|
 |Windows Server|    Microsoft 2016 | ビルド 14393| 実稼働環境のサーバー オペレーティング システム|.
-|Linux Ubuntu|  N/A|    16.04 (Xenial)| DMZ 内で使用されているサーバー オペレーティング システム。|
+|Linux Ubuntu|  該当なし|    16.04 (Xenial)| DMZ 内で使用されているサーバー オペレーティング システム。|
 |ESXi|  VMWare| 6.5.0 (ビルド 13004031)| 仮想サーバーをサポートするために使用します。|
-|Mysql (Windows)|   N/A|    8.0.2.1|    チャット履歴を格納するデータベース サーバー。|
+|Mysql (Windows)|   該当なし|    8.0.2.1|    チャット履歴を格納するデータベース サーバー。|
 |Tomcat|        Apache| 7.0.92| カスタマー ポータル。|
 |IIS|   Microsoft|  10.0|   API をサポートします。|
 
@@ -66,7 +67,7 @@ ms.locfileid: "61261679"
 
 現在実行中のバージョンとアプリ/アドインで使用される依存関係の一覧を示すドキュメント。
 
-**例:**
+**例:** 
 
 |Web 依存関係|  現在のバージョンの使用|
 |-|-|
@@ -95,11 +96,11 @@ ms.locfileid: "61261679"
 
 ## <a name="resource-endpoints"></a>リソース エンドポイント
 
-API 名 エンドポイント アドレス Contoso Customer API    https://customerapi.contoso.com Contoso Bot Service Contoso Files https://bot.contoso.com API   https://filesapi.contoso.com
+API 名 エンドポイント アドレス Contoso Customer API    https://customerapi.contoso.com Contoso Bot Service https://bot.contoso.com Contoso Files API   https://filesapi.contoso.com
 
 内部的に開発されたエンドポイント、および外部リソース エンドポイントを含む、アプリで使用されるすべての API エンドポイントの完全な一覧。 環境スコープを理解するために、環境内で API エンドポイントの場所を指定します。
 
-**例:**
+**例:** 
 
 |API 名|  エンドポイント アドレス|
 |-|-|
@@ -115,14 +116,14 @@ API 名 エンドポイント アドレス Contoso Customer API    https://custo
 
 ![アーキテクチャ図](../media/Architecturaldiagram.png)
 
-## <a name="data-flow-diagram"></a>データFlow図
+## <a name="data-flow-diagram"></a>データ Flow図
 
 Flowの詳細を示す図を示します。
 -   アプリ/アドイン (顧客データを含む) に対するデータ フロー。
 -   サポート インフラストラクチャ内のデータ フロー (該当する場合)
 -   データの保存場所と保存場所、外部サード パーティへのデータの渡し方 (第三者の詳細を含む)、およびオープン/パブリック ネットワークを通して転送中および保存時にデータが保護される方法を強調表示する図。
 
-![データFlow図](../media/Dataflowdiagram.png)
+![データ Flow図](../media/Dataflowdiagram.png)
 
 
 
