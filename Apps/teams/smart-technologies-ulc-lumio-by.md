@@ -9,12 +9,6 @@ ms.service: attestation
 certification_type: attested
 description: Lumio by SMART で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 56ca94ae97e1c5a6bcaf795d362ae8486428efdb
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63536355"
 ---
 # <a name="lumio-by-smart"></a>SMART による Lumio
 
@@ -86,11 +80,9 @@ SMART Technologies ULC から Microsoft に提供される情報:
 | 従業員アカウントのプロビジョニング、変更、削除のプロセスが確立されていますか? |  |
 | アプリをサポートするネットワーク境界の境界の境界に侵入検出と防御 (IDPS) ソフトウェアが展開されていますか? |  |
 | アプリをサポートしているすべてのシステム コンポーネントにイベント ログが設定されていますか? |  |
-| すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動ツールによって定期的に確認されますか? | |
 | セキュリティ イベントが検出されると、アラートが従業員に自動的に送信され、トリアージが発生しますか? |  |
 | 正式な情報セキュリティリスク管理プロセスが確立されていますか? |  |
 | 正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? |  |
-| 検出から 72 時間以内に、侵害の影響を受けた監督当局や個人にアプリまたはサービスのデータ侵害を報告しますか?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -149,13 +141,13 @@ SMART Technologies ULC から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | 不要 |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | いいえ |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | なし |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? |  |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています |  |
 | アプリはコードに資格情報を保存しますか? |  |
-| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
+| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | なし |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
@@ -169,4 +161,3 @@ SMART Technologies ULC から Microsoft に提供される情報:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

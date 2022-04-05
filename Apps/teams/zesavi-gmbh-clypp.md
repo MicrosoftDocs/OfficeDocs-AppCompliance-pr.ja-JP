@@ -3,24 +3,18 @@ title: Zesavi GmbH による Clypp のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 01/03/2022
+ms.date: 03/31/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Clypp で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e51dcf98573c2dc259438e8ec8926cc14e55a2eb
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63551846"
 ---
 # <a name="clypp"></a>Clypp
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2021 年 11 月 17 日</p>
+<p>開発者が最終更新日: 2022 年 3 月 30 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/34ed2c1e-bccf-463d-8fbc-0403e72e89fc" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003621" target="_blank">AppSource での表示</a>
@@ -37,11 +31,11 @@ Zesavi GmbH から Microsoft に提供される情報:
 | ID | WA200003621 |
 | Office 365サポートされているクライアント | Microsoft Teams |
 | パートナー会社名 | Zesavi GmbH |
-| 会社の Web サイト | [https://zesavi.com](https://zesavi.com) |
-| アプリの利用規約 | [https://zesavi.com/en/impressum/](https://zesavi.com/en/impressum/) |
-| アプリのコア機能 | Zesavi を使用すると、 &amp; 会社の全員がインターネット ブラウザーで直接短いビデオ ドキュメントを作成、編集できます。 |
+| 会社の Web サイト | [https://getclypp.com](https://getclypp.com) |
+| アプリの利用規約 | [https://getclypp.com/en/terms-of-use/](https://getclypp.com/en/terms-of-use/) |
+| アプリのコア機能 | Clypp を使用すると、会社の全員 &amp; がインターネット ブラウザーで直接短いビデオ ドキュメントを作成、編集できます。 |
 | 会社の本社所在地 | ドイツ |
-| アプリ情報ページ | |
+| アプリ情報ページ | [https://getclypp.com/en/](https://getclypp.com/en/) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Iaas |
 | アプリで使用するホスティング クラウド プロバイダー | その他 |
 
@@ -83,7 +77,7 @@ Zesavi GmbH から Microsoft に提供される情報:
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? | はい |
 | パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? | はい |
 | パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
-| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | 不要 |
+| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | いいえ |
 | アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | はい |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
 | 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
@@ -121,7 +115,7 @@ Zesavi GmbH から Microsoft に提供される情報:
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
@@ -138,10 +132,10 @@ Zesavi GmbH から Microsoft に提供される情報:
 |:----------------|:-------------|
 | GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | はい |
-| プライバシー ポリシーの URL | https://zesavi.com/en/datenschutz/ |
-| アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | 不要 |
+| プライバシー ポリシーの URL | https://getclypp.com/en/privacy-policy/ |
+| アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | いいえ |
 | アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
-| 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
+| 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | 不要 |
 | アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
 | アプリには、要求に応じて個人の個人データを削除する機能がありますか? | はい |
 | アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | はい |
@@ -161,8 +155,8 @@ Zesavi GmbH から Microsoft に提供される情報:
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | 該当なし |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
-| アプリは継続的アクセス評価 (CAE) をサポートしています | 不要 |
-| アプリはコードに資格情報を保存しますか? | 不要 |
+| アプリは継続的アクセス評価 (CAE) をサポートしています | いいえ |
+| アプリはコードに資格情報を保存しますか? | いいえ |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
 >このアプリケーションでは、Microsoft のアプリケーションをGraph。

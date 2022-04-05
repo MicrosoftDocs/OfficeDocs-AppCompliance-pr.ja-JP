@@ -3,24 +3,18 @@ title: 88 Ventures Limited による Remind のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 10/27/2021
+ms.date: 03/29/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: リ通知、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 17592dc196ffc2e17e62af60708c718dc68ee523
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63550686"
 ---
 # <a name="remind"></a>Remind
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 10 月 27 日</p>
+<p>開発者による最終更新日: 2022 年 3 月 28 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/88546d4f-9973-4716-98e4-cd181c04bc2d" target="_blank">ストアでの表示Teamsする</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001444" target="_blank">AppSource での表示</a>
@@ -43,7 +37,7 @@ ms.locfileid: "63550686"
 | 会社の本社所在地 | 香港特別行政区 |
 | アプリ情報ページ | [https://teamsreminder.app](https://teamsreminder.app) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Iaas |
-| アプリで使用するホスティング クラウド プロバイダー | その他 |
+| アプリで使用するホスティング クラウド プロバイダー | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -57,10 +51,10 @@ ms.locfileid: "63550686"
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | いいえ |
+| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | 不要 |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
 | データベースに格納されているデータは何ですか? | 他のユーザーに通知する場合のユーザー GUID とユーザー名 |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | ドイツ |
+| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | オランダ (the) |
 | データの借入および廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後にデータが保持される期間 | 保持されない |
 | データ アクセス管理プロセスが確立されていますか? | はい |
@@ -87,7 +81,7 @@ ms.locfileid: "63550686"
 | アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | はい |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
 | 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
-| 追加のユーザーが、元の開発者によって実稼働環境に提出されたコード変更要求を確認および承認していますか? | はい |
+| 追加のユーザーが、元の開発者によって実稼働環境に提出されたコード変更要求を確認および承認していますか? | 不要 |
 | セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | はい |
 | 多要素認証 (MFA) が有効になっているのは、次の場合です。 | CodeRepositories, DNSManagement, Credential |
 | 従業員アカウントのプロビジョニング、変更、削除のプロセスが確立されていますか? | はい |
@@ -122,11 +116,11 @@ ms.locfileid: "63550686"
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | いいえ |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 不要 |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 不要 |
-| アプリは NIST 800-171 に準拠していますか? | いいえ |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
+| アプリは NIST 800-171 に準拠していますか? | 該当なし |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -159,9 +153,9 @@ ms.locfileid: "63550686"
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
 | アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | はい |
 | アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
-| アプリは継続的アクセス評価 (CAE) をサポートしています | 不要 |
-| アプリはコードに資格情報を保存しますか? | 不要 |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは継続的アクセス評価 (CAE) をサポートしています | いいえ |
+| アプリはコードに資格情報を保存しますか? | いいえ |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
@@ -169,6 +163,7 @@ ms.locfileid: "63550686"
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Directory.Read.All | 委任 | 管理者がユーザーを検索してライセンスに割り当てるときに使用します。 この機能の使用は完全にオプションであり、通常のアプリの使用時には必要ありません。 | [88546d4f-9973-4716-98e4-cd181c04bc2d](../azure/88546d4f-9973-4716-98e4-cd181c04bc2d.md) |
+>| People.Read.All | 委任 | ユーザーがライセンスにユーザーを割り当てる場合に使用します。 | [88546d4f-9973-4716-98e4-cd181c04bc2d](../azure/88546d4f-9973-4716-98e4-cd181c04bc2d.md) |
 
 >このアプリケーションには、追加の API が含まれる必要があります。
 

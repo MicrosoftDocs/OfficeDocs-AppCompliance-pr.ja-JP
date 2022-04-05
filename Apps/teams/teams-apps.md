@@ -3,17 +3,11 @@ title: Microsoft Teams アプリのセキュリティとコンプライアンス
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/25/2022
+ms.date: 03/29/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: 55a71d2eea794dd779ff2dc8d2ac90ed05b90458
-ms.sourcegitcommit: c0192e544acac1e5b80a80fca21bf271cbcd0a28
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 03/26/2022
-ms.locfileid: "64480489"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -22,6 +16,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [10xGoals](./xto10x-technologies-10xgoals.md) | xto10x Technologies | **✓** |  |
+| [1Page](./oayaw-inc-1page.md) | OAYAW, Inc. | **✓** |  |
 | [365-QA](./advantive-365-qa.md) | Advantive | **✓** |  |
 | [365Projects](./365apps-365projects.md) | 365Apps | **✓** |  |
 | [8x8](./8x8-inc.md) | 8x8、Inc | **✓** |  |
@@ -161,6 +156,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Engagedly](./engagedly-inc.md) | Engagedly Inc | **✓** |  |
 | [EngageWith](./springrole-engagewith.md) | SpringRole | **✓** |  |
 | [enmacc](./enmacc.md) | enmacc | **✓** |  |
+| [EQ Everywhere](./humantelligence-eq-everywhere.md) | Humantelligence | **✓** |  |
 | [Espresso](./solutions2share-gmbh-espresso.md) | Solutions2Share GmbH | **✓** |  |
 | [eTeamer](./eteamer.md) | &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [イベント管理](./sharepointsapiens-event-management.md) | SharePoint-Sapiens | **✓** |  |
@@ -199,6 +195,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Good4work](./good4work.md) | Good4work | **✓** |  |
 | [Goodera](./goodera.md) | Goodera | **✓** |  |
 | [GoToConnect](./logmein-inc-gotoconnect.md) | LogMeIn Inc. | **✓** |  |
+| [GRATICA](./okwave-inc-gratica.md) | OKWAVE, Inc. | **✓** |  |
 | [組織アドレス帳 - ネクストセット](./nextsetinc-group-address-book-nextset.md) | NextSet,Inc. | **✓** |  |
 | [GroupLotse](./controlex-gmbh-grouplotse.md) | controlex GmbH | **✓** |  |
 | [Grow360](./grow360.md) | Grow360 | **✓** |  |
@@ -273,6 +270,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Meetgeek](./aivision-products-srl-meetgeek.md) | AIVISION PRODUCTS SRL | **✓** |  |
 | [Mentimeter](./mentimeter.md) | Mentimeter | **✓** |  |
 | [メッセージ リマインダー](./message-reminder.md) | &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; | **✓** |  |
+| [MetaMeeting](./wafer-systems-metameeting.md) | ウェハー システム | **✓** |  |
 | [MetaVisitor](./wafer-systems-metavisitor.md) | ウェハー システム | **✓** |  |
 | [MetaWorkspace](./wafer-systems-metaworkspace.md) | ウェハー システム | **✓** |  |
 | [MGR360](./mgr360.md) | MGR360 | **✓** |  |
@@ -327,6 +325,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Perfect Wiki](./ooo-rd17-perfect-wiki.md) | OOO RD17 | **✓** |  |
 | [Perflo](./perflo.md) | Perflo | **✓** |  |
 | [Photo Filer](./ichicraft-photo-filer.md) | Ichicraft | **✓** |  |
+| [Plandisc](./plandisc.md) | Plandisc | **✓** |  |
 | [Planyway Calendar for Trello](./rubius-planyway-calendar-for-trello.md) | Rubius | **✓** |  |
 | [PlayQuiz - Aprende &amp; Juega](./teamschamp-playquiz-aprendejuega.md) | TeamsChamp | **✓** |  |
 | [Plumm](./plumm-health-ltd.md) | Plumm Health LTD | **✓** |  |
@@ -496,7 +495,6 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [X0PA ROOM](./x0pa-ai-singapore-room.md) | X0PA AI シンガポール | **✓** |  |
 | [xMatters](./xmatters-inc.md) | xMatters Inc. | **✓** |  |
 | [YAROOMS](./yarooms.md) | YAROOMS | **✓** |  |
-| [Yeeflow](./akmii-yeeflow.md) | Akmii | **✓** |  |
 | [yuccaHR](./yucca-technologies-gmbh-yuccahr.md) | Yucca Technologies GmbH | **✓** |  |
 | [Zignals](./alight-zignals.md) | Alight | **✓** |  |
 | [Zoho Sign](./zoho-corporation-private-limited-sign.md) | Zoho Corporation Private Limited | **✓** |  |

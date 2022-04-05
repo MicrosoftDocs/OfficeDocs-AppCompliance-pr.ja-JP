@@ -8,13 +8,7 @@ ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: メッセージ リマインダー、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c95ef8bab0d735eb35c89ed1e910428407d1d5eb
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
-ms.translationtype: MT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753543"
+zone_pivot_groups: app-info-data-identity
 ---
 # <a name="message-reminder"></a>メッセージ リマインダー
 
@@ -54,7 +48,7 @@ Microsoft に &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](/graph/permissions-reference)を一覧表示します。
 
 >このアプリケーションでは、Microsoft のアプリケーションをGraph。
 
@@ -88,19 +82,7 @@ Microsoft に &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->不要
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
-
-::: zone pivot="mcas"
-
-次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
-
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">新しいタブで表示する</a>
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -9,12 +9,6 @@ ms.service: attestation
 certification_type: attested
 description: Confluence Cloud で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0ce3c1464a4933de72d1a69a49432c986f1679cd
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63547465"
 ---
 # <a name="confluence-cloud"></a>Confluence Cloud
 
@@ -39,8 +33,7 @@ Atlassian から Microsoft に提供される情報:
 | パートナー会社名 | Atlassian |
 | 会社の Web サイト | [https://www.atlassian.com](https://www.atlassian.com) |
 | アプリの利用規約 | [https://www.atlassian.com/licensing/marketplace/termsofuse](https://www.atlassian.com/licensing/marketplace/termsofuse) |
-| アプリのコア機能 | 会議メモを簡単に取り、ページを共有し、会議用の Confluence Cloud で最新のTeams。
- |
+| アプリのコア機能 | 会議メモを簡単に取り、ページを共有し、会議用の Confluence Cloud で最新のTeams。  |
 | 会社の本社所在地 | オーストラリア |
 | アプリ情報ページ | |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
@@ -87,11 +80,9 @@ Atlassian から Microsoft に提供される情報:
 | 従業員アカウントのプロビジョニング、変更、削除のプロセスが確立されていますか? |  |
 | アプリをサポートするネットワーク境界の境界の境界に侵入検出と防御 (IDPS) ソフトウェアが展開されていますか? |  |
 | アプリをサポートしているすべてのシステム コンポーネントにイベント ログが設定されていますか? |  |
-| すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動ツールによって定期的に確認されますか? | |
 | セキュリティ イベントが検出されると、アラートが従業員に自動的に送信され、トリアージが発生しますか? |  |
 | 正式な情報セキュリティリスク管理プロセスが確立されていますか? |  |
 | 正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? |  |
-| 検出から 72 時間以内に、侵害の影響を受けた監督当局や個人にアプリまたはサービスのデータ侵害を報告しますか?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -114,10 +105,10 @@ Atlassian から Microsoft に提供される情報:
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | はい |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | いいえ |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | なし |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | なし |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | なし |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | なし |
 | アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | はい |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | はい |

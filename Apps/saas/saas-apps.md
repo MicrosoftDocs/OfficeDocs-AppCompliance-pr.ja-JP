@@ -3,17 +3,11 @@ title: SaaS Apps のセキュリティとコンプライアンス - すべての
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/25/2022
+ms.date: 03/31/2022
 ms.topic: article
 ms.service: attestation
 description: すべての SaaS アプリで使用可能なすべてのセキュリティおよびコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: b5b1f05808de23f5b5985d2188cdf3c9f6777887
-ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
-ms.translationtype: MT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2022
-ms.locfileid: "64463620"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS Apps のセキュリティとコンプライアンス
 
@@ -23,6 +17,7 @@ Microsoft は、開発者Microsoft 365パートナーと協力して、組織が
 |:--------|:------------|:----------------------:|:-------------:|
 | [管理センター](./officeatwork-admin-center.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Anywhere365 Attendant Console for Microsoft Teams](./workstreampeople-bv-anywhere365-attendant-console-for-microsoft-teams.md) | WORKSTREAMPEOPLE BV | **✓** |  |
+| [Anywhere365 Contact Center for Teams](./workstreampeople-bv-anywhere365-contact-center-for-teams.md) | WORKSTREAMPEOPLE BV | **✓** |  |
 | [Buzzeasy Contact Center for Teams](./geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md) | Geomant-Algotech Zrt. | **✓** |  |
 | [CallCabinet Atmos Compliance Recording and Analytics](./callcabinet-corporation-atmos-compliance-recording-and-analytics.md) | CallCabinet Corporation | **✓** |  |
 | [CC4Teams](./cc4all-cc4teams.md) | CC4ALL | **✓** |  |
@@ -35,7 +30,7 @@ Microsoft は、開発者Microsoft 365パートナーと協力して、組織が
 | [デザイナー](./officeatwork-designer.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Emailgistics](./emailgistics-corp.md) | Emailgistics Corp. | **✓** |  |
 | [EmailNotes for Outlook](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | スタンド (南太平洋) PTE Limited | **✓** |  |
-| [ジェネシス クラウド CX Teams統合](./genesys-cloud-services-inc-cx-teams-integration.md) | ジェネシス クラウド サービス, Inc | **✓** |  |
+| [ジェネシス クラウド CX Teams統合](./genesys-cloud-services-inc-cx-teams-integration.md) | ジェネシス Cloud Services, Inc | **✓** |  |
 | [ice Contact Center](./computertalk-ice-contact-center.md) | ComputerTalk | **✓** |  |
 | [iGlobe CRM Office 365 Microsoft 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Image Chooser](./officeatwork-image-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
