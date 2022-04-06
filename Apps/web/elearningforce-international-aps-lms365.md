@@ -6,14 +6,14 @@ ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: LMS365 で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: LMS365 で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2fa9fb2637b40b439bc6450514e194e222415ec0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 7cb2fc4ab5acf706edc367c3455385f00480ff9b
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284900"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64623199"
 ---
 # <a name="lms365"></a>LMS365
 
@@ -28,7 +28,7 @@ ms.locfileid: "59284900"
 
 ELEARNINGFORCE International Aps から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | LMS365 |
 | ID | elearningforce.lms365_spfx |
@@ -47,24 +47,24 @@ ELEARNINGFORCE International Aps から Microsoft に提供される情報:
 
 この情報は、ELEARNINGFORCE International Aps から、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| GroupMember.Read.All | アプリケーション | なし | ユーザーのグループをコースAD登録するために必要なグループ メンバーをアプリで展開できます。 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
 >| Mail.Send | 委任 | なし | 通知用の電子メール アカウントの構成中に、アクセス許可が動的に要求されます。 アプリが通知メールを送信できます | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| RoleManagement.Read.Directory | アプリケーション | なし | テナントのプロビジョニング中にアプリSharePointドメインを取得できます。 ドメインは URL の構築に使用されます。 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
+>| RoleManagement.Read.Directory | アプリケーション | None | テナントのプロビジョニング中にアプリSharePointドメインを取得できます。 ドメインは URL の構築に使用されます。 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
 >| User.Invite.All | 委任 | なし | アプリが現在ログインしているユーザーに代わって外部ユーザーを招待できます | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
 >| User.Read | 委任 | なし | サインインおよびユーザー プロファイルの読み取り。 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
 >| User.Read.All | 委任 | なし | アプリが現在ログインしているユーザーの完全なプロファイルを読み取るを許可します。 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| User.Read.All | アプリケーション | アプリが完全なユーザー プロファイルを読み取るを許可します。 階層&#8217;作成するには、管理者のユーザー&#8217;読み取る必要があります。 | 次の個人データは、アプリケーション内の Learner Management Manager ダッシュボード機能に使用される各顧客の専用データベース &amp; に格納されます。 アカウント名、ユーザー表示名、メール アドレス、部署、役職、Office、国、市、マネージャー ID/メール | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
+>| User.Read.All | アプリケーション | アプリが完全なユーザー プロファイルを読み取るを許可します。 階層&#8217;作成するために、管理者のユーザー&#8217;読み取る必要があります。 | 次の個人データは、アプリケーション内の Learner Management &amp; Manager ダッシュボード機能に使用される各顧客の専用データベースに格納されます。 アカウント名、ユーザー表示名、メール アドレス、部署、役職、Office、国、市、マネージャー ID/メール | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
 >| profile | 委任 | なし | ユーザーの基本的なプロファイルを表示します。 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
-アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
+Microsoft 365 で構築されたアプリとアドインは、Microsoft Graph 以外の追加の Microsoft API を使用して、組織の識別可能な情報 (OII) を収集または処理する場合があります。 このアプリで使用する Microsoft API 以外Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
@@ -82,7 +82,7 @@ ELEARNINGFORCE International Aps から Microsoft に提供される情報:
 
 組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
 
->はい、トラブルシューティングインサイトログ分析のテレメトリ/ログのみを使用し、90 日間保持ポリシーを設定し、その後すべてのデータを削除します。
+>はい、トラブルシューティングにのみインサイトログ分析テレメトリ/ログを使用し、90 日間の保持ポリシーを持ち、その後すべてのデータが削除されます。
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
 
@@ -102,9 +102,9 @@ ELEARNINGFORCE International Aps から Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35695' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35695' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35695" target="_blank">新しいタブで表示する</a>
 
@@ -118,7 +118,7 @@ ELEARNINGFORCE International Aps から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について ELEARNINGFORCE International Aps によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

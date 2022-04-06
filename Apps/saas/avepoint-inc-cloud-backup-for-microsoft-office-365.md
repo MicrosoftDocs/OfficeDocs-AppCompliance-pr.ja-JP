@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: certified
 description: Microsoft Office 365 の Cloud Backup、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a053ad5e60924f5d45fb8b99f91fe87b6dfe844e
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: dca13bf8ef2d0ab2147e7457ab617196edae7fd6
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63546565"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64623209"
 ---
 # <a name="cloud-backup-for-microsoft-office-365"></a>クラウド バックアップ for Microsoft Office 365
 
@@ -36,8 +36,11 @@ AvePoint Inc. から Microsoft に提供される情報:
 | パートナー会社名 | AvePoint Inc. |
 | 会社の Web サイト | [https://www.avepoint.com](https://www.avepoint.com) |
 | アプリの利用規約 | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
-| アプリのコア機能 | AvePoint Cloud Backup は、&#8217;クラウドからクラウドへの最も完全なバックアップ ソリューションMicrosoft 365。 と
-AvePoint&#8217;Azure ストレージまたは独自のクラウドで、無制限の自動バックアップとセキュリティで保護されたストレージを使用すると、回復する量と時間を決定できます。 オンデマンドで詳細なアイテム レベルの復元では、ビジネスクリティカルな電子メール、ファイル、会話、録音、プロジェクト、タスク、グループ、Teams、プランナー、サイトにいつでもアクセスできます。 | |会社の本社所在地|アメリカ合衆国 | |アプリ情報ページ| [https://www.avepoint.com/products/cloud/backup/microsoft-of...](https://www.avepoint.com/products/cloud/backup/microsoft-office-365-backup) | |アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |Paas | |アプリで使用するホスティング クラウド プロバイダー |Azure |
+| アプリのコア機能 | AvePoint Cloud Backup は、&#8217;クラウドからクラウドへの最も完全なバックアップ ソリューションMicrosoft 365。 AvePoint&#8217;の無制限の自動バックアップとセキュリティで保護されたストレージを使用して、Azure ストレージまたは独自のクラウドを使用して、回復する量と時間を決定します。 オンデマンドで詳細なアイテム レベルの復元では、ビジネスクリティカルな電子メール、ファイル、会話、録音、プロジェクト、タスク、グループ、Teams、プランナー、サイトにいつでもアクセスできます。 |
+| 会社の本社所在地 | 米国オブアメリカ |
+| アプリ情報ページ | [https://www.avepoint.com/products/cloud/backup/microsoft-of...](https://www.avepoint.com/products/cloud/backup/microsoft-office-365-backup) |
+| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
+| アプリで使用するホスティング クラウド プロバイダー | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,11 +59,11 @@ AvePoint&#8217;Azure ストレージまたは独自のクラウドで、無制�
 | アプリは TLS 1.1 以上をサポートしていますか? | はい |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
 | データベースに格納されているデータは何ですか? | SharePoint/ODFB サイト/Microsoft 365/チーム ID、名前、URL。 |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | アメリカ |
+| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | 米国オブアメリカ |
 | データの借入および廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後にデータが保持される期間 | 30 日未満 |
 | データ アクセス管理プロセスが確立されていますか? | はい |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | 不要 |
+| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | いいえ |
 | Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -79,7 +82,7 @@ AvePoint&#8217;Azure ストレージまたは独自のクラウドで、無制�
 | セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? | はい |
 | パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? | はい |
 | パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
-| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | 不要 |
+| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | いいえ |
 | アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | はい |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
 | 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
@@ -110,13 +113,13 @@ AvePoint&#8217;Azure ストレージまたは独自のクラウドで、無制�
 | アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | はい |
 | どの SOC 2 認定を取得しましたか? |  type2 |
 | 最新の SOC2 認定日 |  2/19/2021 |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
 | 最新の SOC3 認定日 | |
 | アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | はい |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | はい |
 | アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
 | アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
@@ -161,7 +164,7 @@ AvePoint&#8217;Azure ストレージまたは独自のクラウドで、無制�
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | アプリケーションは、すべての条件付Azure ADを使用できるよう、アプリケーションとフェデレーションを行います。 |
 | アプリは継続的アクセス評価 (CAE) をサポートしています | はい |
-| アプリはコードに資格情報を保存しますか? | 不要 |
+| アプリはコードに資格情報を保存しますか? | いいえ |
 | アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
