@@ -6,14 +6,14 @@ ms.date: 06/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: MIPA で使用可能なすべてのセキュリティおよびコンプライアンス情報 - My Intelligent Personal Assistant、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: MIPA で使用可能なすべてのセキュリティおよびコンプライアンス情報 - My Intelligent Personal Assistant、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 684cd61aec216db5bc60bb92abd2d93963c2138a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 6c7d3349b9fc747d5a8093aff1042894fbd67cf1
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288492"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64627909"
 ---
 # <a name="mipa---my-intelligent-personal-assistant"></a>MIPA - 個人用インテリジェント パーソナル アシスタント
 
@@ -29,7 +29,7 @@ ms.locfileid: "59288492"
 
 iGlobe から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | MIPA - 個人用インテリジェント パーソナル アシスタント |
 | ID | 17859280.mipa |
@@ -48,34 +48,34 @@ iGlobe から Microsoft に提供される情報:
 
 この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関する iGlobe によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Calendars.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| Contacts.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| Directory.AccessAsUser.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り。 ユーザーが同意を持ち、API を使用するアクセス権を持っている場合。 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Directory.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、リスト、ライブラリ、ファイルSharePoint取得します。 ファイルをリストに保存SharePointします。 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Files.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、リスト、ライブラリ、ファイルSharePoint取得します。 ファイルをリストに保存SharePointします。 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Group.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、リスト、ライブラリ、ファイルSharePoint取得します。 ファイルをリストに保存SharePointします。 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Group.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、リスト、ライブラリ、ファイルSharePoint取得します。 ファイルをリストに保存SharePointします。 iGlobe CRM Office 365 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| Directory.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、SharePoint、ライブラリ、ファイルを取得します。 ファイルをリストに保存SharePointします。 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| Files.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、SharePoint、ライブラリ、ファイルを取得します。 ファイルをリストに保存SharePointします。 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| Group.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、SharePoint、ライブラリ、ファイルを取得します。 ファイルをリストに保存SharePointします。 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| Group.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 読み取り、更新、パンナー タスクの作成、ユーザーの最近のファイルと共有ファイルの読み取り、SharePoint、ライブラリ、ファイルを取得します。 ファイルをリストに保存SharePointします。 iGlobe CRM Office 365 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| Mail.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | フラグ付きメールの読み取りおよび更新 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| MailboxSettings.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新、フラグ付きメールの読み取りおよび更新、メール全体の読み取りOutlook To Do更新する | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Tasks.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新、Do Entreies Outlookの読み取りおよび更新 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新、Do Entreies Outlookの読み取りおよび更新 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| User.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りと更新、Do Entreies へのOutlookと更新、読み取り、更新、パンナー タスクの作成 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| User.ReadBasic.All | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りと更新、Do Entreies へのOutlookと更新、読み取り、更新、パンナー タスクの作成 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| User.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新、Do Entreies Outlookの読み取りおよび更新 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| MailboxSettings.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りと更新、フラグ付きメールの読み取りおよび更新、全体の読み取りOutlook To Do更新 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| Tasks.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りと更新、読み取りOutlook Do Entreies への更新 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りと更新、読み取りOutlook Do Entreies への更新 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| User.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新、Do Entreies Outlook、読み取り、更新、パンナー タスクの作成に関するページの読み取りおよび更新 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| User.ReadBasic.All | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新、Do Entreies Outlook、読み取り、更新、パンナー タスクの作成に関するページの読み取りおよび更新 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| User.ReadWrite | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りと更新、読み取りOutlook Do Entreies への更新 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| メール | 委任 | アプリケーション データベースにデータは格納されません。 | アプリがユーザーのプライマリ メール アドレス (SSO の場合) を読み取ります。 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| offline_access | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーが現在アプリを使用していない場合でも、アクセス権を与えたデータをアプリが表示および更新できます。 これにより、アプリに追加のアクセス許可 (SSO の場合) は付与されない。 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| openid | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーが自分の仕事用アカウントまたは学校アカウントでアプリにサインインし、アプリが基本的なユーザー プロファイル情報 (SSO 用) を表示できます。 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| profile | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りと更新、Do Entreies へのOutlookと更新、読み取り、更新、パンナー タスクの作成 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| profile | 委任 | アプリケーション データベースにデータは格納されません。 | カレンダー全体の読み取りおよび更新、Do Entreies Outlook、読み取り、更新、パンナー タスクの作成に関するページの読み取りおよび更新 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
-アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
+Microsoft 365 で構築されたアプリとアドインは、Microsoft Graph 以外の追加の Microsoft API を使用して、組織の識別可能な情報 (OII) を収集または処理する場合があります。 このアプリで使用する Microsoft API 以外Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
@@ -109,7 +109,7 @@ iGlobe から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->すべてのデータは、お客様自身のテナント上に含まれており、 アプリケーション データは保存されません。 最新のアドインはサンドボックス ブラウザーで実行され、&#8220;プロセスが&#8221;。 ユーザー データと対話するには、ユーザー データを使用Microsoft サービス。 アドインは、ユーザーが作業しているデータにのみアクセスできます。
+>すべてのデータは、お客様自身のテナント上に含まれており、 アプリケーション データは保存されません。 モダン アドインは、サンドボックス ブラウザーで実行され、&#8220;プロセスが&#8221;。 ユーザー データと対話するには、ユーザー データを使用Microsoft サービス。 アドインは、ユーザーが作業しているデータにのみアクセスできます。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -123,9 +123,9 @@ iGlobe から Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35699' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35699' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35699" target="_blank">新しいタブで表示する</a>
 
@@ -139,7 +139,7 @@ iGlobe から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 基準を処理する方法について iGlobe によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

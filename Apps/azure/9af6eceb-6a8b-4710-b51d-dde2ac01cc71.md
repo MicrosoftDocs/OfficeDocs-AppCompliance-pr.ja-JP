@@ -1,27 +1,27 @@
 ---
-title: Azure アプリ ID 9af6eceb-6a8b-4710-b51d-dde2ac01cc71 の情報
+title: Azure アプリ ID Information for 9af6eceb-6a8b-4710-b51d-dde2ac01cc71
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/29/2022
+ms.date: 04/05/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71 で使用可能なすべてのセキュリティおよびコンプライアンス情報。
-ms.openlocfilehash: f61064ad38d195c2596cd09f098a7aa11f4d53ac
-ms.sourcegitcommit: 64860967a2baa3b08445ad7e186e46ce529efb13
+description: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71 で使用可能なすべてのセキュリティとコンプライアンス情報。
+ms.openlocfilehash: 80b6cb0abdce51918ca0098930e17bd256f6b3ed
+ms.sourcegitcommit: 4e8ef8e62b64b63eb9a9aa8971bf0c6ba14c2d03
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/29/2022
-ms.locfileid: "64530027"
+ms.lasthandoff: 04/06/2022
+ms.locfileid: "64677467"
 ---
 # <a name="azure-app-id-9af6eceb-6a8b-4710-b51d-dde2ac01cc71"></a>Azure アプリ ID: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71
 
 
 ### <a name="apps-associated-with-this-id"></a>この ID に関連付けられているアプリ:
-| **アプリ名** | **認定** | **AppSource での表示** |
+| **アプリ名** | **認定** | **AppSource で表示する** |
 |--------------|---------------|-----------------------|
 | [InCaseIT](../forward/WA200003265.md) |  | [https://appsource.microsoft.com/product/office/WA200003265](https://appsource.microsoft.com/product/office/WA200003265) |
 
-### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365コンプライアンスの状態
-- Publisher Testaton Status: Completed
+### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 アプリコンプライアンスの状態
+- Publisher Attestaton Status: Completed

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Designer で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 14c279da91489e679434e489f62945d9a99892d2
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 225c7acea1aba22a6ff86d7f2821e3766ddfcc73
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286107"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64627899"
 ---
 # <a name="designer"></a>Designer
 
@@ -29,7 +29,7 @@ ms.locfileid: "59286107"
 
 officeatwork から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Designer |
 | ID | officeatwork-ag.designer |
@@ -48,17 +48,17 @@ officeatwork から Microsoft に提供される情報:
 
 この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する officeatwork によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Contacts.Read | 委任 | データは保存されません。 | 連絡先: サインインしているユーザーのすべての連絡先の読み取りを有効にする。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
 >| Files.Read | 委任 | データは保存されません。 | OneDrive - ファイル (コンテンツ): サインインしているユーザーのファイルの読み取りを有効にする。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
 >| Files.Read.All | 委任 | データは保存されません。 | Teams - ファイル (コンテンツ): サインインしているユーザーのすべてのファイルの読み取りを有効にする。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
 >| Group.Read.All | 委任 | データは保存されません。 | Office 365ユーザー - グループに制限: サインインしているユーザーのすべてのグループの読み取りを有効にする。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Sites.Read.All | 委任 | データは保存されません。 | SharePointオンライン: オンラインからデータを読み取SharePointします。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
+>| Sites.Read.All | 委任 | データは保存されません。 | SharePoint: オンラインからデータを読み取SharePointします。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
 >| User.Read | 委任 | データは保存されません。 | Sing-In: officeatwork アプリがユーザーの基本的なプロパティを読み取ることができます。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
 >| User.Read.All | 委任 | データは保存されません。 | Office 365ユーザー - すべてのプロパティ: すべてのユーザーのすべてのプロパティの読み取りを有効にする。 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
 >| User.ReadBasic.All | 委任 | データは保存されません。 | Office 365ユーザー - 基本プロパティ: すべてのユーザーの基本的なプロパティの読み取りを有効にする | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
@@ -68,11 +68,11 @@ officeatwork から Microsoft に提供される情報:
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
-アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
+Microsoft 365 で構築されたアプリとアドインは、Microsoft Graph 以外の追加の Microsoft API を使用して、組織の識別可能な情報 (OII) を収集または処理する場合があります。 このアプリで使用する Microsoft API 以外Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| SharePoint REST API | いいえ |  |  |  |  |
+>| SharePoint REST API | 不要 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
 
@@ -98,7 +98,7 @@ officeatwork から Microsoft に提供される情報:
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>不要
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -106,9 +106,9 @@ officeatwork から Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35749' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35749' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35749" target="_blank">新しいタブで表示する</a>
 
@@ -122,7 +122,7 @@ officeatwork から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について officeatwork によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -130,13 +130,13 @@ officeatwork から Microsoft に提供される情報:
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | セキュリティの既定値 |
 | アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
-| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | いいえ |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | 不要 |
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
-| アプリは Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow、SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリは Web API を公開していますか? | 不要 |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
