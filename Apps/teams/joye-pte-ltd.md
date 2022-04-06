@@ -1,0 +1,188 @@
+---
+title: Joye Pte Ltd による Joye のアプリケーション情報
+ms.author: elmalova
+author: elenamalova
+manager: tonybal
+ms.date: 03/31/2022
+ms.topic: article
+ms.service: attestation
+certification_type: attested
+description: Joye の利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: a9f2c6f14db095286c66efcfec34f8514ec39cb3
+ms.sourcegitcommit: 021c258a4aad74b2525c08b60926fbbcd421f0c0
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "64602524"
+---
+# <a name="joye"></a>Joye
+
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>開発者による最終更新日: 2021 年 9 月 16 日</p>
+
+* <a href="https://teams.microsoft.com/l/app/6c75be83-05a8-4515-9c7b-b5f759b99b7f" target="_blank">ストアでの表示Teamsする</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003413" target="_blank">AppSource での表示</a>
+
+::: zone pivot="general"
+
+### <a name="general-information"></a>一般情報
+
+Joye Pte Ltd から Microsoft に提供される情報:
+
+| **Information** | **応答** |
+|:----------------|:-------------|
+| アプリ名 | Joye |
+| ID | WA200003413 |
+| Office 365サポートされているクライアント | Microsoft Teams |
+| パートナー会社名 | Joye Pte Ltd |
+| 会社の Web サイト | [https://www.joye.ai](https://www.joye.ai) |
+| アプリの利用規約 | [https://www.joye.ai/terms](https://www.joye.ai/terms) |
+| アプリのコア機能 | Imagineストレスの多い通話の後、Joye は再充電して生産性を再び向上するように求めるメッセージを表示します。 Joye へようこそ。 これは&#8217;1-2-3 と同じ簡単です。  1: 安全で匿名の空間で心を話す。 ガイド付きリフレクションを話したり、書き込みしたり、フォローすることができます。  2: Joye は、メンターや親愛なる友人が案内したのと同じ方法で、理解し、良いアドバイスをします。 これで、毎日の喜びレベルを管理できます。 3: おめでとうございます! 1 日の残りの部分を引き受け取る準備ができました。  |
+| 会社の本社所在地 | シンガポール |
+| アプリ情報ページ | [https://www.joye.ai](https://www.joye.ai) |
+| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
+| アプリで使用するホスティング クラウド プロバイダー | GCP、Azure |
+
+ [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="data"
+
+### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
+
+この情報は、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて、Joye Pte Ltd によって提供されています。
+
+| **Information** | **応答** |
+|:----------------|:-------------|
+| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
+| アプリで処理されるデータは何ですか? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| アプリは TLS 1.1 以上をサポートしていますか? | はい |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
+| データベースに格納されているデータは何ですか? | ユーザー プロファイル、空き時間情報の予定表のスケジュール。 アプリでユーザーが提供するその他の入力 |
+| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | 米国、シンガポール |
+| データの借入および廃棄プロセスが確立されていますか? | はい |
+| アカウントの終了後にデータが保持される期間 | 90days 未満 |
+| データ アクセス管理プロセスが確立されていますか? | はい |
+| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | 不要 |
+| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="security"
+
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
+
+| **Information** | **応答** |
+|:----------------|:-------------|
+| アプリで年間侵入テストを実行しますか? | はい |
+| アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | はい |
+| 環境で従来のマルウェア対策保護またはアプリケーションコントロールを使用していますか? | ApplicationControls |
+| セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? | はい |
+| パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? | はい |
+| パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
+| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | 不要 |
+| アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | はい |
+| 外部ネットワーク境界にファイアウォールがインストールされていますか? | 不要 |
+| 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
+| 追加のユーザーが、元の開発者によって実稼働環境に提出されたコード変更要求を確認および承認していますか? | はい |
+| セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | はい |
+| 多要素認証 (MFA) が有効になっているのは、次の場合です。 | CodeRepositories, DNSManagement, Credential |
+| 従業員アカウントのプロビジョニング、変更、削除のプロセスが確立されていますか? | はい |
+| アプリをサポートするネットワーク境界の境界の境界に侵入検出と防御 (IDPS) ソフトウェアが展開されていますか? | 該当なし |
+| アプリをサポートしているすべてのシステム コンポーネントにイベント ログが設定されていますか? | はい |
+| すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動ツールによって定期的に確認されますか? | はい|
+| セキュリティ イベントが検出されると、アラートが従業員に自動的に送信され、トリアージが発生しますか? | はい |
+| 正式な情報セキュリティリスク管理プロセスが確立されていますか? | はい |
+| 正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? |  |
+| 検出から 72 時間以内に、侵害の影響を受けた監督当局や個人にアプリまたはサービスのデータ侵害を報告しますか?| |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="compliance"
+
+| **Information** | **応答** |
+|:----------------|:-------------|
+| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
+| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | はい |
+| 最新の SOC1 認定日 |  2021-09-23 |
+| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | はい |
+| どの SOC 2 認定を取得しましたか? |  type2 |
+| 最新の SOC2 認定日 |  2021-09-23 |
+| アプリは Service Organization Controls (SOC 3) に準拠していますか? | はい |
+| 最新の SOC3 認定日 |  2021-09-23 |
+| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 不要 |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | はい |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | はい |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
+| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
+| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
+| アプリは NIST 800-171 に準拠していますか? | 該当なし |
+| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="privsection"
+
+| **Information** | **応答** |
+|:----------------|:-------------|
+| GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
+| アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | はい |
+| プライバシー ポリシーの URL | https://joye.ai/privacy/ |
+| アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | いいえ |
+| アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | 不要 |
+| 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | 不要 |
+| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | 不要 |
+| アプリには、要求に応じて個人の個人データを削除する機能がありますか? | はい |
+| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | はい |
+| アプリは個人に個人データを修正または更新する機能を提供しますか? | 該当なし |
+| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | はい |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="zerotrust"
+
+| **Information** | **応答** |
+|:----------------|:-------------|
+| アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | はい |
+| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
+| アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | 該当なし |
+| アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
+| アプリは継続的アクセス評価 (CAE) をサポートしています | 不要 |
+| アプリはコードに資格情報を保存しますか? | 不要 |
+| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | はい |
+
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
+
+>|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | アプリケーション | 予定表で空き時間のパターンを読み、適切な時間に精神的な健康休憩を取るユーザーを求めるには | [42f7cf35-98e6-417e-b5da-8913a5bbec79](../azure/42f7cf35-98e6-417e-b5da-8913a5bbec79.md) |
+>| MailboxSettings.Read | 委任 | タイムゾーンを取得するユーザー情報 | [42f7cf35-98e6-417e-b5da-8913a5bbec79](../azure/42f7cf35-98e6-417e-b5da-8913a5bbec79.md) |
+>| User.Read | 委任 | user signin and info | [42f7cf35-98e6-417e-b5da-8913a5bbec79](../azure/42f7cf35-98e6-417e-b5da-8913a5bbec79.md) |
+>| User.Read.All | アプリケーション | すべてのユーザーの情報を読み取り、Teams管理者がすべてのユーザーに対してアプリを自動インストールするために並行して | [42f7cf35-98e6-417e-b5da-8913a5bbec79](../azure/42f7cf35-98e6-417e-b5da-8913a5bbec79.md) |
+>| メール | 委任 | 予定表 get.calendar を読み取れるユーザー情報 | [42f7cf35-98e6-417e-b5da-8913a5bbec79](../azure/42f7cf35-98e6-417e-b5da-8913a5bbec79.md) |
+>| offline_access | 委任 | 情報を使用する | [42f7cf35-98e6-417e-b5da-8913a5bbec79](../azure/42f7cf35-98e6-417e-b5da-8913a5bbec79.md) |
+>| openid | 委任 | ユーザー情報 | [42f7cf35-98e6-417e-b5da-8913a5bbec79](../azure/42f7cf35-98e6-417e-b5da-8913a5bbec79.md) |
+>| profile | 委任 | ユーザー情報 | [42f7cf35-98e6-417e-b5da-8913a5bbec79](../azure/42f7cf35-98e6-417e-b5da-8913a5bbec79.md) |
+
+>このアプリケーションには、追加の API が含まれる必要があります。
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
