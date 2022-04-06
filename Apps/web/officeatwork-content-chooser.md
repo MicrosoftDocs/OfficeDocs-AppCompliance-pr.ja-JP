@@ -6,14 +6,14 @@ ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: コンテンツ選択機能、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
+description: コンテンツ選択機能、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関する利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b7353f91abadea47e8b9147454697b66bcc7ddaa
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 409f90ded9b77260e439c8912a8f482044d2d591
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284899"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64626479"
 ---
 # <a name="content-chooser"></a>コンテンツ選択
 
@@ -29,7 +29,7 @@ ms.locfileid: "59284899"
 
 officeatwork から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | コンテンツ選択 |
 | ID | officeatwork-ag.content-chooser |
@@ -48,17 +48,17 @@ officeatwork から Microsoft に提供される情報:
 
 この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する officeatwork によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.ReadWrite.All | 委任 | データは保存されません。 | お気に入り: ユーザーにデータを読み書きOneDrive。 | edb24f8f-38af-4b3e-9475-0da243678d5a |
+>| Files.ReadWrite.All | 委任 | データは保存されません。 | お気に入り: ユーザーに対してデータの読み取りおよび書き込みを行OneDrive。 | edb24f8f-38af-4b3e-9475-0da243678d5a |
 >| Files.ReadWrite.All | 委任 | データは保存されません。 | OneDrive: ユーザーに対してデータの読み取りおよび書き込みを行OneDrive。 | edb24f8f-38af-4b3e-9475-0da243678d5a |
 >| Group.ReadWrite.All | 委任 | データは保存されません。 | Teams: グループに対してデータの読み取りおよび書き込みを行える。 | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| GroupMember.Read.All | 委任 | データは保存されません。 | SharePointOnline - セキュリティ グループのサポート: アプリがグループの一覧を表示し、基本的なグループ プロパティを読み取り、サインインしているユーザーがアクセスできるすべてのグループのメンバーシップを読み取る | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| Sites.Read.All | 委任 | データは保存されません。 | SharePointオンライン: オンラインからデータを読み取SharePointします。 | edb24f8f-38af-4b3e-9475-0da243678d5a |
+>| GroupMember.Read.All | 委任 | データは保存されません。 | SharePoint - セキュリティ グループのサポート: アプリがグループの一覧を表示し、基本的なグループ プロパティを読み取り、サインインしているユーザーがアクセスできるすべてのグループのメンバーシップを読み取る | edb24f8f-38af-4b3e-9475-0da243678d5a |
+>| Sites.Read.All | 委任 | データは保存されません。 | SharePoint: オンラインからデータを読み取SharePointします。 | edb24f8f-38af-4b3e-9475-0da243678d5a |
 >| User.Read | 委任 | データは保存されません。 | Sing-In: officeatwork アプリがユーザーの基本的なプロパティを読み取ることができます。 | edb24f8f-38af-4b3e-9475-0da243678d5a |
 >| User.Read.All | 委任 | データは保存されません。 | Teams: ユーザーが属するグループを確認します。 | edb24f8f-38af-4b3e-9475-0da243678d5a |
 >| offline_access | 委任 | データは保存されません。 | Sing-In: 更新トークンを介して自動サインインを有効にするには、ユーザーが officeatwork アプリを起動する度に手動でサインインする必要があります。 このスコープは、SSO が有効でないホスト アプリケーションでのみ必要です。 | edb24f8f-38af-4b3e-9475-0da243678d5a |
@@ -67,7 +67,7 @@ officeatwork から Microsoft に提供される情報:
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
-アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
+Microsoft 365 で構築されたアプリとアドインは、Microsoft Graph 以外の追加の Microsoft API を使用して、組織の識別可能な情報 (OII) を収集または処理する場合があります。 このアプリで使用する Microsoft API 以外Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
@@ -105,9 +105,9 @@ officeatwork から Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35751' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35751' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35751" target="_blank">新しいタブで表示する</a>
 
@@ -121,7 +121,7 @@ officeatwork から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について officeatwork によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
@@ -133,7 +133,7 @@ officeatwork から Microsoft に提供される情報:
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリの場合、何を使用しないのですか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的Flow、SPA に必要な場合を含む場合を含む<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
 | アプリは Web API を公開していますか? | いいえ |
 | アプリでプレビュー API を使用していますか? | いいえ |
 | アプリで非推奨の API を使用していますか? | いいえ |

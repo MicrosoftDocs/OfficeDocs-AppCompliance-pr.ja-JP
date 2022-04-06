@@ -5,9 +5,9 @@
       items:
         - name: 概要
           href: overview.md
-        - name: Publisher検証とは
+        - name: 検証とはPublisherですか?
           href: /azure/active-directory/develop/publisher-verification-overview
-        - name: Microsoft 365認定とは
+        - name: 認定とはMicrosoft 365ですか?
           href: docs/enterprise-app-certification-guide.md
     - name: 開発者向け
       expanded: true
@@ -18,32 +18,32 @@
           href: docs/certification.md
         - name: Microsoft 365認定申請ガイド
           href: docs/certification-submission-guide.md
-    - name: Microsoft Excel アプリ
+    - name: Microsoft Excelアプリ
       href: excel/excel-apps.md
       items:
-        - name: B2B パートナー向けの Canon EMEA サービス コスト計算ツール
+        - name: キヤノン B2B パートナー向け EMEA サービス コスト計算ツール
           href: excel/canon-emea-service-cost-calculator-for-b2b-partners.md
         - name: CloudExtend Analytics for NetSuite
           href: excel/celigo-cloudextend-analytics-for-netsuite.md
-        - name: Excel-to-Word Document Automation
+        - name: Excelから Word へのドキュメントの自動化
           href: excel/analysisplace-excel-to-word-document-automation.md
         - name: Forbury
           href: excel/forbury-property.md
-        - name: Microsoft Word、Excel、PowerPoint用の Foxit PDF エディター
+        - name: Foxit PDF Editor for Microsoft Word、Excel、およびPowerPoint
           href: excel/foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md
-        - name: Impression Signatures
+        - name: インプレッション署名
           href: excel/impression-signatures.md
         - name: Jira Cloud for Excel
           href: excel/atlassiancom-jira-cloud-for-excel.md
-        - name: Excelの meaningCloud Text Analytics
+        - name: MeaningCloud Text AnalyticsのExcel
           href: excel/meaningcloud-text-analytics-for-excel.md
         - name: Office2SharePoint for Office
           href: excel/iglobe-office2sharepoint-for-office.md
-        - name: officeatwork |Officeの Content Chooser
+        - name: officeatwork |コンテンツの選択Office
           href: excel/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork |Office用のイメージ選択子
+        - name: officeatwork |イメージの選択Office
           href: excel/officeatwork-officeatworkimage-chooser-for-office.md
-        - name: officeatwork |Office用テンプレート選択子
+        - name: officeatwork |テンプレートのテンプレート選択Office
           href: excel/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: Report Builder
           href: excel/adobe-inc-report-builder.md
@@ -51,94 +51,94 @@
           href: excel/rocketdocs-launchpad.md
         - name: Sheetgo
           href: excel/sheetgo-europe-sl.md
-        - name: スーパーメトリック
+        - name: Supermetrics
           href: excel/supermetrics.md
-        - name: XBRL Filed Data
+        - name: XBRL ファイルデータ
           href: excel/xbrl-us-filed-data.md
-        - name: Excelの ZEMA
+        - name: ZEMA for Excel
           href: excel/ze-powergroup-zema-for-excel.md
     - name: Microsoft OneNote アプリ
       href: onenote/onenote-apps.md
       items:
-        - name: officeatwork |Officeの Content Chooser
+        - name: officeatwork |コンテンツの選択Office
           href: onenote/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork |Office用のイメージ選択子
+        - name: officeatwork |イメージの選択Office
           href: onenote/officeatwork-officeatworkimage-chooser-for-office.md
-    - name: Microsoft Outlook Apps
+    - name: Microsoft Outlook アプリ
       href: outlook/outlook-apps.md
       items:
-        - name: Adobe Sign Add-In for Outlook
+        - name: Adobe Sign Add-In Outlook
           href: outlook/adobe-inc-sign-add-in-for-outlook.md
         - name: Altru ビデオ
           href: outlook/altru-videos.md
-        - name: 承認済みの連絡先予定表
+        - name: 承認済みの連絡先の予定表
           href: outlook/approved-contact-calendars.md
         - name: CI-Signature
           href: outlook/ci-solution-gmbh-signature.md
-        - name: codeTwo for Outlook
+        - name: CodeTwo for Outlook
           href: outlook/codetwo-for-outlook.md
-        - name: 通学
+        - name: Commuty
           href: outlook/commuty.md
         - name: Evernote
           href: outlook/evernote.md
-        - name: Outlookのインプレッション シグネチャ
+        - name: ユーザーのインプレッション署名Outlook
           href: outlook/impression-signatures-for-outlook.md
-        - name: iPlanner Office 365 Planner アドイン (Outlook用)
+        - name: iPlanner Office 365 プランナー アドインのOutlook
           href: outlook/iglobe-iplanner-office-365-planner-add-in-for-outlook.md
         - name: iPlanner Pro Office 365
           href: outlook/iglobe-iplanner-pro-office-365.md
-        - name: Jira Cloud for Outlook (公式)
+        - name: Jira Cloud for Outlook (Official)
           href: outlook/atlassiancom-jira-cloud-for-outlook-official.md
-        - name: LawToolBox の期限と問題の管理 - Outlook
+        - name: LawToolBox Deadlines and Matter Management - Outlook
           href: outlook/lawtoolboxcom-inc-lawtoolbox-deadlinesmatter-management-outlook.md
-        - name: LawToolBox の期限と問題の管理 - Outlook
+        - name: LawToolBox Deadlines and Matter Management - Outlook
           href: outlook/lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md
         - name: Mailbutler
           href: outlook/mailbutler.md
-        - name: MIPA - 個人用パーソナル アシスタント
+        - name: MIPA - 独自の個人用アシスタント
           href: outlook/iglobe-mipa-your-own-personal-assistant.md
         - name: ngDesk
           href: outlook/all-blue-solutions-ngdesk.md
         - name: Office2SharePoint for Outlook
           href: outlook/iglobe-office2sharepoint-for-outlook.md
-        - name: officeatwork |Outlookの Content Chooser
+        - name: officeatwork |コンテンツの選択Outlook
           href: outlook/officeatwork-officeatworkcontent-chooser-for-outlook.md
-        - name: officeatwork |Outlookのメール署名
+        - name: officeatwork |メール署名のOutlook
           href: outlook/officeatwork-officeatworkmail-signature-for-outlook.md
         - name: OnePlaceMail for Outlook
           href: outlook/oneplace-solutions-oneplacemail-for-outlook.md
-        - name: Outlookの Outreach Sales Engagement
+        - name: Outreach Sales Engagement for Outlook
           href: outlook/outreach-sales-engagement-for-outlook.md
         - name: Pexip One for Outlook
           href: outlook/pexipas-pexip-one-for-outlook.md
-        - name: 優先度マトリックス - 電子メールをタスクに変換する
+        - name: 優先度マトリックス - メールをタスクに変換する
           href: outlook/appfluence-inc-priority-matrix-turn-emails-into-tasks.md
         - name: Quantum Workplace
           href: outlook/quantum-workplace.md
         - name: Salesforce
           href: outlook/salesforcecom-salesforce.md
-        - name: Outlookのための戦略-AI
+        - name: Strategy-AI for Outlook
           href: outlook/chinchilla-software-limited-strategy-ai-for-outlook.md
         - name: XQ Secure Email
           href: outlook/xq-message-secure-email.md
-    - name: Microsoft PowerPoint Apps
+    - name: Microsoft PowerPoint アプリ
       href: powerpoint/powerpoint-apps.md
       items:
-        - name: Microsoft WordとPowerPointの Adobe Acrobat Sign
+        - name: Adobe Acrobat Sign for Microsoft WordとPowerPoint
           href: powerpoint/adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md
-        - name: Excel-to-Word Document Automation
+        - name: Excelから Word へのドキュメントの自動化
           href: powerpoint/analysisplace-excel-to-word-document-automation.md
-        - name: Microsoft Word、Excel、PowerPoint用の Foxit PDF エディター
+        - name: Foxit PDF Editor for Microsoft Word、Excel、およびPowerPoint
           href: powerpoint/foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md
         - name: Office2SharePoint for Office
           href: powerpoint/iglobe-office2sharepoint-for-office.md
-        - name: officeatwork |Officeの Content Chooser
+        - name: officeatwork |コンテンツの選択Office
           href: powerpoint/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork |Office用のイメージ選択子
+        - name: officeatwork |イメージの選択Office
           href: powerpoint/officeatwork-officeatworkimage-chooser-for-office.md
-        - name: officeatwork |Officeのスライド選択子
+        - name: officeatwork |スライドの選択Office
           href: powerpoint/officeatwork-officeatworkslide-chooser-for-office.md
-        - name: officeatwork |Office用テンプレート選択子
+        - name: officeatwork |テンプレートのテンプレート選択Office
           href: powerpoint/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: Showmaster
           href: powerpoint/cherryware-showmaster.md
@@ -149,38 +149,38 @@
     - name: Microsoft Project アプリ
       href: project/project-apps.md
       items:
-        - name: officeatwork |Office用テンプレート選択子
+        - name: officeatwork |テンプレートのテンプレート選択Office
           href: project/officeatwork-officeatworktemplate-chooser-for-office.md
-    - name: Microsoft SharePoint Apps
+    - name: Microsoft SharePoint アプリ
       href: sharepoint/sharepoint-apps.md
       items:
         - name: Adobe Acrobat Sign for Microsoft Office SharePoint Online
           href: sharepoint/adobe-inc-acrobat-sign-for-microsoft-sharepoint-online.md
         - name: ArcGIS for SharePoint
           href: sharepoint/esri-inc-arcgis-for-sharepoint.md
-        - name: 単価管理システム
+        - name: Bid Management System
           href: sharepoint/beyond-technologies-bid-management-system.md
         - name: Bizagi Webparts
           href: sharepoint/bizagi-team-webparts.md
         - name: 予定表オーバーレイ
           href: sharepoint/cloudwell-calendar-overlay.md
-        - name: SharePoint用 FormMachines コネクタ
+        - name: FormMachines コネクタ for SharePoint
           href: sharepoint/enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md
         - name: HelloSign for SharePoint
           href: sharepoint/dropbox-inc-hellosign-for-sharepoint.md
-        - name: いちがくBoards - デジタル ワークプレース
+        - name: Ichicraft Boards - デジタル ワークプレース
           href: sharepoint/ichicraft-bv-boards-your-digital-workplace.md
         - name: iGlobe CRM アドオン
           href: sharepoint/iglobe-crm-add-ons.md
-        - name: iGlobe CRM Office 365 for Microsoft Office 365
+        - name: iGlobe CRM Office 365 Microsoft Office 365
           href: sharepoint/iglobe-crm-office-365-for-microsoft.md
         - name: Konnect eMail Parser
           href: sharepoint/konnect-email-parser.md
         - name: LifeWorks Viva コネクション
           href: sharepoint/lifeworks-inc-viva-connections.md
-        - name: Lightning Tools Lightning の指揮者
+        - name: Lightning Tools Lightning コンダクター
           href: sharepoint/lightning-tools-conductor.md
-        - name: officeatwork |SharePointのテンプレート選択子
+        - name: officeatwork |テンプレートのテンプレート選択SharePoint
           href: sharepoint/officeatwork-officeatworktemplate-chooser-for-sharepoint.md
         - name: Power BI コラボレーション
           href: sharepoint/ataira-power-bi-collaboration.md
@@ -190,13 +190,13 @@
           href: sharepoint/sharepointsapiens-event-management.md
         - name: SharePoint|sapiens モダン ユーザー インターフェイス
           href: sharepoint/sharepointsapiens-modern-user-interface.md
-        - name: よりスマートなイベントの予約
+        - name: よりスマートなイベント予約
           href: sharepoint/smarter-business-solutions-gmbh-event-booking.md
-        - name: Social Squared ディスカッション フォーラム
+        - name: ソーシャル二乗ディスカッション フォーラム
           href: sharepoint/lightning-tools-social-squared-discussion-forums.md
         - name: 分類
           href: sharepoint/accuracy-software-inc-taxonomy.md
-        - name: SharePoint Online の    の署名
+        - name: Zynyo Sign for SharePoint Online
           href: sharepoint/zynyo-sign-for-sharepoint-online.md
     - name: Microsoft Teams アプリ
       href: teams/teams-apps.md
@@ -221,7 +221,7 @@
           href: teams/adobe-acrobat-sign.md
         - name: 上司の予定一覧
           href: teams/appfluence-inc-agenda-boss.md
-        - name: AI Producer
+        - name: AI プロデューサー
           href: teams/livearena-technologies-ab-ai-producer.md
         - name: Aimful
           href: teams/aimful.md
@@ -355,8 +355,6 @@
           href: teams/churnzero.md
         - name: CI-Out-of-Office Lite
           href: teams/ci-solution-gmbh-out-of-office-lite.md
-        - name: 書記 SMS
-          href: teams/unnamed-ventures-llc-clerk-sms.md
         - name: ClipTraining
           href: teams/cliptraining.md
         - name: Clixie
@@ -395,7 +393,7 @@
           href: teams/move-work-forward-confluence-connector-by-mwf.md
         - name: Connect+
           href: teams/reward-gateway-connectplus.md
-        - name: Contact Center |ROGER365.io
+        - name: コンタクト センター |ROGER365.io
           href: teams/roger365io-contact-centerroger365io.md
         - name: Contacts Pro
           href: teams/witivio-contacts-pro.md
@@ -559,6 +557,8 @@
           href: teams/golinks.md
         - name: Good4work
           href: teams/good4work.md
+        - name: Goodera
+          href: teams/goodera.md
         - name: GoToConnect
           href: teams/logmein-inc-gotoconnect.md
         - name: GRATICA
@@ -677,8 +677,6 @@
           href: teams/lawtoolboxcominc-lawtoolbox.md
         - name: LawVu APAC
           href: teams/lawvu-apac.md
-        - name: LawVu USA
-          href: teams/lawvu-usa.md
         - name: Learnbee
           href: teams/bsharp-sales-enablers-learnbee.md
         - name: Lexion
@@ -777,7 +775,7 @@
           href: teams/kl-software-technologies-netdocshare.md
         - name: NewCOS
           href: teams/newtech-newcos.md
-        - name: News - Jalios
+        - name: ニュース - Jalios
           href: teams/jalios-sa-news.md
         - name: ngDesk
           href: teams/all-blue-solutions-ngdesk.md
@@ -907,6 +905,8 @@
           href: teams/ringcentral-inc.md
         - name: RowShare
           href: teams/rowshare.md
+        - name: Saberr
+          href: teams/saberr.md
         - name: 安全なスペース
           href: teams/ecare-vault-inc-safe-spaces.md
         - name: Sailpoint
@@ -1023,6 +1023,8 @@
           href: teams/avishkaram-technologies-pvt-ltd-tagmyfav.md
         - name: TagTeam
           href: teams/smarter-business-solution-gmbh-tagteam.md
+        - name: Talview Interviews
+          href: teams/talview-inc-interviews.md
         - name: TAMPLO
           href: teams/ityss-tamplo.md
         - name: TaskCall
@@ -1175,26 +1177,26 @@
           href: teams/alight-zignals.md
         - name: Zoho Sign
           href: teams/zoho-corporation-private-limited-sign.md
-    - name: Microsoft Word アプリ
+    - name: Microsoft Wordアプリ
       href: word/word-apps.md
       items:
-        - name: Microsoft WordとPowerPointの Adobe Acrobat Sign
+        - name: Adobe Acrobat Sign for Microsoft WordとPowerPoint
           href: word/adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md
         - name: AuditBoard アドイン
           href: word/auditboard-inc-add-in.md
         - name: Citasion
           href: word/citasion-llc.md
-        - name: CocoFax - Fax の送信が簡単で安全になりました
+        - name: CocoFax - 送信 FAX を簡単かつ安全に送信する
           href: word/cocofax-sending-fax-made-easysecure.md
         - name: CrossCheck
           href: word/krevealllc-crosscheck.md
-        - name: Excel-to-Word Document Automation
+        - name: Excelから Word へのドキュメントの自動化
           href: word/analysisplace-excel-to-word-document-automation.md
         - name: Fabasoft Cloud Office アドイン
           href: word/fabasoft-austria-gmbh-cloud-office-add-in.md
-        - name: Microsoft Word、Excel、PowerPoint用の Foxit PDF エディター
+        - name: Foxit PDF Editor for Microsoft Word、Excel、およびPowerPoint
           href: word/foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md
-        - name: Impression Signatures
+        - name: インプレッション署名
           href: word/impression-signatures.md
         - name: LegalMind Word AddIn
           href: word/legalmind-word-addin.md
@@ -1206,27 +1208,27 @@
           href: word/neopolis-gmbh.md
         - name: Office2SharePoint for Office
           href: word/iglobe-office2sharepoint-for-office.md
-        - name: officeatwork |Officeの Content Chooser
+        - name: officeatwork |コンテンツの選択Office
           href: word/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork |Office用デザイナー
+        - name: officeatwork |デザイナー Office
           href: word/officeatwork-officeatworkdesigner-for-office.md
-        - name: officeatwork |Office用のイメージ選択子
+        - name: officeatwork |イメージの選択Office
           href: word/officeatwork-officeatworkimage-chooser-for-office.md
-        - name: officeatwork |Office用テンプレート選択子
+        - name: officeatwork |テンプレートのテンプレート選択Office
           href: word/officeatwork-officeatworktemplate-chooser-for-office.md
-        - name: officeatwork |Office用アップローダー
+        - name: officeatwork |ユーザーのアップロードOffice
           href: word/officeatwork-officeatworkuploader-for-office.md
-        - name: officeatwork |Officeの検証ツール
+        - name: officeatwork |検証ツールのOffice
           href: word/officeatwork-officeatworkverifier-for-office.md
-        - name: officeatwork |Officeのウィザード
+        - name: officeatwork |ウィザードのOffice
           href: word/officeatwork-officeatworkwizard-for-office.md
         - name: RetMig と Kommaforslag
           href: word/grammarsoft-aps-retmigkommaforslag.md
         - name: RocketDocs LaunchPad
           href: word/rocketdocs-launchpad.md
-        - name: 論文用 SmartCite
+        - name: SmartCite for Papers
           href: word/digital-science-smartcite-for-papers.md
-        - name: Word 用 Stilus
+        - name: Stilus for Word
           href: word/meaningcloud-stilus-for-word.md
         - name: TaxKit Docs
           href: word/taxyio-gmbh-taxkit-docs.md
@@ -1234,44 +1236,44 @@
           href: word/mondeca-termef.md
         - name: xLaw - ナレッジ管理システム
           href: word/evertn-xlaw-knowledge-management-system.md
-    - name: SaaS Apps
+    - name: SaaS アプリ
       href: saas/saas-apps.md
       items:
         - name: 管理センター
           href: saas/officeatwork-admin-center.md
-        - name: Microsoft Teams用 Anywhere365 アテンダント コンソール
+        - name: Anywhere365 Attendant Console for Microsoft Teams
           href: saas/workstreampeople-bv-anywhere365-attendant-console-for-microsoft-teams.md
-        - name: Anywhere365 contact Center for Teams
+        - name: Anywhere365 Contact Center for Teams
           href: saas/workstreampeople-bv-anywhere365-contact-center-for-teams.md
-        - name: TeamsのBuzzeasy 連絡先センター
+        - name: Buzzeasy Contact Center for Teams
           href: saas/geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md
-        - name: CallCabinet Atmos コンプライアンス記録と分析
+        - name: CallCabinet Atmos Compliance Recording and Analytics
           href: saas/callcabinet-corporation-atmos-compliance-recording-and-analytics.md
         - name: CC4Teams
           href: saas/cc4all-cc4teams.md
         - name: Classroom.cloud
           href: saas/netsupport-ltd-classroomcloud.md
-        - name: Microsoft Office 365用クラウド バックアップ
+        - name: クラウド バックアップ for Microsoft Office 365
           href: saas/avepoint-inc-cloud-backup-for-microsoft-office-365.md
-        - name: Office 365の CodeTwo 電子メール署名
+        - name: CodeTwo 電子メール署名 for Office 365
           href: saas/codetwo-email-signatures-for-office-365.md
-        - name: Competella Communication Suite
+        - name: コンペテラ コミュニケーション スイート
           href: saas/competella-ab-communication-suite.md
-        - name: Content Chooser
+        - name: コンテンツ選択
           href: saas/officeatwork-content-chooser.md
-        - name: Content Chooser Browser
+        - name: コンテンツ選択ブラウザー
           href: saas/officeatwork-content-chooser-browser.md
         - name: Designer
           href: saas/officeatwork-designer.md
         - name: Emailgistics
           href: saas/emailgistics-corp.md
-        - name: Outlookの EmailNotes
+        - name: EmailNotes for Outlook
           href: saas/standss-south-pacific-pte-limited-emailnotes-for-outlook.md
-        - name: Genesys Cloud CX Teams Integration
+        - name: ジェネシス クラウド CX Teams統合
           href: saas/genesys-cloud-services-inc-cx-teams-integration.md
         - name: ice Contact Center
           href: saas/computertalk-ice-contact-center.md
-        - name: iGlobe CRM Office 365 for Microsoft 365
+        - name: iGlobe CRM Office 365 Microsoft 365
           href: saas/iglobe-crm-office-365-for-microsoft.md
         - name: Image Chooser
           href: saas/officeatwork-image-chooser.md
@@ -1279,17 +1281,17 @@
           href: saas/iglobe-iplanner-pro-office-365.md
         - name: LMS365
           href: saas/elearningforce-international-aps-lms365.md
-        - name: Microsoft Teamsの Luware コンプライアンス記録
+        - name: Luware コンプライアンスレコーディング for Microsoft Teams
           href: saas/luware-ag-compliance-recording-for-microsoft-teams.md
-        - name: Microsoft Teams用 Luware Nimbus
+        - name: Luware Nimbus for Microsoft Teams
           href: saas/luware-ag-nimbus-for-microsoft-teams.md
         - name: メール署名
           href: saas/officeatwork-mail-signature.md
-        - name: MIPA - インテリジェント パーソナル アシスタント
+        - name: MIPA - 個人用インテリジェント パーソナル アシスタント
           href: saas/iglobe-mipa-my-intelligent-personal-assistant.md
         - name: MyHub for Teams
           href: saas/avepoint-inc-myhub-for-teams.md
-        - name: Microsoft Teams用 Netskope
+        - name: Netskope for Microsoft Teams
           href: saas/netskope-for-microsoft-teams.md
         - name: Office2SharePoint
           href: saas/iglobe-office2sharepoint.md
@@ -1297,15 +1299,15 @@
           href: saas/iglobe-office2sharepoint-for-teams.md
         - name: MS365 の Onna Discovery
           href: saas/onna-discovery-for-ms365.md
-        - name: Microsoft Office 365のポリシーとインサイト
+        - name: ポリシーとインサイトのMicrosoft Office 365
           href: saas/avepoint-inc-policiesinsights-for-microsoft-office-365.md
         - name: Priority Matrix
           href: saas/appfluence-inc-priority-matrix.md
         - name: SalesTim
           href: saas/salestim.md
-        - name: スライド選択子
+        - name: スライドの選択
           href: saas/officeatwork-slide-chooser.md
-        - name: storm Cloud Contact Center Teams Integration
+        - name: storm Cloud Contact Center Teams統合
           href: saas/content-guru-storm-cloud-contact-center-teams-integration.md
         - name: Talkdesk Microsoft Teams コネクタ
           href: saas/talkdesk-inc-microsoft-teams-connector.md
@@ -1313,17 +1315,17 @@
           href: saas/officeatwork-template-chooser.md
         - name: テンプレート選択ブラウザー
           href: saas/officeatwork-template-chooser-browser.md
-        - name: theta Lake Recording and Compliance for Teams Video
+        - name: Theta Lake Recording and Compliance for Teams ビデオ
           href: saas/theta-lake-recordingcompliance-for-teams-video.md
         - name: アップローダー
           href: saas/officeatwork-uploader.md
-        - name: 検証
+        - name: 検証ツール
           href: saas/officeatwork-verifier.md
         - name: 幅広いアイデア - イノベーション ソフトウェア
           href: saas/wide-ideasidea2innovation-ideas-innovation-software.md
         - name: ウィザード
           href: saas/officeatwork-wizard.md
-    - name: Azure アプリ ID
+    - name: Azure アプリの ID
       href: azure/azure-apps.md
       items:
         - name: 00485db5-81b3-4299-833a-8d6c366d0ac0
@@ -1894,7 +1896,7 @@
           href: azure/edb24f8f-38af-4b3e-9475-0da243678d5a.md
         - name: ef5fa233-c0bb-424e-b9dc-0466d46bade2
           href: azure/ef5fa233-c0bb-424e-b9dc-0466d46bade2.md
-        - name: f0199b83-0ca3-4b41-a23b-d9b2344844438
+        - name: f0199b83-0ca3-4b41-a23b-d9b234484438
           href: azure/f0199b83-0ca3-4b41-a23b-d9b234484438.md
         - name: f121a92d-d9a9-43fd-be70-f7a47ff83d4f
           href: azure/f121a92d-d9a9-43fd-be70-f7a47ff83d4f.md
