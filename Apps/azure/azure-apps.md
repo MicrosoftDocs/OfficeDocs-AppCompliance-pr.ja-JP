@@ -1,23 +1,23 @@
 ---
-title: Azure アプリのセキュリティとコンプライアンス - すべてのアプリ
+title: Azure アプリ ID のセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/01/2022
+ms.date: 04/05/2022
 ms.topic: article
 ms.service: attestation
-description: すべてのユーザーのセキュリティとコンプライアンスに関する情報Azure アプリ。
+description: すべてのAzure アプリ ID で使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: f0a736c37fbb0143f1d9c2bd2bb031d8fe2f3c9c
-ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
+ms.openlocfilehash: feec2b607f1fb82dc923de45ac8324fb7f006af3
+ms.sourcegitcommit: 4e8ef8e62b64b63eb9a9aa8971bf0c6ba14c2d03
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2022
-ms.locfileid: "64627989"
+ms.lasthandoff: 04/06/2022
+ms.locfileid: "64681498"
 ---
-# <a name="azure-app-ids-security-and-compliance"></a>Azure アプリのセキュリティとコンプライアンス
+# <a name="azure-app-ids-security-and-compliance"></a>Azure アプリ ID のセキュリティとコンプライアンス
 
-Microsoft は、Microsoft 365開発者パートナーと協力して、組織が使用する Azure アプリ の意思決定を迅速に行い、通知するために必要な情報を提供します。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
+Microsoft は、Microsoft 365開発者パートナーと協力して、組織が使用するAzure アプリ ID とアドインに関する決定を迅速かつ通知するために必要な情報を提供します。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
 
 | **Azure アプリ ID** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:-------------:|
@@ -305,7 +305,7 @@ Microsoft は、Microsoft 365開発者パートナーと協力して、組織が
 | [ecff17cf-5629-49ba-a629-7f575496aeac](./ecff17cf-5629-49ba-a629-7f575496aeac.md) | **✓** |  |
 | [edb24f8f-38af-4b3e-9475-0da243678d5a](./edb24f8f-38af-4b3e-9475-0da243678d5a.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ef5fa233-c0bb-424e-b9dc-0466d46bade2](./ef5fa233-c0bb-424e-b9dc-0466d46bade2.md) | **✓** |  |
-| [f0199b83-0ca3-4b41-a23b-d9b234484438](./f0199b83-0ca3-4b41-a23b-d9b234484438.md) | **✓** |  |
+| [f0199b83-0ca3-4b41-a23b-d9b2344844438](./f0199b83-0ca3-4b41-a23b-d9b234484438.md) | **✓** |  |
 | [f121a92d-d9a9-43fd-be70-f7a47ff83d4f](./f121a92d-d9a9-43fd-be70-f7a47ff83d4f.md) | **✓** |  |
 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](./f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7.md) | **✓** |  |
 | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](./f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) | **✓** |  |
