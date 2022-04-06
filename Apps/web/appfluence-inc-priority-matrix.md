@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Priority Matrix、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 83e82e68a5159a645e39c520f2620d9593b2b7d3
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c40d5d346b7786a01afee112147f9e3653b7559c
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284908"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64626949"
 ---
 # <a name="priority-matrix"></a>Priority Matrix
 
@@ -28,7 +28,7 @@ ms.locfileid: "59284908"
 
 Appfluence Inc から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Priority Matrix |
 | ID | appfluenceinc.m_pm_msft |
@@ -47,20 +47,20 @@ Appfluence Inc から Microsoft に提供される情報:
 
 この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関して Appfluence Inc によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Calendars.Read | 委任 | 新しいユーザーがアカウントに追加された場合にのみ、メールを保存します。 | 新しいアカウントの作成では、これを使用して他のチーム メンバーを提案します。 | 5be2b320-a5b7-4221-893c-dee506e4e365 |
 >| User.ReadBasic.All | 委任 | 新しいユーザーがアカウントに追加された場合にのみ、メールを保存します。 | 新しいアカウントの作成では、これを使用して他のチーム メンバーを提案します。 | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| offline_access | 委任 | ユーザーに代わって要求を実行するためにログイン トークンを保存します | ユーザーに迷惑をかけることなくトークンを更新します。 (優先行列のTeams) | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| Files.Read.All | 委任 | ユーザーが元のファイルにリンクする Priority Matrix アイテムを明示的に作成しない限り、ファイル情報は保存しない。 | 1 対 1 の機能 (Web アプリと Outlook/Teams アドインで利用できます)では、この機能を使用して、会議と全体的な共同作業を促進する方法として、システム内の 2 人のユーザー間で共有される SharePoint/OneDrive ファイルを強調表示します。 | affadfb6-f17b-428f-97f9-9aae3b6175bc |
+>| offline_access | 委任 | ユーザーに代わって要求を実行するためにログイン トークンを保存します | ユーザーに迷惑をかけることなくトークンを更新します。 (優先度行列のTeams) | 5be2b320-a5b7-4221-893c-dee506e4e365 |
+>| Files.Read.All | 委任 | ユーザーが元のファイルにリンクする Priority Matrix アイテムを明示的に作成しない限り、ファイル情報は保存しない。 | 1 対 1 の機能 (Web アプリと Outlook/Teams アドインで利用できます)では、この機能を使用して、会議や全体的な共同作業を促進する方法として、システム内の 2 人のユーザー間で共有される SharePoint/OneDrive ファイルを強調表示します。 | affadfb6-f17b-428f-97f9-9aae3b6175bc |
 >| User.Read | 委任 | 基本的なユーザー プロファイル情報 (表示名、名、名、電子メール、アバター) は、私たちによって保存されます。 | ユーザーの名前、メール、アバターを取得して、アカウントをカスタマイズします。 | affadfb6-f17b-428f-97f9-9aae3b6175bc |
 >| openid | 委任 | SSO 接続を保存して、ユーザーのログイン モードを示します。 | シングル サインオンを使用してユーザーにサインインする場合。 | affadfb6-f17b-428f-97f9-9aae3b6175bc |
 >| Calendars.Read | 委任 | カレンダー イベントの数が少ない場合は、システムに格納されているタスクに変換されます。 | 予定表イベントを読み取り、1:1 ビューに表示できます。 また、新しいアカウントを初期化します。 | d76f016f-52c7-41b5-835b-900361d7040c |
->| Mail.Read | 委任 | システムで作成されたタスクを、元のメッセージへのリンクと一緒に保存します。 | メールをタスクOutlook、共有作業を 1:1 ビューで表示するために、このアドインで使用されます。 | d76f016f-52c7-41b5-835b-900361d7040c |
+>| Mail.Read | 委任 | システムで作成されたタスクを、元のメッセージへのリンクと一緒に保存します。 | メールをタスクOutlook、共有作業を 1:1 ビューに表示するために、このアドインで使用されます。 | d76f016f-52c7-41b5-835b-900361d7040c |
 >| Tasks.Read | 委任 | 一部Outlook/Planner タスクは、新しいユーザーを支援するためにシステムにレプリケートされます。 | 新しいユーザー アカウントは、ユーザーのタスクGraphブートストラップします。 | d76f016f-52c7-41b5-835b-900361d7040c |
 
 
@@ -96,9 +96,9 @@ Appfluence Inc から Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35667' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35667' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35667" target="_blank">新しいタブで表示する</a>
 
@@ -112,7 +112,7 @@ Appfluence Inc から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について Appfluence Inc によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |

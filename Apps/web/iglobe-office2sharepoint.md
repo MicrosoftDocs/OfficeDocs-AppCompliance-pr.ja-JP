@@ -6,14 +6,14 @@ ms.date: 06/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Office2SharePoint で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: Office2SharePoint で利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 16447d18ee971bd9f9fcb46916fa7db5fedf68cd
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 9be661602c6f4d586c615ff06b2642f892e0c085
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288491"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64627059"
 ---
 # <a name="office2sharepoint"></a>Office2SharePoint
 
@@ -29,7 +29,7 @@ ms.locfileid: "59288491"
 
 iGlobe から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Office2SharePoint |
 | ID | 17859280.o2s |
@@ -48,25 +48,25 @@ iGlobe から Microsoft に提供される情報:
 
 この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールに関する iGlobe によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft サービスを使用したデータ アクセスGraph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリが[必要とする microsoft Graphアクセス許可](/graph/permissions-reference)を一覧表示します。
 
->| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure AD アプリ ID** |
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?収集の正当性** | **データは保存されますか?それを格納するための正当性?** | **Azure ADアプリ ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Directory.AccessAsUser.All | 委任 | アプリケーション データベースにデータは格納されません。 | サインインしているユーザーと同じように、アプリでディレクトリ内の情報にアクセスできるようにします。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
 >| Directory.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | アクセス許可を確認し、サイトとリストを取得します。 フォルダーを作成し、ファイルを取得し、ファイルを保存します。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
 >| Directory.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | アクセス許可を確認し、サイトとリストを取得します。 フォルダーを作成し、ファイルを取得し、ファイルを保存します。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
 >| Group.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーを取得するには、サイトをグループ化します。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Group.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 選択したメール/s にアクセスし、添付ファイルを取得します。 [メール] または [グループ] サイトSharePointからメールに追加します。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
+>| Group.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | 選択したメール/s にアクセスし、添付ファイルを取得します。 メールから、またはグループ サイトSharePointメールに追加します。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
 >| Sites.Manage.All | 委任 | アプリケーション データベースにデータは格納されません。 | アプリケーションは、すべてのサイト コレクションにあるドキュメント ライブラリおよびリストを、サインインしたユーザーのために作成または削除することを許可されます。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
 >| Sites.Read.All | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーをサイトにSharePointします。 選択したメールからファイルを取得し、添付ファイルを保存します。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
 >| Sites.ReadWrite.All | 委任 | アプリケーション データベースにデータは格納されません。 | リスト、SharePointファイルを取得します。 ファイルをリストに保存SharePointします。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーをサイト、SharePoint、グループ OneDrive取得します。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
+>| User.Read | 委任 | アプリケーション データベースにデータは格納されません。 | ユーザーをサイト、SharePoint、グループ OneDrive取得する。 | 5971c986-9d39-409c-a6f8-1385b1f690ef |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
-アプリとアドインは、組織Microsoft 365情報 (OII) を収集または処理するために、Microsoft Graph 以外の追加の Microsoft API を使用する場合があります。 このアプリで使用する Microsoft 以外の Microsoft API Graph一覧表示します。
+Microsoft 365 で構築されたアプリとアドインは、Microsoft Graph 以外の追加の Microsoft API を使用して、組織の識別可能な情報 (OII) を収集または処理する場合があります。 このアプリで使用する Microsoft API 以外Graph一覧表示します。
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集する理由** | **OII は格納されていますか?** | **OII を格納する理由** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
@@ -96,7 +96,7 @@ iGlobe から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
 
->すべてのアプリケーション データは、お客様自身のテナント上に含まれており、テナント管理者が管理するサービスは、その他のすべてのサービスOffice 365。 アプリケーション データはアドインに格納されません。 最新のアドインはサンドボックス ブラウザーで実行され、&#8220;プロセスが&#8221;。 アドインは、ユーザーが作業しているデータにのみアクセスできます。 ユーザー データと対話するには、ユーザー データを使用Microsoft サービス。
+>すべてのアプリケーション データは、お客様自身のテナント上に含まれており、テナント管理者が管理するサービスは、その他のすべてのサービスOffice 365。 アプリケーション データはアドインに格納されません。 モダン アドインは、サンドボックス ブラウザーで実行され、&#8220;プロセスが&#8221;。 アドインは、ユーザーが作業しているデータにのみアクセスできます。 ユーザー データと対話するには、ユーザー データを使用Microsoft サービス。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -110,9 +110,9 @@ iGlobe から Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-以下[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報が表示されます。
+次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35747' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35747' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35747" target="_blank">新しいタブで表示する</a>
 
@@ -126,7 +126,7 @@ iGlobe から Microsoft に提供される情報:
 
 この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 基準を処理する方法について iGlobe によって提供されています。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
