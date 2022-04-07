@@ -176,7 +176,7 @@
           href: sharepoint/iglobe-crm-office-365-for-microsoft.md
         - name: Konnect eMail Parser
           href: sharepoint/konnect-email-parser.md
-        - name: LifeWorks Viva Connections
+        - name: LifeWorks Viva コネクション
           href: sharepoint/lifeworks-inc-viva-connections.md
         - name: Lightning Tools Lightning の指揮者
           href: sharepoint/lightning-tools-conductor.md
@@ -355,6 +355,8 @@
           href: teams/churnzero.md
         - name: CI-Out-of-Office Lite
           href: teams/ci-solution-gmbh-out-of-office-lite.md
+        - name: 書記 SMS
+          href: teams/unnamed-ventures-llc-clerk-sms.md
         - name: ClipTraining
           href: teams/cliptraining.md
         - name: Clixie
@@ -409,6 +411,8 @@
           href: teams/cuckoo-networks-oy-workout.md
         - name: Cultr Connect
           href: teams/cultr-connect.md
+        - name: Culture Amp
+          href: teams/culture-amp.md
         - name: Cyberday
           href: teams/digiturvamalli-cyberday.md
         - name: DataMiner
@@ -645,7 +649,7 @@
           href: teams/semos-cloud-soultions-jobpts.md
         - name: Joye
           href: teams/joye-pte-ltd.md
-        - name: 卯合
+        - name: Kakeai
           href: teams/kakeai.md
         - name: Kanban Tool
           href: teams/shore-labs-kanban-tool.md
@@ -675,6 +679,8 @@
           href: teams/lawtoolboxcominc-lawtoolbox.md
         - name: LawVu APAC
           href: teams/lawvu-apac.md
+        - name: LawVu USA
+          href: teams/lawvu-usa.md
         - name: Learnbee
           href: teams/bsharp-sales-enablers-learnbee.md
         - name: Lexion
