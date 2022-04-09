@@ -355,7 +355,7 @@
           href: teams/churnzero.md
         - name: CI-Out-of-Office Lite
           href: teams/ci-solution-gmbh-out-of-office-lite.md
-        - name: 書記 SMS
+        - name: 事務員 SMS
           href: teams/unnamed-ventures-llc-clerk-sms.md
         - name: ClipTraining
           href: teams/cliptraining.md
@@ -1161,6 +1161,8 @@
           href: teams/workjam-tasks.md
         - name: WorkJam タイム クロック
           href: teams/workjam-time-clock.md
+        - name: Workpath
+          href: teams/workpath-gmbh.md
         - name: WorkplaceBuddy
           href: teams/workplacebuddy.md
         - name: Wrike
