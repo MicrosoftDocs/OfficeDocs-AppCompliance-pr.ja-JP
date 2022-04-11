@@ -7,12 +7,12 @@ description: Microsoft 365認定申請ガイドの詳細
 keywords: アプリ認定チームMicrosoft 365セキュリティ コンプライアンス m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 753b40f63b293fea83705ae8124f5f22cbebe394
-ms.sourcegitcommit: 9cc3fe8502a6f21f3f6abb4dd23b99b116c51b8e
+ms.openlocfilehash: 5081e187615400b038795215ad0d5dcc934e1a87
+ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64720981"
+ms.lasthandoff: 04/10/2022
+ms.locfileid: "64751826"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365認定申請ガイド
 
@@ -90,6 +90,7 @@ Microsoft 365認定評価を既に開始している ISV は、評価の開始�
 
 ### <a name="infrastructure-as-a-service-iaas-platform-as-a-service-paas-and-software-as-a-service-saas"></a>サービスとしてのインフラストラクチャ (IaaS)、サービスとしてのプラットフォーム (PaaS)、サービスとしてのソフトウェア (SaaS) 
 IaaS や PaaS を使用して、レビュー中のアプリケーションまたはアドインコード配信のインフラストラクチャをサポートする場合、クラウド プラットフォーム プロバイダーは、認定プロセス全体で評価されるセキュリティ 制御の一部を担当します。 そのため、認定アナリストは、PCI DSS コンプライアンス構成証明 (AOC)、ISO27001、SOC 2 Type II レポートなどの外部コンプライアンス レポートを通じて、クラウド プラットフォーム プロバイダーによるセキュリティのベスト プラクティスの独立した外部検証を提供する必要があります。 
+
 
 付録 F では、アプリ/アドインが M365 データを流出させるかどうかに基づいて、次の展開の種類に基づいて適用される可能性が高いセキュリティ制御の詳細を示します。 
 * ホストされる ISV 
@@ -249,6 +250,7 @@ GraphAPI アクセス許可の検証は、アプリ/アドインが過度に許�
 侵入テスト レポートは、以下のコントロールで説明されている次の **自動障害条件** を満たす脆弱性がないことを確認するために確認されます。
  
 **侵入テストの要件**
+
 
 |**条件の種類**|**侵入テスト コントロール**|
 | -------------------------|-----------------------------|
