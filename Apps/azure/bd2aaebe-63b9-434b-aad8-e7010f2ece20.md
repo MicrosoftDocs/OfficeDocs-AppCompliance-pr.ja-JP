@@ -3,17 +3,17 @@ title: bd2aaebe-63b9-434b-aad8-e7010f2ece20 の ID 情報のAzure アプリ
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/08/2022
+ms.date: 04/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: bd2aaebe-63b9-434b-aad8-e7010f2ece20 で利用可能なすべてのセキュリティとコンプライアンス情報。
-ms.openlocfilehash: 03f53524b888ea94514de6db40fe7c09d376916d
-ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
+ms.openlocfilehash: f4204c8b0d2c762248f5aa76209a6112df01ad2d
+ms.sourcegitcommit: fb02bf852b775f9114966cfbf158197149ec95a2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2022
-ms.locfileid: "64751146"
+ms.lasthandoff: 04/11/2022
+ms.locfileid: "64773235"
 ---
 # <a name="azure-app-id-bd2aaebe-63b9-434b-aad8-e7010f2ece20"></a>Azure アプリ ID: bd2aaebe-63b9-434b-aad8-e7010f2ece20
 

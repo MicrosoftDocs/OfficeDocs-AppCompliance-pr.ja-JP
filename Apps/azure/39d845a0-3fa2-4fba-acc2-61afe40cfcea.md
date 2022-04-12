@@ -3,17 +3,17 @@ title: Azure アプリ ID Information for 39d845a0-3fa2-4fba-acc2-61afe40cfcea
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/09/2022
+ms.date: 04/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 39d845a0-3fa2-4fba-acc2-61afe40cfcea に関するすべての利用可能なセキュリティとコンプライアンス情報。
-ms.openlocfilehash: 0aaf5f225cf38ea6ae574a05674e2656888f6e00
-ms.sourcegitcommit: 60344676a860c837b8a727c43d6cec430044c3f4
+ms.openlocfilehash: e173584f51c16932cdb9b217fa4dd4ed0ada903f
+ms.sourcegitcommit: fb02bf852b775f9114966cfbf158197149ec95a2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/11/2022
-ms.locfileid: "64767246"
+ms.locfileid: "64771715"
 ---
 # <a name="azure-app-id-39d845a0-3fa2-4fba-acc2-61afe40cfcea"></a>Azure アプリ ID: 39d845a0-3fa2-4fba-acc2-61afe40cfcea
 
