@@ -1,48 +1,48 @@
 ---
-title: SharePoint|別従業員トレーニング管理のアプリケーション情報サピエンス
+title: Laduma Ltd による Laduma のアプリケーション情報。
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/23/2022
+ms.date: 04/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: このページの情報は、アプリ開発者がセキュリティ、コンプライアンス、およびデータ処理のプラクティスに関して提供した自己評価レポートに基づいており、その後にこのアプリが続きます。
+description: Laduma で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9df7f3a0757caf2df5309e79e07ff28d1163093f
+ms.openlocfilehash: 3907a9a025a2d11abae4414d7a403fde9e2ccb22
 ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/12/2022
-ms.locfileid: "64784556"
+ms.locfileid: "64784640"
 ---
-# <a name="employee-training-management"></a>従業員トレーニング管理
+# <a name="laduma"></a>Laduma
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2022 年 3 月 22 日</p>
+<p>開発者が最終更新日: 2022 年 2 月 28 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/17b6b751-7463-4afd-a3ae-ad26a20c8904" target="_blank">Teams ストアで表示する</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001512" target="_blank">AppSource で表示する</a>
+* <a href="https://teams.microsoft.com/l/app/3bcb0d8a-5ec8-4637-a946-958e5c0277fd" target="_blank">Teams ストアで表示する</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003907" target="_blank">AppSource で表示する</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-SharePoint|から提供される情報Sapiens から Microsoft へ:
+Laduma Ltd. から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | 従業員トレーニング管理 |
-| ID | WA200001512 |
+| アプリ名 | Laduma |
+| ID | WA200003907 |
 | サポートされているOffice 365 クライアント | Microsoft Teams |
-| パートナー会社名 | \|SharePoint Sapiens |
-| 会社の Web サイト | [https://www.sharepointsapiens.com](https://www.sharepointsapiens.com) |
-| アプリの使用条件 | [https://addins.sharepointsapiens.com/licensing/services-agr...](https://addins.sharepointsapiens.com/licensing/services-agreement.html) |
-| アプリのコア機能 | Employee Training Management アドインを使用すると、従業員の継続的な専門的な開発を誰でも簡単に整理および管理できます。 トレーニング イベントの設定とスケジュール設定、学習者とその割り当てと登録の管理、実績とフィードバックの追跡まで、すべてが網羅されています。 このアドインは、コンプライアンス規制と安全ポリシーを満たすのに役立ちます。 これにより、必要なトレーニングの割り当て、実績の追跡、有効期限の管理などを行えます。 |
-| 会社の本社の場所 | オーストリア |
-| アプリ情報ページ | [https://www.sharepointsapiens.com/employee-training-managem...](https://www.sharepointsapiens.com/employee-training-management-office365/documentation/teams/) |
-| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
+| パートナー会社名 | Laduma Ltd. |
+| 会社の Web サイト | [https://laduma.com](https://laduma.com) |
+| アプリの使用条件 | [https://laduma.com/terms-of-service/](https://laduma.com/terms-of-service/) |
+| アプリのコア機能 | Microsoft Teams用の無制限のホワイトボード、ドキュメント、アプリケーション共有 |
+| 会社の本社の場所 | 英国の英国と北アイルランド (the) |
+| アプリ情報ページ | |
+| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | ハイブリッド |
 | アプリで使用するホスティング クラウド プロバイダーはどれですか? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -53,14 +53,20 @@ SharePoint|から提供される情報Sapiens から Microsoft へ:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、SharePoint|によって提供されています。このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて Sapiens。
+この情報は Laduma Ltd から提供されています。このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて説明します。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
-| アプリによって処理されるデータは何ですか? | Microsoft.インジェスト.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| アプリによって処理されるデータは何ですか? | ユーザー プロファイル データ、ユーザー イベント データ、GraphAPI アクセス トークン、Microsoft Teams チャネル、予定表、会議室のリソース |
 | アプリは TLS 1.1 以降をサポートしていますか? | はい |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データは格納されますか? | 不要 |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データは格納されますか? | はい |
+| データベースに格納されているデータは何ですか? | ユーザー プロファイル データ、ユーザー イベント データ、GraphAPI アクセス トークン、Microsoft Teams チャネル、予定表、会議室のリソース |
+| 基になるインファ構造が Microsoft 顧客データを処理または格納する場合、このデータは地理的にどこに保存されますか? | 英国の英国と北アイルランド (the) |
+| データの借用と廃棄プロセスが確立されていますか? | はい |
+| アカウントの終了後、データはどのくらいの期間保持されますか? | 90 日未満 |
+| データ アクセス管理プロセスが確立されていますか? | はい |
+| 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -75,24 +81,23 @@ SharePoint|から提供される情報Sapiens から Microsoft へ:
 | アプリで年間侵入テストを実行していますか? | 不要 |
 | バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | 不要 |
 | お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | ApplicationControls |
-| セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? | 不要 |
-| パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? | 不要 |
-| パッチ ポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | 不要 |
+| セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? | はい |
+| パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? | はい |
+| パッチ ポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
 | お使いの環境にサポートされていないオペレーティング システムまたはソフトウェアはありますか? | 不要 |
-| アプリと、それをサポートするインファ構造に対して四半期ごとの脆弱性スキャンを行いますか? | 不要 |
-| 外部ネットワーク境界にファイアウォールがインストールされていますか? | 不要 |
-| 変更要求を運用環境にデプロイする前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスはありますか? | 不要 |
-| 追加のユーザーは、元の開発者によって運用環境に送信されたすべてのコード変更要求を確認して承認していますか? | 不要 |
+| アプリと、それをサポートするインファ構造に対して四半期ごとの脆弱性スキャンを行いますか? | はい |
+| 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
+| 変更要求を運用環境にデプロイする前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスはありますか? | はい |
+| 追加のユーザーは、元の開発者によって運用環境に送信されたすべてのコード変更要求を確認して承認していますか? | はい |
 | セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | はい |
-| 多要素認証 (MFA) が有効になっているのは次のとおりです。 | CodeRepositories、資格情報 |
+| 多要素認証 (MFA) が有効になっているのは次のとおりです。 | DNSManagement、Credential |
 | 従業員アカウントのプロビジョニング、変更、削除のための確立されたプロセスはありますか? | はい |
 | アプリをサポートするネットワーク境界の境界に侵入検出と防止 (IDPS) ソフトウェアがデプロイされていますか? | N/A |
 | アプリをサポートするすべてのシステム コンポーネントにイベント ログ記録を設定していますか? | はい |
-| すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動化されたツールによって定期的に確認されますか? | はい|
-| セキュリティ イベントが検出されると、トリアージのために従業員にアラートが自動的に送信されますか? | はい |
+| すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動化されたツールによって定期的に確認されますか? | はい |
+| セキュリティ イベントが検出されると、トリアージのために従業員にアラートが自動的に送信されますか? | 不要 |
 | 正式な情報セキュリティ リスク管理プロセスが確立されていますか? | 不要 |
-| 正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? |  |
-| 検出から 72 時間以内に、アプリまたはサービスのデータ侵害を監督機関や違反の影響を受けた個人に報告しますか?| |
+| 正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -102,18 +107,14 @@ SharePoint|から提供される情報Sapiens から Microsoft へ:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | N/A |
 | アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | N/A |
 | アプリはサービス組織コントロール (SOC 1) に準拠していますか? | N/A |
-| 最新の SOC1 認定日 |   |
 | アプリはサービス組織コントロール (SOC 2) に準拠していますか? | 不要 |
-| どの SOC 2 認定を取得しましたか? | |
-| 最新の SOC2 認定日 | |
 | アプリはサービス組織コントロール (SOC 3) に準拠していますか? | 不要 |
-| 最新の SOC3 認定日 | |
 | アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | N/A |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | N/A |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
@@ -133,15 +134,15 @@ SharePoint|から提供される情報Sapiens から Microsoft へ:
 |:----------------|:-------------|
 | GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および格納方法を説明する外部向けのプライバシーに関する通知がありますか? | はい |
-| プライバシー ポリシーの URL | https://addins.sharepointsapiens.com/licensing/data-processing-agreement.html |
+| プライバシー ポリシーの URL | https://laduma.com/privacy-policy/ |
 | アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | 不要 |
 | アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | 不要 |
 | 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | 不要 |
 | アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | 不要 |
-| アプリには、要求に応じて個人の個人データを削除する機能はありますか? | 該当なし |
-| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | N/A |
-| アプリは個人に個人データを修正または更新する機能を提供しますか? | N/A |
-| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーのレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | N/A |
+| アプリには、要求に応じて個人の個人データを削除する機能はありますか? | 不要 |
+| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | 不要 |
+| アプリは個人に個人データを修正または更新する機能を提供しますか? | 該当なし |
+| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーのレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -153,18 +154,19 @@ SharePoint|から提供される情報Sapiens から Microsoft へ:
 |:----------------|:-------------|
 | アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | はい |
 | Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | はい |
-| アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | はい |
+| アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | N/A |
 | アプリで上記のライブラリのいずれかを使用していない場合、どの認証ライブラリまたはライブラリが使用されますか? |  |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしていますか? | 不要 |
 | アプリは、コードに資格情報を格納していますか? | 不要 |
-| Microsoft 365用のアプリとアドインでは、Microsoft Graphの外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | はい |
+| Microsoft 365用のアプリとアドインでは、Microsoft Graphの外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | 不要 |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graphを使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure AD アプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.ReadBasic.All | 委任 | 基本的なユーザー情報を読んで、Exchangeルームの予約を有効にする | [9e8e113c-8a08-4606-b08a-de4decc7252f](../azure/9e8e113c-8a08-4606-b08a-de4decc7252f.md) |
+>| Application.Read.All | アプリケーション | 予定表に会議を追加しようとしたときにアプリケーションがインストールされていることを確認する | [21759f96-a64d-450b-bf2a-b5e932d6ea01](../azure/21759f96-a64d-450b-bf2a-b5e932d6ea01.md) |
+>| Calendars.Read | 両方とも | ユーザーの予定表に会議を追加する必要がある | [21759f96-a64d-450b-bf2a-b5e932d6ea01](../azure/21759f96-a64d-450b-bf2a-b5e932d6ea01.md) |
 
 >このアプリケーションには、追加の API はありません。
 

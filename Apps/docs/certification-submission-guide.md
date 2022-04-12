@@ -3,16 +3,16 @@ ms.author: oromalle
 title: Microsoft 365認定申請ガイド
 author: orionomalley
 manager: tonybal
-description: Microsoft 365認定申請ガイドの詳細
+description: Microsoft 365認定資格は、データとプライバシーが適切にセキュリティで保護されていることを企業組織に保証し、信頼を提供します。
 keywords: アプリ認定チームMicrosoft 365セキュリティ コンプライアンス m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 5081e187615400b038795215ad0d5dcc934e1a87
-ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
+ms.openlocfilehash: fd6082a482cdf5e4dc268f140b7f2a8de4d8880f
+ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2022
-ms.locfileid: "64751826"
+ms.lasthandoff: 04/12/2022
+ms.locfileid: "64784526"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365認定申請ガイド
 
@@ -89,8 +89,7 @@ Microsoft 365認定評価を既に開始している ISV は、評価の開始�
 > スコープ内環境には DMZ が必要であり、アプリ/アドインのサポート環境は内部ビジネス システムと企業環境からセグメント化する必要があるため、評価アクティビティの範囲はスコープ内システムのみに制限されます。 認定アナリストは、評価中にセグメント化手法を検証し、使用しているセグメント化手法の有効性を検証するためのテストを含める必要がある侵入テスト レポートを確認します。
 
 ### <a name="infrastructure-as-a-service-iaas-platform-as-a-service-paas-and-software-as-a-service-saas"></a>サービスとしてのインフラストラクチャ (IaaS)、サービスとしてのプラットフォーム (PaaS)、サービスとしてのソフトウェア (SaaS) 
-IaaS や PaaS を使用して、レビュー中のアプリケーションまたはアドインコード配信のインフラストラクチャをサポートする場合、クラウド プラットフォーム プロバイダーは、認定プロセス全体で評価されるセキュリティ 制御の一部を担当します。 そのため、認定アナリストは、PCI DSS コンプライアンス構成証明 (AOC)、ISO27001、SOC 2 Type II レポートなどの外部コンプライアンス レポートを通じて、クラウド プラットフォーム プロバイダーによるセキュリティのベスト プラクティスの独立した外部検証を提供する必要があります。 
-
+IaaS や PaaS を使用して、レビュー中のアプリケーションまたはアドインコード配信のインフラストラクチャをサポートする場合、クラウド プラットフォーム プロバイダーは、認定プロセス全体で評価されるセキュリティ 制御の一部を担当します。 そのため、認定アナリストは、[PCI DSS] コンプライアンス構成証明 (AOC)、ISO27001、[SOC 2] Type II レポートなどの外部コンプライアンス レポートを通じて、クラウド プラットフォーム プロバイダーによるセキュリティのベスト プラクティスの独立した外部検証を提供する必要があります。 
 
 付録 F では、アプリ/アドインが M365 データを流出させるかどうかに基づいて、次の展開の種類に基づいて適用される可能性が高いセキュリティ制御の詳細を示します。 
 * ホストされる ISV 

@@ -2,17 +2,18 @@
 title: Microsoft 365 アプリ コンプライアンス プログラム
 author: LGerrard
 ms.author: Legerrar
+manager: tonybal
 description: プログラムの紹介と概要
 keywords: microsoft 365 m365 アプリ Publisher の構成証明書
 ms.topic: overview
 ms.service: attestation
 localization_priority: Priority
-ms.openlocfilehash: 17aab158f4fc7803966afed9df88adf9688fcc63
-ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
+ms.openlocfilehash: fec13172c98d6ec63b3ba4160eb04c9b345acb8d
+ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2022
-ms.locfileid: "63697069"
+ms.lasthandoff: 04/12/2022
+ms.locfileid: "64784356"
 ---
 # <a name="microsoft-365-app-compliance-program"></a>Microsoft 365 アプリ コンプライアンス プログラム
 
@@ -24,7 +25,7 @@ Microsoft 365 アプリ コンプライアンス プログラムは、アプリ�
 
 ## <a name="publisher-verification"></a>Publisher の検証
 
-[Publisher の検証](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview)は、管理者とユーザーが、Microsoft ID プラットフォームと統合するアプリ開発者の信頼性について理解する上で役立ちます。 アプリが Publisher の検証済みとしてマークされる場合、それは Publisher が、検証プロセスを完了して、この MPN アカウントをアプリケーション登録に関連付けた Microsoft Partner Network アカウントを使用し ID を検証したことを意味します。
+[Publisher の検証](/azure/active-directory/develop/publisher-verification-overview)は、管理者とユーザーが、Microsoft ID プラットフォームと統合するアプリ開発者の信頼性について理解する上で役立ちます。 アプリが Publisher の検証済みとしてマークされる場合、それは Publisher が、検証プロセスを完了して、この MPN アカウントをアプリケーション登録に関連付けた Microsoft Partner Network アカウントを使用し ID を検証したことを意味します。
 Publisher の検証は、次の条件を満たすアプリに適用されます。  
 - OAuth 2.0 と OpenID Connect を使用してユーザーにサインインし、Microsoft Graph などのサービス側の API を使用して、データへのアクセスを要求します。 
 - Azure AD にマルチ テナントとして登録されます。  
@@ -50,6 +51,6 @@ Microsoft 365 認定は、次の Microsoft 製品と統合されるすべての�
 - **Webapps** (パートナー センターの商用マーケットプレースを通じて公開されている SaaS アプリは、現在プライベート プレビュー中です。参加に興味がある場合は、[このフォーム](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3Om82jEdWlAkFiVJRhmM_xUQkY0SjVVOVVLR0RUN0RYNlRWMDRTSjVQRy4u)に記入してください。
 
 ### <a name="get-started"></a>はじめに
-- [Publisher の検証を完了する方法](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)
-- [Microsoft 365 認定を完了する方法](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification)
+- [Publisher の検証を完了する方法](/azure/active-directory/develop/mark-app-as-publisher-verified)
+- [Microsoft 365 認定を完了する方法](/microsoft-365-app-certification/docs/certification)
 
