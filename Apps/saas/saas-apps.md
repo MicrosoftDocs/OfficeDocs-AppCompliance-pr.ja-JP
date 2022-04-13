@@ -3,17 +3,17 @@ title: SaaS Apps のセキュリティとコンプライアンス - すべての
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/11/2022
+ms.date: 04/13/2022
 ms.topic: article
 ms.service: attestation
 description: すべての SaaS アプリで使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 3a14975786f30d0ffe5f408eae83142be03f8a72
-ms.sourcegitcommit: fb02bf852b775f9114966cfbf158197149ec95a2
+ms.openlocfilehash: 7e80b2da13df6bc6b97b0022bf47795cb4f28392
+ms.sourcegitcommit: 8272a4eaea1bbd9196b998f1cb9b87c6cbb7d5d0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/11/2022
-ms.locfileid: "64775525"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64830784"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS Apps のセキュリティとコンプライアンス
 
@@ -47,6 +47,7 @@ Microsoft は、Microsoft 365開発者パートナーと協力して、組織が
 | [Microsoft Teams用 Luware Nimbus](./luware-ag-nimbus-for-microsoft-teams.md) | Luware AG | **✓** |  |
 | [メール署名](./officeatwork-mail-signature.md) | officeatwork | **✓** |  |
 | [MIPA - インテリジェント パーソナル アシスタント](./iglobe-mipa-my-intelligent-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [MURAL](./mural.md) | MURAL | **✓** |  |
 | [MyHub for Teams](./avepoint-inc-myhub-for-teams.md) | AvePoint Inc. | **✓** |  |
 | [Microsoft Teams用 Netskope](./netskope-for-microsoft-teams.md) | Netskope | **✓** |  |
 | [Office2SharePoint](./iglobe-office2sharepoint.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
