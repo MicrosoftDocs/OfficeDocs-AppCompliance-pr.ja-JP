@@ -1,5 +1,5 @@
 ---
-title: Fellow by Fellow インサイト Inc.のアプリケーション情報
+title: ダバー 社によるMicrosoft Teams用のダバー統合通話記録のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,43 +7,40 @@ ms.date: 04/13/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Fellow で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+description: Microsoft Teams用のダバー統合通話記録に使用できるすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fbe620884ef1db92f8f6bbb40732d8ede740dd02
+ms.openlocfilehash: 0ffd0d8bd400cb9f2cf1d53e489b3d3afe2023b7
 ms.sourcegitcommit: 10b79d3f6a6d9d89c3b288789a14eafdfcc42d7a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/13/2022
-ms.locfileid: "64838785"
+ms.locfileid: "64838803"
 ---
-# <a name="fellow"></a>Fellow
+# <a name="dubber-unified-call-recording-for-microsoft-teams"></a>Microsoft Teamsのダバー統合通話録音
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2022 年 4 月 12 日</p>
+<p>開発者が最終更新日: 2022 年 4 月 11 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/f6671df0-1909-428c-91f7-1c42df04d3e4" target="_blank">Teams ストアで表示する</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002576" target="_blank">AppSource で表示する</a>
+* <a href="https://appsource.microsoft.com/product/web-apps/dubbercorp1603082091027.dubber01" target="_blank">AppSource で表示する</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Fellow インサイト Inc から Microsoft に提供される情報:
+ダバー 社から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | Fellow |
-| ID | WA200002576 |
-| サポートされているOffice 365 クライアント | Microsoft Teams |
-| パートナー会社名 | Fellow Insights Inc |
-| 会社の Web サイト | [https://fellow.app](https://fellow.app) |
-| アプリの使用条件 | [https://fellow.app/terms-of-use/](https://fellow.app/terms-of-use/) |
-| アプリのコア機能 | 仲間は、チームが集まり、生産性の高いチーム会議と有意義な 1 対 1 を行い、共同会議の議題を作成し、意思決定を記録し、互いに責任を負います。 |
-| 会社の本社の場所 | カナダ |
-| アプリ情報ページ | [https://fellow.app/integrations/microsoft-teams/](https://fellow.app/integrations/microsoft-teams/) |
-| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Iaas |
-| アプリで使用するホスティング クラウド プロバイダーはどれですか? | Aws |
+| アプリ名 | Microsoft Teamsのダバー統合通話録音 |
+| ID | ubbercorp1603082091027.dubber01 |
+| パートナー会社名 | ダバー 社 |
+| 会社の Web サイト | [https://www.dubber.net](https://www.dubber.net) |
+| アプリの使用条件 | [https://www.dubber.net/terms](https://www.dubber.net/terms) |
+| アプリのコア機能 | 世界&#8217;のコンプライアンス、販売&amp;サービスのパフォーマンスのための#1統合クラウド通話録音&amp;音声 AI |
+| 会社の本社の場所 | オーストラリア |
+| アプリ情報ページ | |
+| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | IsvHosted |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,16 +50,16 @@ Fellow インサイト Inc から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織のデータを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて、Fellow インサイト Inc から提供されています。
+この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて、ダバー社から提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
-| アプリによって処理されるデータは何ですか? | ユーザー プロファイル データ (名前、メール、アバターなど)、予定表データ (予定表リスト、イベント、出席者など)、Teams データ (チーム名、チーム メンバーシップ)&amp;、@Fellow ボットとの直接通信。 |
+| アプリによって処理されるデータは何ですか? | ユーザー呼び出しデータ |
 | アプリは TLS 1.1 以降をサポートしていますか? | はい |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データは格納されますか? | はい |
-| データベースに格納されているデータは何ですか? | ユーザー プロファイル データ (名前、メール、アバターなど)、予定表データ (予定表リスト、イベント、出席者など)、Teams データ (チーム名、チーム メンバーシップ))。。 |
-| 基になるインファ構造が Microsoft 顧客データを処理または格納する場合、このデータは地理的にどこに保存されますか? | カナダ |
+| データベースに格納されているデータは何ですか? | 顧客名と Microsoft ID、通話記録/会議データ |
+| 基になるインファ構造が Microsoft 顧客データを処理または格納する場合、このデータは地理的にどこに保存されますか? | オーストラリア |
 | データの借用と廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後、データはどのくらいの期間保持されますか? | 30 日間未満 |
 | データ アクセス管理プロセスが確立されていますか? | はい |
@@ -81,7 +78,7 @@ Fellow インサイト Inc から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行していますか? | はい |
 | バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | はい |
-| お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | ApplicationControls、TraditionalAntiMalware |
+| お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | TraditionalAntiMalware、ApplicationControls |
 | セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? | はい |
 | パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? | はい |
 | パッチ ポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
@@ -109,23 +106,21 @@ Fellow インサイト Inc から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | はい |
 | アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 不要 |
-| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 該当なし |
-| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | はい |
-| どの SOC 2 認定を取得しましたか? | type1 |
-| 最新の SOC2 認定日 | 2022-04-08 |
+| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 不要 |
+| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | 不要 |
 | アプリはサービス組織コントロール (SOC 3) に準拠していますか? | 不要 |
-| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | 該当なし |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
+| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | はい |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
-| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 該当なし |
-| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
-| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
-| アプリは NIST 800-171 に準拠していますか? | 該当なし |
+| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 不要 |
+| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 不要 |
+| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | はい |
+| アプリは NIST 800-171 に準拠していますか? | 不要 |
 | アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -138,7 +133,7 @@ Fellow インサイト Inc から Microsoft に提供される情報:
 |:----------------|:-------------|
 | GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および格納方法を説明する外部向けのプライバシーに関する通知がありますか? | はい |
-| プライバシー ポリシーの URL | https://fellow.app/privacy-policy/ |
+| プライバシー ポリシーの URL | https://www.dubber.net/privacy-policy |
 | アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | 不要 |
 | アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | 不要 |
 | 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | 不要 |
@@ -156,29 +151,16 @@ Fellow インサイト Inc から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | はい |
-| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | はい |
-| アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | 不要 |
+| アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | 不要 |
+| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | 不要 |
+| アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? |  |
 | アプリで上記のライブラリのいずれかを使用していない場合、どの認証ライブラリまたはライブラリが使用されますか? |  |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしていますか? | 不要 |
 | アプリは、コードに資格情報を格納していますか? | 不要 |
 | Microsoft 365用のアプリとアドインでは、Microsoft Graphの外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | 不要 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graphを使用したデータ アクセス
-
->|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure AD アプリ ID** |
->|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 両方とも | 仲間は会議管理アプリなので、効果的に機能するには、ユーザーの予定表の読み取りと書き込みにアクセスする必要があります。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| Channel.ReadBasic.All | 委任 | ユーザーが特定のチャネルに会議ノートを投稿できるようにします。これは、Fellow に一覧表示されます。 これは、どのチャネルが存在するかを確認することのみ可能であることに注意してください。 メッセージを読み取る機能は提供されません。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| Directory.Read.All | アプリケーション | (アプリケーションの許可の場合のみ)すべてのユーザーを含め、ユーザー ディレクトリ情報を同期できるようにします。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| Group.Read.All | アプリケーション | (アプリケーションの許可の場合のみ)仲間がユーザーとグループを同期できるようにします。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| People.Read | 委任 | ユーザーがメモを送信するMicrosoft Teamsユーザーを検索できるようにします。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| People.Read.All | アプリケーション | (アプリケーションの許可の場合のみ)すべてのユーザーのプロファイル情報へのアクセスを許可します。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| Team.ReadBasic.All | 委任 | 同僚がチームに関する基本情報を取得できるようにして、メモを送信し、[仲間] タブを追加できるようにします。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| User.Read | 委任 | ユーザーが Fellow にサインインし、基本的なプロファイル情報を取得できるようにします。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| User.Read.All | アプリケーション | (アプリケーションの許可の場合のみ)すべてのユーザーのプロファイル情報へのアクセスを許可します。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
->| offline_access | 委任 | バックグラウンド同期のために、カレンダー データへのオフライン&quot; アクセスが必要&quot;です。 | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>このアプリケーションでは、Microsoft Graphは使用されません。
 
 >このアプリケーションには、追加の API はありません。
 

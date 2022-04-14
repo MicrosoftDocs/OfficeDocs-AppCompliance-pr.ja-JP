@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: すべての SaaS アプリで使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 7e80b2da13df6bc6b97b0022bf47795cb4f28392
-ms.sourcegitcommit: 8272a4eaea1bbd9196b998f1cb9b87c6cbb7d5d0
+ms.openlocfilehash: fe56ddc1a3306d7d4fbaabe0003a811e4b4ac82d
+ms.sourcegitcommit: 10b79d3f6a6d9d89c3b288789a14eafdfcc42d7a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/13/2022
-ms.locfileid: "64830784"
+ms.locfileid: "64838773"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS Apps のセキュリティとコンプライアンス
 
@@ -34,6 +34,7 @@ Microsoft は、Microsoft 365開発者パートナーと協力して、組織が
 | [Content Chooser](./officeatwork-content-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Content Chooser Browser](./officeatwork-content-chooser-browser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [デザイナー](./officeatwork-designer.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Microsoft Teamsのダバー統合通話録音](./dubber-corp-unified-call-recording-for-microsoft-teams.md) | ダバー 社 | **✓** |  |
 | [Emailgistics](./emailgistics-corp.md) | Emailgistics Corp. | **✓** |  |
 | [Outlookの EmailNotes](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | Standss (南太平洋) PTE Limited | **✓** |  |
 | [Genesys Cloud CX Teams Integration](./genesys-cloud-services-inc-cx-teams-integration.md) | Genesys Cloud Services, Inc | **✓** |  |
