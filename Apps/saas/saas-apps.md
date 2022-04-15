@@ -3,17 +3,17 @@ title: SaaS Apps のセキュリティとコンプライアンス - すべての
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/13/2022
+ms.date: 04/14/2022
 ms.topic: article
 ms.service: attestation
 description: すべての SaaS アプリで使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 16c6e754cbf7575de16f7644d9a8ef19f05906ca
-ms.sourcegitcommit: e0ff50c6828c1ea7789f8c507dc62b66d15768d8
+ms.openlocfilehash: 5602abf50fcc801dd4489b30fa1738fa1691b3d7
+ms.sourcegitcommit: aa6c1546afd356990d681ee68ce976cb7faebd02
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/14/2022
-ms.locfileid: "64842096"
+ms.locfileid: "64859053"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS Apps のセキュリティとコンプライアンス
 
@@ -60,6 +60,7 @@ Microsoft は、Microsoft 365開発者パートナーと協力して、組織が
 | [スライド選択子](./officeatwork-slide-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [storm Cloud Contact Center Teams Integration](./content-guru-storm-cloud-contact-center-teams-integration.md) | Content Guru | **✓** |  |
 | [Talkdesk Microsoft Teams コネクタ](./talkdesk-inc-microsoft-teams-connector.md) | Talkdesk, Inc. | **✓** |  |
+| [TeamOrgChart](./teamimprovercom-ltd-teamorgchart.md) | TeamImprover.Com Ltd | **✓** |  |
 | [Template Chooser](./officeatwork-template-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [テンプレート選択ブラウザー](./officeatwork-template-chooser-browser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Teams ビデオの Theta Lake Recording &amp; Compliance](./theta-lake-recordingcompliance-for-teams-video.md) | Theta Lake | **✓** |  |
