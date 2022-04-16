@@ -1,46 +1,47 @@
 ---
-title: ELEARNINGFORCE International Aps による LMS365 のアプリケーション情報
+title: ELEARNINGFORCE International による LMS365 のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/29/2022
+ms.date: 04/05/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: LMS365 で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a90f90521ee769bc32b2d75500a46139b89b3597
-ms.sourcegitcommit: 9f7e69c17034365cafea977da23961d4e934ad9f
+ms.openlocfilehash: ce018a56bf416a6fb8656895d215abb341b281bb
+ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/07/2022
-ms.locfileid: "64698938"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64878270"
 ---
 # <a name="lms365"></a>LMS365
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>開発者が最終更新日: 2022 年 3 月 28 日</p>
+<p>開発者が最終更新日: 2022 年 4 月 5 日</p>
 
-* <a href="https://appsource.microsoft.com/product/web-apps/elearningforce.lms365_spfx" target="_blank">AppSource で表示する</a>
+* <a href="https://teams.microsoft.com/l/app/d136f17e-df84-47f2-97a4-13aa24c0c647" target="_blank">Teams ストアで表示する</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381467" target="_blank">AppSource で表示する</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-ELEARNINGFORCE International Aps から Microsoft に提供される情報:
+ELEARNINGFORCE International から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | LMS365 |
-| ID | elearningforce.lms365_spfx |
-| パートナー会社名 | ELEARNINGFORCE International Aps |
+| ID | WA104381467 |
+| サポートされているOffice 365 クライアント | Microsoft Teams |
+| パートナー会社名 | ELEARNINGFORCE International |
 | 会社の Web サイト | [https://lms365.com](https://lms365.com) |
 | アプリの使用条件 | [https://lms365.com/lms365-saas-terms/](https://lms365.com/lms365-saas-terms/) |
-| アプリのコア機能 | LMS365 を使用すると、組織はSharePoint、Teams、モバイル デバイスを通じてMicrosoft 365 プラットフォームでトレーニングを提供および管理し、従業員、パートナー、顧客に使い慣れた環境を提供できます。 |
+| アプリのコア機能 | チャネルやチャットでトレーニングを簡単に挿入して共有する |
 | 会社の本社の場所 | デンマーク |
 | アプリ情報ページ | [https://www.elearningforce.com/teams](https://www.elearningforce.com/teams) |
-| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
-| アプリで使用するホスティング クラウド プロバイダーはどれですか? | Azure |
+| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,20 +51,12 @@ ELEARNINGFORCE International Aps から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は ELEARNINGFORCE International Aps によって、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて提供されています。
+この情報は、このアプリが組織のデータを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて ELEARNINGFORCE International によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
-| アプリによって処理されるデータは何ですか? | ユーザー プロファイル データ - 参照 https://trustcenter.elearningforce.com/hc/en-us/articles/360017659377 |
-| アプリは TLS 1.1 以降をサポートしていますか? | はい |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データは格納されますか? | はい |
-| データベースに格納されているデータは何ですか? | ユーザー プロファイル データ &amp; トレーニング レコード - 参照 https://trustcenter.elearningforce.com/hc/en-us/articles/360009394437 |
-| 基になるインファ構造が Microsoft 顧客データを処理または格納する場合、このデータは地理的にどこに保存されますか? | オランダ (the)、ドイツ、イギリス (英国)、北アイルランド (the)、日本、オーストラリア、カナダ、アイルランド |
-| データの借用と廃棄プロセスが確立されていますか? | はい |
-| アカウントの終了後、データはどのくらいの期間保持されますか? | 90 日未満 |
-| データ アクセス管理プロセスが確立されていますか? | はい |
-| 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | いいえ |
+| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? |  |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データは格納されますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -77,25 +70,23 @@ ELEARNINGFORCE International Aps から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行していますか? | はい |
 | バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | はい |
-| お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | TraditionalAntiMalware、ApplicationControls |
-| セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? | はい |
-| パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? | はい |
-| パッチ ポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
-| お使いの環境にサポートされていないオペレーティング システムまたはソフトウェアはありますか? | いいえ |
-| アプリと、それをサポートするインファ構造に対して四半期ごとの脆弱性スキャンを行いますか? | はい |
-| 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
-| 変更要求を運用環境にデプロイする前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスはありますか? | はい |
-| 追加のユーザーは、元の開発者によって運用環境に送信されたすべてのコード変更要求を確認して承認していますか? | はい |
-| セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | はい |
-| 多要素認証 (MFA) が有効になっているのは次のとおりです。 | CodeRepositories、DNSManagement、Credential |
-| 従業員アカウントのプロビジョニング、変更、削除のための確立されたプロセスはありますか? | はい |
-| アプリをサポートするネットワーク境界の境界に侵入検出と防止 (IDPS) ソフトウェアがデプロイされていますか? | 該当なし |
-| アプリをサポートするすべてのシステム コンポーネントにイベント ログ記録を設定していますか? | はい |
-| すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動化されたツールによって定期的に確認されますか? | はい |
-| セキュリティ イベントが検出されると、トリアージのために従業員にアラートが自動的に送信されますか? | はい |
-| 正式な情報セキュリティ リスク管理プロセスが確立されていますか? | はい |
-| 正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? | はい |
-| 検出から 72 時間以内に、アプリまたはサービスのデータ侵害を監督機関や違反の影響を受けた個人に報告しますか? | はい |
+| お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? |  |
+| セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? |  |
+| パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? |  |
+| パッチ ポリシー SLA に従ってパッチ管理アクティビティを実行しますか? |  |
+| お使いの環境にサポートされていないオペレーティング システムまたはソフトウェアはありますか? |  |
+| アプリと、それをサポートするインファ構造に対して四半期ごとの脆弱性スキャンを行いますか? |  |
+| 外部ネットワーク境界にファイアウォールがインストールされていますか? |  |
+| 変更要求を運用環境にデプロイする前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスはありますか? |  |
+| 追加のユーザーは、元の開発者によって運用環境に送信されたすべてのコード変更要求を確認して承認していますか? |  |
+| セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? |  |
+| 多要素認証 (MFA) が有効になっているのは次のとおりです。 |  |
+| 従業員アカウントのプロビジョニング、変更、削除のための確立されたプロセスはありますか? |  |
+| アプリをサポートするネットワーク境界の境界に侵入検出と防止 (IDPS) ソフトウェアがデプロイされていますか? |  |
+| アプリをサポートするすべてのシステム コンポーネントにイベント ログ記録を設定していますか? |  |
+| セキュリティ イベントが検出されると、トリアージのために従業員にアラートが自動的に送信されますか? |  |
+| 正式な情報セキュリティ リスク管理プロセスが確立されていますか? |  |
+| 正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -105,21 +96,21 @@ ELEARNINGFORCE International Aps から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 該当なし |
-| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 該当なし |
-| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 該当なし |
+| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | N/A |
+| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | N/A |
+| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | N/A |
 | アプリはサービス組織コントロール (SOC 2) に準拠していますか? | いいえ |
 | アプリはサービス組織コントロール (SOC 3) に準拠していますか? | いいえ |
 | アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | いいえ |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | N/A |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 該当なし |
-| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
-| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
-| アプリは NIST 800-171 に準拠していますか? | 該当なし |
+| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | N/A |
+| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
+| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | N/A |
+| アプリは NIST 800-171 に準拠していますか? |  |
 | アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -130,17 +121,7 @@ ELEARNINGFORCE International Aps から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
-| アプリには、顧客データの収集、使用、共有、および格納方法を説明する外部向けのプライバシーに関する通知がありますか? | はい |
-| プライバシー ポリシーの URL | https://lms365.com/privacy/ |
-| アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | いいえ |
-| アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
-| 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
-| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
-| アプリには、要求に応じて個人の個人データを削除する機能はありますか? | はい |
-| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | 該当なし |
-| アプリは個人に個人データを修正または更新する機能を提供しますか? | 該当なし |
-| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーのレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | はい |
+| GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -156,26 +137,27 @@ ELEARNINGFORCE International Aps から Microsoft に提供される情報:
 | アプリで上記のライブラリのいずれかを使用していない場合、どの認証ライブラリまたはライブラリが使用されますか? |  |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | デバイス プラットフォーム、デバイスの状態、クライアント アプリ |
-| アプリは継続的アクセス評価 (CAE) をサポートしていますか? | はい |
-| アプリは、コードに資格情報を格納していますか? | いいえ |
+| アプリは継続的アクセス評価 (CAE) をサポートしていますか? |  |
+| アプリは、コードに資格情報を格納していますか? |  |
 | Microsoft 365用のアプリとアドインでは、Microsoft Graphの外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | はい |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graphを使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure AD アプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| GroupMember.Read.All | アプリケーション | アプリで AD グループのメンバーを展開して、ユーザーのグループをトレーニングに登録できるようにします | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| Mail.Send | 委任 | アプリが通知メールを送信できるようにします。 通知用の電子メール アカウントの構成中に、アクセス許可が動的に要求されます。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| OnlineMeetings.ReadWrite | 委任 | アプリがオンライン会議イベントを作成、読み取り、更新、削除できるようにします。 通知用の電子メール アカウントの構成中に、アクセス許可が動的に要求されます。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| RoleManagement.Read.Directory | アプリケーション | アプリは、ユーザーが持つロールと、ユーザーがOffice 365グローバル管理者であるかSharePoint管理者であるかを読み取ることができる必要があります。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| User.Invite.All | 委任 | オプション機能: カタログ管理者がゲスト ユーザーをトレーニング カタログに招待できるようにする。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| User.Read | 委任 | ユーザーが顧客&#8217;のAzure ADを使用してアプリにサインインし、サインインしているユーザーのプロファイルと基本的な会社情報をアプリで読み取できるようにします。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| User.Read.All | 委任 | アプリが完全なユーザー プロファイルを読み取できるようにします。 ユーザー&#8217;マネージャーを読み取り、レポート &amp; マネージャー ダッシュボードの階層を構築する必要&#8217; | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| User.Read.All | アプリケーション | アプリが完全なユーザー プロファイルを読み取できるようにします。 ユーザー&#8217;マネージャーを読み取り、レポート &amp; マネージャー ダッシュボードの階層を構築する必要&#8217; | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| profile | 委任 | サインインに使用されたアカウントをユーザーに表示するには、LMS365 で、表示名、名と姓、電子メール アドレス、写真などの基本的なプロファイル情報を表示するには、このアクセス許可が必要です。 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| GroupMember.Read.All | アプリケーション |  | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| Mail.Send | 委任 |  | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| OnlineMeetings.ReadWrite | 委任 |  | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| RoleManagement.Read.Directory | アプリケーション |  | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| User.Invite.All | 委任 |  | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| User.Read | 委任 |  | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| User.Read.All | 委任 |  | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| User.Read.All | アプリケーション |  | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| profile | 委任 |  | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
 
 >このアプリケーションには、追加の API はありません。
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
