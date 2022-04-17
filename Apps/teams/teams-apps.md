@@ -3,17 +3,17 @@ title: Microsoft Teams アプリのセキュリティとコンプライアンス
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/13/2022
+ms.date: 04/15/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: 97893b85233aff20e9293b35af47ee5b0ee643de
-ms.sourcegitcommit: 10b79d3f6a6d9d89c3b288789a14eafdfcc42d7a
+ms.openlocfilehash: 8f9980b2abcf99b1afb1bd73d8f13d42956e8422
+ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64838720"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64879604"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -371,6 +371,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Quitch](./quitch.md) | Quitch | **✓** |  |
 | [Rafiky](./global-congress-srl-rafiky.md) | GLOBAL CONGRESS SRL | **✓** |  |
 | [Reach](./livetiles-reach.md) | LiveTiles | **✓** |  |
+| [Read Dashboard](./read-ai-inc-dashboard.md) | Read AI, Inc. | **✓** |  |
 | [リアルタイム翻訳ツール](./fairuse-real-time-translator.md) | Fairuse | **✓** |  |
 | [RecognitionNow DM](./bi-worldwide-recognitionnow-dm.md) | BI WORLDWIDE | **✓** |  |
 | [Remind](./88-ventures-limited-remind.md) | 88 Ventures Limited | **✓** |  |
