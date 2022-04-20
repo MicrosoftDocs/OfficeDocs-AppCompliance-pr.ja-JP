@@ -1,21 +1,21 @@
 ---
-title: Azure アプリ ID Information for a9b0c190-bafb-49ca-a61a-dab99cf2c43b
+title: a9b0c190-bafb-49ca-a61a-dab99cf2c43b の ID 情報のAplicação Azure AD
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/15/2022
+ms.date: 04/18/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: a9b0c190-bafb-49ca-a61a-dab99cf2c43b に関するすべての利用可能なセキュリティとコンプライアンス情報。
-ms.openlocfilehash: ba1c1f27e0a146c981681438449b83d0a9c59401
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 89ce3aacf9a003dc302ab80d869815b9a22c45a2
+ms.sourcegitcommit: 57d7b0335ec02b7f20a47ec888b4ca39d75bab67
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64878914"
+ms.lasthandoff: 04/18/2022
+ms.locfileid: "64906101"
 ---
-# <a name="azure-app-id-a9b0c190-bafb-49ca-a61a-dab99cf2c43b"></a>Azure アプリ ID: a9b0c190-bafb-49ca-a61a-dab99cf2c43b
+# <a name="azure-app-id-a9b0c190-bafb-49ca-a61a-dab99cf2c43b"></a>Aplicação Azure AD ID: a9b0c190-bafb-49ca-a61a-dab99cf2c43b
 
 
 ### <a name="apps-associated-with-this-id"></a>この ID に関連付けられているアプリ:
