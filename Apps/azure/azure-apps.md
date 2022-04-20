@@ -1,25 +1,25 @@
 ---
-title: Aplicação Azure AD ID のセキュリティとコンプライアンス - すべてのアプリ
+title: Azure アプリ ID のセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/18/2022
+ms.date: 04/19/2022
 ms.topic: article
 ms.service: attestation
-description: すべてのAplicação Azure AD ID で使用可能なすべてのセキュリティ情報とコンプライアンス情報。
+description: すべてのAzure アプリ ID で使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 352c9ba470a7523c23c2e87c014fb480807e6dd6
-ms.sourcegitcommit: 57d7b0335ec02b7f20a47ec888b4ca39d75bab67
+ms.openlocfilehash: be6a75a475775dd2e6cc9be9dfa61cedb1e2e051
+ms.sourcegitcommit: b1e50c421eeb1b54e99180634217d3df35a4897f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/18/2022
-ms.locfileid: "64910075"
+ms.lasthandoff: 04/19/2022
+ms.locfileid: "64960563"
 ---
-# <a name="azure-app-ids-security-and-compliance"></a>Aplicação Azure AD ID のセキュリティとコンプライアンス
+# <a name="azure-app-ids-security-and-compliance"></a>Azure アプリ ID のセキュリティとコンプライアンス
 
-Microsoft は、Microsoft 365開発者パートナーと協力して、組織が使用するAplicação Azure AD ID とアドインに関する決定を迅速かつ通知するために必要な情報を提供します。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
+Microsoft は、Microsoft 365開発者パートナーと協力して、組織が使用するAzure アプリ ID とアドインに関する決定を迅速かつ通知するために必要な情報を提供します。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
 
-| **Aplicação Azure AD ID** | **パブリッシャーの証明** | **認定** |
+| **Azure アプリ ID** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:-------------:|
 | [00485db5-81b3-4299-833a-8d6c366d0ac0](./00485db5-81b3-4299-833a-8d6c366d0ac0.md) | **✓** |  |
 | [00738e07-f9a4-4bf5-b6f9-851ec7ea31d5](./00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md) | **✓** |  |
@@ -251,6 +251,7 @@ Microsoft は、Microsoft 365開発者パートナーと協力して、組織が
 | [b1d1c038-a1f3-4802-be93-0f4a66589e73](./b1d1c038-a1f3-4802-be93-0f4a66589e73.md) | **✓** |  |
 | [b2380441-bb33-439e-bf4a-8cd277dcebc8](./b2380441-bb33-439e-bf4a-8cd277dcebc8.md) | **✓** |  |
 | [b256b34a-b377-4fc2-b25a-a8f5f0594e86](./b256b34a-b377-4fc2-b25a-a8f5f0594e86.md) | **✓** |  |
+| [b3af1387-3ee6-4074-a594-7a768cd00d44](./b3af1387-3ee6-4074-a594-7a768cd00d44.md) | **✓** |  |
 | [b5d4e933-e001-4168-83f8-abdd974877bd](./b5d4e933-e001-4168-83f8-abdd974877bd.md) | **✓** |  |
 | [b6e2ef19-7612-4ab7-a700-9669d49b88b9](./b6e2ef19-7612-4ab7-a700-9669d49b88b9.md) | **✓** |  |
 | [b7e8237f-d86d-4874-8f8b-7faa8f768436](./b7e8237f-d86d-4874-8f8b-7faa8f768436.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
