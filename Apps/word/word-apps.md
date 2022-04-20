@@ -1,51 +1,52 @@
 ---
-title: Microsoft Word アプリのセキュリティとコンプライアンス - すべてのアプリ
+title: Microsoft Word Apps のセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/31/2022
+ms.date: 04/18/2022
 ms.topic: article
 ms.service: attestation
-description: すべてのアプリで使用可能なすべてのセキュリティおよびコンプライアンス情報Microsoft Word。
+description: すべてのMicrosoft Word アプリで使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 8c1d89ebfe48d5a9052d0116bb9a972db0dd38c7
-ms.sourcegitcommit: 021c258a4aad74b2525c08b60926fbbcd421f0c0
+ms.openlocfilehash: cc90ee987ac5f56bca95812b2fb12cb20dd93c0b
+ms.sourcegitcommit: 57d7b0335ec02b7f20a47ec888b4ca39d75bab67
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "64597056"
+ms.lasthandoff: 04/18/2022
+ms.locfileid: "64910225"
 ---
-# <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word アプリのセキュリティとコンプライアンス
+# <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word Apps のセキュリティとコンプライアンス
 
-Microsoft は、開発者パートナー Microsoft 365協力して、組織が使用するアプリやアドインに関する意思決定を迅速に行い、Microsoft Word情報を提供します。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
+Microsoft は、Microsoft 365開発者パートナーと協力して、組織が使用するアプリとアドインに関する決定を迅速かつ通知するために必要な情報を提供Microsoft Word。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
 
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Adobe Acrobat Sign for Microsoft WordとPowerPoint](./adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Microsoft WordとPowerPointの Adobe Acrobat Sign](./adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [AuditBoard アドイン](./auditboard-inc-add-in.md) | Auditboard, Inc. | **✓** |  |
 | [Citasion](./citasion-llc.md) | Citasion LLC | **✓** |  |
-| [CocoFax - 送信 FAX を簡単に安全に送信 &amp; する](./cocofax-sending-fax-made-easysecure.md) | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
+| [CocoFax - Fax の送信が簡単 &amp; にセキュリティで保護されました](./cocofax-sending-fax-made-easysecure.md) | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [CrossCheck](./krevealllc-crosscheck.md) | kRevealLLC | **✓** |  |
-| [Excelから Word へのドキュメントの自動化](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
+| [Excel-to-Word Document Automation](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Fabasoft Cloud Office アドイン](./fabasoft-austria-gmbh-cloud-office-add-in.md) | Fabasoft Austria GmbH | **✓** |  |
-| [Foxit PDF Editor for Microsoft Word、Excel、およびPowerPoint](./foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md) | Foxit Software Inc. | **✓** |  |
-| [インプレッション署名](./impression-signatures.md) | インプレッション署名 | **✓** |  |
+| [Microsoft Word、Excel、PowerPoint用の Foxit PDF エディター](./foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md) | Foxit Software Inc. | **✓** |  |
+| [Impression Signatures](./impression-signatures.md) | Impression Signatures | **✓** |  |
+| [Jus2vec](./n2vec-tecnologia-jus2vec.md) | N2VEC TECNOLOGIA | **✓** |  |
 | [LegalMind Word AddIn](./legalmind-word-addin.md) | LegalMind | **✓** |  |
 | [Loio コントラクト レビュー ソフトウェア](./loio-inc-contract-review-software.md) | Loio Inc. | **✓** |  |
-| [Mendeley Cite](./elsevier-limited-mendeley-cite.md) | エルゼビア株式会社 | **✓** |  |
+| [Mendeley Cite](./elsevier-limited-mendeley-cite.md) | ELSEVIER LIMITED | **✓** |  |
 | [neopolis](./neopolis-gmbh.md) | neopolis GmbH | **✓** |  |
 | [Office2SharePoint for Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork - コンテンツの選択Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork - デザイナー for Office](./officeatwork-officeatworkdesigner-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork - 画像の選択Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork - テンプレートの選択Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork - Office](./officeatwork-officeatworkuploader-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork - 検証ツールのOffice](./officeatwork-officeatworkverifier-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork - ウィザードのOffice](./officeatwork-officeatworkwizard-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork - Officeの Content Chooser](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork - Office用デザイナー](./officeatwork-officeatworkdesigner-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork - Office用の画像選択子](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork - Office用テンプレート選択子](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork - Officeの Uploader](./officeatwork-officeatworkuploader-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork - Officeの検証ツール](./officeatwork-officeatworkverifier-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork - Officeのウィザード](./officeatwork-officeatworkwizard-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [RetMig &amp; Kommaforslag](./grammarsoft-aps-retmigkommaforslag.md) | GrammarSoft ApS | **✓** |  |
 | [RocketDocs LaunchPad](./rocketdocs-launchpad.md) | RocketDocs | **✓** |  |
-| [SmartCite for Papers](./digital-science-smartcite-for-papers.md) | デジタル サイエンス | **✓** |  |
-| [Stilus for Word](./meaningcloud-stilus-for-word.md) | MeaningCloud | **✓** |  |
+| [論文用 SmartCite](./digital-science-smartcite-for-papers.md) | デジタル サイエンス | **✓** |  |
+| [Word 用 Stilus](./meaningcloud-stilus-for-word.md) | MeaningCloud | **✓** |  |
 | [TaxKit Docs](./taxyio-gmbh-taxkit-docs.md) | Taxy.io GmbH | **✓** |  |
 | [TerMef](./mondeca-termef.md) | Mondeca | **✓** |  |
 | [xLaw - ナレッジ管理システム](./evertn-xlaw-knowledge-management-system.md) | evertn | **✓** |  |
