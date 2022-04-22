@@ -3,17 +3,17 @@ title: Microsoft Teams アプリのセキュリティとコンプライアンス
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/20/2022
+ms.date: 04/21/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: f2dc2838fee398ed2185038d8a804dc73a659229
-ms.sourcegitcommit: 3f7acf13ff182026b75f58baa2290a68c8281b46
+ms.openlocfilehash: b5259da912f013d18afb3dc71fa5768d21d1d079
+ms.sourcegitcommit: 6a86cfad0d14b309aa1e990c124ed1c0cc85fbeb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/20/2022
-ms.locfileid: "64969776"
+ms.lasthandoff: 04/21/2022
+ms.locfileid: "65029114"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -150,6 +150,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Docuo](./r2-docuo.md) | R2 Docuo | **✓** |  |
 | [DocuSign eSignature](./docusign-inc-esignature.md) | DocuSign, Inc. | **✓** |  |
 | [Dubber Unified Call Recording](./dubber-unified-call-recording.md) | ダバー | **✓** |  |
+| [DZ 通知ボット](./dz-notification-bot.md) | &#36948;&#26131;&#26234;&#36896;&#32929;&#20221;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Easy Projects](./logic-software-inc-easy-projects.md) | Logic Software Inc. | **✓** |  |
 | [EasyLife 365](./easylife-365-ag.md) | EasyLife 365 AG | **✓** |  |
 | [eCademy Lernplattform](./cornelsen-ecademyinside-gmbh-ecademy-lernplattform.md) | Cornelsen eCademy &amp;inside GmbH | **✓** |  |
