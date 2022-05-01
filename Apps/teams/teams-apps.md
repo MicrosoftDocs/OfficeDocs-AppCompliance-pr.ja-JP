@@ -3,17 +3,17 @@ title: Microsoft Teams アプリのセキュリティとコンプライアンス
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/25/2022
+ms.date: 04/27/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: 7ca8477fe6d1321f4a93579956e6fd5ab782d049
-ms.sourcegitcommit: 7c4eed407267c4c313909d4f27f46bebf443cb23
+ms.openlocfilehash: 3bf07c7fa1b94ccf3a36bb8bd21ddcae95d42ce0
+ms.sourcegitcommit: b0c1d8160b4e9a27f23a9d723f7e76d38ab12d9e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65071089"
+ms.lasthandoff: 04/29/2022
+ms.locfileid: "65124776"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -397,6 +397,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [ServiceDesk Plus Cloud](./zoho-corporation-private-limited-servicedesk-plus-cloud.md) | Zoho Corporation Private Limited | **✓** |  |
 | [WNI による共有スレッド](./wni-shared-thread-by.md) | WNI | **✓** |  |
 | [SHL](./shl.md) | SHL | **✓** |  |
+| [Sift](./sift.md) | Sift | **✓** |  |
 | [SightCall](./sightcall.md) | SightCall | **✓** |  |
 | [SIGNL4](./derdack-signl4.md) | Derdack SIGNL4 | **✓** |  |
 | [Simple In/Out](./simply-made-apps-inc-simple-inout.md) | Simply Made Apps, Inc. | **✓** |  |
@@ -509,6 +510,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Workbench Intelligence](./temporall-workbench-intelligence.md) | Temporall | **✓** |  |
 | [作業ボード](./workboard-inc.md) | Workboard Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [WorkDay](./workday.md) | Workday | **✓** |  |
+| [Workday Peakon Employee Voice](./workday-peakon-employee-voice.md) | Workday | **✓** |  |
 | [WorkInSync](./moveinsync-workinsync.md) | MoveInSync | **✓** |  |
 | [WorkJam Home](./workjam-home.md) | WorkJam | **✓** |  |
 | [WorkJam Schedule](./workjam-schedule.md) | WorkJam | **✓** |  |
