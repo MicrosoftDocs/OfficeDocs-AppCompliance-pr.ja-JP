@@ -1,46 +1,46 @@
 ---
-title: Facilis による Mybys のアプリケーション情報
+title: TINYpulse による TINYpulse のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/19/2021
+ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Mybys で利用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+description: TINYpulse で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a3211798919d7594677d3e0490d3523ff52b7230
+ms.openlocfilehash: cb382f9ca989cd97f57d9ad72b8d60da1d245634
 ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/05/2022
-ms.locfileid: "65221108"
+ms.locfileid: "65222478"
 ---
-# <a name="mybys"></a>Mybys
+# <a name="tinypulse"></a>TINYpulse
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 3 月 18 日</p>
+<p>開発者が最終更新日: 2021 年 3 月 10 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/e6b5cc1f-1bf1-4b32-ad77-fc7e230e2a68" target="_blank">Teams ストアで表示する</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002605" target="_blank">AppSource で表示する</a>
+* <a href="https://teams.microsoft.com/l/app/1950b3dc-66fc-4c5f-bbbe-e411ad91a49f" target="_blank">Teams ストアで表示する</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381729" target="_blank">AppSource で表示する</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Facilis から Microsoft に提供される情報:
+TINYpulse から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | Mybys |
-| ID | WA200002605 |
+| アプリ名 | TINYpulse |
+| ID | WA104381729 |
 | サポートされているOffice 365 クライアント | Microsoft Teams |
-| パートナー会社名 | Facilis |
-| パートナー Web サイトの URL | [https://facilisglobal.com](https://facilisglobal.com) |
-| Teamsアプリケーション情報ページの URL | [https://facilisglobal.com/products/microsoft-teams](https://facilisglobal.com/products/microsoft-teams) |
-| プライバシー ポリシーの URL | [https://facilisglobal.com/privacy-policy](https://facilisglobal.com/privacy-policy) |
-| 使用条件の URL | [https://facilisglobal.com/terms-conditions](https://facilisglobal.com/terms-conditions) |
+| パートナー会社名 | TINYpulse |
+| パートナー Web サイトの URL | [https://www.tinypulse.com](https://www.tinypulse.com) |
+| Teamsアプリケーション情報ページの URL | [https://www.tinypulse.com/engage](https://www.tinypulse.com/engage) |
+| プライバシー ポリシーの URL | [https://www.tinypulse.com/privacy-policy](https://www.tinypulse.com/privacy-policy) |
+| 使用条件の URL | [https://www.tinypulse.com/terms-and-conditions](https://www.tinypulse.com/terms-and-conditions) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,7 +50,7 @@ Facilis から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織のデータを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて、Facilis によって提供されています。
+この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて TINYpulse によって提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graphを使用したデータ アクセス
 
@@ -69,9 +69,7 @@ Facilis から Microsoft に提供される情報:
 
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、チーム内のチーム メンバーの名簿 (名、姓、表示名、電子メール アドレス) または追加されたチャットなど、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
 
->| **EUII にアクセスするための正当な理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための正当な理由** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| ユーザーの名前を取得する必要があります。 | いいえ |  |
+>EUII にアクセスできません。
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -84,7 +82,7 @@ Facilis から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで自分の情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンド ユーザー ポリシーなど。
 
->基本設定情報はローカル ストレージに保存されます。
+>パートナーのシステムにデータを共有しません
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -100,9 +98,9 @@ Facilis から Microsoft に提供される情報:
 
 [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) カタログからの情報が次に表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36915' frameborder='no'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/34569' frameborder='no'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36915" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/34569" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -112,11 +110,23 @@ Facilis から Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、およびその他の ID 条件を処理する方法に関する Facilis によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、およびその他の ID 条件を処理する方法に関する TINYpulse によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
+| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか?  | はい |
+| アプリは認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリでは、シナリオに対して最小限の特権アクセス許可が要求されますか? | はい |
+| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
+| アプリはマルチテナントをサポートしていますか? | はい |
+| アプリに機密クライアントがありますか? | いいえ |
+| アプリに登録されているすべてのリダイレクト統合リソース識別子 (URI) を所有していますか? | はい |
+| アプリでは、何を使用しないでくださいか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的なFlow(SPA に必要な場合を除く)<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
+| アプリで Web API を公開していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

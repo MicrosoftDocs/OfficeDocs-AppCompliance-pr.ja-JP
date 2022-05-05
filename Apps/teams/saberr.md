@@ -1,45 +1,46 @@
 ---
-title: QBURST TECHNOLOGIES PVT LTD によるパッケージ通知ツールのアプリケーション情報
+title: Saberr によるSaerr のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/05/2021
+ms.date: 02/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Package Notifier で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+description: サブサーのセキュリティとコンプライアンスに関するすべての情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d81848f0e3d99a296fb84ed76994fbe0a68410a0
+ms.openlocfilehash: a41fb58d14186cea217bc23e09061233f87c21d8
 ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/05/2022
-ms.locfileid: "65222518"
+ms.locfileid: "65226151"
 ---
-# <a name="package-notifier"></a>Package Notifier
+# <a name="saberr"></a>Saberr
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 3 月 25 日</p>
+<p>開発者が最終更新日: 2021 年 2 月 11 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/74d74206-0183-401d-932e-315f5021fdb1" target="_blank">Teams ストアで表示する</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002737" target="_blank">AppSource で表示する</a>
+* <a href="https://teams.microsoft.com/l/app/d3a07709-eb0e-421c-8609-b61b0600e645" target="_blank">Teams ストアで表示する</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001501" target="_blank">AppSource で表示する</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-QBURST TECHNOLOGIES PVT LTD から Microsoft に提供される情報:
+サブサーから Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | Package Notifier |
-| ID | WA200002737 |
+| アプリ名 | Saberr |
+| ID | WA200001501 |
 | サポートされているOffice 365 クライアント | Microsoft Teams |
-| パートナー会社名 | QBURST TECHNOLOGIES PVT LTD |
-| パートナー Web サイトの URL | [https://www.qburst.in](https://www.qburst.in) |
-| プライバシー ポリシーの URL | [https://package-notifier.qburst.in/privacy-policy.html](https://package-notifier.qburst.in/privacy-policy.html) |
-| 使用条件の URL | [https://package-notifier.qburst.in/terms-and-conditions.html](https://package-notifier.qburst.in/terms-and-conditions.html) |
+| パートナー会社名 | Saberr |
+| パートナー Web サイトの URL | [https://www.saberr.com](https://www.saberr.com) |
+| Teamsアプリケーション情報ページの URL | [https://help.saberr.com/en/articles/3854472-use-coachbot-in...](https://help.saberr.com/en/articles/3854472-use-coachbot-in-microsoft-teams-to-get-notifications-and-quick-actions) |
+| プライバシー ポリシーの URL | [https://help.saberr.com/en/articles/3853094-privacy-for-use...](https://help.saberr.com/en/articles/3853094-privacy-for-users-of-coachbot-s-microsoft-teams-or-slack-integrations) |
+| 使用条件の URL | [https://help.saberr.com/en/articles/3853596-terms-and-condi...](https://help.saberr.com/en/articles/3853596-terms-and-conditions) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,13 +50,15 @@ QBURST TECHNOLOGIES PVT LTD から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つ制御について、QBURST TECHNOLOGIES PVT LTD によって提供されています。
+この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて、サブサーによって提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graphを使用したデータ アクセス
 
 このアプリ[で必要な Microsoft Graphアクセス許可](/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションでは、Microsoft Graphは使用されません。
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?それを収集するための正当な理由は?** | **データは格納されますか?それを格納するための正当な理由は?** | **Azure AD アプリ ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 委任 | 電子メール、名、姓。 API のアカウント作成に使用されます。 | 電子メール、名、姓。 API のアカウント作成に使用されます。 | [9de91aee-708c-4d9f-958b-109fdb79d993](/microsoft-365-app-certification/azure/9de91aee-708c-4d9f-958b-109fdb79d993) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>他の Microsoft API を使用したデータ アクセス
 
@@ -63,19 +66,23 @@ Microsoft 365に基づいて構築されたアプリとアドインでは、Micr
 
 >| **API** |  **OII は収集されますか?** |  **収集される OII は何ですか?** | **OII を収集するための正当な理由** | **OII は格納されますか?** | **OII を格納するための正当な理由** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Azure DevOps Services REST API | いいえ |  |  |  |  |
+>| Microsoft BOT API | いいえ |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>使用されていないMicrosoft サービス
 
 アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由の正当な理由を含めます。
 
->Microsoft サービス以外は使用されません。
+>| **Microsoft サービス以外のすべての OII は、** |  **転送される OII は何ですか?** | **OII を転送するための正当な理由** |
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
+>| AWS、Slack、Pipedrive、Google、Mailchimp、Intercom、Cronofy | 会社名、ユーザー名、ユーザー電子メール アドレス | 会議などの機能を使用するには、ユーザーを組織に関連付ける必要があります。 これらのアプリ内組織を確立し、契約とサポートを行うために必要な EUII/OII のみを譲渡します。 |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
 このアプリにボットまたはメッセージング拡張機能が含まれている場合は、チーム内のチーム メンバーの名簿 (名、姓、表示名、電子メール アドレス) または追加されたチャットなど、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
 
->EUII にアクセスできません。
+>| **EUII にアクセスするための正当な理由**  | **EUII はデータベースに格納されていますか?** | **EUII を格納するための正当な理由** |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| API でアカウントを作成するために、電子メール、名、姓が必要です | 電子メール、名、姓 | API でアカウントを作成するために必要 |
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
@@ -88,13 +95,13 @@ Microsoft 365に基づいて構築されたアプリとアドインでは、Micr
 
 組織の管理者がパートナー システムで自分の情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンド ユーザー ポリシーなど。
 
->該当なし
+>パートナー システムに保持ポリシーを設定し、使用可能な最大セキュリティ設定 (2FA など) を適用します。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->いいえ
+>はい
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -104,9 +111,9 @@ Microsoft 365に基づいて構築されたアプリとアドインでは、Micr
 
 [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) カタログからの情報が次に表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37866' frameborder='no'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36430' frameborder='no'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37866" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36430" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -116,24 +123,11 @@ Microsoft 365に基づいて構築されたアプリとアドインでは、Micr
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、およびその他の ID 条件をどのように処理するかについて、QBURST TECHNOLOGIES PVT LTD によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、およびその他の ID 条件を処理する方法について、サブサーによって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
-| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか?  | はい |
-| アプリは認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
-| サポートされているポリシーの種類を一覧表示する | 499b84ac-1321-427f-aa17-267ca6975798/user_impersonation offline_access |
-| アプリでは、シナリオに対して最小限の特権アクセス許可が要求されますか? | はい |
-| アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
-| アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | はい |
-| アプリに登録されているすべてのリダイレクト統合リソース識別子 (URI) を所有していますか? | はい |
-| アプリでは、何を使用しないでくださいか? | - ワイルドカード リダイレクト URI、<br/><br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
-| アプリで Web API を公開していますか? | いいえ |
-| アプリでプレビュー API を使用していますか? | いいえ |
-| アプリで非推奨の API を使用していますか? | いいえ |
+| Microsoft Identify Platform (Azure AD) と統合しますか?  | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -1,5 +1,5 @@
 ---
-title: 教師の技術による教師のアプリケーション情報
+title: Guru by Guru Technologies のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,23 +7,23 @@ ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: グルの利用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: グルで利用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a0fbc5fb17729e2551e65c170ea2c59c4cf866f3
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: b623d0d92400219e5ad31d58ade4d98409aced98
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/23/2022
-ms.locfileid: "63748272"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65226561"
 ---
 # <a name="guru"></a>Guru
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2021 年 3 月 1 日</p>
+<p>開発者が最終更新日: 2021 年 3 月 1 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/094bf90e-e413-4740-b2dc-68d624d0e40e" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001719" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/094bf90e-e413-4740-b2dc-68d624d0e40e" target="_blank">Teams ストアで表示する</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001719" target="_blank">AppSource で表示する</a>
 
 ::: zone pivot="general"
 
@@ -35,12 +35,12 @@ Guru Technologies から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリ名 | Guru |
 | ID | WA200001719 |
-| Office 365サポートされているクライアント | Microsoft Teams |
+| サポートされているOffice 365 クライアント | Microsoft Teams |
 | パートナー会社名 | Guru Technologies |
 | パートナー Web サイトの URL | [https://www.getguru.com](https://www.getguru.com) |
-| アプリケーション情報Teamsページの URL | [https://www.getguru.com/integrations/microsoft-teams](https://www.getguru.com/integrations/microsoft-teams) |
+| Teamsアプリケーション情報ページの URL | [https://www.getguru.com/integrations/microsoft-teams](https://www.getguru.com/integrations/microsoft-teams) |
 | プライバシー ポリシーの URL | [https://www.getguru.com/privacy/](https://www.getguru.com/privacy/) |
-| 利用規約の URL | [https://www.getguru.com/terms-of-service](https://www.getguru.com/terms-of-service) |
+| 使用条件の URL | [https://www.getguru.com/terms-of-service](https://www.getguru.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,47 +50,47 @@ Guru Technologies から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関して、教師テクノロジによって提供されています。
+この情報は、このアプリが組織のデータを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて、Guru Technologies によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graphを使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリ[で必要な Microsoft Graphアクセス許可](/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションでは、Microsoft のアプリケーションをGraph。
+>このアプリケーションでは、Microsoft Graphは使用されません。
 
 
-#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>使用されていないMicrosoft サービス
 
-アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
+アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由の正当な理由を含めます。
 
->| **すべての非Microsoft サービス OII がに転送されます。** |  **どのような OII が転送されますか?** | **OII を転送する理由** |
+>| **Microsoft サービス以外のすべての OII は、** |  **転送される OII は何ですか?** | **OII を転送するための正当な理由** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Guru のエンド ユーザー アプリケーションと内部データベース | ユーザーまたは会社が Teams の教師アプリをセットアップすると、ユーザー プロファイルに関連付けられているユーザー名、電子メール、会社名などの一般的な情報が記録され、Guru によってアクセス可能です。 | 統合を使用するには、Teams アカウントと教師アカウントの両方が必要な場合、統合を有効にしているユーザーを追跡してフォローし、それらのユーザーにサポートと管理を提供します。 |
+>| グルのエンド ユーザー アプリケーションと内部データベース | ユーザーまたは会社がTeams用にグル アプリを設定すると、ユーザー名、電子メール、ユーザー プロファイルに関連付けられている会社名などの一般的な情報が記録され、達人がアクセスできるようになります。 | 統合を使用するには、ユーザーがTeamsアカウントとグル アカウントの両方を持っている必要がある場合、そのユーザーにサポートと管理を提供するために統合を有効にしているユーザーを追跡し、追跡します。 |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
-このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
+このアプリにボットまたはメッセージング拡張機能が含まれている場合は、チーム内のチーム メンバーの名簿 (名、姓、表示名、電子メール アドレス) または追加されたチャットなど、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
 
->EUII にはアクセスされません。
+>EUII にアクセスできません。
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
+組織の識別可能な情報 (OII) またはエンド ユーザー識別情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はい場合は、保存されるデータと保持ポリシーと削除ポリシーについて説明します。
 
->ユーザーまたは会社が Teams の教師アプリをセットアップすると、ユーザー プロファイルに関連付けられたユーザー名、電子メール、会社名などの一般的な情報が記録され、教師がアクセスできます。 アカウントが終了すると、データは 90 日間保持され、削除されます。 
+>ユーザーまたは会社がTeams用に Guru アプリを設定すると、ユーザー名、電子メール、ユーザー プロファイルに関連付けられている会社名などの一般的な情報が記録され、達人がアクセスできるようになります。 アカウントが終了すると、データは 90 日間保持され、削除されます。 
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって格納されたデータの組織コントロール
 
-組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
+組織の管理者がパートナー システムで自分の情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンド ユーザー ポリシーなど。
 
->教師のチーム 設定 では、チームの管理者が、別の個人にカードを追加、削除、再割り当てする機能を備え、コレクションごとにプロビジョニングするグループとアクセス/役割の制御を決定できます。 Enterprise SSO を展開しているお客様は、SSO プロバイダー コンソールを使用して、SCIM を介してオンボード/オフボードにグループを確立できます。
+>グルのチーム 設定を使用すると、チームの管理者は、カードを追加、削除、および別の個人に再割り当てする機能を使用して、コレクションごとにプロビジョニングするグループとアクセス/ロールの制御を決定できます。 SSO を展開したEnterpriseのお客様は、SSO プロバイダー コンソールをオンボード/オフボードし、SCIM 経由でグループを確立するという利点もあります。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
 人間は、このアプリによって収集または保存される組織識別可能な情報 (OII) データの確認または分析に関与していますか?
 
->不要
+>いいえ
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -98,9 +98,9 @@ Guru Technologies から Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) カタログからの情報が次に表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36912' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36912' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36912" target="_blank">新しいタブで表示する</a>
 
@@ -112,7 +112,7 @@ Guru Technologies から Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の ID 基準を処理する方法について、教師テクノロジによって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、およびその他の ID 条件をどのように処理するかについて、Guru Technologies によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|

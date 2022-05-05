@@ -1,46 +1,46 @@
 ---
-title: My-Serious-Game による EdMill のアプリケーション情報
+title: Prodoscore による ProdBot のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/19/2021
+ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: EdMill で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+description: ProdBot で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b319843ed7e991c67fbe2c425f84eaa05adbde45
+ms.openlocfilehash: 1634f86ba35e82ae4a76992cf9a548e5f33ea21d
 ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/05/2022
-ms.locfileid: "65225581"
+ms.locfileid: "65225111"
 ---
-# <a name="edmill"></a>EdMill
+# <a name="prodbot"></a>ProdBot
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 2 月 24 日</p>
+<p>開発者が最終更新日: 2021 年 2 月 23 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/484aa99e-4b6b-4182-8c89-3ae4f85f0cd6" target="_blank">Teams ストアで表示する</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002622" target="_blank">AppSource で表示する</a>
+* <a href="https://teams.microsoft.com/l/app/6f98aae5-4f72-4c33-80a4-ed2153da796a" target="_blank">Teams ストアで表示する</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002620" target="_blank">AppSource で表示する</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-My-Serious-Game から Microsoft に提供される情報:
+Prodoscore から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | EdMill |
-| ID | WA200002622 |
+| アプリ名 | ProdBot |
+| ID | WA200002620 |
 | サポートされているOffice 365 クライアント | Microsoft Teams |
-| パートナー会社名 | My-Serious-Game |
-| パートナー Web サイトの URL | [https://www.my-serious-game.com](https://www.my-serious-game.com) |
-| Teamsアプリケーション情報ページの URL | [https://www.edmill.com](https://www.edmill.com) |
-| プライバシー ポリシーの URL | [https://app.edmill.com/privacy-policy](https://app.edmill.com/privacy-policy) |
-| 使用条件の URL | [https://app.edmill.com/static/cgv.pdf](https://app.edmill.com/static/cgv.pdf) |
+| パートナー会社名 | Prodoscore |
+| パートナー Web サイトの URL | [https://www.prodoscore.com](https://www.prodoscore.com) |
+| Teamsアプリケーション情報ページの URL | [https://www.prodoscore.com/how-it-works/](https://www.prodoscore.com/how-it-works/) |
+| プライバシー ポリシーの URL | [https://www.prodoscore.com/privacy-policy/](https://www.prodoscore.com/privacy-policy/) |
+| 使用条件の URL | [https://www.prodoscore.com/terms-of-service/](https://www.prodoscore.com/terms-of-service/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,7 +50,7 @@ My-Serious-Game から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織のデータを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する My-Serious-Game によって提供されています。
+この情報は、このアプリが組織のデータを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Prodoscore によって提供されています。
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graphを使用したデータ アクセス
 
@@ -63,7 +63,9 @@ My-Serious-Game から Microsoft に提供される情報:
 
 アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由の正当な理由を含めます。
 
->Microsoft サービス以外は使用されません。
+>| **Microsoft サービス以外のすべての OII は、** |  **転送される OII は何ですか?** | **OII を転送するための正当な理由** |
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
+>| Google Cloud Platform | Domain Name | アプリケーションへの登録では、組織のドメイン名を使用して、組織を一意に識別します。 |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
@@ -82,7 +84,7 @@ My-Serious-Game から Microsoft に提供される情報:
 
 組織の管理者がパートナー システムで自分の情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンド ユーザー ポリシーなど。
 
->パートナー システムはありません。 
+>パートナー システムの API/エンドポイントを公開しました
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -98,9 +100,9 @@ My-Serious-Game から Microsoft に提供される情報:
 
 [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) カタログからの情報が次に表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36913' frameborder='no'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36556' frameborder='no'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36913" target="_blank">新しいタブで表示する</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36556" target="_blank">新しいタブで表示する</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -110,24 +112,22 @@ My-Serious-Game から Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、およびその他の ID 条件を処理する方法に関する My-Serious-Game によって提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、およびその他の ID 条件を処理する方法に関する Prodoscore によって提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
 | Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか?  | はい |
-| アプリは認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
-| サポートされているポリシーの種類を一覧表示する | Oauth2 |
+| アプリは認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリでは、シナリオに対して最小限の特権アクセス許可が要求されますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | はい |
 | アプリはマルチテナントをサポートしていますか? | はい |
-| アプリに機密クライアントがありますか? | いいえ |
+| アプリに機密クライアントがありますか? | はい |
 | アプリに登録されているすべてのリダイレクト統合リソース識別子 (URI) を所有していますか? | はい |
-| アプリでは、何を使用しないでくださいか? | - ワイルドカード リダイレクト URI、<br/>- OAuth2 暗黙的なFlow(SPA に必要な場合を除く)<br/>- リソース所有者パスワード資格情報 (ROPC) フロー |
-| アプリで Web API を公開していますか? | はい |
-| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ、呼び出しを成功させることができますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでは、何を使用しないでくださいか? | - ワイルドカード リダイレクト URI、<br/><br/> |
+| アプリで Web API を公開していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | はい |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

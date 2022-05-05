@@ -3,17 +3,17 @@ title: Microsoft Outlook Apps のセキュリティとコンプライアンス -
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/26/2022
+ms.date: 05/04/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Outlook アプリで利用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 1f6970220f01e78baaa2a9ebfcde3c233c373d2e
-ms.sourcegitcommit: 7c4eed407267c4c313909d4f27f46bebf443cb23
+ms.openlocfilehash: b15ff360a647450e51e701740eef566523442232
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65071579"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65228161"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Apps のセキュリティとコンプライアンス
 
@@ -27,6 +27,7 @@ Microsoft は、Microsoft 365開発者パートナーと協力して、組織が
 | [CI-Signature](./ci-solution-gmbh-signature.md) | ci ソリューション GmbH | **✓** |  |
 | [codeTwo for Outlook](./codetwo-for-outlook.md) | CodeTwo | **✓** |  |
 | [通学](./commuty.md) | 通学 | **✓** |  |
+| [Email Reactor](./flow-simulation-ltd-email-reactor.md) | Flow Simulation Ltd. | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
 | [Outlookのインプレッション シグネチャ](./impression-signatures-for-outlook.md) | Impression Signatures | **✓** |  |
 | [iPlanner Office 365 Planner アドイン (Outlook用)](./iglobe-iplanner-office-365-planner-add-in-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

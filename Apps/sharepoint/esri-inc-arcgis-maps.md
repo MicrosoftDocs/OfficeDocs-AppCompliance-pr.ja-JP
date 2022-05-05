@@ -1,5 +1,5 @@
 ---
-title: Esri, Inc. による ArcGIS マップアプリケーション情報
+title: ArcGIS マップの概要
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,22 +7,22 @@ ms.date: 07/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: ArcGIS マップ で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+description: ArcGIS マップ、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリ内のセキュリティ/コンプライアンス情報に関するすべての利用可能なセキュリティ情報とコンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9696ad3964cc45583a04981bb4580320d5aefa59
-ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
+ms.openlocfilehash: ae6a908d70cb8714676832c6dacee5f189f73998
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2022
-ms.locfileid: "64463610"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65225151"
 ---
-# <a name="arcgis-maps"></a>ArcGIS Maps
+# <a name="arcgis-maps-overview"></a>ArcGIS マップの概要
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>開発者が最終更新日: 2021 年 7 月 21 日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA200003118" target="_blank">AppSource での表示</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003118" target="_blank">AppSource で表示する</a>
 
 ::: zone pivot="general"
 
@@ -34,11 +34,11 @@ Esri, Inc. から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリ名 | ArcGIS Maps |
 | ID | WA200003118 |
-| Office 365サポートされているクライアント | SharePoint 2016 以降 |
+| サポートされているOffice 365 クライアント | SharePoint 2016 以降 |
 | パートナー会社名 | Esri, Inc. |
 | パートナー Web サイトの URL | [https://www.esri.com](https://www.esri.com) |
 | プライバシー ポリシーの URL | [https://www.esri.com/legal/privacy-arcgis](https://www.esri.com/legal/privacy-arcgis) |
-| 利用規約の URL | [https://www.esri.com/en-us/legal/terms/master-agreement-pro...](https://www.esri.com/en-us/legal/terms/master-agreement-product) |
+| 使用条件の URL | [https://www.esri.com/en-us/legal/terms/master-agreement-pro...](https://www.esri.com/en-us/legal/terms/master-agreement-product) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,32 +50,32 @@ Esri, Inc. から Microsoft に提供される情報:
 
 この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて、Esri, Inc. から提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graphを使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](/graph/permissions-reference)を一覧表示します。
+このアプリ[で必要な Microsoft Graphアクセス許可](/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションでは、Microsoft のアプリケーションをGraph。
+>このアプリケーションでは、Microsoft Graphは使用されません。
 
 
-#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>使用されていないMicrosoft サービス
 
-アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
+アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由の正当な理由を含めます。
 
->非Microsoft サービスは使用されません。
+>Microsoft サービス以外は使用されません。
 
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
+組織の識別可能な情報 (OII) またはエンド ユーザー識別情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はい場合は、保存されるデータと保持ポリシーと削除ポリシーについて説明します。
 
 >アプリケーションのテレメトリまたはログに OII または EUII は表示されません。
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって格納されたデータの組織コントロール
 
-組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
+組織の管理者がパートナー システムで自分の情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンド ユーザー ポリシーなど。
 
->顧客管理者は、ユーザーが組織またはプロジェクト レベルでデータへのアクセスを制御できます。 要求は、データの読み取りまたは書き込み前にアクセス制御リストに対してチェックされます。 エンド ユーザーと外部サービスとの間で転送中のデータは HTTPS (TLS 1.2 のみ) で暗号化されます。
+>顧客管理者は、組織またはプロジェクト レベルでデータへのアクセスをユーザーに制御できます。 要求は、データの読み取りまたは書き込みを行う前に、アクセス制御リストに対してチェックされます。 エンド ユーザーと外部サービスとの間で転送中のデータは HTTPS で暗号化されます (TLS 1.2 のみ)。
 
 #### <a name="human-review-of-organizational-information"></a>組織情報の人間によるレビュー
 
@@ -89,9 +89,9 @@ Esri, Inc. から Microsoft に提供される情報:
 
 ::: zone pivot="mcas"
 
-次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) カタログからの情報が次に表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/27233' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/27233' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/27233" target="_blank">新しいタブで表示する</a>
 
@@ -103,22 +103,22 @@ Esri, Inc. から Microsoft に提供される情報:
 
 ### <a name="identity-information"></a>ID 情報
 
-この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、その他の IDENTITY 条件を処理する方法について、Esri, Inc. から提供されています。
+この情報は、このアプリが認証、承認、アプリケーション登録のベスト プラクティス、およびその他の ID 条件をどのように処理するかについて、Esri, Inc. から提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | Microsoft Identify Platform (Azure AD) と統合しますか?  | はい |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか?  | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
+| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか?  | はい |
+| アプリは認証に MSAL (Microsoft 認証ライブラリ) を使用していますか? | いいえ |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
-| サポートされているポリシーの種類を一覧表示する | ArcGIS Online は、役割ベースのアクセス制御 (RBAC) モデルに依存しています。 ソリューション内のすべてのユーザーは、アクセス権を付与される役割を持っている必要があります。 |
-| アプリがシナリオに対して最小特権のアクセス許可を要求していますか? | はい |
+| サポートされているポリシーの種類を一覧表示する | ArcGIS Online は、ロール ベースのAccess Control (RBAC) モデルに依存しています。 ソリューション内のすべてのユーザーには、アクセス権が付与されているロールが必要です。 |
+| アプリでは、シナリオに対して最小限の特権アクセス許可が要求されますか? | はい |
 | アプリの静的に登録されたアクセス許可は、アプリが動的かつ段階的に要求するアクセス許可を正確に反映していますか? | いいえ |
 | アプリはマルチテナントをサポートしていますか? | はい |
 | アプリに機密クライアントがありますか? | はい |
-| アプリに登録されているリダイレクト統合リソース識別子 (URI) はすべて所有していますか? | はい |
-| アプリは Web API を公開していますか? | はい |
-| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ呼び出しが成功しますか? | はい |
+| アプリに登録されているすべてのリダイレクト統合リソース識別子 (URI) を所有していますか? | はい |
+| アプリで Web API を公開していますか? | はい |
+| アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ、呼び出しを成功させることができますか? | はい |
 | アプリでプレビュー API を使用していますか? | いいえ |
 | アプリで非推奨の API を使用していますか? | いいえ |
 

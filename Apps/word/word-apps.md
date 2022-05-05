@@ -3,17 +3,17 @@ title: Microsoft Word Apps のセキュリティとコンプライアンス - �
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/18/2022
+ms.date: 05/04/2022
 ms.topic: article
 ms.service: attestation
 description: すべてのMicrosoft Word アプリで使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: cc90ee987ac5f56bca95812b2fb12cb20dd93c0b
-ms.sourcegitcommit: 57d7b0335ec02b7f20a47ec888b4ca39d75bab67
+ms.openlocfilehash: 1c7906cdcd4b92b9adfda6de01bb04a0d46bed30
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/18/2022
-ms.locfileid: "64910225"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65221098"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word Apps のセキュリティとコンプライアンス
 
@@ -23,6 +23,7 @@ Microsoft は、Microsoft 365開発者パートナーと協力して、組織が
 |:--------|:------------|:----------------------:|:-------------:|
 | [Microsoft WordとPowerPointの Adobe Acrobat Sign](./adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [AuditBoard アドイン](./auditboard-inc-add-in.md) | Auditboard, Inc. | **✓** |  |
+| [BriefCatch](./briefcatch-llc.md) | BriefCatch LLC | **✓** |  |
 | [Citasion](./citasion-llc.md) | Citasion LLC | **✓** |  |
 | [CocoFax - Fax の送信が簡単 &amp; にセキュリティで保護されました](./cocofax-sending-fax-made-easysecure.md) | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [CrossCheck](./krevealllc-crosscheck.md) | kRevealLLC | **✓** |  |

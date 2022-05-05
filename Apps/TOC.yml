@@ -80,6 +80,8 @@ items:
         href: outlook/codetwo-for-outlook.md
       - name: 通学
         href: outlook/commuty.md
+      - name: Email Reactor
+        href: outlook/flow-simulation-ltd-email-reactor.md
       - name: Evernote
         href: outlook/evernote.md
       - name: Outlookのインプレッション シグネチャ
@@ -127,6 +129,8 @@ items:
     items:
       - name: Microsoft WordとPowerPointの Adobe Acrobat Sign
         href: powerpoint/adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md
+      - name: Breaktime
+        href: powerpoint/flow-simulation-ltd-breaktime.md
       - name: Excel-to-Word Document Automation
         href: powerpoint/analysisplace-excel-to-word-document-automation.md
       - name: Microsoft Word、Excel、PowerPoint用の Foxit PDF エディター
@@ -956,7 +960,7 @@ items:
         href: teams/wni-shared-thread-by.md
       - name: SHL
         href: teams/shl.md
-      - name: ふるい
+      - name: Sift
         href: teams/sift.md
       - name: SightCall
         href: teams/sightcall.md
@@ -974,8 +978,6 @@ items:
         href: teams/cultify-lda-skoach.md
       - name: SkyPoint Cloud
         href: teams/skypoint-cloud-inc.md
-      - name: Slido
-        href: teams/slido.md
       - name: Smarp
         href: teams/smarp.md
       - name: Smart Connect for Jira
@@ -1086,7 +1088,7 @@ items:
         href: teams/teamschamp.md
       - name: TeamSticker by Communitio
         href: teams/communitio-corporation-teamsticker-by.md
-      - name: チームワーク
+      - name: Teamwork
         href: teams/teamwork.md
       - name: TELUS Business Connect
         href: teams/ringcentral-inc-telus-business-connect.md
@@ -1223,6 +1225,8 @@ items:
         href: word/adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md
       - name: AuditBoard アドイン
         href: word/auditboard-inc-add-in.md
+      - name: BriefCatch
+        href: word/briefcatch-llc.md
       - name: Citasion
         href: word/citasion-llc.md
       - name: CocoFax - Fax の送信が簡単で安全になりました
