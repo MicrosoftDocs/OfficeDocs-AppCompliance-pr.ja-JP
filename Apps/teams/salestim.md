@@ -1,5 +1,5 @@
 ---
-title: SalesTim による SalesTim のアプリケーション情報
+title: SalesTim による SalesTim のセキュリティとコンプライアンスの情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: SalesTim で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b56a29bf28dd4cb9ce74c11754e5093572185631
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: d4a6367b4d688b1d913fcf9991348b6d4c832317
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64877164"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65226131"
 ---
-# <a name="salestim"></a>SalesTim
+# <a name="salestim-application-information"></a>SalesTim アプリケーション情報
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -60,7 +60,7 @@ SalesTim から Microsoft に提供される情報:
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
 | アプリによって処理されるデータは何ですか? |  |
 | アプリは TLS 1.1 以降をサポートしていますか? |  |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データは格納されますか? | いいえ |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データは格納されますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -100,22 +100,22 @@ SalesTim から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | いいえ |
-| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | いいえ |
-| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | いいえ |
-| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | いいえ |
-| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | いいえ |
-| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | いいえ |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | いいえ |
-| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | いいえ |
-| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | いいえ |
+| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 不要 |
+| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 不要 |
+| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 不要 |
+| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | 不要 |
+| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | 不要 |
+| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | 不要 |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
+| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 不要 |
+| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 不要 |
+| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 不要 |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | いいえ |
+| アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -1,5 +1,5 @@
 ---
-title: Appfluence Inc による優先度マトリックスのアプリケーション情報
+title: 優先度マトリックスの概要
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: certified
 description: Priority Matrix で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 90866f17495f04c8e42229402de2fde4b19f6497
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 370aec841f0965d65b148901b385edd3f52b5a49
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64876594"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65226571"
 ---
-# <a name="priority-matrix"></a>Priority Matrix
+# <a name="priority-matrix-overview"></a>優先度マトリックスの概要
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>開発者が最終更新日: 2021 年 6 月 23 日</p>
@@ -108,7 +108,7 @@ Appfluence Inc から Microsoft に提供される情報:
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
 | アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | いいえ |
 | アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | いいえ |
-| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | N/A |
+| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | はい |
 

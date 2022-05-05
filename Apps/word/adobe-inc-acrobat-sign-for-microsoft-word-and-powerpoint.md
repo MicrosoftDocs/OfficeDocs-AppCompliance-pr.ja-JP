@@ -1,5 +1,5 @@
 ---
-title: Adobe Inc. によるMicrosoft WordとPowerPointの Adobe Acrobat Sign のアプリケーション情報
+title: Microsoft WordとPowerPointの Adobe Acrobat Sign のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,15 +9,14 @@ ms.service: attestation
 certification_type: certified
 description: Adobe Acrobat Sign for Microsoft Word とPowerPoint、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関するすべての利用可能なセキュリティ情報とコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: bcb36c352c4471916541b9316849754b08038108
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 3ff675211ffe7ae2430d1869e7c346c8b3edd3bf
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64879134"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65226101"
 ---
-# <a name="adobe-acrobat-sign-for-microsoft-word-and-powerpoint"></a>Microsoft WordとPowerPointの Adobe Acrobat Sign
-
+# <a name="application-information-for-adobe-acrobat-sign"></a>Adobe Acrobat Sign のアプリケーション情報
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>開発者が最終更新日: 2021 年 10 月 28 日</p>
 
@@ -77,7 +76,7 @@ Adobe Inc. から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行していますか? | はい |
-| バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | いいえ |
+| バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | 不要 |
 | お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | TraditionalAntiMalware |
 | セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? |  |
 | パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? |  |
@@ -105,22 +104,22 @@ Adobe Inc. から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | はい |
-| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | いいえ |
-| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | いいえ |
+| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 不要 |
+| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 不要 |
 | アプリはサービス組織コントロール (SOC 2) に準拠していますか? | はい |
 | 最新の SOC2 認定日 | 2020-11-24 |
-| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | いいえ |
+| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | 不要 |
 | アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | はい |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | はい |
 | アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | はい |
-| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | いいえ |
-| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | N/A |
+| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 不要 |
+| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | いいえ |
+| アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -151,13 +150,13 @@ Adobe Inc. から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | はい |
 | Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | はい |
-| アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | いいえ |
+| アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | 不要 |
 | アプリで上記のライブラリのいずれかを使用していない場合、どの認証ライブラリまたはライブラリが使用されますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリでは、シナリオに対して最小限の特権アクセス許可が要求されますか? | はい |
 | アプリは継続的アクセス評価 (CAE) をサポートしていますか? |  |
 | アプリは、コードに資格情報を格納していますか? |  |
-| Microsoft 365用のアプリとアドインでは、Microsoft Graphの外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | いいえ |
+| Microsoft 365用のアプリとアドインでは、Microsoft Graphの外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | 不要 |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graphを使用したデータ アクセス
 

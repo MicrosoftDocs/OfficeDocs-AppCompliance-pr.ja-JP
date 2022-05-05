@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: ENA SmartUC Connector で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3f2f49283d559d7d1392339969884fb50ba2a777
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 35216e57d20e4893f3d349809568c89df0b60032
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64876404"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65226161"
 ---
 # <a name="ena-smartuc-connector"></a>ENA SmartUC Connector
 
@@ -113,8 +113,8 @@ ENA から Microsoft に提供される情報:
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | N/A |
-| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
+| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 該当なし |
+| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
 | アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | いいえ |
 | アプリは NIST 800-171 に準拠していますか? | いいえ |
 | アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | いいえ |
@@ -150,13 +150,13 @@ ENA から Microsoft に提供される情報:
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure AD アプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMember.Read.All | 委任 | 現在のチャネル/チャットのメンバーのユーザー ID と表示名。 アプリはこれを使用して、ユーザーに通話するチャネル/チャット メンバーの一覧を表示します。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
->| Chat.ReadBasic | 委任 | 現在のチャットのメンバーのユーザー ID と表示名。 アプリはこれを使用して、通話するチャット メンバーの一覧をユーザーに表示します。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
->| People.Read.All | 委任 | 現在のチームのメンバーのユーザー ID と表示名。 アプリはこれを使用して、呼び出すチーム メンバーの一覧をユーザーに提示します。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
->| User.Read.All | 委任 | ユーザーのビジネス番号と携帯電話番号。 これは、これらの番号への電話を開始できるようにするために必要です。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
->| offline_access | 委任 | ユーザーの承認トークン。アプリが自分の代わりに一覧表示されている他のGraph API エンドポイントにアクセスすることを承認します。 これらのアクセス許可は、Microsoft Identity プラットフォーム アプリケーションが機能するために必要です。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
->| openid | 委任 | ユーザーの承認トークン。アプリが自分の代わりに一覧表示されている他のGraph API エンドポイントにアクセスすることを承認します。 これらのアクセス許可は、Microsoft Identity プラットフォーム アプリケーションが機能するために必要です。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
->| profile | 委任 | ユーザーの承認トークン。アプリが自分の代わりに一覧表示されている他のGraph API エンドポイントにアクセスすることを承認します。 これらのアクセス許可は、Microsoft Identity プラットフォーム アプリケーションが機能するために必要です。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| ChannelMember.Read.All | 委任 | 現在のチャネル/チャットのメンバーのユーザー ID と表示名。 アプリはこれを使用して、ユーザーに通話するチャネル/チャット メンバーの一覧を表示します。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](/microsoft-365-app-certification/azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
+>| Chat.ReadBasic | 委任 | 現在のチャットのメンバーのユーザー ID と表示名。 アプリはこれを使用して、通話するチャット メンバーの一覧をユーザーに表示します。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](/microsoft-365-app-certification/azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
+>| People.Read.All | 委任 | 現在のチームのメンバーのユーザー ID と表示名。 アプリはこれを使用して、呼び出すチーム メンバーの一覧をユーザーに提示します。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](/microsoft-365-app-certification/azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
+>| User.Read.All | 委任 | ユーザーのビジネス番号と携帯電話番号。 これは、これらの番号への電話を開始できるようにするために必要です。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](/microsoft-365-app-certification/azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
+>| offline_access | 委任 | ユーザーの承認トークン。アプリが自分の代わりに一覧表示されている他のGraph API エンドポイントにアクセスすることを承認します。 これらのアクセス許可は、Microsoft Identity プラットフォーム アプリケーションが機能するために必要です。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](/microsoft-365-app-certification/azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
+>| openid | 委任 | ユーザーの承認トークン。アプリが自分の代わりに一覧表示されている他のGraph API エンドポイントにアクセスすることを承認します。 これらのアクセス許可は、Microsoft Identity プラットフォーム アプリケーションが機能するために必要です。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](/microsoft-365-app-certification/azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
+>| profile | 委任 | ユーザーの承認トークン。アプリが自分の代わりに一覧表示されている他のGraph API エンドポイントにアクセスすることを承認します。 これらのアクセス許可は、Microsoft Identity プラットフォーム アプリケーションが機能するために必要です。 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](/microsoft-365-app-certification/azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
 
 >このアプリケーションには、追加の API はありません。
 

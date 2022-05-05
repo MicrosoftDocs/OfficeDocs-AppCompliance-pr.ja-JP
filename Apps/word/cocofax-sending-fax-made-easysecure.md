@@ -1,5 +1,5 @@
 ---
-title: CocoFax のアプリケーション情報 - &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496;で簡単 &amp; にセキュリティで保護された FAX の送信
+title: CocoFax のアプリケーション情報 - FAX の送信が簡単 &amp; にセキュリティで保護されました
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: CocoFax で利用可能なすべてのセキュリティ情報とコンプライアンス情報 - FAX Made Easy &amp; Secure の送信、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報を送信します。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 267eff5fbfae3a42f5b214c3cad648d5dc1f947d
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 65403be58e39772911f0bb97dfaa1101d00c0877
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64877594"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65226071"
 ---
-# <a name="cocofax---sending-fax-made-easy-amp-secure"></a>CocoFax - Fax の送信が簡単 &amp; にセキュリティで保護されました
+# <a name="application-information-for-cocofax"></a>CocoFax のアプリケーション情報
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -69,7 +69,7 @@ ms.locfileid: "64877594"
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリで年間侵入テストを実行していますか? | いいえ |
+| アプリで年間侵入テストを実行していますか? | 不要 |
 | バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | はい |
 | お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? |  |
 | セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? |  |
@@ -113,7 +113,7 @@ ms.locfileid: "64877594"
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | はい |
 | アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | はい |
 | アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | はい |
-| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | いいえ |
+| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 不要 |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | はい |
 
@@ -135,14 +135,14 @@ ms.locfileid: "64877594"
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | いいえ |
-| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | いいえ |
+| アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | 不要 |
+| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | 不要 |
 | アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? |  |
 | アプリで上記のライブラリのいずれかを使用していない場合、どの認証ライブラリまたはライブラリが使用されますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしていますか? |  |
 | アプリは、コードに資格情報を格納していますか? |  |
-| Microsoft 365用のアプリとアドインでは、Microsoft Graphの外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | いいえ |
+| Microsoft 365用のアプリとアドインでは、Microsoft Graphの外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | 不要 |
 
 >このアプリケーションでは、Microsoft Graphは使用されません。
 

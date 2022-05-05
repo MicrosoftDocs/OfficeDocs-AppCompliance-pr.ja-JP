@@ -1,5 +1,5 @@
 ---
-title: iGlobe による Office2SharePoint のアプリケーション情報
+title: Office2Sharepoint の概要
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: certified
 description: Office2SharePoint で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 30f643b4886b8db9f899e5c8d081ae7481abcd83
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 075e1403ad778cf337ac8b18cce2ec62d5c0b946
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64880324"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65227311"
 ---
-# <a name="office2sharepoint"></a>Office2SharePoint
+# <a name="office2sharepoint-overview"></a>Office2SharePoint の概要
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>開発者が最終更新日: 2021 年 8 月 16 日</p>
@@ -110,8 +110,8 @@ iGlobe から Microsoft に提供される情報:
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | はい |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | はい |
 | アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | はい |
-| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
-| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | N/A |
+| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | いいえ |
 
