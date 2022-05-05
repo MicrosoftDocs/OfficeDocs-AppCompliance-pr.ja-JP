@@ -1,5 +1,5 @@
 ---
-title: ELEARNINGFORCE International による LMS365 のアプリケーション情報
+title: LMS365 情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: certified
 description: LMS365 で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ce018a56bf416a6fb8656895d215abb341b281bb
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 4af1554cda45b9a87d2e98ba51e96035a7106270
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64878270"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65229121"
 ---
-# <a name="lms365"></a>LMS365
+# <a name="lms365-information"></a>LMS365 情報
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>開発者が最終更新日: 2022 年 4 月 5 日</p>
@@ -96,22 +96,22 @@ ELEARNINGFORCE International から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | N/A |
-| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | N/A |
-| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | N/A |
-| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | いいえ |
-| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | いいえ |
-| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | いいえ |
+| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 該当なし |
+| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 該当なし |
+| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | 不要 |
+| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | 不要 |
+| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | 不要 |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | N/A |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | N/A |
-| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
-| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | N/A |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
+| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 該当なし |
+| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
-| アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | いいえ |
+| アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

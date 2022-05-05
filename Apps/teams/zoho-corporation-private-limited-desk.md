@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Zoho Desk で利用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fccf55f821edb3bfaa6e63b9982da8c67255a305
-ms.sourcegitcommit: b1e50c421eeb1b54e99180634217d3df35a4897f
+ms.openlocfilehash: 6386c25acea352558965af02c99a49cd79baff6b
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/19/2022
-ms.locfileid: "64957683"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65228002"
 ---
 # <a name="zoho-desk"></a>Zoho Desk
 
@@ -22,8 +22,8 @@ ms.locfileid: "64957683"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>開発者が最終更新日: 2021 年 10 月 20 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/091ec948-c0ee-4d56-aa9e-51c3d8316a9c" target="_blank">Teams ストアで表示する</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104382044" target="_blank">AppSource で表示する</a>
+* [Teams ストアで表示する](https://teams.microsoft.com/l/app/091ec948-c0ee-4d56-aa9e-51c3d8316a9c)
+* [AppSource で表示する](https://appsource.microsoft.com/product/office/WA104382044)
 
 ::: zone pivot="general"
 
@@ -54,6 +54,46 @@ Zoho Corporation Private Limited から Microsoft に提供される情報:
 
 この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Zoho Corporation Private Limited によって提供されています。
 
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graphを使用したデータ アクセス
+
+このアプリ[で必要な Microsoft Graphアクセス許可](/graph/permissions-reference)を一覧表示します。
+
+>| **アクセス許可**  | **アクセス許可の種類 (委任/アプリケーション)** | **データは収集されますか?それを収集するための正当な理由は?** | **データは格納されますか?それを格納するための正当な理由は?** | **Azure AD アプリ ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.Read | 委任 |  | ユーザー ファイルを読み取る。 |  |
+>| Files.Read.All | 委任 |  | ユーザーがアクセスできるすべてのファイルを読み取る。 |  |
+>| User.Read | 委任 |  | サインインおよびユーザー プロファイルの読み取り。 |  |
+>| User.ReadBasic.All | 委任 |  | すべてのユーザーの基本プロファイルを読み取ります。 |  |
+>| メール | 委任 |  | ユーザーのメール アドレスを表示します。 |  |
+>| offline_access | 委任 |  | アクセス権を付与したデータへのアクセスを維持します。 |  |
+>| profile | 委任 |  | ユーザーの基本プロファイルを表示します。 |  |
+
+
+#### <a name="non-microsoft-services-used"></a>使用されていないMicrosoft サービス
+
+アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由の正当な理由を含めます。
+
+>Microsoft サービス以外は使用されません。
+
+#### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
+
+このアプリにボットまたはメッセージング拡張機能が含まれている場合は、チーム内のチーム メンバーの名簿 (名、姓、表示名、電子メール アドレス) または追加されたチャットなど、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
+
+>EUII にアクセスできません。
+
+
+#### <a name="telemetry-data"></a>テレメトリ データ
+
+組織の識別可能な情報 (OII) またはエンド ユーザー識別情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はい場合は、保存されるデータと保持ポリシーと削除ポリシーについて説明します。
+
+>いいえ
+
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって格納されたデータの組織コントロール
+
+組織の管理者がパートナー システムで自分の情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンド ユーザー ポリシーなど。
+
+>1)ユーザー インターフェイスには、削除オプションを使用して Zoho デスク内のエンティティ、管理者、エージェントを削除するオプションがあります。2) 管理者が目的のためにエクスポートおよび達成できるエクスポートオプションもあります。  3) お客様からの要求に応じて、バックエンドで監査を維持します。
+
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
@@ -75,29 +115,32 @@ Zoho Corporation Private Limited から Microsoft に提供される情報:
 
 [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) カタログからの情報が次に表示されます。
 
-| **Information** | **応答** |
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/28308' frameborder='no'></iframe>
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/28308" target="_blank">新しい</a> 
+| **tabInformation** | **Response** |
 |:----------------|:-------------|
-| アプリで年間侵入テストを実行していますか? | はい |
-| バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | はい |
-| お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | TraditionalAntiMalware、ApplicationControls |
-| セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? | はい |
-| パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? | はい |
-| パッチ ポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
-| お使いの環境にサポートされていないオペレーティング システムまたはソフトウェアはありますか? | いいえ |
-| アプリと、それをサポートするインファ構造に対して四半期ごとの脆弱性スキャンを行いますか? | はい |
-| 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
-| 変更要求を運用環境にデプロイする前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスはありますか? | はい |
-| 追加のユーザーは、元の開発者によって運用環境に送信されたすべてのコード変更要求を確認して承認していますか? | はい |
+| で表示する アプリで年間侵入テストを実行しますか? | はい |
+| :バックアップと復元の戦略を含む、文書化されたディザスター リカバリー 計画はアプリに含まれていますか? | はい |
+| 。環境では従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | TraditionalAntiMalware、ApplicationControls |
+| セキュリティの脆弱性をインデントし、リスクランク付けするためのプロセスが確立されていますか? | はい |
+| 、パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? | はい |
+| 、パッチ適用ポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
+| 、enviroment にはサポートされていないオペレーティング システムまたはソフトウェアがありますか? | いいえ |
+| 、アプリと、それをサポートするインファ構造に対して四半期ごとの脆弱性スキャンを行いませんか? | はい |
+| 、外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
+| 、変更要求を運用環境にデプロイする前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスはありますか? | はい |
+| 、追加のユーザーは、元の開発者によって運用環境に送信されたすべてのコード変更要求を確認し、承認していますか? | はい |
 | セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | はい |
-| 多要素認証 (MFA) が有効になっているのは次のとおりです。 | CodeRepositories、DNSManagement、Credential |
-| 従業員アカウントのプロビジョニング、変更、削除のための確立されたプロセスはありますか? | はい |
-| アプリをサポートするネットワーク境界の境界に侵入検出と防止 (IDPS) ソフトウェアがデプロイされていますか? | はい |
-| アプリをサポートするすべてのシステム コンポーネントにイベント ログ記録を設定していますか? | はい |
+| 多要素認証 (MFA) が有効になっています。 | CodeRepositories、DNSManagement、Credential |
+| 従業員アカウントのプロビジョニング、変更、削除のプロセスが確立されていますか? | はい |
+| 、アプリをサポートするネットワーク境界の境界に侵入検出と防止 (IDPS) ソフトウェアがデプロイされていますか? | はい |
+| 、アプリをサポートするすべてのシステム コンポーネントにイベント ログを設定していますか? | はい |
 | すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動化されたツールによって定期的に確認されますか? | はい |
 | セキュリティ イベントが検出されると、トリアージのために従業員にアラートが自動的に送信されますか? | はい |
-| 正式な情報セキュリティ リスク管理プロセスが確立されていますか? | はい |
-| 正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? | はい |
-| 検出から 72 時間以内に、アプリまたはサービスのデータ侵害を監督機関や違反の影響を受けた個人に報告しますか? | はい |
+| 、正式な情報セキュリティ リスク管理プロセスが確立されていますか? | はい |
+| 、正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? | はい |
+| 、アプリまたはサービスのデータ侵害は、検出から 72 時間以内に違反の影響を受けた監督機関や個人に報告しますか? | はい |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

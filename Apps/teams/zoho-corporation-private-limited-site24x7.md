@@ -7,14 +7,14 @@ ms.date: 04/30/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Site24x7 で使用可能なすべてのセキュリティおよびコンプライアンス情報、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリ内のセキュリティ/コンプライアンス情報。
+description: Site24x7 で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 56af9bdf29f9c23a2c10f665e6f96e7bdf511f4b
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: 87061771037599cf3853464c5638e85930238d46
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/23/2022
-ms.locfileid: "63752747"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65228016"
 ---
 # <a name="site24x7"></a>Site24x7
 
@@ -22,25 +22,25 @@ ms.locfileid: "63752747"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>開発者が最終更新日: 2019 年 12 月 16 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/9ce8b7b7-4435-4edb-9c6f-205a9efe944d" target="_blank">ストアでの表示Teamsする</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104381289" target="_blank">AppSource での表示</a>
+* <a href="https://teams.microsoft.com/l/app/9ce8b7b7-4435-4edb-9c6f-205a9efe944d" target="_blank">Teams ストアで表示する</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381289" target="_blank">AppSource で表示する</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Zoho Corporation Private Limited to Microsoft から提供される情報:
+Zoho Corporation Private Limited から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Site24x7 |
 | ID | WA104381289 |
-| Office 365サポートされているクライアント | Microsoft Teams |
+| サポートされているOffice 365 クライアント | Microsoft Teams |
 | パートナー会社名 | Zoho Corporation Private Limited |
 | パートナー Web サイトの URL | [https://www.site24x7.com/features.html](https://www.site24x7.com/features.html) |
-| アプリケーション情報Teamsページの URL | [https://www.site24x7.com/help/admin/third-party-integration...](https://www.site24x7.com/help/admin/third-party-integration/microsoft-teams.html) |
+| Teamsアプリケーション情報ページの URL | [https://www.site24x7.com/help/admin/third-party-integration...](https://www.site24x7.com/help/admin/third-party-integration/microsoft-teams.html) |
 | プライバシー ポリシーの URL | [https://www.site24x7.com/privacypolicy.html](https://www.site24x7.com/privacypolicy.html) |
-| 利用規約の URL | [https://www.site24x7.com/terms.html](https://www.site24x7.com/terms.html) |
+| 使用条件の URL | [https://www.site24x7.com/terms.html](https://www.site24x7.com/terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,39 +50,39 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、Zoho Corporation Private Limited から、このアプリが組織データを収集および保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて提供されています。
+この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Zoho Corporation Private Limited によって提供されています。
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graphを使用したデータ アクセス
 
-このアプリが[必要とする microsoft Graphアクセス許可](https://docs.microsoft.com/graph/permissions-reference)を一覧表示します。
+このアプリ[で必要な Microsoft Graphアクセス許可](/graph/permissions-reference)を一覧表示します。
 
->このアプリケーションでは、Microsoft のアプリケーションをGraph。
+>このアプリケーションでは、Microsoft Graphは使用されません。
 
 
-#### <a name="non-microsoft-services-used"></a>非使用Microsoft サービス
+#### <a name="non-microsoft-services-used"></a>使用されていないMicrosoft サービス
 
-アプリが組織データを Microsoft 以外のサービスと転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリでこの情報を転送する必要がある理由の理由を説明します。
+アプリが Microsoft 以外のサービスと組織データを転送または共有する場合は、アプリが使用する Microsoft 以外のサービス、転送されるデータを一覧表示し、アプリがこの情報を転送する必要がある理由の正当な理由を含めます。
 
->非Microsoft サービスは使用されません。
+>Microsoft サービス以外は使用されません。
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 
-このアプリにボットまたはメッセージング拡張機能が含まれている場合は、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。チームまたはチャットのチーム メンバーの名簿 (名簿、名、表示名、電子メール アドレス)。 このアプリは、この機能を利用しますか?
+このアプリにボットまたはメッセージング拡張機能が含まれている場合は、チーム内のチーム メンバーの名簿 (名、姓、表示名、電子メール アドレス) または追加されたチャットなど、エンド ユーザー識別可能な情報 (EUII) にアクセスできます。 このアプリはこの機能を利用していますか?
 
->EUII にはアクセスされません。
+>EUII にアクセスできません。
 
 
 #### <a name="telemetry-data"></a>テレメトリ データ
 
-組織識別可能な情報 (OII) またはエンド ユーザー識別可能な情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はいの場合は、保存されているデータと保持ポリシーと削除ポリシーについて説明します。
+組織の識別可能な情報 (OII) またはエンド ユーザー識別情報 (EUII) は、このアプリケーションのテレメトリまたはログに表示されますか? はい場合は、保存されるデータと保持ポリシーと削除ポリシーについて説明します。
 
->テレメトリとログでは EUII/PII は収集しない。 このようなデータが表示されている場合は、そのデータを修正するためのスクリプトを探し、警告するスクリプトが提供されています。
+>テレメトリとログで EUII/PII を収集することはありません。 このようなデータが表示される問題を修正するために、検索およびアラートを行うためのスクリプトが用意されています。
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって保存されるデータの組織的な制御
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>パートナーによって格納されたデータの組織コントロール
 
-組織の管理者がパートナー システムで情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンドユーザー ポリシーなど。
+組織の管理者がパートナー システムで自分の情報を制御する方法について説明します。削除、保持、監査、アーカイブ、エンド ユーザー ポリシーなど。
 
->お客様が Site24x7 アカウントの終了を開始すると、Site24x7 は、米国または EU または IN または CN のデータ センターから完全に消去する前に、このユーザーのすべてのデータを 30 日間保持します。 必要なユーザー権限を持つユーザーは、有効な資格情報を使用して Site24x7 の Web クライアントに手動でログインし、不正確または不完全な個人データを修正できます。 さらに、文書化された RESTful API を使用して、すべての個人データを更新できます。
+>お客様が Site24x7 アカウントの終了を開始すると、Site24x7 は、このユーザーのすべてのデータを 30 日間保持してから、米国または EU または IN または CN データ センターから完全に消去します。 必要なユーザーアクセス許可を持つお客様は、有効な資格情報を使用して Site24x7 の Web クライアントに手動でログインし、不正確または不完全な個人データを修正できます。 さらに、文書化された RESTful API を使用して、個人データを更新できます。
 
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -91,9 +91,9 @@ Zoho Corporation Private Limited to Microsoft から提供される情報:
 
 ::: zone pivot="mcas"
 
-次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) カタログからの情報が次に表示されます。
 
-<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/19224' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security情報' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/19224' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/19224" target="_blank">新しいタブで表示する</a>
 

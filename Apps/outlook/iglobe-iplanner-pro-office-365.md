@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: certified
 description: iPlanner Pro Office 365、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関するすべての利用可能なセキュリティ情報とコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 862e0c20b61bf596a9ac2b1dc988d2476ce3d901
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: bbc378ffde97885713716b715b7de6acb2de17bb
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64881469"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65228191"
 ---
 # <a name="iplanner-pro-office-365"></a>iPlanner Pro Office 365
 
@@ -111,8 +111,8 @@ iGlobe から Microsoft に提供される情報:
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | はい |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | はい |
 | アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | はい |
-| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
-| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | N/A |
+| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | いいえ |
 
@@ -149,15 +149,15 @@ iGlobe から Microsoft に提供される情報:
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure AD アプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 委任 | アプリケーション データベースにはデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Contacts.ReadWrite | 委任 | アプリケーション データベースにはデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Directory.AccessAsUser.All | 委任 | アプリケーション データベースにはデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Files.Read | 委任 | アプリケーション データベースにはデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Files.ReadWrite.All | 委任 | アプリケーション データベースにはデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Group.Read.All | 委任 | アプリケーション データベースにはデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| User.Read | 委任 | アプリケーション データベースにはデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| User.ReadBasic.All | 委任 | アプリケーション データベースにはデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| profile | 委任 | アプリケーション データベースにはデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Calendars.ReadWrite | 委任 | アプリケーション データベースにはデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Contacts.ReadWrite | 委任 | アプリケーション データベースにはデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Directory.AccessAsUser.All | 委任 | アプリケーション データベースにはデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Files.Read | 委任 | アプリケーション データベースにはデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Files.ReadWrite.All | 委任 | アプリケーション データベースにはデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Group.Read.All | 委任 | アプリケーション データベースにはデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| User.Read | 委任 | アプリケーション データベースにはデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| User.ReadBasic.All | 委任 | アプリケーション データベースにはデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| profile | 委任 | アプリケーション データベースにはデータは格納されません。 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
 
 >このアプリケーションには、追加の API はありません。
 
