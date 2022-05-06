@@ -3,17 +3,17 @@ title: affadfb6-f17b-428f-97f9-9aae3b6175bc の ID 情報のAzure アプリ
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/04/2022
+ms.date: 05/05/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: affadfb6-f17b-428f-97f9-9aae3b6175bc で利用可能なすべてのセキュリティとコンプライアンス情報。
-ms.openlocfilehash: 45fc8d45e7dbec4ca4a95963988bf7a5cae65ee0
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+ms.openlocfilehash: b82ff20df31c7316d5fba0e11849cc6e8abc295b
+ms.sourcegitcommit: 12046b21d8dcc88ec5d6c91e6440e1988e3fd35c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/05/2022
-ms.locfileid: "65222908"
+ms.locfileid: "65236584"
 ---
 # <a name="azure-app-id-affadfb6-f17b-428f-97f9-9aae3b6175bc"></a>Azure アプリ ID: affadfb6-f17b-428f-97f9-9aae3b6175bc
 
