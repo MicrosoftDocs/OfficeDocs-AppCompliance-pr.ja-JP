@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: 2b4148f1b881215ef886cf34ae730f410eebce8a
-ms.sourcegitcommit: 2f4d962dc1778849751d2e1db212ff702c247627
+ms.openlocfilehash: 0d78395176c05a8b18e6acf6f3788c19c4b07d2d
+ms.sourcegitcommit: 5a5b683ad499649b57c2c0400f231ba92efa8ed5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2022
-ms.locfileid: "65266216"
+ms.lasthandoff: 05/07/2022
+ms.locfileid: "65269891"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -523,6 +523,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [xMatters](./xmatters-inc.md) | xMatters Inc. | **✓** |  |
 | [YAROOMS](./yarooms.md) | YAROOMS | **✓** |  |
 | [yuccaHR](./yucca-technologies-gmbh-yuccahr.md) | Yucca Technologies GmbH | **✓** |  |
+| [ゼロ タイム ボット](./replicon-zero-time-bot.md) | Replicon | **✓** |  |
 | [Zignals](./alight-zignals.md) | Alight | **✓** |  |
 | [Zoho Desk](./zoho-corporation-private-limited-desk.md) | Zoho Corporation Private Limited | **✓** |  |
 | [Zoho Notebook](./zoho-corporation-private-limited-notebook.md) | Zoho Corporation Private Limited | **✓** |  |
