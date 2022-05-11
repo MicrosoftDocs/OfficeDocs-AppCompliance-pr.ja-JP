@@ -3,24 +3,24 @@ title: Pandos Intelligence Inc. による Pandos のアプリケーション情�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/05/2022
+ms.date: 05/10/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Pandos で使用可能なすべてのセキュリティおよびコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 62c12bd8fe350ffee99159f1cb31df9d2d9aebf4
-ms.sourcegitcommit: 2f4d962dc1778849751d2e1db212ff702c247627
+ms.openlocfilehash: c2737bd36f43610770a938a136563f6c14068748
+ms.sourcegitcommit: 0c3ca169e16a6825888669d1e8ea14f66db725bf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2022
-ms.locfileid: "65266250"
+ms.lasthandoff: 05/11/2022
+ms.locfileid: "65305623"
 ---
 # <a name="pandos"></a>Pandos
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2022 年 5 月 5 日</p>
+<p>開発者が最終更新日: 2022 年 5 月 10 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/0e777926-2ab4-4e40-9fe5-80dc68e5044f" target="_blank">Teams ストアで表示する</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003534" target="_blank">AppSource で表示する</a>
@@ -71,26 +71,26 @@ Pandos Intelligence Inc から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行していますか? | はい |
-| バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | はい |
+| バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | 必要 |
 | お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | ApplicationControls |
 | セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? | いいえ |
 | パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? | いいえ |
 | パッチ ポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | いいえ |
 | お使いの環境にサポートされていないオペレーティング システムまたはソフトウェアはありますか? | いいえ |
-| アプリと、それをサポートするインファ構造に対して四半期ごとの脆弱性スキャンを行いますか? | はい |
+| アプリと、それをサポートするインファ構造に対して四半期ごとの脆弱性スキャンを行いますか? | 必要 |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | いいえ |
 | 変更要求を運用環境にデプロイする前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスはありますか? | はい |
-| 追加のユーザーは、元の開発者によって運用環境に送信されたすべてのコード変更要求を確認して承認していますか? | はい |
-| セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | はい |
+| 追加のユーザーは、元の開発者によって運用環境に送信されたすべてのコード変更要求を確認して承認していますか? | 必要 |
+| セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | 必要 |
 | 多要素認証 (MFA) が有効になっているのは次のとおりです。 | DNSManagement、Credential、CodeRepositories |
-| 従業員アカウントのプロビジョニング、変更、削除のための確立されたプロセスはありますか? | はい |
+| 従業員アカウントのプロビジョニング、変更、削除のための確立されたプロセスはありますか? | 必要 |
 | アプリをサポートするネットワーク境界の境界に侵入検出と防止 (IDPS) ソフトウェアがデプロイされていますか? | いいえ |
-| アプリをサポートするすべてのシステム コンポーネントにイベント ログ記録を設定していますか? | はい |
-| すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動化されたツールによって定期的に確認されますか? | はい |
-| セキュリティ イベントが検出されると、トリアージのために従業員にアラートが自動的に送信されますか? | はい |
-| 正式な情報セキュリティ リスク管理プロセスが確立されていますか? | はい |
-| 正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? | はい |
-| 検出から 72 時間以内に、アプリまたはサービスのデータ侵害を監督機関や違反の影響を受けた個人に報告しますか? | はい |
+| アプリをサポートするすべてのシステム コンポーネントにイベント ログ記録を設定していますか? | 必要 |
+| すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動化されたツールによって定期的に確認されますか? | 必要 |
+| セキュリティ イベントが検出されると、トリアージのために従業員にアラートが自動的に送信されますか? | 必要 |
+| 正式な情報セキュリティ リスク管理プロセスが確立されていますか? | 必要 |
+| 正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? | 必要 |
+| 検出から 72 時間以内に、アプリまたはサービスのデータ侵害を監督機関や違反の影響を受けた個人に報告しますか? | 必要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -111,11 +111,11 @@ Pandos Intelligence Inc から Microsoft に提供される情報:
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | はい |
-| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | はい |
+| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 必要 |
+| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 必要 |
 | アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? | 該当なし |
-| アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | はい |
+| アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | 必要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -125,7 +125,17 @@ Pandos Intelligence Inc から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | いいえ |
+| GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
+| アプリには、顧客データの収集、使用、共有、および格納方法を説明する外部向けのプライバシーに関する通知がありますか? | 必要 |
+| プライバシー ポリシーの URL | https://pandos.io/gdpr/ |
+| アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | いいえ |
+| アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
+| 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
+| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
+| アプリには、要求に応じて個人の個人データを削除する機能はありますか? | 必要 |
+| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | 必要 |
+| アプリは個人に個人データを修正または更新する機能を提供しますか? | 必要 |
+| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーのレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | はい |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

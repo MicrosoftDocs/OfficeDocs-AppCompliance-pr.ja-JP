@@ -3,17 +3,17 @@ title: Microsoft Outlook Apps のセキュリティとコンプライアンス -
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/04/2022
+ms.date: 05/10/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Outlook アプリで利用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: b15ff360a647450e51e701740eef566523442232
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+ms.openlocfilehash: 150a248def762691047a13127f28dff9378f239b
+ms.sourcegitcommit: 0c3ca169e16a6825888669d1e8ea14f66db725bf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65228161"
+ms.lasthandoff: 05/11/2022
+ms.locfileid: "65305643"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Apps のセキュリティとコンプライアンス
 
@@ -27,6 +27,7 @@ Microsoft は、Microsoft 365開発者パートナーと協力して、組織が
 | [CI-Signature](./ci-solution-gmbh-signature.md) | ci ソリューション GmbH | **✓** |  |
 | [codeTwo for Outlook](./codetwo-for-outlook.md) | CodeTwo | **✓** |  |
 | [通学](./commuty.md) | 通学 | **✓** |  |
+| [ダイナモ](./dynamo-software.md) | Dynamo ソフトウェア | **✓** |  |
 | [Email Reactor](./flow-simulation-ltd-email-reactor.md) | Flow Simulation Ltd. | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
 | [Outlookのインプレッション シグネチャ](./impression-signatures-for-outlook.md) | Impression Signatures | **✓** |  |
