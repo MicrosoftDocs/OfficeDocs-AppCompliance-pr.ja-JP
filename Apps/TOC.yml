@@ -19,6 +19,10 @@ items:
         href: docs/certification.md
       - name: Microsoft 365認定申請ガイド
         href: docs/certification-submission-guide.md
+      - name: App Compliance Automation Tool (ACAT) とは
+        href: docs/acat-overview.md
+      - name: ACAT を使用してMicrosoft 365認定を迅速化する
+        href: docs/automate-certification-with-acat.md
   - name: Microsoft Excel アプリ
     href: excel/excel-apps.md
     items:

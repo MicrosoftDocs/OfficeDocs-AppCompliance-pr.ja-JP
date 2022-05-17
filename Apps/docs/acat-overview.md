@@ -7,18 +7,18 @@ description: Microsoft 365の App Compliance Automation ツールの概要
 keywords: アプリ認定の自動化Microsoft 365
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: debd3c9e2ecd1538446d09f5019ea995260345fd
-ms.sourcegitcommit: 785d1c5d829e44e0ad696b85c92be81f549b989e
+ms.openlocfilehash: bd570496ce11bf72270cb18542846140122efb8b
+ms.sourcegitcommit: 3931a0f41e8a6637cd1ce0a7c5273dabf592e475
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/17/2022
-ms.locfileid: "65433493"
+ms.locfileid: "65441993"
 ---
 # <a name="app-compliance-automation-tool-for-microsoft-365"></a>Microsoft 365用のアプリ コンプライアンス自動化ツール
 この記事では、Microsoft 365用アプリ コンプライアンス 自動化ツール (ACAT) の概要と、コンプライアンスの簡略化とMicrosoft 365認定の取得方法について説明します。
 
 > [!IMPORTANT]
-> ACAT は現在 *プライベート プレビューに入* っている。 プライベート プレビュー プログラムに参加する場合は、 [acatprivatepreview@microsoft.com](mailto:acatprivatepreview@microsoft.com) にお問い合わせください。
+> ACAT は現在プライベート プレビュー段階です。 プライベート プレビュー プログラムに参加する場合は、 [ここで](https://aka.ms/acat/private/signup)サインアップしてください。
 
 ## <a name="what-is-app-compliance-automation-tool-for-microsoft-365"></a>Microsoft 365の App Compliance Automation Tool とは
 App Compliance Automation Tool for Microsoft 365 (ACAT) は、顧客データを使用し、パートナー センター経由で発行されるすべてのアプリのコンプライアンス体験を簡略化するのに役立つ Azure Portal のサービスMicrosoft 365。 Microsoft 365用のアプリ コンプライアンス自動化ツールは、アプリケーション中心のコンプライアンス自動化ツールであり、Microsoft 365認定をより簡単かつ便利に完了するのに役立ちます。 プライベート プレビューでは、ACAT は Azure で実行されているアプリで使用できます。
