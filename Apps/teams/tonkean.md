@@ -1,5 +1,5 @@
 ---
-title: DSMN8 by DSMN8 による従業員アドボカシーのアプリケーション情報
+title: Tonkean by Tonkean のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,42 +7,42 @@ ms.date: 05/17/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: DSMN8 による Employee Advocacy の利用可能なすべてのセキュリティおよびコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+description: Tonkean で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2cb51ae66869558666d1dfdc5522299ec1d21886
+ms.openlocfilehash: 9554be0d3c825946ac2395129e41e5e6f4e1925a
 ms.sourcegitcommit: 9fc27c6c7e9683291d85818c07e7be8291c75532
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/18/2022
-ms.locfileid: "65454941"
+ms.locfileid: "65455056"
 ---
-# <a name="employee-advocacy-by-dsmn8"></a>DSMN8 による従業員のアドボカシー
+# <a name="tonkean"></a>Tonkean
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2022 年 5 月 17 日</p>
+<p>開発者が最終更新日: 2022 年 5 月 16 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/3cf056e3-1c08-4cda-b6d6-962f7c7a1f7c" target="_blank">Teams ストアで表示する</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003677" target="_blank">AppSource で表示する</a>
+* <a href="https://teams.microsoft.com/l/app/b7391d00-e8e4-4dc9-970e-ba3386144114" target="_blank">Teams ストアで表示する</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381749" target="_blank">AppSource で表示する</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-DSMN8 から Microsoft に提供される情報:
+Tonkean から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | DSMN8 による従業員のアドボカシー |
-| ID | WA200003677 |
+| アプリ名 | Tonkean |
+| ID | WA104381749 |
 | サポートされているOffice 365 クライアント | Microsoft Teams |
-| パートナー会社名 | DSMN8 |
-| 会社の Web サイト | [https://dsmn8.com](https://dsmn8.com) |
-| アプリの使用条件 | [https://dsmn8.com/terms-and-conditions](https://dsmn8.com/terms-and-conditions) |
-| アプリのコア機能 |  DSMN8 は、会社が承認した会社のコンテンツを自分のソーシャル メディア チャネルに共有することで、従業員が会社のインフルエンサーになることを支援するアプリ ベースのプラットフォームです。  |
-| 会社の本社の場所 | 英国の英国と北アイルランド (the) |
-| アプリ情報ページ | |
-| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
+| パートナー会社名 | Tonkean |
+| 会社の Web サイト | [https://tonkean.com](https://tonkean.com) |
+| アプリの使用条件 | [https://tonkean.com/terms/](https://tonkean.com/terms/) |
+| アプリのコア機能 | Tonkean は、組織と運用チームが複雑なビジネス プロセスを迅速に自動化できるようにします。 Tonkean は、ソリューション スタジオに組み込まれているビジネス プロセスをコードなしで完全に実行、監視、管理するための構成要素を提供します。  |
+| 会社の本社の場所 | 米国 オブ アメリカ |
+| アプリ情報ページ | [https://tonkean.com](https://tonkean.com) |
+| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | ハイブリッド |
 | アプリで使用するホスティング クラウド プロバイダーはどれですか? | Aws |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -53,20 +53,19 @@ DSMN8 から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織のデータを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する DSMN8 によって提供されています。
+この情報は、このアプリが組織のデータを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて、Tonkean から提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
-| アプリによって処理されるデータは何ですか? | 役職、名、姓、電子メール アドレス |
-| アプリは TLS 1.1 以降をサポートしていますか? | はい |
+| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | 不要 |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データは格納されますか? | はい |
-| データベースに格納されているデータは何ですか? | 役職、名、姓、電子メール アドレス |
-| 基になるインファ構造が Microsoft 顧客データを処理または格納する場合、このデータは地理的にどこに保存されますか? | 英国の英国と北アイルランド (the) |
+| データベースに格納されているデータは何ですか? | 名前、電子メール、ユーザー ID。その他のデータは、ユーザーの要求/入力時に保存される場合があります。 |
+| 基になるインファ構造が Microsoft 顧客データを処理または格納する場合、このデータは地理的にどこに保存されますか? | 米国 オブ アメリカ |
 | データの借用と廃棄プロセスが確立されていますか? | はい |
-| アカウントの終了後、データはどのくらいの期間保持されますか? | 30 日間未満 |
+| アカウントの終了後、データはどのくらいの期間保持されますか? | 90 日未満 |
 | データ アクセス管理プロセスが確立されていますか? | はい |
-| 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | 不要 |
+| 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | はい |
+| Microsoft の顧客データを共有するサード パーティのサービスとデータ共有契約が締結されていますか? | はい |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -80,7 +79,7 @@ DSMN8 から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行していますか? | はい |
 | バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | はい |
-| お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | ApplicationControls |
+| お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | TraditionalAntiMalware、ApplicationControls |
 | セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? | はい |
 | パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? | はい |
 | パッチ ポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
@@ -110,12 +109,14 @@ DSMN8 から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 該当なし |
 | アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 該当なし |
-| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 不要 |
-| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | 不要 |
+| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 該当なし |
+| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | はい |
+| どの SOC 2 認定を取得しましたか? | type2 |
+| 最新の SOC2 認定日 | 2021-11-30 |
 | アプリはサービス組織コントロール (SOC 3) に準拠していますか? | 不要 |
 | アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | 該当なし |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
@@ -135,12 +136,12 @@ DSMN8 から Microsoft に提供される情報:
 |:----------------|:-------------|
 | GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および格納方法を説明する外部向けのプライバシーに関する通知がありますか? | はい |
-| プライバシー ポリシーの URL | https://dsmn8.com/terms-and-conditions |
+| プライバシー ポリシーの URL | https://tonkean.com/privacy |
 | アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | 不要 |
 | アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | 不要 |
 | 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | 不要 |
 | アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | 不要 |
-| アプリには、要求に応じて個人の個人データを削除する機能はありますか? | はい |
+| アプリには、要求に応じて個人の個人データを削除する機能はありますか? | 該当なし |
 | アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | はい |
 | アプリは個人に個人データを修正または更新する機能を提供しますか? | はい |
 | アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーのレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | はい |
@@ -155,18 +156,13 @@ DSMN8 から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | はい |
 | Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | はい |
-| アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | 不要 |
-| アプリで上記のライブラリのいずれかを使用していない場合、どの認証ライブラリまたはライブラリが使用されますか? | https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow |
+| アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | 該当なし |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしていますか? | 不要 |
 | アプリは、コードに資格情報を格納していますか? | 不要 |
-| Microsoft 365用のアプリとアドインでは、Microsoft Graphの外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | 不要 |
+| Microsoft 365用のアプリとアドインでは、Microsoft Graphの外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | はい |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graphを使用したデータ アクセス
-
->|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure AD アプリ ID** |
->|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 両方 | サインオンプロセス中に役職、名、姓、電子メール データを読み取り、アプリでプロファイルを作成するには | [3cf056e3-1c08-4cda-b6d6-962f7c7a1f7c](../azure/3cf056e3-1c08-4cda-b6d6-962f7c7a1f7c.md) |
+>このアプリケーションでは、Microsoft Graphは使用されません。
 
 >このアプリケーションには、追加の API はありません。
 
