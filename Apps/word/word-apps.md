@@ -3,17 +3,17 @@ title: Microsoft Word Apps のセキュリティとコンプライアンス - �
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/06/2022
+ms.date: 05/18/2022
 ms.topic: article
 ms.service: attestation
 description: すべてのMicrosoft Word アプリで使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 27a17e36d470c95cdf38786fafaaa06c352c3098
-ms.sourcegitcommit: 5a5b683ad499649b57c2c0400f231ba92efa8ed5
+ms.openlocfilehash: 6fbf61c48d0348327107911d493592eeb2e849e3
+ms.sourcegitcommit: d79cdda99f8faebe842da59e3a1ee27da5a91c25
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2022
-ms.locfileid: "65269904"
+ms.lasthandoff: 05/18/2022
+ms.locfileid: "65474761"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word Apps のセキュリティとコンプライアンス
 
@@ -27,7 +27,8 @@ Microsoft は、Microsoft 365開発者パートナーと協力して、組織が
 | [Citasion](./citasion-llc.md) | Citasion LLC | **✓** |  |
 | [CocoFax - Fax の送信が簡単 &amp; にセキュリティで保護されました](./cocofax-sending-fax-made-easysecure.md) | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [CrossCheck](./krevealllc-crosscheck.md) | kRevealLLC | **✓** |  |
-| [ドキュメントの下書き](./green-meadow-aps-document-drafter.md) | 緑の草 ApS | **✓** |  |
+| [ドキュメントの下書き](./green-meadow-aps-document-drafter.md) | 緑の草原 ApS | **✓** |  |
+| [Word 用 DocuSign](./docusign-inc-for-word.md) | DocuSign, Inc. | **✓** |  |
 | [Excel-to-Word Document Automation](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Fabasoft Cloud Office アドイン](./fabasoft-austria-gmbh-cloud-office-add-in.md) | Fabasoft Austria GmbH | **✓** |  |
 | [Microsoft Word、Excel、PowerPoint用の Foxit PDF エディター](./foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md) | Foxit Software Inc. | **✓** |  |
