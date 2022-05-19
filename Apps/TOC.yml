@@ -86,6 +86,8 @@ items:
         href: outlook/codetwo-for-outlook.md
       - name: 通学
         href: outlook/commuty.md
+      - name: Outlookの DocuSign
+        href: outlook/docusign-inc-for-outlook.md
       - name: ダイナモ
         href: outlook/dynamo-software.md
       - name: Email Reactor
@@ -1269,6 +1271,8 @@ items:
         href: word/krevealllc-crosscheck.md
       - name: ドキュメントの下書き
         href: word/green-meadow-aps-document-drafter.md
+      - name: Word 用 DocuSign
+        href: word/docusign-inc-for-word.md
       - name: Excel-to-Word Document Automation
         href: word/analysisplace-excel-to-word-document-automation.md
       - name: Fabasoft Cloud Office アドイン
