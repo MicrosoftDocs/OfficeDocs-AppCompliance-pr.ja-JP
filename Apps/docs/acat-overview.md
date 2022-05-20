@@ -7,18 +7,21 @@ description: Microsoft 365の App Compliance Automation ツールの概要
 keywords: アプリ認定の自動化Microsoft 365
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: bd570496ce11bf72270cb18542846140122efb8b
-ms.sourcegitcommit: 3931a0f41e8a6637cd1ce0a7c5273dabf592e475
+ms.openlocfilehash: 5e3fbc062c1887a205a7b99a85a292ad9a64f8d0
+ms.sourcegitcommit: 0865622c8abffc11115e56d966729e5318d67ab9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/17/2022
-ms.locfileid: "65441993"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65608801"
 ---
 # <a name="app-compliance-automation-tool-for-microsoft-365"></a>Microsoft 365用のアプリ コンプライアンス自動化ツール
 この記事では、Microsoft 365用アプリ コンプライアンス 自動化ツール (ACAT) の概要と、コンプライアンスの簡略化とMicrosoft 365認定の取得方法について説明します。
 
 > [!IMPORTANT]
 > ACAT は現在プライベート プレビュー段階です。 プライベート プレビュー プログラムに参加する場合は、 [ここで](https://aka.ms/acat/private/signup)サインアップしてください。
+
+> [!NOTE]
+> ACAT プライベート プレビューにフィードバックを提供する場合は、この [フォーム](https://aka.ms/acat/feedback)から開始できます。 ACAT 製品チームは、メッセージを受け取った後、できるだけ早くフォローアップします。 
 
 ## <a name="what-is-app-compliance-automation-tool-for-microsoft-365"></a>Microsoft 365の App Compliance Automation Tool とは
 App Compliance Automation Tool for Microsoft 365 (ACAT) は、顧客データを使用し、パートナー センター経由で発行されるすべてのアプリのコンプライアンス体験を簡略化するのに役立つ Azure Portal のサービスMicrosoft 365。 Microsoft 365用のアプリ コンプライアンス自動化ツールは、アプリケーション中心のコンプライアンス自動化ツールであり、Microsoft 365認定をより簡単かつ便利に完了するのに役立ちます。 プライベート プレビューでは、ACAT は Azure で実行されているアプリで使用できます。
@@ -57,13 +60,13 @@ ACAT では、アプリケーションのコンプライアンス状態を監査
 - **失敗 - 追加の証拠が必要** です。*部分的に自動化された* Microsoft 365認定コントロールに対して顧客の責任が検出されました。
 - **手動制御**: ACAT は、Microsoft 365認定管理に対する顧客の責任を自動化しません。
 
-### <a name="customer-responsibility"></a>顧客の責任
+### <a name="customer-responsibility"></a>お客様の責任
 各コントロールには、満たす必要がある一連の顧客責任が関連付けられます。 これらは、データ、エンドポイント、アカウント、アクセス管理などの領域で、お客様が保持する責任です。
 
 ACAT は、お客様の責任ごとにデータを収集し、その評価結果を返します。 また、修復アクションも提供されます。これは、Microsoft 365認定基準に合わせるのに役立つガイダンスです。
 
 
-## <a name="faq"></a>よくあるご質問 (FAQ)
+## <a name="faq"></a>FAQ
 ### <a name="what-are-manual-controls-and-partially-automated-controls"></a>手動コントロールと部分的に自動化されたコントロールとは何ですか?
 各コンプライアンス制御は、ACAT がコンプライアンス データを収集する一連の顧客責任に関連付けられます。 ただし、現時点では、Microsoft 365認定のすべてのコントロールが ACAT によってカバーされているわけではありません (カバレッジを拡大するための継続的な取り組みがあります)。 部分的に自動化された制御の場合、ACAT は顧客の責任の一部を自動化します。 参照にはコンプライアンス状態を使用できますが、Microsoft 365認定監査に直接使用することはできません。 手動コントロールの場合、ACAT は現在、顧客の責任を自動化しません。
 
