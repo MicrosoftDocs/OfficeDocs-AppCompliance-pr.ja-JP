@@ -3,17 +3,17 @@ title: Microsoft Outlook Apps のセキュリティとコンプライアンス -
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/18/2022
+ms.date: 05/20/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Outlook アプリで利用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: d5c06c88c4170ef21e7edd190863e7f53830f69d
-ms.sourcegitcommit: d79cdda99f8faebe842da59e3a1ee27da5a91c25
+ms.openlocfilehash: 74c882322198ed13c983f5f38a3e4e28a7ff586b
+ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/18/2022
-ms.locfileid: "65475541"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65613440"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Apps のセキュリティとコンプライアンス
 
@@ -22,7 +22,6 @@ Microsoft は、Microsoft 365開発者パートナーと協力して、組織が
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [Adobe Acrobat Sign for Microsoft Outlook](./adobe-inc-acrobat-sign-for-microsoft-outlook.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Altru ビデオ](./altru-videos.md) | Altru | **✓** |  |
 | [承認済みの連絡先予定表](./approved-contact-calendars.md) | 承認済みの連絡先 | **✓** |  |
 | [自分のメールをブーストする](./boost-my-mail.md) | 自分のメールをブーストする | **✓** |  |
 | [CI-Signature](./ci-solution-gmbh-signature.md) | ci ソリューション GmbH | **✓** |  |
