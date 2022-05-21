@@ -1,49 +1,49 @@
 ---
-title: Eloops による Eloops のアプリケーション情報
+title: Rattle by Rattle のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/20/2022
+ms.date: 05/02/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Eloops で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+description: Rattle で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ed2fa2660eb81e43869d994dd872dab0c8763709
+ms.openlocfilehash: cbf3b695142e5e131780a0e9fc788b80c1667966
 ms.sourcegitcommit: da6b5ad8f0871ce17fe826f242344dec09a04b1c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/21/2022
-ms.locfileid: "65628246"
+ms.locfileid: "65628295"
 ---
-# <a name="eloops"></a>Eloops
+# <a name="rattle"></a>Rattle
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2022 年 5 月 3 日</p>
+<p>開発者が最終更新日: 2022 年 5 月 2 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/431a9917-9c32-480e-a584-6c149e7b7213" target="_blank">Teams ストアで表示する</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002287" target="_blank">AppSource で表示する</a>
+* <a href="https://teams.microsoft.com/l/app/bacd48e3-a2e1-48db-992f-609eb58ac326" target="_blank">Teams ストアで表示する</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200004030" target="_blank">AppSource で表示する</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Eloops から Microsoft に提供される情報:
+Rattle から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | Eloops |
-| ID | WA200002287 |
+| アプリ名 | Rattle |
+| ID | WA200004030 |
 | サポートされているOffice 365 クライアント | Microsoft Teams |
-| パートナー会社名 | Eloops |
-| 会社の Web サイト | [https://eloops.com](https://eloops.com) |
-| アプリの使用条件 | [https://eloops.com/terms-of-service/](https://eloops.com/terms-of-service/) |
-| アプリのコア機能 | 動作するが、仕事のように感じない従業員エンゲージメント プラットフォーム&#8217; |
-| 会社の本社の場所 | イスラエル |
-| アプリ情報ページ | [https://eloops.com/microsoft-teams-integration-help-center/](https://eloops.com/microsoft-teams-integration-help-center/) |
-| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Iaas |
-| アプリで使用するホスティング クラウド プロバイダーはどれですか? | AWS |
+| パートナー会社名 | Rattle |
+| 会社の Web サイト | [https://www.gorattle.com](https://www.gorattle.com) |
+| アプリの使用条件 | [https://www.gorattle.com/terms-of-service](https://www.gorattle.com/terms-of-service) |
+| アプリのコア機能 | Rattle は、MS TeamsからのSalesforceを管理するためのコードなしの自動化ツールです。 |
+| 会社の本社の場所 | 米国 オブ アメリカ |
+| アプリ情報ページ | |
+| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
+| アプリで使用するホスティング クラウド プロバイダーはどれですか? | Azure、Aws |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,13 +53,11 @@ Eloops から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて、Eloops によって提供されています。
+この情報は、このアプリが組織のデータを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて、Rattle から提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
-| アプリによって処理されるデータは何ですか? | プッシュ通知を送信するためのユーザー電子メール、フルネーム、トークンを収集します |
-| アプリは TLS 1.1 以降をサポートしていますか? | はい |
+| アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | 不要 |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データは格納されますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -74,19 +72,19 @@ Eloops から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行していますか? | はい |
 | バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | はい |
-| お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | TraditionalAntiMalware、ApplicationControls |
+| お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | ApplicationControls |
 | セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? | はい |
 | パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? | はい |
 | パッチ ポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
 | お使いの環境にサポートされていないオペレーティング システムまたはソフトウェアはありますか? | 不要 |
-| アプリと、それをサポートするインファ構造に対して四半期ごとの脆弱性スキャンを行いますか? | はい |
+| アプリと、それをサポートするインファ構造に対して四半期ごとの脆弱性スキャンを行いますか? | 不要 |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
 | 変更要求を運用環境にデプロイする前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスはありますか? | はい |
 | 追加のユーザーは、元の開発者によって運用環境に送信されたすべてのコード変更要求を確認して承認していますか? | はい |
 | セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | はい |
-| 多要素認証 (MFA) が有効になっているのは次のとおりです。 | CodeRepositories、DNSManagement、Credential |
+| 多要素認証 (MFA) が有効になっているのは次のとおりです。 | 資格情報、CodeRepositories |
 | 従業員アカウントのプロビジョニング、変更、削除のための確立されたプロセスはありますか? | はい |
-| アプリをサポートするネットワーク境界の境界に侵入検出と防止 (IDPS) ソフトウェアがデプロイされていますか? | はい |
+| アプリをサポートするネットワーク境界の境界に侵入検出と防止 (IDPS) ソフトウェアがデプロイされていますか? | 不要 |
 | アプリをサポートするすべてのシステム コンポーネントにイベント ログ記録を設定していますか? | はい |
 | すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動化されたツールによって定期的に確認されますか? | はい |
 | セキュリティ イベントが検出されると、トリアージのために従業員にアラートが自動的に送信されますか? | はい |
@@ -104,18 +102,20 @@ Eloops から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 該当なし |
 | アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 該当なし |
-| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 不要 |
-| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | 不要 |
+| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 該当なし |
+| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | はい |
+| どの SOC 2 認定を取得しましたか? | type2 |
+| 最新の SOC2 認定日 | 2021-11-22 |
 | アプリはサービス組織コントロール (SOC 3) に準拠していますか? | 不要 |
-| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | はい |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | はい |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | はい |
+| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | 該当なし |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 該当なし |
 | アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
-| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 不要 |
+| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? | 該当なし |
 | アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | 不要 |
 
@@ -129,13 +129,13 @@ Eloops から Microsoft に提供される情報:
 |:----------------|:-------------|
 | GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および格納方法を説明する外部向けのプライバシーに関する通知がありますか? | はい |
-| プライバシー ポリシーの URL | https://eloops.com/privacy-policy/ |
+| プライバシー ポリシーの URL | https://www.gorattle.com/privacy-policy |
 | アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | 不要 |
 | アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | 不要 |
 | 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | 不要 |
 | アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | 不要 |
 | アプリには、要求に応じて個人の個人データを削除する機能はありますか? | はい |
-| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | はい |
+| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | 該当なし |
 | アプリは個人に個人データを修正または更新する機能を提供しますか? | はい |
 | アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーのレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | はい |
 
@@ -151,15 +151,11 @@ Eloops から Microsoft に提供される情報:
 | Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | はい |
 | アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | はい |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
-| アプリは継続的アクセス評価 (CAE) をサポートしていますか? | はい |
+| アプリは継続的アクセス評価 (CAE) をサポートしていますか? | 不要 |
 | アプリは、コードに資格情報を格納していますか? | 不要 |
 | Microsoft 365用のアプリとアドインでは、Microsoft Graphの外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | 不要 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graphを使用したデータ アクセス
-
->|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure AD アプリ ID** |
->|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委任 | システムに登録するには、ユーザーの電子メールとフル ネームを取得する必要があります | [431a9917-9c32-480e-a584-6c149e7b7213](../azure/431a9917-9c32-480e-a584-6c149e7b7213.md) |
+>このアプリケーションでは、Microsoft Graphは使用されません。
 
 >このアプリケーションには、追加の API はありません。
 
