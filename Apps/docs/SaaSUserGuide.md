@@ -7,16 +7,16 @@ description: Microsoft 365 アプリ コンプライアンス プログラム Sa
 keywords: Microsoft 365 アプリ コンプライアンス プログラム SaaS の ISV ユーザー ガイド
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: abb26a45c9dc0d0d91ebd26c06b29644b41b2dfd
-ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
+ms.openlocfilehash: af6561ffb4670269fc4e219f58d069ce3fa20ce9
+ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2022
-ms.locfileid: "64752866"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65618289"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program---saas"></a>Microsoft 365 アプリ コンプライアンス プログラムに関するパートナーのユーザー ガイド - SaaS
 
-|段階|タイトル|
+|段階|Title|
 |---|---|
 |フェーズ 1| Publisher の構成証明|
 |フェーズ 2| Microsoft 365 認定|
@@ -24,6 +24,9 @@ ms.locfileid: "64752866"
 ## <a name="1-overview"></a>1. 概要 
 
 このドキュメントは、パートナー センター ポータルを使用して、SaaS アプリの構成証明と認定Publisher受けることを目的として、Microsoft 365 アプリ コンプライアンス プログラムに登録された、パートナー向けのステップ バイ ステップ ユーザー ガイドとして機能します。
+
+>[!IMPORTANT]
+>このガイドは、Microsoft 365 アプリ コンプライアンス チームによって承認およびホワイトリストに登録された SaaS アプリにのみ適用されます。 アプリがホワイトリストに登録されていない場合は、パートナー センター内で続行できません。 SaaS ホワイトリストに登録するには、appcert@microsoft.com にお問い合わせください。
 
 ## <a name="2-acronyms--definitions"></a>2. 頭字語&定義
 |略語 | 定義 |
@@ -160,7 +163,7 @@ Microsoft 365アプリ コンプライアンス プログラムでは、年間�
  
 **利点：** 
 
-- AppSource、Office ストア、Teams ストア、さまざまな管理ポータルで認定バッジを保持し、アプリを他のユーザーと区別します。 
+- AppSource、Office Microsoft Store、Teams Microsoft Store、さまざまな管理ポータルで認定バッジを保持し、アプリを他のユーザーと区別します。 
 - 認定アプリの使用に対する顧客の信頼を高めます。 
 - IT 管理者が更新された認定情報を使用して、情報に基づいた意思決定を行うのに役立ちます。
 
@@ -223,7 +226,7 @@ Microsoft 365アプリ コンプライアンス プログラムでは、年間�
 
 **認定資格の有効期限:**
 
-Microsoft ドキュメントでアプリの [認定] ページを維持するには、アプリの情報を有効期限の前に更新する必要があります。また、タイムリーな更新により、AppSource と Team Store でアプリの継続的な不正使用とアイコンが保証されます。
+Microsoft ドキュメントでアプリの [認定] ページを維持するには、アプリの情報を有効期限の前に更新する必要があります。タイムリーな更新により、AppSource と Team Microsoft Storeのアプリの継続的な不正使用とアイコンも保証されます。
 
 ![認定更新者の承認](../media/UserGuidePhotos/36.png)
   
