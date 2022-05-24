@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: AuditBoard アドインで使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 71829162839f255a9481d7f64333d091ad65b5e1
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 0c69f4cfa2a4d443070ac3eb4f9b9ce1a4869e98
+ms.sourcegitcommit: 92295c3ae2ea6543be22c92e741da0e494ada2b1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64877604"
+ms.lasthandoff: 05/23/2022
+ms.locfileid: "65641916"
 ---
 # <a name="auditboard-add-in"></a>AuditBoard アドイン
 
@@ -34,7 +34,7 @@ Auditboard, Inc. から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリ名 | AuditBoard アドイン |
 | ID | WA200003350 |
-| サポートされているOffice 365 クライアント | mac、Word on the web、Word 2013 以降のWindowsでWord 2016以降 |
+| サポートされているOffice 365 クライアント | Mac のExcel 2016以降、Windows、Excel on the web、Word 2016 以降の Mac、Word on the web、Word 2013 以降の Windows でExcel 2013 以降 |
 | パートナー会社名 | Auditboard, Inc. |
 | 会社の Web サイト | [https://www.auditboard.com](https://www.auditboard.com) |
 | アプリの使用条件 | [https://appsource.microsoft.com](https://appsource.microsoft.com) |
@@ -98,20 +98,20 @@ Auditboard, Inc. から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | はい |
-| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | いいえ |
-| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | いいえ |
+| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 不要 |
+| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 不要 |
 | アプリはサービス組織コントロール (SOC 2) に準拠していますか? | はい |
 | 最新の SOC2 認定日 | 2020-12-01 |
-| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | いいえ |
-| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | N/A |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | N/A |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | N/A |
-| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
-| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | N/A |
+| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | 不要 |
+| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | 該当なし |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
+| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 該当なし |
+| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | はい |
 
@@ -134,10 +134,9 @@ Auditboard, Inc. から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | いいえ |
-| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | いいえ |
+| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | 不要 |
 | アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? |  |
-| アプリで上記のライブラリのいずれかを使用していない場合、どの認証ライブラリまたはライブラリが使用されますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
 | アプリは継続的アクセス評価 (CAE) をサポートしていますか? |  |
 | アプリは、コードに資格情報を格納していますか? |  |
 | Microsoft 365用のアプリとアドインでは、Microsoft Graphの外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | いいえ |

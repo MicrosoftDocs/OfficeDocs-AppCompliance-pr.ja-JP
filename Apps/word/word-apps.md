@@ -3,17 +3,17 @@ title: Microsoft Word Apps のセキュリティとコンプライアンス - �
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/20/2022
+ms.date: 05/21/2022
 ms.topic: article
 ms.service: attestation
 description: すべてのMicrosoft Word アプリで使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 28a1f34f21b783fec68f1ffaab516f8abd432a3e
-ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
+ms.openlocfilehash: ae8172aafe219e2d4f2967385fece91599f2bd4d
+ms.sourcegitcommit: 92295c3ae2ea6543be22c92e741da0e494ada2b1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65618978"
+ms.lasthandoff: 05/23/2022
+ms.locfileid: "65638595"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word Apps のセキュリティとコンプライアンス
 
