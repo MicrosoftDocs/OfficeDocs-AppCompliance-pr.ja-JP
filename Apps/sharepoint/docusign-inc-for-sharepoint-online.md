@@ -1,28 +1,28 @@
 ---
-title: DocuSign, Inc. による Word 用 DocuSign のアプリケーション情報
+title: DocuSign, Inc. による DocuSign for SharePoint Online のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/25/2022
+ms.date: 05/24/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: DocuSign for Word で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+description: DocuSign for SharePoint Online で利用可能なすべてのセキュリティおよびコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8cde4186d69cf52b28f2b5d6e5d111ddf69238c7
+ms.openlocfilehash: f28eb43569050094f196ab5e88ee155d2f634705
 ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/26/2022
-ms.locfileid: "65690902"
+ms.locfileid: "65692427"
 ---
-# <a name="docusign-for-word"></a>Word 用 DocuSign
+# <a name="docusign-for-sharepoint-online"></a>DocuSign for SharePoint Online
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2022 年 5 月 24 日</p>
+<p>開発者が最終更新日: 2021 年 8 月 28 日</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104218065" target="_blank">AppSource で表示する</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104218069" target="_blank">AppSource で表示する</a>
 
 ::: zone pivot="general"
 
@@ -32,15 +32,15 @@ DocuSign, Inc. から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | Word 用 DocuSign |
-| ID | WA104218065 |
-| サポートされているOffice 365 クライアント | Windows Word 2016以降、Mac ではWord 2016以降、Word on the web |
+| アプリ名 | DocuSign for SharePoint Online |
+| ID | WA104218069 |
+| サポートされているOffice 365 クライアント | SharePoint 2013 以降 |
 | パートナー会社名 | DocuSign, Inc. |
 | 会社の Web サイト | [https://www.docusign.com](https://www.docusign.com) |
 | アプリの使用条件 | [https://www.docusign.com/company/terms-and-conditions/web](https://www.docusign.com/company/terms-and-conditions/web) |
-| アプリのコア機能 | DocuSign を使用して、署名をすばやく取得するか、Word 文書に署名する |
+| アプリのコア機能 | SharePoint内のドキュメントに署名または署名を要求します。 |
 | 会社の本社の場所 | 米国 オブ アメリカ |
-| アプリ情報ページ | [https://www.docusign.com/solutions/microsoft/word](https://www.docusign.com/solutions/microsoft/word) |
+| アプリ情報ページ | [https://www.docusign.com/solutions/microsoft/sharepoint-onl...](https://www.docusign.com/solutions/microsoft/sharepoint-online) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | IsvHosted |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

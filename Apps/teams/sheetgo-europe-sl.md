@@ -1,5 +1,5 @@
 ---
-title: SHEETGO EUROPE SL による Sheetgo のアプリケーション情報
+title: SHEETGO EUROPE SL によって提供される Sheetgo のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,23 +7,23 @@ ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Sheetgo で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+description: Sheetgo の利用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報を確認します。
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9cbad6d4fcd5f6e081187af10c3c8a69de7122ba
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+ms.openlocfilehash: 001ad5dcce2a95885420f8413bfbfe03562eb5b2
+ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65225311"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65690432"
 ---
-# <a name="sheetgo"></a>Sheetgo
+# <a name="sheetgo-application-information"></a>Sheetgo アプリケーション情報
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>開発者が最終更新日: 2020 年 11 月 3 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/583de270-58d0-4f94-af06-bf971f82fd94" target="_blank">Teams ストアで表示する</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002067" target="_blank">AppSource で表示する</a>
+* <a href="https://appsource.microsoft.com/en-US/product/office/WA200002128?tab=Overview" target="_blank">AppSource で表示する</a>
 
 ::: zone pivot="general"
 
@@ -64,7 +64,7 @@ SHEETGO EUROPE SL から Microsoft に提供される情報:
 
 >| **Microsoft サービス以外のすべての OII は、** |  **転送される OII は何ですか?** | **OII を転送するための正当な理由** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| MongoDB: 機能するためにシステムとユーザー データを記録する、Google BigQuery: システム ログの使用状況を記録する、Google Firestore: マイクロサービスの状態を維持および調整するシステム、Stripe: Payment System |  | これらのアプリケーションでは、追加の Microsoft API は使用されません |
+>| MongoDB: 機能するためにシステムとユーザー データを記録する、Google BigQuery: システム ログの使用状況を記録する、Google Firestore: マイクロサービスの状態を維持および調整するシステム、ストライプ: 支払いシステム |  | これらのアプリケーションでは、追加の Microsoft API は使用されません |
 
 #### <a name="data-access-via-bots"></a>ボット経由のデータ アクセス
 

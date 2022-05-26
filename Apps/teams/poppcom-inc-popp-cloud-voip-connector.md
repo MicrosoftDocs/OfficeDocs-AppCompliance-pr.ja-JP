@@ -1,49 +1,49 @@
 ---
-title: qChange Software Solution, Inc. による qChange リーダー エクスペリエンスのアプリケーション情報
+title: POPP Cloud VoIP Connector のアプリケーション情報 by POPP.Com, Inc
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/12/2021
+ms.date: 10/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: qChange Leader Experience で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+description: POPP Cloud VoIP Connector で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2c681007f0fb8b398e60b19b095bf1274de883d6
+ms.openlocfilehash: d5ccc3615b47d4ef8c1f1ff8540d1c7192abd792
 ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/26/2022
-ms.locfileid: "65691402"
+ms.locfileid: "65692399"
 ---
-# <a name="qchange-leader-experience"></a>qChange Leader Experience
+# <a name="popp-cloud-voip-connector"></a>POPP Cloud VoIP Connector
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 4 月 20 日</p>
+<p>開発者が最終更新日: 2021 年 9 月 20 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/32dbfdc9-7832-4969-ad02-77a4902fae35" target="_blank">Teams ストアで表示する</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001639" target="_blank">AppSource で表示する</a>
+* <a href="https://teams.microsoft.com/l/app/b8e57f6b-31cf-468e-9e99-81f0395cb1f9" target="_blank">Teams ストアで表示する</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003306" target="_blank">AppSource で表示する</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-qChange Software Solution, Inc. から Microsoft に提供される情報:
+POPP.Com, Inc から Microsoft に提供される情報:
 
 | **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | qChange Leader Experience |
-| ID | WA200001639 |
+| アプリ名 | POPP Cloud VoIP Connector |
+| ID | WA200003306 |
 | サポートされているOffice 365 クライアント | Microsoft Teams |
-| パートナー会社名 | qChange Software Solution, Inc. |
-| 会社の Web サイト | [https://qchange.com](https://qchange.com) |
-| アプリの使用条件 | [https://www.qchange.com/terms-of-service](https://www.qchange.com/terms-of-service) |
-| アプリのコア機能 | LX は、すべてのユーザーのリーダーシップを導き、成長させる最も速い方法であるため、会議や文化の方が優れています。 |
+| パートナー会社名 | POPP.Com, Inc |
+| 会社の Web サイト | [https://popp.com](https://popp.com) |
+| アプリの使用条件 | [https://popp.com/pvnterms/](https://popp.com/pvnterms/) |
+| アプリのコア機能 | MaxUC クライアントを使用してMicrosoft Teamsから呼び出しを行う |
 | 会社の本社の場所 | 米国 オブ アメリカ |
-| アプリ情報ページ | [https://www.qchange.com/leader-experience](https://www.qchange.com/leader-experience) |
+| アプリ情報ページ | |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? |  |
-| アプリで使用するホスティング クラウド プロバイダーはどれですか? | AWS、Mongodb、Azure |
+| アプリで使用するホスティング クラウド プロバイダーはどれですか? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,7 +53,7 @@ qChange Software Solution, Inc. から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、qChange Software Solution, Inc. によって提供されています。このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つ制御について説明します。
+この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて、POPP.Com 社から提供されています。
 
 | **Information** | **応答** |
 |:----------------|:-------------|
@@ -71,7 +71,7 @@ qChange Software Solution, Inc. から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行していますか? | 不要 |
-| バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | はい |
+| バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | 不要 |
 | お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? |  |
 | セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? |  |
 | パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? |  |
@@ -100,21 +100,18 @@ qChange Software Solution, Inc. から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 該当なし |
 | アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 該当なし |
-| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | はい |
-| 最新の SOC1 認定日 | 2020-09-30 |
-| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | はい |
-| 最新の SOC2 認定日 | 2020-09-30 |
-| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | はい |
-| 最新の SOC3 認定日 | 2020-04-01 |
+| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 該当なし |
+| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | 不要 |
+| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | 不要 |
 | アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | 該当なし |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | はい |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | はい |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | はい |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 該当なし |
 | アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
-| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
+| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 不要 |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | 不要 |
 
@@ -137,20 +134,23 @@ qChange Software Solution, Inc. から Microsoft に提供される情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | はい |
-| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | はい |
+| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | 不要 |
 | アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | true |
-| アプリで上記のライブラリのいずれかを使用していない場合、どの認証ライブラリまたはライブラリが使用されますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
-| アプリでは、シナリオに対して最小限の特権アクセス許可が要求されますか? | はい |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
+| サポートされているポリシーの種類を一覧表示する | このようなサポートが認証に使用される MSAL ライブラリによって自動的に提供される範囲の条件付きアクセス ポリシー。  |
 | アプリは継続的アクセス評価 (CAE) をサポートしていますか? |  |
 | アプリは、コードに資格情報を格納していますか? |  |
-| Microsoft 365用のアプリとアドインでは、Microsoft Graphの外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | 不要 |
+| Microsoft 365用のアプリとアドインでは、Microsoft Graphの外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | はい |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graphを使用したデータ アクセス
 
 >|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure AD アプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 委任 | ユーザー 予定表の情報とアバター | c35f7dcf-1079-4510-a6ec-1f69659c98c1 32dbfdc9-7832-4969-ad02-77a4902fae35 |
+>| ChannelMember.Read.All | 委任 | 現在のチャネルのメンバーのユーザー ID と表示名。 アプリはこれを使用して、呼び出すチャネル メンバーの一覧をユーザーに表示します。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
+>| Chat.Read | 委任 |  収集または使用されるデータは何ですか? データを収集または使用するための正当な理由を追加します。 現在のチャットのメンバーのユーザー ID と表示名。 アプリはこれを使用して、通話するチャット メンバーの一覧をユーザーに表示します。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
+>| TeamMember.Read.All | 委任 | 現在のチームのメンバーのユーザー ID と表示名。 アプリはこれを使用して、呼び出すチーム メンバーの一覧をユーザーに提示します。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
+>| User.Read.All | 委任 |  収集または使用されるデータは何ですか? データを収集または使用するための正当な理由を追加します。 ユーザーのビジネス番号と携帯電話番号。 これは、これらの番号への電話を開始できるようにするために必要です。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
+>| openid | 委任 | ユーザーの承認トークン。アプリが自分の代わりに一覧表示されている他のGraph API エンドポイントにアクセスすることを承認します。 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
 
 >このアプリケーションには、追加の API はありません。
 
