@@ -1,19 +1,20 @@
 ---
 title: SalesTim のアプリケーション情報
 ms.author: elmalova
+manager: tonybal
 author: elenamalova
 ms.date: 06/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: SalesTim で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+description: SalesTim の使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報を確認します。
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9fce7871fc306b19170cddb2d1524ef7a82a01f4
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+ms.openlocfilehash: 9bf1f4057ad73ba33a8ae3ba0ff02c74851cdecf
+ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65222438"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65688122"
 ---
 # <a name="application-information-for-salestim-by-salestim"></a>SalesTim by SalesTim のアプリケーション情報
 
@@ -34,7 +35,7 @@ SalesTim から Microsoft に提供される情報:
 | アプリ名 | SalesTim |
 | ID | salestim.salestim |
 | パートナー会社名 | SalesTim |
-| パートナー Web サイトの URL | [https://salestim.com](https://salestim.com) |
+| パートナー Web サイトの URL | [https://nbold.co/](https://nbold.co/) |
 | プライバシー ポリシーの URL | [https://www.salestim.com/legal/privacy/](https://www.salestim.com/legal/privacy/) |
 | 使用条件の URL | [https://www.salestim.com/legal/tos/](https://www.salestim.com/legal/tos/) |
 
@@ -60,7 +61,7 @@ SalesTim から Microsoft に提供される情報:
 >| Mail.Send | 委任 | 通知日、受信者 (ID のみ)、要求 ID など、このアクションのメタデータを保存&#8217;。 | 承認ワークフロー中に、アプリが通知メールを送信できるようにします。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
 >| Sites.ReadWrite.All | 委任 | 一部の Azure サービスを使用してデータを格納しています。特に Azure および Cosmos DB 上の Redis | チームのプロビジョニング プロセス中に、アプリがチームに関連付けられているドライブ (ファイルとフォルダー) を管理できるようにします。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
 >| User.Read.All | 委任 | プロファイル データではなく、一部のユーザー ID のみを保存&#8217;。 | アプリで、任意のユーザーのプロファイル プロパティ、レポート、およびマネージャーの完全なセットを読み取ります。 これは、対象ユーザーのターゲット設定プロセス中に特に使用され、現在のユーザー プロファイルに基づいて一部のコンテンツをフィルター処理します。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| offline_access | 委任 | いいえ | アプリがユーザーとしていくつかのバックグラウンド操作とアクションを実行できるようにします。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
+>| offline_access | 委任 | 不要 | アプリがユーザーとしていくつかのバックグラウンド操作とアクションを実行できるようにします。 | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
 
 
 #### <a name="non-microsoft-services-used"></a>使用されていないMicrosoft サービス
@@ -132,7 +133,7 @@ SalesTim から Microsoft に提供される情報:
 | アプリでは、何を使用しないでくださいか? | ,<br/>- OAuth2 暗黙的なFlow(SPA に必要な場合を除く)<br/> |
 | アプリで Web API を公開していますか? | はい |
 | アクセス許可モデルでは、クライアント アプリが適切な同意を受け取った場合にのみ、呼び出しを成功させることができますか? | はい |
-| アプリでプレビュー API を使用していますか? | いいえ |
+| アプリでプレビュー API を使用していますか? | 不要 |
 | アプリで非推奨の API を使用していますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

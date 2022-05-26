@@ -3,17 +3,17 @@ title: Microsoft SharePoint Apps のセキュリティとコンプライアン�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/13/2022
+ms.date: 05/25/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft SharePoint アプリで利用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 41a841c6ca0476fd46db20aa8d740924d8512778
-ms.sourcegitcommit: 7eb24e5432be5d305fa7140c46d6d52c234fb621
+ms.openlocfilehash: b277edc0ba48acb512169eb9ef7f2cdedb8dbf51
+ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/14/2022
-ms.locfileid: "65420240"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65689652"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint Apps のセキュリティとコンプライアンス
 
@@ -27,6 +27,7 @@ Microsoft は、Microsoft 365開発者パートナーと協力して、組織が
 | [単価管理システム](./beyond-technologies-bid-management-system.md) | Beyond Technologies | **✓** |  |
 | [Bizagi Webparts](./bizagi-team-webparts.md) | Bizagi チーム | **✓** |  |
 | [予定表オーバーレイ](./cloudwell-calendar-overlay.md) | Cloudwell | **✓** |  |
+| [DocuSign for SharePoint Online](./docusign-inc-for-sharepoint-online.md) | DocuSign, Inc. | **✓** |  |
 | [SharePoint用 FormMachines コネクタ](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | ENTERPRISE DIGITAL MACHINES PTY LTD | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [HelloSign for SharePoint](./dropbox-inc-hellosign-for-sharepoint.md) | Dropbox Inc. | **✓** |  |
 | [いちがくBoards - デジタル ワークプレース](./ichicraft-bv-boards-your-digital-workplace.md) | 一品 b.v. | **✓** |  |
@@ -35,6 +36,7 @@ Microsoft は、Microsoft 365開発者パートナーと協力して、組織が
 | [Konnect eMail Parser](./konnect-email-parser.md) | Konnect eMail | **✓** |  |
 | [LifeWorks Viva コネクション](./lifeworks-inc-viva-connections.md) | Lifeworks Inc | **✓** |  |
 | [Lightning Tools Lightning の指揮者](./lightning-tools-conductor.md) | Lightning ツール | **✓** |  |
+| [officeatwork - テンプレート Chooser for SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Power BI コラボレーション](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
 | [SharePoint-sapiens Employee Training Management](./sharepointsapiens-employee-training-management.md) | SharePointSapiens | **✓** |  |
 | [SharePoint-sapiens イベント管理](./sharepointsapiens-event-management.md) | SharePointSapiens | **✓** |  |
