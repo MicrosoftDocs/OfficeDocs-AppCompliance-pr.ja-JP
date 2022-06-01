@@ -8,12 +8,12 @@ ms.service: certification
 ms.topic: how-to
 ms.date: 04/13/2022
 ms.custom: template-how-to
-ms.openlocfilehash: 6a18e64f3b75f6d197c9867830d0a061ce298584
-ms.sourcegitcommit: 0865622c8abffc11115e56d966729e5318d67ab9
+ms.openlocfilehash: b708f68ed5717d08b321f02f3ba09989a77fdf17
+ms.sourcegitcommit: e639149031755df8cd50c03341b6507146cc48b0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65608795"
+ms.lasthandoff: 06/01/2022
+ms.locfileid: "65793029"
 ---
 # <a name="automate-microsoft-365-certification-with-app-compliance-automation-tool-for-microsoft-365"></a>app Compliance Automation Tool for Microsoft 365を使用してMicrosoft 365認定を自動化する
 
@@ -158,7 +158,7 @@ ACAT を使用すると、コンプライアンス レポートの実行時の�
 - 左側の **アクセス制御 (IAM)** に移動します。 
 - [ **アクセス許可の表示** ] を選択して、アクセス許可を確認します。
     - 組織が [Azure 組み込みロール](/azure/role-based-access-control/built-in-roles)を使用している場合、ロールの割り当てには、次のロールの少なくとも 1 つが含まれている必要があります。
-        - [リソース ポリシー共同作成者](/azure/role-based-access-control/built-in-roles#resource-policy-contributor) と [セキュリティ管理者](/azure/role-based-access-control/built-in-roles#security-admin)
+        - [リソース ポリシー共同作成者](/azure/role-based-access-control/built-in-roles#resource-policy-contributor)と[セキュリティ 管理](/azure/role-based-access-control/built-in-roles#security-admin)
         - より高いアクセス許可を持つ他のロール[](/azure/role-based-access-control/built-in-roles#owner)の割り当て (所有者など)
 
 ### <a name="how-to-report-an-acat-issue-or-warning"></a>ACAT の問題または警告を報告する方法 
@@ -169,11 +169,15 @@ ACAT で問題が発生し、 [ACAT プライベート プレビュー プログ
     - Azure portalの上にある **[通知]** に移動 [します](https://portal.azure.com/?microsoft_azure_appcomplianceautomation_assettypeoptions=%7B%22AppComplianceAutomation%22:%7B%22options%22:%22%22%7D%7D)。
     - **アクティビティ ログで [その他のイベント] を選択する** 
     
-    :::image type="complex" source="../media/ACAT/getstarted-troubleshoot-activitylog.png" alt-text="ACAT 通知":::
-        アクティビティ ログに移動して、ACAT 通知を確認します。
-    :::image-end:::
     
-    - タイム **スパン** を適切に変更して、アクティビティ ログで ACAT エラーまたは警告を除外します。 
+    
+    - **ディレクトリ アクティビティ** に切り替える 
+    - **タイムスパン** を適切に変更し、**テナント リソース プロバイダー** を *Microsoft.AppComplianceAutomation* として設定して、アクティビティ ログで ACAT エラーまたは警告を除外します。 
+    
+    :::image type="complex" source="../media/ACAT/getstarted-troubleshoot-log-settings.png" alt-text="アクティビティ ログ":::
+        アクティビティ ログで ACAT ログを検索します。
+    :::image-end:::
+
     - ACAT エラーまたは警告を確認し、選択して詳細を取得し、詳細をファイルとして保存します。
     
 - サブスクリプションが ACAT によって正しく設定されているかどうかを確認します。 
