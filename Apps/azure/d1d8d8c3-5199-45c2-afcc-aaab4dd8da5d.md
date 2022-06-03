@@ -3,17 +3,17 @@ title: d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d の ID 情報のAzure アプリ
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/01/2022
+ms.date: 06/02/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d のすべての利用可能なセキュリティとコンプライアンス情報。
-ms.openlocfilehash: d9403355159a837d12c89ac7f07ac417f72a7e0b
-ms.sourcegitcommit: bf531e5ed502c5940a365322da320749873267a4
+ms.openlocfilehash: d62d3e529dd8e9e2d4388481cc3222ae46b532a4
+ms.sourcegitcommit: 4ceff6ef6aa0bae1075da646773b852970bb4049
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2022
-ms.locfileid: "65847988"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "65868118"
 ---
 # <a name="azure-app-id-d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d"></a>Azure アプリ ID: d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d
 
