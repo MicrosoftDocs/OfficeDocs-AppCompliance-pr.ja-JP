@@ -1,21 +1,21 @@
 ---
-title: Azure アプリ ID Information for 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc
+title: 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc の Azure アプリ ID 情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/02/2022
+ms.date: 06/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc のすべての利用可能なセキュリティとコンプライアンス情報。
-ms.openlocfilehash: 9c3a3cb4b4e55dc3cc342a6540d7bea26493c67d
-ms.sourcegitcommit: 4ceff6ef6aa0bae1075da646773b852970bb4049
+ms.openlocfilehash: f22b9c395fdd703bab37aa3d0623494fcb13e5e1
+ms.sourcegitcommit: 238dca97a9cdafa78d63e74993ddfe91423fde4d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "65865538"
+ms.lasthandoff: 06/07/2022
+ms.locfileid: "65932054"
 ---
-# <a name="azure-app-id-3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc"></a>Azure アプリ ID: 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc
+# <a name="azure-app-id-3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc"></a>Azure App ID: 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc
 
 
 ### <a name="apps-associated-with-this-id"></a>この ID に関連付けられているアプリ:
