@@ -1,21 +1,21 @@
 ---
-title: Azure アプリ ID Information for 5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9
+title: 5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9 の Azure アプリ ID 情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/02/2022
+ms.date: 06/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9 のすべての利用可能なセキュリティとコンプライアンス情報。
-ms.openlocfilehash: c8a64eaa8683d06507024bf0be08585f4a35d6dc
-ms.sourcegitcommit: 4ceff6ef6aa0bae1075da646773b852970bb4049
+ms.openlocfilehash: 506e177d5f81f4b6cf7908fc267e44b40dcb8b5a
+ms.sourcegitcommit: 238dca97a9cdafa78d63e74993ddfe91423fde4d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "65865798"
+ms.lasthandoff: 06/07/2022
+ms.locfileid: "65935734"
 ---
-# <a name="azure-app-id-5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9"></a>Azure アプリ ID: 5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9
+# <a name="azure-app-id-5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9"></a>Azure App ID: 5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9
 
 
 ### <a name="apps-associated-with-this-id"></a>この ID に関連付けられているアプリ:
