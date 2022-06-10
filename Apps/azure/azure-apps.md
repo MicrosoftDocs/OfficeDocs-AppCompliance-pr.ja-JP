@@ -1,25 +1,25 @@
 ---
-title: Azure App ID のセキュリティとコンプライアンス - すべてのアプリ
+title: Azure アプリ ID のセキュリティとコンプライアンス - すべてのアプリ
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/08/2022
+ms.date: 06/09/2022
 ms.topic: article
 ms.service: attestation
-description: すべての Azure App ID で使用可能なすべてのセキュリティ情報とコンプライアンス情報。
+description: すべてのAzure アプリ ID で使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 5d6ccac4a607a1e8f65daf9491ff3c82da7b7ccd
-ms.sourcegitcommit: 6f2b3870f4d541dcbd5bb8312c05bfc2ea351a77
+ms.openlocfilehash: db27a71ac4bb09e82f536462ba979385fcdd3328
+ms.sourcegitcommit: 6e1bedf47a32902e15f956a9492d8f5ec44a9650
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/09/2022
-ms.locfileid: "65967217"
+ms.locfileid: "65975586"
 ---
-# <a name="azure-app-ids-security-and-compliance"></a>Azure App ID のセキュリティとコンプライアンス
+# <a name="azure-app-ids-security-and-compliance"></a>Azure アプリ ID のセキュリティとコンプライアンス
 
-Microsoft は Microsoft 365 開発者パートナーと協力して、組織が使用する Azure App ID とアドインに関する決定を迅速かつ通知するために必要な情報を提供します。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
+Microsoft は、Microsoft 365開発者パートナーと協力して、組織が使用するAzure アプリ ID とアドインに関する決定を迅速かつ通知するために必要な情報を提供します。 このセキュリティ、データ処理、およびコンプライアンス情報は、組織がこれらのアプリを使用する際のリスクを評価および管理するのを支援することを目的としています。
 
-| **Azure App ID** | **パブリッシャーの証明** | **認定** |
+| **Azure アプリ ID** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:-------------:|
 | [00485db5-81b3-4299-833a-8d6c366d0ac0](./00485db5-81b3-4299-833a-8d6c366d0ac0.md) | **✓** |  |
 | [00738e07-f9a4-4bf5-b6f9-851ec7ea31d5](./00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md) | **✓** |  |
