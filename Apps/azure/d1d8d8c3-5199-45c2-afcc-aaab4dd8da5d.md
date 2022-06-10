@@ -1,21 +1,21 @@
 ---
-title: d1d8d8c3-5199-45c2-afcc-aaab4ddd8da5d の Azure アプリ ID 情報
+title: d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d の ID 情報のAzure アプリ
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/08/2022
+ms.date: 06/09/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d のすべての利用可能なセキュリティとコンプライアンス情報。
-ms.openlocfilehash: 5e6c5955c48f4d46be4a0d9aa327814fc9e0b54a
-ms.sourcegitcommit: 6f2b3870f4d541dcbd5bb8312c05bfc2ea351a77
+ms.openlocfilehash: dcd7aa8af3c3f8e428c77ff88856dc3e8390b5dc
+ms.sourcegitcommit: 6e1bedf47a32902e15f956a9492d8f5ec44a9650
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/09/2022
-ms.locfileid: "65969597"
+ms.locfileid: "65981971"
 ---
-# <a name="azure-app-id-d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d"></a>Azure App ID: d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d
+# <a name="azure-app-id-d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d"></a>Azure アプリ ID: d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d
 
 
 ### <a name="apps-associated-with-this-id"></a>この ID に関連付けられているアプリ:
