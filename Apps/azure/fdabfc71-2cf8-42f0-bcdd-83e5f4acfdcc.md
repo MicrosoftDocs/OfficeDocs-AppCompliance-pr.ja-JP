@@ -3,17 +3,17 @@ title: Azure アプリ id Information for8-42f0-bcdd-83e5f4acfdcc
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/06/2022
+ms.date: 07/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: All available security and compliance information information for fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.
-ms.openlocfilehash: 48daea086290b775b6da283226339f6ba78574d8
-ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
+ms.openlocfilehash: bb3b215ba0a6d9a5db5f57a202b2198f48d0bb91
+ms.sourcegitcommit: b752351d112ecc2ea7f539d200e6638a6a3034e5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/06/2022
-ms.locfileid: "66655765"
+ms.lasthandoff: 07/07/2022
+ms.locfileid: "66677302"
 ---
 # <a name="azure-app-id-fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc"></a>Azure アプリ ID: fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc
 
