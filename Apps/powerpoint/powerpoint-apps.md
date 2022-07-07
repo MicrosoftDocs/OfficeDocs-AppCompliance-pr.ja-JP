@@ -3,17 +3,17 @@ title: Microsoft PowerPoint Apps のセキュリティとコンプライアン�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/23/2022
+ms.date: 07/06/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft PowerPoint Apps で使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 9fde0c50255d870852e35601c103824e6a962e5b
-ms.sourcegitcommit: cede428f2a23bd3060f5506f270b40b327b02769
+ms.openlocfilehash: 220a7253afc3c28a0cd74606acbb24149977b146
+ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66545746"
+ms.lasthandoff: 07/06/2022
+ms.locfileid: "66652458"
 ---
 # <a name="microsoft-powerpoint-apps-security-and-compliance"></a>Microsoft PowerPoint Apps のセキュリティとコンプライアンス
 
@@ -29,6 +29,6 @@ Microsoft は Microsoft 365 開発者パートナーと協力して、組織が�
 | [officeatwork - Office 用 Content Chooser](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork - Office 用 Image Chooser](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork - Office 用スライド選択子](./officeatwork-officeatworkslide-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork - Office 用テンプレート選択子](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork - Office 用テンプレート選択子 - M365](./officeatwork-officeatworktemplate-chooser-for-office-m365.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Showmaster](./cherryware-showmaster.md) | cherryware | **✓** |  |
 | [Showmaster (ヘルパー プラグイン)](./cherryware-showmaster-helper-plugin.md) | cherryware | **✓** |  |
