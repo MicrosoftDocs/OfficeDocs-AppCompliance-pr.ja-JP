@@ -3,17 +3,17 @@ title: Microsoft Teams アプリのセキュリティとコンプライアンス
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/06/2022
+ms.date: 07/07/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: 927a0c52af78e2e83c0160789e9403db603ebe7d
-ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
+ms.openlocfilehash: 57ab09069315b3193da58102005b0d9b5220cf37
+ms.sourcegitcommit: b752351d112ecc2ea7f539d200e6638a6a3034e5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/06/2022
-ms.locfileid: "66648175"
+ms.lasthandoff: 07/07/2022
+ms.locfileid: "66679682"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -141,7 +141,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Cultr Connect](./cultr-connect.md) | Cultr | **✓** |  |
 | [Culture Amp](./culture-amp.md) | Culture Amp | **✓** |  |
 | [Cyberday](./digiturvamalli-cyberday.md) | Digiturvamalli | **✓** |  |
-| [CyCX Contact Center](./cytrack-cycxcontact-centre.md) | CyTrack | **✓** |  |
+| [CyCX  Contact Centre](./cytrack-cycxcontact-centre.md) | CyTrack | **✓** |  |
 | [CyDesk](./cytrack-cydesk.md) | CyTrack | **✓** |  |
 | [CyRecord](./cytrack-cyrecord.md) | CyTrack | **✓** |  |
 | [CyReport](./cytrack-cyreport.md) | CyTrack | **✓** |  |
