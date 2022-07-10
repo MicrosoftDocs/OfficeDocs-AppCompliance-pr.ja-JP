@@ -1,28 +1,27 @@
 ---
-title: Theta Lake によるビデオの Theta Lake &amp; 記録コンプライアンスTeamsアプリケーション情報
+title: Theta Lake による Teams Video の Theta Lake レコーディング &amp; コンプライアンスのアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/16/2022
+ms.date: 07/07/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
-description: Teams ビデオの Theta Lake Recording Compliance&amp;、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 149e2a12bef3cbcbb19e87813ba8d52a2f93a110
-ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
+certification_type: certified
+description: Teams Video の Theta Lake Recording &amp; Compliance に関するすべての利用可能なセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 12a26943a19f3115db6b95e5bd96f1de4abcc0e6
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2022
-ms.locfileid: "64463936"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66705849"
 ---
-# <a name="theta-lake-recording-amp-compliance-for-teams-video"></a>Theta Lake Recording Compliance &amp; for Teams ビデオ
+# <a name="theta-lake-recording-amp-compliance-for-teams-video"></a>Theta Lake Recording &amp; Compliance for Teams Video
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者による最終更新日: 2022 年 3 月 7 日</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>開発者が最終更新日: 2022 年 3 月 29 日</p>
 
-* <a href="https://appsource.microsoft.com/product/web-apps/thetalake.thetalake_recording_and_compliance_for_teams" target="_blank">AppSource での表示</a>
+* <a href="https://appsource.microsoft.com/product/web-apps/thetalake.thetalake_recording_and_compliance_for_teams" target="_blank">AppSource で表示する</a>
 
 ::: zone pivot="general"
 
@@ -30,18 +29,18 @@ ms.locfileid: "64463936"
 
 Theta Lake から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | Theta Lake Recording Compliance &amp; for Teams ビデオ |
+| アプリ名 | Theta Lake Recording &amp; Compliance for Teams Video |
 | ID | thetalake.thetalake_recording_and_compliance_for_teams |
 | パートナー会社名 | Theta Lake |
 | 会社の Web サイト | [https://thetalake.com](https://thetalake.com) |
-| アプリの利用規約 | [https://thetalake.com/privacy-policy](https://thetalake.com/privacy-policy) |
-| アプリのコア機能 | 音声会議とビデオ会議の記録、アーカイブ、コンプライアンス、リスクMicrosoft Teams軽減 |
-| 会社の本社所在地 | アメリカ |
+| アプリの使用条件 | [https://thetalake.com/privacy-policy](https://thetalake.com/privacy-policy) |
+| アプリのコア機能 | Microsoft Teams の音声およびビデオ会議の記録、アーカイブ、コンプライアンス、リスク軽減策 |
+| 会社の本社の場所 | 米国 オブ アメリカ |
 | アプリ情報ページ | |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | ハイブリッド |
-| アプリで使用するホスティング クラウド プロバイダー | Azure |
+| アプリで使用するホスティング クラウド プロバイダーはどれですか? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,21 +50,20 @@ Theta Lake から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールについて、Theta Lake によって提供されています。
+この情報は、このアプリが組織のデータを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて、Theta Lake から提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
-| アプリで処理されるデータは何ですか? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
-| アプリは TLS 1.1 以上をサポートしていますか? | はい |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? | Microsoft ビデオ、Microsoft Teams チャット |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | アメリカ |
-| データの借入および廃棄プロセスが確立されていますか? | はい |
-| アカウントの終了後にデータが保持される期間 | 30 日未満 |
+| アプリによって処理されるデータは何ですか? | Microsoft Video、Microsoft Teams チャット |
+| アプリは TLS 1.1 以降をサポートしていますか? | はい |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データは格納されますか? | はい |
+| データベースに格納されているデータは何ですか? | Microsoft Video、Microsoft Teams チャット |
+| 基になるインファ構造が Microsoft 顧客データを処理または格納する場合、このデータは地理的にどこに保存されますか? | 米国 オブ アメリカ |
+| データの借用と廃棄プロセスが確立されていますか? | はい |
+| アカウントの終了後、データはどのくらいの期間保持されますか? | 30 日間未満 |
 | データ アクセス管理プロセスが確立されていますか? | はい |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | いいえ |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -73,31 +71,31 @@ Theta Lake から Microsoft に提供される情報:
 
 ::: zone pivot="security"
 
-次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) カタログからの情報が次に表示されます。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリで年間侵入テストを実行しますか? | はい |
-| アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | はい |
-| 環境で従来のマルウェア対策保護またはアプリケーションコントロールを使用していますか? | ApplicationControls |
-| セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? | はい |
-| パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? | はい |
-| パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
-| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | いいえ |
-| アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | はい |
+| アプリで年間侵入テストを実行していますか? | はい |
+| バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | はい |
+| お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | ApplicationControls |
+| セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? | はい |
+| パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? | はい |
+| パッチ ポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
+| お使いの環境にサポートされていないオペレーティング システムまたはソフトウェアはありますか? | いいえ |
+| アプリと、それをサポートするインファ構造に対して四半期ごとの脆弱性スキャンを行いますか? | はい |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
-| 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
-| 追加のユーザーが、元の開発者によって実稼働環境に提出されたコード変更要求を確認および承認していますか? | はい |
+| 変更要求を運用環境にデプロイする前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスはありますか? | はい |
+| 追加のユーザーは、元の開発者によって運用環境に送信されたすべてのコード変更要求を確認して承認していますか? | はい |
 | セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | はい |
-| 多要素認証 (MFA) が有効になっているのは、次の場合です。 | 資格情報、CodeRepositories、DNSManagement |
-| 従業員アカウントのプロビジョニング、変更、削除のプロセスが確立されていますか? | はい |
-| アプリをサポートするネットワーク境界の境界の境界に侵入検出と防御 (IDPS) ソフトウェアが展開されていますか? | はい |
-| アプリをサポートしているすべてのシステム コンポーネントにイベント ログが設定されていますか? | はい |
-| すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動ツールによって定期的に確認されますか? | はい|
-| セキュリティ イベントが検出されると、アラートが従業員に自動的に送信され、トリアージが発生しますか? | はい |
-| 正式な情報セキュリティリスク管理プロセスが確立されていますか? | はい |
-| 正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? |  |
-| 検出から 72 時間以内に、侵害の影響を受けた監督当局や個人にアプリまたはサービスのデータ侵害を報告しますか?| |
+| 多要素認証 (MFA) が有効になっているのは次のとおりです。 | 資格情報、CodeRepositories、DNSManagement |
+| 従業員アカウントのプロビジョニング、変更、削除のための確立されたプロセスはありますか? | はい |
+| アプリをサポートするネットワーク境界の境界に侵入検出と防止 (IDPS) ソフトウェアがデプロイされていますか? | はい |
+| アプリをサポートするすべてのシステム コンポーネントにイベント ログ記録を設定していますか? | はい |
+| すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動化されたツールによって定期的に確認されますか? | はい |
+| セキュリティ イベントが検出されると、トリアージのために従業員にアラートが自動的に送信されますか? | はい |
+| 正式な情報セキュリティ リスク管理プロセスが確立されていますか? | はい |
+| 正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? | はい |
+| 検出から 72 時間以内に、アプリまたはサービスのデータ侵害を監督機関や違反の影響を受けた個人に報告しますか? | はい |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -105,28 +103,26 @@ Theta Lake から Microsoft に提供される情報:
 
 ::: zone pivot="compliance"
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 該当なし |
-| 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | はい |
-| どの SOC 2 認定を取得しましたか? |  type2 |
-| 最新の SOC2 認定日 |  2021-08-31 |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | いいえ |
-| 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | はい |
+| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 該当なし |
+| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 該当なし |
+| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | はい |
+| どの SOC 2 認定を取得しましたか? | type2 |
+| 最新の SOC2 認定日 | 2021-08-31 |
+| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | いいえ |
+| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | はい |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
+| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 該当なし |
+| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? | いいえ |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | いいえ |
+| アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -134,19 +130,19 @@ Theta Lake から Microsoft に提供される情報:
 
 ::: zone pivot="privsection"
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
-| アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | はい |
+| GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
+| アプリには、顧客データの収集、使用、共有、および格納方法を説明する外部向けのプライバシーに関する通知がありますか? | はい |
 | プライバシー ポリシーの URL | https://thetalake.com/privacy-policy/ |
-| アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | いいえ |
-| アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
-| 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
+| アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | いいえ |
+| アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
+| 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
 | アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
-| アプリには、要求に応じて個人の個人データを削除する機能がありますか? | はい |
+| アプリには、要求に応じて個人の個人データを削除する機能はありますか? | はい |
 | アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | はい |
 | アプリは個人に個人データを修正または更新する機能を提供しますか? | 該当なし |
-| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | はい |
+| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーのレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | はい |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -154,26 +150,61 @@ Theta Lake から Microsoft に提供される情報:
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | はい |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | はい |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | 該当なし |
-| アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
+| アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | はい |
+| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | はい |
+| アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | 該当なし |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
-| アプリは継続的アクセス評価 (CAE) をサポートしています | はい |
-| アプリはコードに資格情報を保存しますか? | いいえ |
-| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | いいえ |
+| アプリは継続的アクセス評価 (CAE) をサポートしていますか? | はい |
+| アプリは、コードに資格情報を格納していますか? | いいえ |
+| Microsoft 365 用のアプリとアドインでは、Microsoft Graph の外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | いいえ |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
->|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
+>|   **Graph のアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure AD アプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calls.JoinGroupCall.All | 委任 | Graph API は、呼び出しのレコードを受信するためにアクセスする必要があります | [1cc8eecf-56f3-4137-a0fe-4b0466ca0677](../azure/1cc8eecf-56f3-4137-a0fe-4b0466ca0677.md) |
+>| Calls.JoinGroupCall.All | 委任 | Graph APIは、通話のレコードを受信するためにアクセスする必要があります | [1cc8eecf-56f3-4137-a0fe-4b0466ca0677](../azure/1cc8eecf-56f3-4137-a0fe-4b0466ca0677.md) |
 
->このアプリケーションには、追加の API が含まれる必要があります。
+>このアプリケーションには、追加の API はありません。
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>認定情報
+
+| **Control** | **Microsoft 365 認定結果** |
+|:------------|:---------------------------------------|
+| [**アプリケーションのセキュリティ**](../docs/certification-submission-guide.md#application-security) | **該当なし** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入テスト | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性評価レビュー (DAST/SAST/ペネトレーション テスト) | 該当なし |
+| [**運用上のセキュリティ**](../docs/certification-submission-guide.md#operational-security) | **該当なし** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア対策 - ウイルス対策 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア対策 - アプリケーション制御 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - リスクのランク付け | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - パッチ適用 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性スキャン | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - ファイアウォール (または同等のテクノロジ) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - Web アプリケーション ファイアウォール (WAF) (省略可能) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;コントロールの変更 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティで保護されたソフトウェア開発/展開 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;アカウント管理 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入の検出と防止 (省略可能) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント ログ | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;レビュー (データのログ記録) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント アラート | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;情報セキュリティ リスク管理 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;インシデント対応 | 該当なし |
+| [**データ処理のセキュリティ &amp; プライバシー**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **該当なし** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;転送中のデータ | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;保存データ | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データの保持と破棄 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データ アクセス管理 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | N/A |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

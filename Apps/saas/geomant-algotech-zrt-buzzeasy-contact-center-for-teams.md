@@ -1,47 +1,46 @@
 ---
-title: Zrt によるユーザー向け Buzzeasy contact Center TeamsアプリケーションGeomant-Algotech。
+title: Geomant-Algotech Zrt による Teams 用のバジーアシー 連絡先センターのアプリケーション情報。
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
 ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
-certification_type: attested
-description: Teams 用の Buzzeasy Contact Center、そのデータ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、および CSA STAR レジストリのセキュリティ/コンプライアンス情報に関して利用可能なすべてのセキュリティおよびコンプライアンス情報。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 10c37808d1ec33fb38927294c104c50a98dda001
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+certification_type: certified
+description: Teams 用のBuzzeasy Contact Center で利用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 4388c1e72e3504ecf4d75aa59d2cfb75d3071239
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63546895"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66707334"
 ---
-# <a name="buzzeasy-contact-center-for-teams"></a>Buzzeasy Contact Center for Teams
+# <a name="buzzeasy-contact-center-for-teams"></a>Teams 用のBuzzeasy 連絡先センター
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>開発者が最終更新日: 2021 年 11 月 23 日</p>
 
-* <a href="https://appsource.microsoft.com/product/web-apps/geomant.buzzeasy_teams_contact_center" target="_blank">AppSource での表示</a>
+* <a href="https://appsource.microsoft.com/product/web-apps/geomant.buzzeasy_teams_contact_center" target="_blank">AppSource で表示する</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Zrt によって提供Geomant-Algotech情報。 Microsoft に:
+Geomant-Algotech Zrt によって提供される情報。 Microsoft に対して:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | Buzzeasy Contact Center for Teams |
+| アプリ名 | Teams 用のBuzzeasy 連絡先センター |
 | ID | geomant.buzzeasy_teams_contact_center |
-| パートナー会社名 | Geomant-Algotech Zrt. |
+| パートナー会社名 | Zrt Geomant-Algotech。 |
 | 会社の Web サイト | [https://www.buzzeasy.com](https://www.buzzeasy.com) |
-| アプリの利用規約 | [https://docs.geomant.com/buzzeasy/portal/Buzzeasy_Service_L...](https://docs.geomant.com/buzzeasy/portal/Buzzeasy_Service_Level_Agreement.html) |
-| アプリのコア機能 | 連絡先センター ソリューションのMicrosoft Teams |
-| 会社の本社所在地 | ハンガリー |
+| アプリの使用条件 | [https://docs.geomant.com/buzzeasy/portal/Buzzeasy_Service_L...](https://docs.geomant.com/buzzeasy/portal/Buzzeasy_Service_Level_Agreement.html) |
+| アプリのコア機能 | Microsoft Teams の Contact Center ソリューション |
+| 会社の本社の場所 | ハンガリー |
 | アプリ情報ページ | [https://www.geomant.com/buzzeasy-contact-centre-for-microso...](https://www.geomant.com/buzzeasy-contact-centre-for-microsoft-teams) |
-| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Iaas |
-| アプリで使用するホスティング クラウド プロバイダー | Azure |
+| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | ハイブリッド |
+| アプリで使用するホスティング クラウド プロバイダーはどれですか? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,21 +50,14 @@ Zrt によって提供Geomant-Algotech情報。 Microsoft に:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は、Zrt のGeomant-Algotechされています。 このアプリが組織データを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールについて。
+この情報は、Geomant-Algotech Zrt によって提供されています。 このアプリが組織のデータを収集して格納する方法と、アプリが収集するデータに対して組織が持つコントロールについて説明します。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
-| アプリで処理されるデータは何ですか? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
-| アプリは TLS 1.1 以上をサポートしていますか? | はい |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データが格納されていますか? | はい |
-| データベースに格納されているデータは何ですか? | Microsoft JWT User and refresh Token, Microsoft Application ID, App Secret, M365 E メール コンテンツ from Graph API |
-| 基になるインファ構造が Microsoft 顧客データを処理または保存する場合、このデータは地理的にどこに保存されますか? | アイルランド |
-| データの借入および廃棄プロセスが確立されていますか? | はい |
-| アカウントの終了後にデータが保持される期間 | 90days 未満 |
-| データ アクセス管理プロセスが確立されていますか? | はい |
-| 顧客データまたは顧客コンテンツを第三者またはサブプロセッサに転送しますか? | 不要 |
-| Microsoft カスタマー データを共有するサードパーティ サービスとデータ共有契約が締結されていますか? |  |
+| アプリによって処理されるデータは何ですか? | Microsoft JWT ユーザーと更新トークン、Microsoft アプリケーション ID、アプリ シークレット、M365 Graph APIからのメール コンテンツ |
+| アプリは TLS 1.1 以降をサポートしていますか? | はい |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データは格納されますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -73,31 +65,31 @@ Zrt によって提供Geomant-Algotech情報。 Microsoft に:
 
 ::: zone pivot="security"
 
-次[に、Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security)カタログの情報を示します。
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) カタログからの情報が次に表示されます。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリで年間侵入テストを実行しますか? | はい |
-| アプリには、バックアップと復元の戦略を含む、文書化された障害復旧計画がありますか? | はい |
-| 環境で従来のマルウェア対策保護またはアプリケーションコントロールを使用していますか? | TraditionalAntiMalware |
-| セキュリティの脆弱性をインデントおよびリスクランク付けするプロセスが確立されていますか? | 不要 |
-| パッチの適用に関するサービス レベル契約 (SLA) を管理するポリシーはありますか? | はい |
-| パッチポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
-| 環境にサポートされていないオペレーティング システムやソフトウェアはありますか? | 不要 |
-| アプリとアプリをサポートするインファ構造で四半期ごとに脆弱性スキャンを実行しますか? | はい |
+| アプリで年間侵入テストを実行していますか? | はい |
+| バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | はい |
+| お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | TraditionalAntiMalware |
+| セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? | いいえ |
+| パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? | はい |
+| パッチ ポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
+| お使いの環境にサポートされていないオペレーティング システムまたはソフトウェアはありますか? | いいえ |
+| アプリと、それをサポートするインファ構造に対して四半期ごとの脆弱性スキャンを行いますか? | はい |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
-| 変更要求が運用に展開される前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスがありますか? | はい |
-| 追加のユーザーが、元の開発者によって実稼働環境に提出されたコード変更要求を確認および承認していますか? | はい |
+| 変更要求を運用環境にデプロイする前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスはありますか? | はい |
+| 追加のユーザーは、元の開発者によって運用環境に送信されたすべてのコード変更要求を確認して承認していますか? | はい |
 | セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | はい |
-| 多要素認証 (MFA) が有効になっているのは、次の場合です。 | CodeRepositories, DNSManagement, Credential |
-| 従業員アカウントのプロビジョニング、変更、削除のプロセスが確立されていますか? | はい |
-| アプリをサポートするネットワーク境界の境界の境界に侵入検出と防御 (IDPS) ソフトウェアが展開されていますか? | 該当なし |
-| アプリをサポートしているすべてのシステム コンポーネントにイベント ログが設定されていますか? | はい |
-| すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動ツールによって定期的に確認されますか? | はい|
-| セキュリティ イベントが検出されると、アラートが従業員に自動的に送信され、トリアージが発生しますか? | はい |
-| 正式な情報セキュリティリスク管理プロセスが確立されていますか? | はい |
-| 正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? |  |
-| 検出から 72 時間以内に、侵害の影響を受けた監督当局や個人にアプリまたはサービスのデータ侵害を報告しますか?| |
+| 多要素認証 (MFA) が有効になっているのは次のとおりです。 | CodeRepositories、DNSManagement、Credential |
+| 従業員アカウントのプロビジョニング、変更、削除のための確立されたプロセスはありますか? | はい |
+| アプリをサポートするネットワーク境界の境界に侵入検出と防止 (IDPS) ソフトウェアがデプロイされていますか? | 該当なし |
+| アプリをサポートするすべてのシステム コンポーネントにイベント ログ記録を設定していますか? | はい |
+| すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動化されたツールによって定期的に確認されますか? | はい |
+| セキュリティ イベントが検出されると、トリアージのために従業員にアラートが自動的に送信されますか? | はい |
+| 正式な情報セキュリティ リスク管理プロセスが確立されていますか? | はい |
+| 正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? | はい |
+| 検出から 72 時間以内に、アプリまたはサービスのデータ侵害を監督機関や違反の影響を受けた個人に報告しますか? | はい |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -105,28 +97,24 @@ Zrt によって提供Geomant-Algotech情報。 Microsoft に:
 
 ::: zone pivot="compliance"
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリは、健康保険の移植性および会計法 (HIPAA) に準拠していますか? | 該当なし |
-| アプリは、正常性情報信頼アライアンス、共通セキュリティ フレームワーク (HITRUST CSF) に準拠していますか? | 該当なし |
-| アプリはサービス組織のコントロール (SOC 1) に準拠していますか? | 不要 |
-| 最新の SOC1 認定日 |   |
-| アプリはサービス組織のコントロール (SOC 2) に準拠していますか? | 不要 |
-| どの SOC 2 認定を取得しましたか? | |
-| 最新の SOC2 認定日 | |
-| アプリは Service Organization Controls (SOC 3) に準拠していますか? | 不要 |
-| 最新の SOC3 認定日 | |
-| アプリとそのサポート環境に対して、PCI DSS の年次評価を実行しますか。 | 該当なし |
+| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 該当なし |
+| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | いいえ |
+| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | いいえ |
+| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | 該当なし |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシー法 (FERPA) に準拠していますか? | 該当なし |
-| アプリは子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
-| アプリは、ユーザー法 (SOX) Sarbanes-Oxley準拠していますか? | 該当なし |
+| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 該当なし |
+| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? | 該当なし |
-| アプリはクラウド セキュリティ アライアンス (CSA Star) の認定を受けていますか? | 不要 |
+| アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -134,19 +122,19 @@ Zrt によって提供Geomant-Algotech情報。 Microsoft に:
 
 ::: zone pivot="privsection"
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| GDPR または他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
-| アプリには、顧客データの収集、使用、共有、および保存方法を示す外部向けプライバシー通知がありますか? | はい |
+| GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
+| アプリには、顧客データの収集、使用、共有、および格納方法を説明する外部向けのプライバシーに関する通知がありますか? | はい |
 | プライバシー ポリシーの URL | https://www.geomant.com/privacy-policy |
-| アプリは、法的な影響や同様の影響を与える可能性があるプロファイリングを含む、自動化された意思決定を実行しますか? | 不要 |
-| アプリは、プライバシーに関する通知 (マーケティング、分析) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
-| 機密データの特別なカテゴリ (人種的または民族的な起源、政治的意見、宗教的または哲学的信念、遺伝的または生体認証データ、健康データ) または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
+| アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | いいえ |
+| アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
+| 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
 | アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
-| アプリには、要求に応じて個人の個人データを削除する機能がありますか? | はい |
+| アプリには、要求に応じて個人の個人データを削除する機能はありますか? | はい |
 | アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | はい |
 | アプリは個人に個人データを修正または更新する機能を提供しますか? | はい |
-| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | はい |
+| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーのレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | はい |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -154,33 +142,68 @@ Zrt によって提供Geomant-Algotech情報。 Microsoft に:
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリケーションは Microsoft Identity Platform (Azure AD) と統合してシングル サインオンや API アクセスなどを行いますか。 | はい |
-| 統合チェックリストの概要に示されている適用可能なすべてのベスト プラクティスを確認し、Microsoft ID プラットフォームしましたか? | 不要 |
-| アプリで認証に MSAL (Microsoft 認証ライブラリ) または Microsoft Identity Web の最新バージョンを使用していますか? | 該当なし |
-| アプリで上記のライブラリのいずれかを使用しない場合、どの認証ライブラリまたはライブラリを使用しますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
-| アプリは継続的アクセス評価 (CAE) をサポートしています | 不要 |
-| アプリはコードに資格情報を保存しますか? | 不要 |
-| アプリとアドインは、microsoft Microsoft 365外部で追加の Microsoft API を使用Graph。 アプリまたはアドインで追加の Microsoft API を使用していますか? | 不要 |
+| アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | はい |
+| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | いいえ |
+| アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | 該当なし |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは継続的アクセス評価 (CAE) をサポートしていますか? | いいえ |
+| アプリは、コードに資格情報を格納していますか? | いいえ |
+| Microsoft 365 用のアプリとアドインでは、Microsoft Graph の外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | いいえ |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
->|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure ADアプリ ID** |
+>|   **Graph のアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure AD アプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Mail.Send | アプリケーション | サービス ユーザーに代わって招待状を送信する。 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](../azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) |
+>| Mail.Send | アプリケーション | サービス ユーザーに代わって招待を送信する。 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](../azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) |
 >| Presence.Read.All | 委任 | 他のエージェントのエージェント/ユーザーの状態を表示し、エージェントの状態と同期します。 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](../azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) |
 >| User.Read | 委任 | 登録用の管理者のユーザー 一覧を表示します。 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](../azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) |
->| User.Read.All | 委任 | 管理者/ユーザー インターフェイスAAD情報を表示する | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](../azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) |
->| User.ReadBasic.All | 委任 | 管理者/ユーザー インターフェイスAAD情報を表示する | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](../azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) |
->| Mail.ReadWrite | アプリケーション | エージェントが Agent ユーザー インターフェイスを介して特定の (共有) メールボックスを読み取り/書き込みできます。 (特定のメールボックスにフィルター処理できます)。 | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](../azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e.md) |
+>| User.Read.All | 委任 | 管理者/ユーザー インターフェイスにユーザー AAD 情報を表示する | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](../azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) |
+>| User.ReadBasic.All | 委任 | 管理者/ユーザー インターフェイスにユーザー AAD 情報を表示する | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](../azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) |
+>| Mail.ReadWrite | アプリケーション | エージェントユーザー インターフェイスを使用して、エージェントが特定の (共有) メールボックスを読み取り/書き込みできるようにします。 (特定のメールボックスにフィルターを適用できます。) | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](../azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e.md) |
 >| Mail.Send | アプリケーション | 共有メールボックスに代わって電子メールを送信する。 | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](../azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e.md) |
 >| User.Read | 委任 | サインインおよびユーザー プロファイルの読み取り | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](../azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e.md) |
 
->このアプリケーションには、追加の API が含まれる必要があります。
+>このアプリケーションには、追加の API はありません。
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>認定情報
+
+| **Control** | **Microsoft 365 認定結果** |
+|:------------|:---------------------------------------|
+| [**アプリケーションのセキュリティ**](../docs/certification-submission-guide.md#application-security) | **該当なし** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入テスト | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性評価レビュー (DAST/SAST/ペネトレーション テスト) | 該当なし |
+| [**運用上のセキュリティ**](../docs/certification-submission-guide.md#operational-security) | **FAIL** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア対策 - ウイルス対策 | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア対策 - アプリケーション制御 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - リスクのランク付け | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - パッチ適用 | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性スキャン | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - ファイアウォール (または同等のテクノロジ) | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - Web アプリケーション ファイアウォール (WAF) (省略可能) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;コントロールの変更 | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティで保護されたソフトウェア開発/展開 | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;アカウント管理 | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入の検出と防止 (省略可能) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント ログ | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;レビュー (データのログ記録) | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント アラート | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;情報セキュリティ リスク管理 | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;インシデント対応 | スコープ内 |
+| [**データ処理のセキュリティ &amp; プライバシー**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **FAIL** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;転送中のデータ | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;保存データ | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データの保持と破棄 | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データ アクセス管理 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | スコープ内 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

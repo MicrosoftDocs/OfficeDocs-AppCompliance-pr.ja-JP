@@ -1,26 +1,25 @@
 ---
-title: Luware AG によるMicrosoft Teams用 Luware Nimbus のアプリケーション情報
+title: Luware AG による Microsoft Teams 用 Luware Nimbus のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 10/07/2021
+ms.date: 07/07/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
-description: Microsoft Teams、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報について、Luware Nimbus で利用可能なすべてのセキュリティ情報とコンプライアンス情報。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 31195c90a4e3b9484ae630fd7be76509b6a40e23
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+certification_type: certified
+description: Luware Nimbus for Microsoft Teams で利用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 44e6e1c0f91285cc105ed5f3f4a1f1526ce0d55b
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64881424"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66707324"
 ---
-# <a name="luware-nimbus-for-microsoft-teams"></a>Microsoft Teams用 Luware Nimbus
+# <a name="luware-nimbus-for-microsoft-teams"></a>Microsoft Teams 用 Luware Nimbus
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2021 年 10 月 1 日</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>開発者が最終更新日: 2021 年 10 月 19 日</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/luwareagzurich.advanced_routing_azure_marketplace" target="_blank">AppSource で表示する</a>
 
@@ -30,14 +29,14 @@ ms.locfileid: "64881424"
 
 Luware AG から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | Microsoft Teams用 Luware Nimbus |
+| アプリ名 | Microsoft Teams 用 Luware Nimbus |
 | ID | luwareagzurich.advanced_routing_azure_marketplace |
 | パートナー会社名 | Luware AG |
 | 会社の Web サイト | [https://luware.com](https://luware.com) |
 | アプリの使用条件 | [https://luware.com/en/agreements/saas/](https://luware.com/en/agreements/saas/) |
-| アプリのコア機能 | Nimbus は、通話キュー、プレゼンス ベースのルーティング、レポート機能、およびスイッチボードをTeamsに追加します。 |
+| アプリのコア機能 | Nimbus は、通話キュー、プレゼンス ベースのルーティング、レポート機能、およびスイッチボードを Teams に追加します |
 | 会社の本社の場所 | スイス |
 | アプリ情報ページ | [https://luware.com/en/solution/advanced-routing-for-microso...](https://luware.com/en/solution/advanced-routing-for-microsoft-teams/) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
@@ -53,7 +52,7 @@ Luware AG から Microsoft に提供される情報:
 
 この情報は、このアプリが組織のデータを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールに関する Luware AG によって提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
 | アプリによって処理されるデータは何ですか? |  |
@@ -74,7 +73,7 @@ Luware AG から Microsoft に提供される情報:
 
 [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) カタログからの情報が次に表示されます。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行していますか? | はい |
 | バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | はい |
@@ -102,10 +101,10 @@ Luware AG から Microsoft に提供される情報:
 
 ::: zone pivot="compliance"
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | N/A |
-| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | N/A |
+| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 該当なし |
+| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 該当なし |
 | アプリはサービス組織コントロール (SOC 1) に準拠していますか? | いいえ |
 | アプリはサービス組織コントロール (SOC 2) に準拠していますか? | いいえ |
 | アプリはサービス組織コントロール (SOC 3) に準拠していますか? | いいえ |
@@ -115,9 +114,9 @@ Luware AG から Microsoft に提供される情報:
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | N/A |
-| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | N/A |
-| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | N/A |
+| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 該当なし |
+| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
+| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | いいえ |
 
@@ -127,7 +126,7 @@ Luware AG から Microsoft に提供される情報:
 
 ::: zone pivot="privsection"
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および格納方法を説明する外部向けのプライバシーに関する通知がありますか? |  |
@@ -146,31 +145,29 @@ Luware AG から Microsoft に提供される情報:
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | はい |
 | Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | はい |
 | アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | true |
-| アプリで上記のライブラリのいずれかを使用していない場合、どの認証ライブラリまたはライブラリが使用されますか? |  |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | クライアント アプリ、ユーザー、グループ |
-| アプリでは、シナリオに対して最小限の特権アクセス許可が要求されますか? | はい |
 | アプリは継続的アクセス評価 (CAE) をサポートしていますか? |  |
 | アプリは、コードに資格情報を格納していますか? |  |
-| Microsoft 365用のアプリとアドインでは、Microsoft Graphの外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | いいえ |
+| Microsoft 365 用のアプリとアドインでは、Microsoft Graph の外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | いいえ |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graphを使用したデータ アクセス
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
->|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure AD アプリ ID** |
+>|   **Graph のアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure AD アプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Calendars.Read | 委任 | アテンダント コンソール: ログインしているユーザーの予定表を読み取り、予定表と予定を表示する | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
 >| Calendars.Read.Shared | 委任 | アテンダント コンソール: 共有予定表を読み取って予定表と予定を表示する | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
->| Contacts.Read | 委任 | アテンダント コンソール: ログインしているユーザーのExchange連絡先を検索する | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
->| Contacts.Read.Shared | 委任 | アテンダント コンソール: 共有Exchange連絡先で検索する | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| Contacts.Read | 委任 | アテンダント コンソール: ログインしているユーザーの Exchange 連絡先で検索する | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| Contacts.Read.Shared | 委任 | アテンダント コンソール: 共有 Exchange 連絡先で検索する | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
 >| GroupMember.Read.All | アプリケーション | チーム メンバーの取得、セキュリティ グループの読み取り | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
 >| Presence.Read.All | 委任 | [アテンダント コンソールの連絡先検索にプレゼンスを表示する] ページ | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
 >| User.Read | 委任 | UserInformation を取得する (ログイン ユーザーから) | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
->| User.Read.All | 両方とも | Nimbus アプリ - CallerInformation を取得します。 連絡先センターへの内部呼び出しでは、その情報をエージェントに表示できるように、そのユーザーを逆引き参照します。 (委任されたアクセス許可を持つ) アテンダント コンソールで、内部ディレクトリ全体で転送ターゲットを検索します。 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| User.Read.All | 両方 | Nimbus アプリ - CallerInformation を取得します。 連絡先センターへの内部呼び出しでは、その情報をエージェントに表示できるように、そのユーザーを逆引き参照します。 (委任されたアクセス許可を持つ) アテンダント コンソールで、内部ディレクトリ全体で転送ターゲットを検索します。 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
 >| User.ReadBasic.All | 委任 | 制限付きユーザー検索 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
 >| Calls.AccessMedia.All | アプリケーション | これらのアプリ/ボットの多く (連絡先センター キューごとに 1 つ): 顧客が実際に IVR で自分の位置を選択できる DTMF トーンをサブスクライブする | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](../azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md) |
 >| Calls.Initiate.All | アプリケーション | これらのアプリ/ボットの多く (Contact Center キューごとに 1 つ): エージェントに電話をかける  | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](../azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md) |
@@ -183,3 +180,39 @@ Luware AG から Microsoft に提供される情報:
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>認定情報
+
+| **Control** | **Microsoft 365 認定結果** |
+|:------------|:---------------------------------------|
+| [**アプリケーションのセキュリティ**](../docs/certification-submission-guide.md#application-security) | **該当なし** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入テスト | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性評価レビュー (DAST/SAST/ペネトレーション テスト) | 該当なし |
+| [**運用上のセキュリティ**](../docs/certification-submission-guide.md#operational-security) | **FAIL** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア対策 - ウイルス対策 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア対策 - アプリケーション制御 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - リスクのランク付け | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - パッチ適用 | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性スキャン | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - ファイアウォール (または同等のテクノロジ) | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - Web アプリケーション ファイアウォール (WAF) (省略可能) | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;コントロールの変更 | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティで保護されたソフトウェア開発/展開 | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;アカウント管理 | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入の検出と防止 (省略可能) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント ログ | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;レビュー (データのログ記録) | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント アラート | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;情報セキュリティ リスク管理 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;インシデント対応 | スコープ内 |
+| [**データ処理のセキュリティ &amp; プライバシー**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **渡す** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;転送中のデータ | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;保存データ | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データの保持と破棄 | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データ アクセス管理 | スコープ内 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | スコープ内 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

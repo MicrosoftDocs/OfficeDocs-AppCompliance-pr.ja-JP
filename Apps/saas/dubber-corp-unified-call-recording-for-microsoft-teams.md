@@ -1,26 +1,25 @@
 ---
-title: ダバー 社によるMicrosoft Teams用のダバー統合通話記録のアプリケーション情報
+title: ダバー 社による Microsoft Teams のダバー統合通話記録のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/13/2022
+ms.date: 07/07/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
-description: Microsoft Teams用のダバー統合通話記録に使用できるすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0ffd0d8bd400cb9f2cf1d53e489b3d3afe2023b7
-ms.sourcegitcommit: 10b79d3f6a6d9d89c3b288789a14eafdfcc42d7a
+certification_type: certified
+description: Microsoft Teams 用の吹き替え統合通話記録、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報に関するすべてのセキュリティ情報とコンプライアンス情報。
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 57bc755e9b5e871c8871b2e1ffc5a669612fed7b
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64838803"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66704306"
 ---
-# <a name="dubber-unified-call-recording-for-microsoft-teams"></a>Microsoft Teamsのダバー統合通話録音
+# <a name="dubber-unified-call-recording-for-microsoft-teams"></a>Microsoft Teams のダバー統合通話録音
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2022 年 4 月 11 日</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>開発者が最終更新日: 2022 年 4 月 13 日</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/dubbercorp1603082091027.dubber01" target="_blank">AppSource で表示する</a>
 
@@ -30,9 +29,9 @@ ms.locfileid: "64838803"
 
 ダバー 社から Microsoft に提供される情報:
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | Microsoft Teamsのダバー統合通話録音 |
+| アプリ名 | Microsoft Teams のダバー統合通話録音 |
 | ID | ubbercorp1603082091027.dubber01 |
 | パートナー会社名 | ダバー 社 |
 | 会社の Web サイト | [https://www.dubber.net](https://www.dubber.net) |
@@ -52,7 +51,7 @@ ms.locfileid: "64838803"
 
 この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて、ダバー社から提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
 | アプリによって処理されるデータは何ですか? | ユーザー呼び出しデータ |
@@ -74,7 +73,7 @@ ms.locfileid: "64838803"
 
 [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) カタログからの情報が次に表示されます。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行していますか? | はい |
 | バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | はい |
@@ -82,7 +81,7 @@ ms.locfileid: "64838803"
 | セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? | はい |
 | パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? | はい |
 | パッチ ポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
-| お使いの環境にサポートされていないオペレーティング システムまたはソフトウェアはありますか? | 不要 |
+| お使いの環境にサポートされていないオペレーティング システムまたはソフトウェアはありますか? | いいえ |
 | アプリと、それをサポートするインファ構造に対して四半期ごとの脆弱性スキャンを行いますか? | はい |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
 | 変更要求を運用環境にデプロイする前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスはありますか? | はい |
@@ -104,24 +103,24 @@ ms.locfileid: "64838803"
 
 ::: zone pivot="compliance"
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | はい |
-| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 不要 |
-| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 不要 |
-| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | 不要 |
-| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | 不要 |
+| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | いいえ |
+| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | いいえ |
+| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | いいえ |
 | アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | はい |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
-| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 不要 |
-| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
+| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | いいえ |
+| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | いいえ |
 | アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | はい |
-| アプリは NIST 800-171 に準拠していますか? | 不要 |
-| アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | 不要 |
+| アプリは NIST 800-171 に準拠していますか? | いいえ |
+| アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -129,15 +128,15 @@ ms.locfileid: "64838803"
 
 ::: zone pivot="privsection"
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および格納方法を説明する外部向けのプライバシーに関する通知がありますか? | はい |
 | プライバシー ポリシーの URL | https://www.dubber.net/privacy-policy |
-| アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | 不要 |
-| アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | 不要 |
-| 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | 不要 |
-| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | 不要 |
+| アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | いいえ |
+| アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
+| 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
+| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
 | アプリには、要求に応じて個人の個人データを削除する機能はありますか? | はい |
 | アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | はい |
 | アプリは個人に個人データを修正または更新する機能を提供しますか? | はい |
@@ -149,18 +148,17 @@ ms.locfileid: "64838803"
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | 不要 |
-| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | 不要 |
+| アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | いいえ |
+| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | いいえ |
 | アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? |  |
-| アプリで上記のライブラリのいずれかを使用していない場合、どの認証ライブラリまたはライブラリが使用されますか? |  |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
-| アプリは継続的アクセス評価 (CAE) をサポートしていますか? | 不要 |
-| アプリは、コードに資格情報を格納していますか? | 不要 |
-| Microsoft 365用のアプリとアドインでは、Microsoft Graphの外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | 不要 |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
+| アプリは継続的アクセス評価 (CAE) をサポートしていますか? | いいえ |
+| アプリは、コードに資格情報を格納していますか? | いいえ |
+| Microsoft 365 用のアプリとアドインでは、Microsoft Graph の外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | いいえ |
 
->このアプリケーションでは、Microsoft Graphは使用されません。
+>このアプリケーションでは、Microsoft Graph は使用されません。
 
 >このアプリケーションには、追加の API はありません。
 
@@ -168,3 +166,39 @@ ms.locfileid: "64838803"
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>認定情報
+
+| **Control** | **Microsoft 365 認定結果** |
+|:------------|:---------------------------------------|
+| [**アプリケーションのセキュリティ**](../docs/certification-submission-guide.md#application-security) | **該当なし** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入テスト | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性評価レビュー (DAST/SAST/ペネトレーション テスト) | 該当なし |
+| [**運用上のセキュリティ**](../docs/certification-submission-guide.md#operational-security) | **該当なし** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア対策 - ウイルス対策 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア対策 - アプリケーション制御 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - リスクのランク付け | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - パッチ適用 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性スキャン | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - ファイアウォール (または同等のテクノロジ) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - Web アプリケーション ファイアウォール (WAF) (省略可能) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;コントロールの変更 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティで保護されたソフトウェア開発/展開 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;アカウント管理 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入の検出と防止 (省略可能) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント ログ | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;レビュー (データのログ記録) | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント アラート | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;情報セキュリティ リスク管理 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;インシデント対応 | 該当なし |
+| [**データ処理のセキュリティ &amp; プライバシー**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **該当なし** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;転送中のデータ | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;保存データ | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データの保持と破棄 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データ アクセス管理 | 該当なし |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | N/A |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
