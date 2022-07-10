@@ -3,17 +3,17 @@ title: Microsoft Teams アプリのセキュリティとコンプライアンス
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/07/2022
+ms.date: 07/08/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: 57ab09069315b3193da58102005b0d9b5220cf37
-ms.sourcegitcommit: b752351d112ecc2ea7f539d200e6638a6a3034e5
+ms.openlocfilehash: cfa7d528ef4a368955ceff556eb5c6e0528795c8
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/07/2022
-ms.locfileid: "66679682"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66702635"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -48,7 +48,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [AmTrav Business Travel](./amtrav-business-travel.md) | AmTrav | **✓** |  |
 | [AnnounceBot](./avista-technology-solutions-announcebot.md) | Avista テクノロジー ソリューション | **✓** |  |
 | [Appraisd](./appraisd-ltd.md) | Appraisd Ltd. | **✓** |  |
-| [Appspace](./appspace-inc.md) | Appspace, Inc. | **✓** |  |
+| [Appspace](./appspace-inc.md) | Appspace, Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ArcGIS Maps](./esri-arcgis-maps.md) | Esri | **✓** |  |
 | [Are You Safe?](./avista-technology-solutions-are-you-safe.md) | Avista テクノロジー ソリューション | **✓** |  |
 | [ARGUSnylar](./argus-data-insights-schweiz-ag-argusnylar.md) | ARGUS DATA INSIGHTS Schweiz AG | **✓** |  |
@@ -61,6 +61,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Aster](./entrup-aster.md) | Entrup | **✓** |  |
 | [AtBot](./h3-solutions-inc-atbot.md) | H3 Solutions, Inc. | **✓** |  |
 | [Atlas](./atlassian-inc-atlas.md) | Atlassian, Inc. | **✓** |  |
+| [AttendanceBot](./anaek-attendancebot.md) | Anaek | **✓** |  |
 | [Attendant](./workstreampeople-bv-attendant.md) | WORKSTREAMPEOPLE BV | **✓** |  |
 | [Attender](./aros-cloud-aps-attender.md) | Aros Cloud ApS | **✓** |  |
 | [Attensa](./attensa-corporation.md) | Attensa Corporation | **✓** |  |
@@ -335,6 +336,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Mediatheque+](./cemeq-inc-mediathequeplus.md) | CEMEQ inc. | **✓** |  |
 | [Meetgeek](./aivision-products-srl-meetgeek.md) | AIVISION PRODUCTS SRL | **✓** |  |
 | [Meety](./operalogica-srl-meety.md) | operaLogica srl | **✓** |  |
+| [Meltwater](./meltwater.md) | Meltwater | **✓** |  |
 | [Mentimeter](./mentimeter.md) | Mentimeter | **✓** |  |
 | [メッセージ リマインダー](./message-reminder.md) | &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; | **✓** |  |
 | [MetaLuck](./wafersystems-metaluck.md) | wafersystems | **✓** |  |
