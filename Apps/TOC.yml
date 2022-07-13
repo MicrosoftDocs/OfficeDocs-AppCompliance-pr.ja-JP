@@ -760,7 +760,7 @@ items:
         href: teams/joye-pte-ltd.md
       - name: JustLogin
         href: teams/justlogin.md
-      - name: 卯合
+      - name: Kakeai
         href: teams/kakeai.md
       - name: Kami
         href: teams/kami.md
@@ -1388,7 +1388,7 @@ items:
         href: teams/yucca-technologies-gmbh-yuccahr.md
       - name: Zavvy
         href: teams/zavvy-gmbh.md
-      - name: ZeroTime ボット
+      - name: ZeroTime Bot
         href: teams/replicon-zerotime-bot.md
       - name: Zignals
         href: teams/alight-consulting-gmbh-zignals.md
@@ -1805,6 +1805,8 @@ items:
         href: azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c.md
       - name: 49bdbb27-4c8b-4ec9-9812-5ed59027c70d
         href: azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d.md
+      - name: 49cd11e3-cd7c-422a-9e2c-98a0a40fa418
+        href: azure/49cd11e3-cd7c-422a-9e2c-98a0a40fa418.md
       - name: 4a6873f6-8360-4023-bd6f-2923d1eb2e94
         href: azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md
       - name: 4aa38041-66a2-41a4-ac97-55bc828a9803
