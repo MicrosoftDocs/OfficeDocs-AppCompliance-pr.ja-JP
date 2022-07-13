@@ -3,17 +3,17 @@ title: Microsoft Teams アプリのセキュリティとコンプライアンス
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/08/2022
+ms.date: 07/12/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: cfa7d528ef4a368955ceff556eb5c6e0528795c8
-ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
+ms.openlocfilehash: f0676af49b6a4c273e7836185540d9ef3bbb3bb7
+ms.sourcegitcommit: 1d78b47ae32dd7ee29fb848e04ac0c5090d6b41c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2022
-ms.locfileid: "66702635"
+ms.lasthandoff: 07/13/2022
+ms.locfileid: "66762836"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -57,7 +57,6 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Asana](./asana.md) | Asana | **✓** |  |
 | [ASC レコーディング インサイト](./asc-technologies-ag-recording-insights.md) | ASC Technologies AG | **✓** |  |
 | [Vizir に質問する](./vizirco-ask-vizir.md) | Vizir.co | **✓** |  |
-| [Assembly](./carrothr-inc-assembly.md) | CarrotHR Inc. | **✓** |  |
 | [Aster](./entrup-aster.md) | Entrup | **✓** |  |
 | [AtBot](./h3-solutions-inc-atbot.md) | H3 Solutions, Inc. | **✓** |  |
 | [Atlas](./atlassian-inc-atlas.md) | Atlassian, Inc. | **✓** |  |
@@ -94,7 +93,6 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Bright Poll](./brightbits-bright-poll.md) | BrightBits | **✓** |  |
 | [Bright Remind Me](./chat-apps-llc-bright-remind-me.md) | Chat Apps, LLC | **✓** |  |
 | [Brightcove Video Connect](./brightcove-inc-video-connect.md) | Brightcove Inc. | **✓** |  |
-| [Broadcast](./cerkl-broadcast.md) | Cerkl | **✓** |  |
 | [Brochesia](./brochesia.md) | Brochesia | **✓** |  |
 | [掲示板 - NextSet](./nextsetinc-bulletin-board-nextset.md) | NextSet,Inc. | **✓** |  |
 | [C.AI Adoption Bot](./contexxtai-cai-adoption-bot.md) | contexxt.ai | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -106,7 +104,6 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [check.it](./cloud-cover-it-checkit.md) | クラウド カバー IT | **✓** |  |
 | [時系列の時間追跡](./chrono-innovation-chronoscope-time-tracking.md) | Chrono Innovation | **✓** |  |
 | [Chronus](./chronus.md) | Chronus | **✓** |  |
-| [ChurnZero](./churnzero.md) | ChurnZero | **✓** |  |
 | [CI-Out-of-Office Lite](./ci-solution-gmbh-out-of-office-lite.md) | ci ソリューション GmbH | **✓** |  |
 | [Classified Listing](./binaryroots-classified-listing.md) | BinaryRoots | **✓** |  |
 | [事務員 SMS](./unnamed-ventures-llc-clerk-sms.md) | 名前のない企業、LLC。 | **✓** |  |
@@ -406,7 +403,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Photo Filer](./ichicraft-photo-filer.md) | Ichicraft | **✓** |  |
 | [Pigeonhole Live](./pigeonlab-pte-ltd-pigeonhole-live.md) | PigeonLab Pte Ltd | **✓** |  |
 | [Plandisc](./plandisc.md) | Plandisc | **✓** |  |
-| [IntraActive によるプレイ](./fellowmind-denmark-play-by-intraactive.md) | Fellowmind Denmark | **✓** |  |
+| [PlanIt](./enable-365-planit.md) | 365 を有効にする | **✓** |  |
 | [PlayQuiz - Aprende &amp; Juega](./teamschamp-playquiz-aprendejuega.md) | TeamsChamp | **✓** |  |
 | [Pling](./fellowmind-denmark-pling.md) | Fellowmind Denmark | **✓** |  |
 | [Plumm](./plumm-health-ltd.md) | Plumm Health LTD | **✓** |  |
@@ -434,7 +431,6 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Qooper](./cognata-technologies-llc-qooper.md) | COGNATA TECHNOLOGIES, LLC | **✓** |  |
 | [Quadra Thankz](./quadrasystemsnet-quadra-thankz.md) | Quadrasystems.net | **✓** |  |
 | [Quadra Visitorz](./quadrasystemsnet-quadra-visitorz.md) | Quadrasystems.net | **✓** |  |
-| [Qualified](./qualified.md) | Qualified | **✓** |  |
 | [Quire](./potix-corporation-quire.md) | Potix Corporation | **✓** |  |
 | [Quitch](./quitch.md) | Quitch | **✓** |  |
 | [Rafiky](./global-congress-srl-rafiky.md) | GLOBAL CONGRESS SRL | **✓** |  |
@@ -444,6 +440,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [RecognitionNow DM](./bi-worldwide-recognitionnow-dm.md) | BI WORLDWIDE | **✓** |  |
 | [Recognize](./recognize.md) | Recognize | **✓** |  |
 | [Remind](./88-ventures-limited-remind.md) | 88 Ventures Limited | **✓** |  |
+| [IntraActive による再生](./fellowmind-denmark-replay-by-intraactive.md) | Fellowmind Denmark | **✓** |  |
 | [researcHR](./researchr.md) | KBE&#26666;&#24335;&#20250;&#31038; | **✓** |  |
 | [Responsum](./responsum-inc.md) | Responsum Inc. | **✓** |  |
 | [ReTeam](./beremote-llc-reteam.md) | BeRemote LLC | **✓** |  |
@@ -487,6 +484,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [ソーシャル アドボカシー](./oktopost-social-advocacy.md) | Oktopost | **✓** |  |
 | [Solo](./teladoc-inc-solo.md) | Teladoc, Inc. | **✓** |  |
 | [SQQ](./superquickquestion-sqq.md) | SuperQuickQuestion | **✓** |  |
+| [Squadify](./squadify-holdings-pty-ltd.md) | Squadify Holdings Pty Ltd | **✓** |  |
 | [Teams のスタックオーバーフロー](./stack-overflow-for-teams.md) | スタックオーバーフロー | **✓** |  |
 | [StaffCircle](./staffcircle.md) | StaffCircle | **✓** |  |
 | [Standup Alice](./bao-le-duc-standup-alice.md) | Bao Le Duc | **✓** |  |
@@ -604,7 +602,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Yeastar Workplace](./xiamen-yeastar-coltd-workplace.md) | Xiamen Yeastar Co.,Ltd | **✓** |  |
 | [yuccaHR](./yucca-technologies-gmbh-yuccahr.md) | Yucca Technologies GmbH | **✓** |  |
 | [Zavvy](./zavvy-gmbh.md) | Zavvy GmbH | **✓** |  |
-| [ゼロ タイム ボット](./replicon-zero-time-bot.md) | Replicon | **✓** |  |
+| [ZeroTime Bot](./replicon-zerotime-bot.md) | Replicon | **✓** |  |
 | [Zignals](./alight-consulting-gmbh-zignals.md) | Alight Consulting GmbH | **✓** |  |
 | [Zoho CRM](./zoho-corporation-pvt-ltd-crm.md) | Zoho Corporation Pvt Ltd | **✓** |  |
 | [Zoho Desk](./zoho-corporation-private-limited-desk.md) | Zoho Corporation Private Limited | **✓** |  |
