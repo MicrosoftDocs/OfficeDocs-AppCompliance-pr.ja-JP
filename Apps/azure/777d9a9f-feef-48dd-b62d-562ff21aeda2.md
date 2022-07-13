@@ -3,17 +3,17 @@ title: Azure アプリ ID Information for 777d9a9f-feef-48dd-b62d-562ff21aeda2
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/08/2022
+ms.date: 07/12/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 777d9a9f-feef-48dd-b62d-562ff21aeda2 のすべての利用可能なセキュリティとコンプライアンス情報。
-ms.openlocfilehash: cb75c475db92918179e53d9cca293653e05d7b09
-ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
+ms.openlocfilehash: 025d69c5430e3a74a6c6f768a4740793a308e045
+ms.sourcegitcommit: 1d78b47ae32dd7ee29fb848e04ac0c5090d6b41c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2022
-ms.locfileid: "66707214"
+ms.lasthandoff: 07/13/2022
+ms.locfileid: "66761886"
 ---
 # <a name="azure-app-id-777d9a9f-feef-48dd-b62d-562ff21aeda2"></a>Azure アプリ ID: 777d9a9f-feef-48dd-b62d-562ff21aeda2
 
