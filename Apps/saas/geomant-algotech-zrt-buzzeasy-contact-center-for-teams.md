@@ -6,19 +6,20 @@ manager: tonybal
 ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
-certification_type: certified
+certification_type: attested
 description: Teams 用のBuzzeasy Contact Center で利用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: 4388c1e72e3504ecf4d75aa59d2cfb75d3071239
-ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: b991fdcdd4e2c7aad48cbc5d26403a04b0b9c170
+ms.sourcegitcommit: 0c7f7f3da27d274928b863a18ff16d4dc775487c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2022
-ms.locfileid: "66707334"
+ms.lasthandoff: 07/14/2022
+ms.locfileid: "66781691"
 ---
 # <a name="buzzeasy-contact-center-for-teams"></a>Teams 用のBuzzeasy 連絡先センター
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>開発者が最終更新日: 2021 年 11 月 23 日</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/geomant.buzzeasy_teams_contact_center" target="_blank">AppSource で表示する</a>
@@ -39,7 +40,7 @@ Geomant-Algotech Zrt によって提供される情報。 Microsoft に対して
 | アプリのコア機能 | Microsoft Teams の Contact Center ソリューション |
 | 会社の本社の場所 | ハンガリー |
 | アプリ情報ページ | [https://www.geomant.com/buzzeasy-contact-centre-for-microso...](https://www.geomant.com/buzzeasy-contact-centre-for-microsoft-teams) |
-| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | ハイブリッド |
+| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Iaas |
 | アプリで使用するホスティング クラウド プロバイダーはどれですか? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -55,9 +56,15 @@ Geomant-Algotech Zrt によって提供される情報。 Microsoft に対して
 | **Information** | **Response** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
-| アプリによって処理されるデータは何ですか? | Microsoft JWT ユーザーと更新トークン、Microsoft アプリケーション ID、アプリ シークレット、M365 Graph APIからのメール コンテンツ |
+| アプリによって処理されるデータは何ですか? | Microsoft JWT ユーザーと更新トークン、Microsoft アプリケーション ID、アプリ シークレット、M365 EmailコンテンツをGraph API |
 | アプリは TLS 1.1 以降をサポートしていますか? | はい |
-| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データは格納されますか? | いいえ |
+| アプリまたは基になるインフラストラクチャには、Microsoft の顧客データは格納されますか? | はい |
+| データベースに格納されているデータは何ですか? | Microsoft JWT ユーザーと更新トークン、Microsoft アプリケーション ID、アプリ シークレット、M365 EmailコンテンツをGraph API |
+| 基になるインファ構造が Microsoft 顧客データを処理または格納する場合、このデータは地理的にどこに保存されますか? | アイルランド |
+| データの借用と廃棄プロセスが確立されていますか? | はい |
+| アカウントの終了後、データはどのくらいの期間保持されますか? | 90 日未満 |
+| データ アクセス管理プロセスが確立されていますか? | はい |
+| 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -97,7 +104,7 @@ Geomant-Algotech Zrt によって提供される情報。 Microsoft に対して
 
 ::: zone pivot="compliance"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 該当なし |
 | アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 該当なし |
@@ -122,7 +129,7 @@ Geomant-Algotech Zrt によって提供される情報。 Microsoft に対して
 
 ::: zone pivot="privsection"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および格納方法を説明する外部向けのプライバシーに関する通知がありますか? | はい |
@@ -171,39 +178,3 @@ Geomant-Algotech Zrt によって提供される情報。 Microsoft に対して
 
 ::: zone-end
 
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>認定情報
-
-| **Control** | **Microsoft 365 認定結果** |
-|:------------|:---------------------------------------|
-| [**アプリケーションのセキュリティ**](../docs/certification-submission-guide.md#application-security) | **該当なし** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入テスト | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性評価レビュー (DAST/SAST/ペネトレーション テスト) | 該当なし |
-| [**運用上のセキュリティ**](../docs/certification-submission-guide.md#operational-security) | **FAIL** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア対策 - ウイルス対策 | スコープ内 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア対策 - アプリケーション制御 | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - リスクのランク付け | スコープ内 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - パッチ適用 | スコープ内 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性スキャン | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - ファイアウォール (または同等のテクノロジ) | スコープ内 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - Web アプリケーション ファイアウォール (WAF) (省略可能) | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;コントロールの変更 | スコープ内 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティで保護されたソフトウェア開発/展開 | スコープ内 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;アカウント管理 | スコープ内 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入の検出と防止 (省略可能) | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント ログ | スコープ内 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;レビュー (データのログ記録) | スコープ内 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント アラート | スコープ内 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;情報セキュリティ リスク管理 | スコープ内 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;インシデント対応 | スコープ内 |
-| [**データ処理のセキュリティ &amp; プライバシー**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **FAIL** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;転送中のデータ | スコープ内 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;保存データ | スコープ内 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データの保持と破棄 | スコープ内 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データ アクセス管理 | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | スコープ内 |
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
