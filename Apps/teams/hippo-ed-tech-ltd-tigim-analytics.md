@@ -3,24 +3,24 @@ title: Hippo Ed Tech LTD による Tigim Analytics のアプリケーション�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/16/2022
+ms.date: 07/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Tigim Analytics で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 81d3b55c0609d1d3f56e6dd55b0e6b5d8194842c
-ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
+ms.openlocfilehash: 66a78bdd74c3002e176335c62c5a5f8a090847cb
+ms.sourcegitcommit: 9e5c6c3b4885bc6fa0a4af61432c86a232bc7ec9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66247412"
+ms.lasthandoff: 07/15/2022
+ms.locfileid: "66818189"
 ---
 # <a name="tigim-analytics"></a>Tigim Analytics
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2022 年 5 月 25 日</p>
+<p>開発者が最終更新日: 2022 年 7 月 14 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/98172521-768f-4271-a872-00bd46bd9460" target="_blank">Teams ストアで表示する</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200004242" target="_blank">AppSource で表示する</a>
@@ -31,7 +31,7 @@ ms.locfileid: "66247412"
 
 Hippo Ed Tech LTD から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Tigim Analytics |
 | ID | WA200004242 |
@@ -42,7 +42,8 @@ Hippo Ed Tech LTD から Microsoft に提供される情報:
 | アプリのコア機能 | コミュニケーション、生産性、ビジネス管理、トレーニング |
 | 会社の本社の場所 | アイルランド |
 | アプリ情報ページ | |
-| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | IsvHosted |
+| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Iaas |
+| アプリで使用するホスティング クラウド プロバイダーはどれですか? | Other |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -57,7 +58,7 @@ Hippo Ed Tech LTD から Microsoft に提供される情報:
 | **Information** | **Response** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
-| アプリによって処理されるデータは何ですか? | Users Email、Users Profile、Users Calendars、Users OnlineMeetings |
+| アプリによって処理されるデータは何ですか? | ユーザー Email、ユーザー プロファイル、ユーザー 予定表、ユーザー OnlineMeetings |
 | アプリは TLS 1.1 以降をサポートしていますか? | はい |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データは格納されますか? | はい |
 | データベースに格納されているデータは何ですか? | ユーザー データ、ユーザー OnlineMeetings 文字起こし、ユーザー会話リファレンス |
@@ -65,7 +66,7 @@ Hippo Ed Tech LTD から Microsoft に提供される情報:
 | データの借用と廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後、データはどのくらいの期間保持されますか? | 保持されない |
 | データ アクセス管理プロセスが確立されていますか? | はい |
-| 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | 不要 |
+| 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | X |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -111,11 +112,11 @@ Hippo Ed Tech LTD から Microsoft に提供される情報:
 | アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 該当なし |
 | アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 該当なし |
 | アプリはサービス組織コントロール (SOC 2) に準拠していますか? | 不要 |
-| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | 不要 |
+| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | X |
 | アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | はい |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | X |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | X |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 該当なし |
@@ -130,15 +131,15 @@ Hippo Ed Tech LTD から Microsoft に提供される情報:
 
 ::: zone pivot="privsection"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および格納方法を説明する外部向けのプライバシーに関する通知がありますか? | はい |
 | プライバシー ポリシーの URL | https://www.tigim.co/privacy-policy |
 | アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | 不要 |
-| アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | 不要 |
+| アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | X |
 | 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | 不要 |
-| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | 不要 |
+| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | X |
 | アプリには、要求に応じて個人の個人データを削除する機能はありますか? | はい |
 | アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | はい |
 | アプリは個人に個人データを修正または更新する機能を提供しますか? | はい |
@@ -155,7 +156,7 @@ Hippo Ed Tech LTD から Microsoft に提供される情報:
 | アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | はい |
 | Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | はい |
 | アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | X |
 | アプリは継続的アクセス評価 (CAE) をサポートしていますか? | はい |
 | アプリは、コードに資格情報を格納していますか? | 不要 |
 | Microsoft 365 用のアプリとアドインでは、Microsoft Graph の外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | はい |
