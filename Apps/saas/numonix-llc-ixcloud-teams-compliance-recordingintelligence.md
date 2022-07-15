@@ -3,23 +3,24 @@ title: IXCloud のアプリケーション情報 - Numonix LLC による Teams �
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/07/2022
+ms.date: 04/11/2022
 ms.topic: article
 ms.service: attestation
-certification_type: certified
+certification_type: attested
 description: IXCloud で利用可能なすべてのセキュリティとコンプライアンス情報 - Teams コンプライアンス記録&amp;インテリジェンス、そのデータ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: d174cb155e2e40973392a6648e794a77e3248c2c
-ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: ae962e0d54787055579f6eaa379ac2419bf98bb7
+ms.sourcegitcommit: ac75dd8bb815bc9e8b1d5b39a2d2dbe46e65f680
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2022
-ms.locfileid: "66706190"
+ms.lasthandoff: 07/15/2022
+ms.locfileid: "66804298"
 ---
 # <a name="ixcloud---teams-compliance-recording-amp-intelligence"></a>IXCloud - Teams コンプライアンス記録 &amp; インテリジェンス
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>開発者が最終更新日: 2022 年 4 月 12 日</p>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>開発者が最終更新日: 2022 年 2 月 23 日</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/numonix.nmx-teams" target="_blank">AppSource で表示する</a>
 
@@ -29,7 +30,7 @@ ms.locfileid: "66706190"
 
 Numonix LLC から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | IXCloud - Teams コンプライアンス記録 &amp; インテリジェンス |
 | ID | numonix.nmx-teams |
@@ -126,7 +127,7 @@ Numonix LLC から Microsoft に提供される情報:
 
 ::: zone pivot="privsection"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および格納方法を説明する外部向けのプライバシーに関する通知がありますか? | はい |
@@ -192,39 +193,3 @@ Numonix LLC から Microsoft に提供される情報:
 
 ::: zone-end
 
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>認定情報
-
-| **Control** | **Microsoft 365 認定結果** |
-|:------------|:---------------------------------------|
-| [**アプリケーションのセキュリティ**](../docs/certification-submission-guide.md#application-security) | **該当なし** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入テスト | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性評価レビュー (DAST/SAST/ペネトレーション テスト) | 該当なし |
-| [**運用上のセキュリティ**](../docs/certification-submission-guide.md#operational-security) | **該当なし** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア対策 - ウイルス対策 | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;マルウェア対策 - アプリケーション制御 | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - リスクのランク付け | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;パッチ管理 - パッチ適用 | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脆弱性スキャン | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - ファイアウォール (または同等のテクノロジ) | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイアウォール - Web アプリケーション ファイアウォール (WAF) (省略可能) | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;コントロールの変更 | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティで保護されたソフトウェア開発/展開 | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;アカウント管理 | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;侵入の検出と防止 (省略可能) | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント ログ | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;レビュー (データのログ記録) | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セキュリティ イベント アラート | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;情報セキュリティ リスク管理 | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;インシデント対応 | 該当なし |
-| [**データ処理のセキュリティ &amp; プライバシー**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **該当なし** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;転送中のデータ | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;保存データ | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データの保持と破棄 | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データ アクセス管理 | 該当なし |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | N/A |
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
