@@ -3,17 +3,17 @@ title: Azure アプリ ID のセキュリティとコンプライアンス - す
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/15/2022
+ms.date: 07/18/2022
 ms.topic: article
 ms.service: attestation
 description: すべてのAzure アプリ ID で使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 70eb8e49daac35e033b2c4db9d7b545eceb87af3
-ms.sourcegitcommit: 7334fa6eb6f68a52bd5509a29dfecc5a315cf57a
+ms.openlocfilehash: 78d626329ec95d851bbed23e77a3167062547cd0
+ms.sourcegitcommit: 21d1c42a8e6d9f94b9c8f279bbe37f649ebd4e10
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2022
-ms.locfileid: "66820720"
+ms.lasthandoff: 07/19/2022
+ms.locfileid: "66844589"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Azure アプリ ID のセキュリティとコンプライアンス
 
@@ -362,7 +362,6 @@ Microsoft は Microsoft 365 開発者パートナーと協力して、組織が�
 | [cbdfe641-3e2e-449d-b4f7-7e377c7060aa](./cbdfe641-3e2e-449d-b4f7-7e377c7060aa.md) | **✓** |  |
 | [cdd5ed6f-ceda-4d46-a522-b7526d6d9e50](./cdd5ed6f-ceda-4d46-a522-b7526d6d9e50.md) | **✓** |  |
 | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](./ce60db2f-439f-4e45-bfdc-d4c827c1820d.md) | **✓** |  |
-| [cec02d43-1b67-4430-9bc9-861da8582801](./cec02d43-1b67-4430-9bc9-861da8582801.md) | **✓** |  |
 | [cf9bdbc1-18c7-4700-b6b3-093f241e2d8a](./cf9bdbc1-18c7-4700-b6b3-093f241e2d8a.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [d1762bac-3696-429d-ab0b-2a61463d6b7a](./d1762bac-3696-429d-ab0b-2a61463d6b7a.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](./d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d.md) | **✓** |  |
@@ -440,5 +439,4 @@ Microsoft は Microsoft 365 開発者パートナーと協力して、組織が�
 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](./fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) | **✓** |  |
 | [ff50870f-b19b-489c-9766-4bcee4e843eb](./ff50870f-b19b-489c-9766-4bcee4e843eb.md) | **✓** |  |
 | [ff540df6-84dc-4a84-baa4-a95ce3b415cd](./ff540df6-84dc-4a84-baa4-a95ce3b415cd.md) | **✓** |  |
-| [ff5f406c-2ded-423f-b6ba-2950a2532b69](./ff5f406c-2ded-423f-b6ba-2950a2532b69.md) | **✓** |  |
 | [ffdbe361-6168-42f7-beef-d1931b7922da](./ffdbe361-6168-42f7-beef-d1931b7922da.md) | **✓** |  |
