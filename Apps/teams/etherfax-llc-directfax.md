@@ -1,5 +1,5 @@
 ---
-title: Appraisd ltd による Appraisd のアプリケーション情報。
+title: etherFAX LLC による DirectFax のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,43 +7,42 @@ ms.date: 07/19/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Appraisd で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+description: DirectFax で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: feb9fcc1576d3d357eafaade364ad9913c369a83
+ms.openlocfilehash: f440bca1c466f8cc9b986f28426348dae4fc44e1
 ms.sourcegitcommit: f020743c27bd5ba69e4f74e8fff3f82b2571c408
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 07/20/2022
-ms.locfileid: "66890260"
+ms.locfileid: "66892084"
 ---
-# <a name="appraisd"></a>Appraisd
+# <a name="directfax"></a>DirectFax
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2022 年 6 月 22 日</p>
+<p>開発者が最終更新日: 2022 年 2 月 8 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/4f037969-20ef-4a41-8330-422b7b115eb6" target="_blank">Teams ストアで表示する</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003123" target="_blank">AppSource で表示する</a>
+* <a href="https://teams.microsoft.com/l/app/6530e8a1-213e-4847-ba53-5a36d8f4e20c" target="_blank">Teams ストアで表示する</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002054" target="_blank">AppSource で表示する</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Appraisd Ltd. から Microsoft に提供される情報:
+etherFAX LLC から Microsoft に提供される情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | Appraisd |
-| ID | WA200003123 |
+| アプリ名 | DirectFax |
+| ID | WA200002054 |
 | サポートされているOffice 365 クライアント | Microsoft Teams |
-| パートナー会社名 | Appraisd Ltd. |
-| 会社の Web サイト | [https://www.appraisd.com](https://www.appraisd.com) |
-| アプリの使用条件 | [https://www.appraisd.com/terms](https://www.appraisd.com/terms) |
-| アプリのコア機能 | パフォーマンス レビュー、目標、フィードバックを使用してパフォーマンス カルチャを過大評価する |
-| 会社の本社の場所 | 英国の英国と北アイルランド (the) |
-| アプリ情報ページ | [https://www.appraisd.com](https://www.appraisd.com) |
-| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
-| アプリで使用するホスティング クラウド プロバイダーはどれですか? | Azure |
+| パートナー会社名 | etherFAX LLC |
+| 会社の Web サイト | [https://www.etherfax.net](https://www.etherfax.net) |
+| アプリの使用条件 | [https://www.etherfax.net/terms-conditions/](https://www.etherfax.net/terms-conditions/) |
+| アプリのコア機能 | DirectFax Messenger by etherFAX を使用すると、FAX やその他のビジネス ドキュメントを送受信できます。 |
+| 会社の本社の場所 | 米国 オブ アメリカ |
+| アプリ情報ページ | [https://www.etherfax.net/app-integrations/microsoft-teams/](https://www.etherfax.net/app-integrations/microsoft-teams/) |
+| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | IsvHosted |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,20 +52,21 @@ Appraisd Ltd. から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は Appraisd Ltd から提供されています。このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて説明しています。
+この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つ制御について、etherFAX LLC によって提供されています。
 
 | **Information** | **Response** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
-| アプリによって処理されるデータは何ですか? | ユーザー プロファイル データ |
+| アプリによって処理されるデータは何ですか? | アプリケーションを介して転送されるデータの種類または分類は、チームのユーザーの裁量で伝達され、責任を負います。 また、通信されたコンテンツを適切な受信者にルーティングするために、ユーザーの Teams の識別子も保持されます。 |
 | アプリは TLS 1.1 以降をサポートしていますか? | はい |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データは格納されますか? | はい |
-| データベースに格納されているデータは何ですか? | ユーザー グラフ ID、ユーザー 原則名、ボット サービス URL、Teams ユーザー ID |
-| 基になるインファ構造が Microsoft 顧客データを処理または格納する場合、このデータは地理的にどこに保存されますか? | 英国の英国と北アイルランド (the) |
+| データベースに格納されているデータは何ですか? | OAuth トークン、更新トークン、トークンの有効期限、Azure AD ユーザー オブジェクト ID  |
+| 基になるインファ構造が Microsoft 顧客データを処理または格納する場合、このデータは地理的にどこに保存されますか? | 米国 of America(カナダ) |
 | データの借用と廃棄プロセスが確立されていますか? | はい |
-| アカウントの終了後、データはどのくらいの期間保持されますか? | 60 日未満 |
+| アカウントの終了後、データはどのくらいの期間保持されますか? | 保持されない |
 | データ アクセス管理プロセスが確立されていますか? | はい |
-| 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | 不要 |
+| 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | はい |
+| Microsoft の顧客データを共有するサード パーティのサービスとデータ共有契約が締結されていますか? | はい |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -80,7 +80,7 @@ Appraisd Ltd. から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行していますか? | はい |
 | バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | はい |
-| お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | ApplicationControls |
+| お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | TraditionalAntiMalware、ApplicationControls |
 | セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? | はい |
 | パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? | はい |
 | パッチ ポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
@@ -92,7 +92,7 @@ Appraisd Ltd. から Microsoft に提供される情報:
 | セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | はい |
 | 多要素認証 (MFA) が有効になっているのは次のとおりです。 | CodeRepositories、DNSManagement、Credential |
 | 従業員アカウントのプロビジョニング、変更、削除のための確立されたプロセスはありますか? | はい |
-| アプリをサポートするネットワーク境界の境界に侵入検出と防止 (IDPS) ソフトウェアがデプロイされていますか? | 該当なし |
+| アプリをサポートするネットワーク境界の境界に侵入検出と防止 (IDPS) ソフトウェアがデプロイされていますか? | はい |
 | アプリをサポートするすべてのシステム コンポーネントにイベント ログ記録を設定していますか? | はい |
 | すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動化されたツールによって定期的に確認されますか? | はい |
 | セキュリティ イベントが検出されると、トリアージのために従業員にアラートが自動的に送信されますか? | はい |
@@ -108,21 +108,23 @@ Appraisd Ltd. から Microsoft に提供される情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 該当なし |
-| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 該当なし |
+| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | はい |
+| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | はい |
 | アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 該当なし |
-| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | 不要 |
-| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | いいえ |
-| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | 該当なし |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
+| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | はい |
+| どの SOC 2 認定を取得しましたか? | type2 |
+| 最新の SOC2 認定日 | 2021-12-31 |
+| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | 不要 |
+| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | はい |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 該当なし |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
-| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 該当なし |
+| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | はい |
 | アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
-| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
-| アプリは NIST 800-171 に準拠していますか? | 該当なし |
+| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | はい |
+| アプリは NIST 800-171 に準拠していますか? | はい |
 | アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -135,14 +137,14 @@ Appraisd Ltd. から Microsoft に提供される情報:
 |:----------------|:-------------|
 | GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および格納方法を説明する外部向けのプライバシーに関する通知がありますか? | はい |
-| プライバシー ポリシーの URL | https://www.appraisd.com/legal/privacy-policy |
+| プライバシー ポリシーの URL | https://www.etherfax.net/gdpr-privacy-notice/ |
 | アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | いいえ |
 | アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | 不要 |
 | 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | 不要 |
 | アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | 不要 |
-| アプリには、要求に応じて個人の個人データを削除する機能はありますか? | はい |
-| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | 該当なし |
-| アプリは個人に個人データを修正または更新する機能を提供しますか? | はい |
+| アプリには、要求に応じて個人の個人データを削除する機能はありますか? | 該当なし |
+| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | 不要 |
+| アプリは個人に個人データを修正または更新する機能を提供しますか? | 不要 |
 | アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーのレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | はい |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -155,8 +157,9 @@ Appraisd Ltd. から Microsoft に提供される情報:
 |:----------------|:-------------|
 | アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | はい |
 | Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | はい |
-| アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
+| アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | 該当なし |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
+| サポートされているポリシーの種類を一覧表示する | MFA を要求 |
 | アプリは継続的アクセス評価 (CAE) をサポートしていますか? | 不要 |
 | アプリは、コードに資格情報を格納していますか? | 不要 |
 | Microsoft 365 用のアプリとアドインでは、Microsoft Graph の外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | 不要 |
@@ -165,9 +168,16 @@ Appraisd Ltd. から Microsoft に提供される情報:
 
 >|   **Graph のアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure AD アプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| People.Read | 委任 | このアクセス許可は、ユーザーがフィードバックを送信できるチーム メンバーの一覧を取得するために必要です。 | [4f037969-20ef-4a41-8330-422b7b115eb6](../azure/4f037969-20ef-4a41-8330-422b7b115eb6.md) |
->| User.Read | 委任 | このアクセス許可は、ユーザーを識別し、Appraisd のアカウントにリンクするために必要です。 | [4f037969-20ef-4a41-8330-422b7b115eb6](../azure/4f037969-20ef-4a41-8330-422b7b115eb6.md) |
->| User.ReadBasic.All | 委任 | フィードバックを選択するときにチーム メンバー名を取得するには、このアクセス許可が必要です。 | [4f037969-20ef-4a41-8330-422b7b115eb6](../azure/4f037969-20ef-4a41-8330-422b7b115eb6.md) |
+>| ChannelMessage.Read.All | 委任 | メッセージを読み、DirectFax ボットと対話する手順として解釈する | [6530e8a1-213e-4847-ba53-5a36d8f4e20c](../azure/6530e8a1-213e-4847-ba53-5a36d8f4e20c.md) |
+>| ChannelMessage.Send | 委任 | ボットに代わってメッセージを送信し、FAX 状態の更新をユーザーに通知する | [6530e8a1-213e-4847-ba53-5a36d8f4e20c](../azure/6530e8a1-213e-4847-ba53-5a36d8f4e20c.md) |
+>| Chat.ReadWrite | 委任 | FAX の送受信を目的とするチャット メッセージの読み取りと投稿 | [6530e8a1-213e-4847-ba53-5a36d8f4e20c](../azure/6530e8a1-213e-4847-ba53-5a36d8f4e20c.md) |
+>| Files.ReadWrite.All | 委任 | FAX の送受信用のファイルにアクセスする | [6530e8a1-213e-4847-ba53-5a36d8f4e20c](../azure/6530e8a1-213e-4847-ba53-5a36d8f4e20c.md) |
+>| Group.ReadWrite.All | 委任 | Teams チャネルでの FAX の送受信を目的としたチャット メッセージの読み取りと投稿 | [6530e8a1-213e-4847-ba53-5a36d8f4e20c](../azure/6530e8a1-213e-4847-ba53-5a36d8f4e20c.md) |
+>| Mail.Send | 委任 | 他のユーザーとメールで FAX メッセージを共有します。 | [6530e8a1-213e-4847-ba53-5a36d8f4e20c](../azure/6530e8a1-213e-4847-ba53-5a36d8f4e20c.md) |
+>| User.Read | 委任 | デバイス情報を設定するためのユーザー プロファイルの読み取り | [6530e8a1-213e-4847-ba53-5a36d8f4e20c](../azure/6530e8a1-213e-4847-ba53-5a36d8f4e20c.md) |
+>| offline_access | 委任 | 電子メールで FAX 送信する画像を送信するファイルにアクセスする | [6530e8a1-213e-4847-ba53-5a36d8f4e20c](../azure/6530e8a1-213e-4847-ba53-5a36d8f4e20c.md) |
+>| openid | 委任 | ユーザーのサインイン | [6530e8a1-213e-4847-ba53-5a36d8f4e20c](../azure/6530e8a1-213e-4847-ba53-5a36d8f4e20c.md) |
+>| profile | 委任 | デバイス情報を設定するためのユーザー プロファイルの読み取り | [6530e8a1-213e-4847-ba53-5a36d8f4e20c](../azure/6530e8a1-213e-4847-ba53-5a36d8f4e20c.md) |
 
 >このアプリケーションには、追加の API はありません。
 

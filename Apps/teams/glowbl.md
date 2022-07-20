@@ -1,5 +1,5 @@
 ---
-title: Appraisd ltd による Appraisd のアプリケーション情報。
+title: Glowbl by Glowbl のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,43 +7,43 @@ ms.date: 07/19/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Appraisd で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+description: Glowbl で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: feb9fcc1576d3d357eafaade364ad9913c369a83
+ms.openlocfilehash: 26ae43baf501786611c57c7912716e4acb2825eb
 ms.sourcegitcommit: f020743c27bd5ba69e4f74e8fff3f82b2571c408
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 07/20/2022
-ms.locfileid: "66890260"
+ms.locfileid: "66892041"
 ---
-# <a name="appraisd"></a>Appraisd
+# <a name="glowbl"></a>Glowbl
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2022 年 6 月 22 日</p>
+<p>開発者が最終更新日: 2021 年 12 月 20 日</p>
 
-* <a href="https://teams.microsoft.com/l/app/4f037969-20ef-4a41-8330-422b7b115eb6" target="_blank">Teams ストアで表示する</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003123" target="_blank">AppSource で表示する</a>
+* <a href="https://teams.microsoft.com/l/app/4a32acb6-9163-4dfe-9427-d51a3f53ef42" target="_blank">Teams ストアで表示する</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200004368" target="_blank">AppSource で表示する</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>一般情報
 
-Appraisd Ltd. から Microsoft に提供される情報:
+Glowbl から Microsoft に提供される情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリ名 | Appraisd |
-| ID | WA200003123 |
+| アプリ名 | Glowbl |
+| ID | WA200004368 |
 | サポートされているOffice 365 クライアント | Microsoft Teams |
-| パートナー会社名 | Appraisd Ltd. |
-| 会社の Web サイト | [https://www.appraisd.com](https://www.appraisd.com) |
-| アプリの使用条件 | [https://www.appraisd.com/terms](https://www.appraisd.com/terms) |
-| アプリのコア機能 | パフォーマンス レビュー、目標、フィードバックを使用してパフォーマンス カルチャを過大評価する |
-| 会社の本社の場所 | 英国の英国と北アイルランド (the) |
-| アプリ情報ページ | [https://www.appraisd.com](https://www.appraisd.com) |
-| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
-| アプリで使用するホスティング クラウド プロバイダーはどれですか? | Azure |
+| パートナー会社名 | Glowbl |
+| 会社の Web サイト | [https://www.glowbl.com](https://www.glowbl.com) |
+| アプリの使用条件 | [https://www.glowbl.com/en/terms-of-use/](https://www.glowbl.com/en/terms-of-use/) |
+| アプリのコア機能 | Microsoft Teams 認証を使用して、Glowbl にスムーズにアクセスします。- 学習セッションごとに作成されたチームのタブにグローブ領域を追加します。 - 新しいブラウザー ウィンドウを開いたり画面を共有したりすることなく、Glowbl スマート テーブル上の SharePoint または One ドライブ ファイル (Microsoft Word、Microsoft Excel、Microsoft Powerpoint) を共有してプロジェクトする |
+| 会社の本社の場所 | フランス |
+| アプリ情報ページ | |
+| アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Iaas |
+| アプリで使用するホスティング クラウド プロバイダーはどれですか? | Aws |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,20 +53,21 @@ Appraisd Ltd. から Microsoft に提供される情報:
 
 ### <a name="how-the-app-handles-data"></a>アプリがデータを処理する方法
 
-この情報は Appraisd Ltd から提供されています。このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて説明しています。
+この情報は、このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて Glowbl によって提供されています。
 
 | **Information** | **Response** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
-| アプリによって処理されるデータは何ですか? | ユーザー プロファイル データ |
+| アプリによって処理されるデータは何ですか? | ユーザー メール、名、姓 |
 | アプリは TLS 1.1 以降をサポートしていますか? | はい |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データは格納されますか? | はい |
-| データベースに格納されているデータは何ですか? | ユーザー グラフ ID、ユーザー 原則名、ボット サービス URL、Teams ユーザー ID |
-| 基になるインファ構造が Microsoft 顧客データを処理または格納する場合、このデータは地理的にどこに保存されますか? | 英国の英国と北アイルランド (the) |
+| データベースに格納されているデータは何ですか? | ユーザー メール、名、姓 |
+| 基になるインファ構造が Microsoft 顧客データを処理または格納する場合、このデータは地理的にどこに保存されますか? | フランス |
 | データの借用と廃棄プロセスが確立されていますか? | はい |
-| アカウントの終了後、データはどのくらいの期間保持されますか? | 60 日未満 |
+| アカウントの終了後、データはどのくらいの期間保持されますか? | 90 日未満 |
 | データ アクセス管理プロセスが確立されていますか? | はい |
-| 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | 不要 |
+| 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | はい |
+| Microsoft の顧客データを共有するサード パーティのサービスとデータ共有契約が締結されていますか? | はい |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -79,8 +80,8 @@ Appraisd Ltd. から Microsoft に提供される情報:
 | **Information** | **Response** |
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行していますか? | はい |
-| バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | はい |
-| お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | ApplicationControls |
+| バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | 不要 |
+| お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | TraditionalAntiMalware、ApplicationControls |
 | セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? | はい |
 | パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? | はい |
 | パッチ ポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
@@ -92,11 +93,11 @@ Appraisd Ltd. から Microsoft に提供される情報:
 | セキュリティで保護されたコーディングプラクティスでは、OWASP Top 10 などの一般的な脆弱性クラスが考慮されますか? | はい |
 | 多要素認証 (MFA) が有効になっているのは次のとおりです。 | CodeRepositories、DNSManagement、Credential |
 | 従業員アカウントのプロビジョニング、変更、削除のための確立されたプロセスはありますか? | はい |
-| アプリをサポートするネットワーク境界の境界に侵入検出と防止 (IDPS) ソフトウェアがデプロイされていますか? | 該当なし |
+| アプリをサポートするネットワーク境界の境界に侵入検出と防止 (IDPS) ソフトウェアがデプロイされていますか? | はい |
 | アプリをサポートするすべてのシステム コンポーネントにイベント ログ記録を設定していますか? | はい |
 | すべてのログは、潜在的なセキュリティ イベントを検出するために、人間または自動化されたツールによって定期的に確認されますか? | はい |
 | セキュリティ イベントが検出されると、トリアージのために従業員にアラートが自動的に送信されますか? | はい |
-| 正式な情報セキュリティ リスク管理プロセスが確立されていますか? | はい |
+| 正式な情報セキュリティ リスク管理プロセスが確立されていますか? | 不要 |
 | 正式なセキュリティ インシデント対応プロセスが文書化され、確立されていますか? | はい |
 | 検出から 72 時間以内に、アプリまたはサービスのデータ侵害を監督機関や違反の影響を受けた個人に報告しますか? | はい |
 
@@ -109,20 +110,20 @@ Appraisd Ltd. から Microsoft に提供される情報:
 | **Information** | **Response** |
 |:----------------|:-------------|
 | アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 該当なし |
-| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 該当なし |
-| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 該当なし |
+| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 不要 |
+| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | いいえ |
 | アプリはサービス組織コントロール (SOC 2) に準拠していますか? | 不要 |
-| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | いいえ |
+| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | 不要 |
 | アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | 該当なし |
-| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
+| アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
-| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 該当なし |
-| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
-| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
-| アプリは NIST 800-171 に準拠していますか? | 該当なし |
+| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 不要 |
+| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 不要 |
+| アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 不要 |
+| アプリは NIST 800-171 に準拠していますか? | 不要 |
 | アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -135,15 +136,15 @@ Appraisd Ltd. から Microsoft に提供される情報:
 |:----------------|:-------------|
 | GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および格納方法を説明する外部向けのプライバシーに関する通知がありますか? | はい |
-| プライバシー ポリシーの URL | https://www.appraisd.com/legal/privacy-policy |
+| プライバシー ポリシーの URL | https://www.glowbl.com/en/privacy-policy/ |
 | アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | いいえ |
 | アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | 不要 |
 | 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | 不要 |
-| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | 不要 |
+| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
 | アプリには、要求に応じて個人の個人データを削除する機能はありますか? | はい |
-| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | 該当なし |
+| アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | 不要 |
 | アプリは個人に個人データを修正または更新する機能を提供しますか? | はい |
-| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーのレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | はい |
+| アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーのレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,9 +166,12 @@ Appraisd Ltd. から Microsoft に提供される情報:
 
 >|   **Graph のアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure AD アプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| People.Read | 委任 | このアクセス許可は、ユーザーがフィードバックを送信できるチーム メンバーの一覧を取得するために必要です。 | [4f037969-20ef-4a41-8330-422b7b115eb6](../azure/4f037969-20ef-4a41-8330-422b7b115eb6.md) |
->| User.Read | 委任 | このアクセス許可は、ユーザーを識別し、Appraisd のアカウントにリンクするために必要です。 | [4f037969-20ef-4a41-8330-422b7b115eb6](../azure/4f037969-20ef-4a41-8330-422b7b115eb6.md) |
->| User.ReadBasic.All | 委任 | フィードバックを選択するときにチーム メンバー名を取得するには、このアクセス許可が必要です。 | [4f037969-20ef-4a41-8330-422b7b115eb6](../azure/4f037969-20ef-4a41-8330-422b7b115eb6.md) |
+>| Files.Read | 委任 | ユーザーが Glowbl セッションでドキュメントを表示する必要がある場合のみ (Sharepoint ピッカー) | [12d736b4-dd63-4d2a-a527-e4ab0edb08e9](../azure/12d736b4-dd63-4d2a-a527-e4ab0edb08e9.md) |
+>| Files.Read.All | 委任 | ユーザーが Glowbl セッションでドキュメントを表示する必要がある場合のみ (Sharepoint ピッカー) | [12d736b4-dd63-4d2a-a527-e4ab0edb08e9](../azure/12d736b4-dd63-4d2a-a527-e4ab0edb08e9.md) |
+>| User.Read | 委任 | サインイン ユーザーと読み取りユーザー プロファイル | [12d736b4-dd63-4d2a-a527-e4ab0edb08e9](../azure/12d736b4-dd63-4d2a-a527-e4ab0edb08e9.md) |
+>| メール | 委任 | 電子メールに基づく Glowbl 領域のアクセス規則のユーザー 電子メールを取得する | [12d736b4-dd63-4d2a-a527-e4ab0edb08e9](../azure/12d736b4-dd63-4d2a-a527-e4ab0edb08e9.md) |
+>| openid | 委任 | サインイン ユーザー | [12d736b4-dd63-4d2a-a527-e4ab0edb08e9](../azure/12d736b4-dd63-4d2a-a527-e4ab0edb08e9.md) |
+>| profile | 委任 | ユーザーの基本プロファイルを表示して Glowbl セッションの参加者を一覧表示する | [12d736b4-dd63-4d2a-a527-e4ab0edb08e9](../azure/12d736b4-dd63-4d2a-a527-e4ab0edb08e9.md) |
 
 >このアプリケーションには、追加の API はありません。
 
