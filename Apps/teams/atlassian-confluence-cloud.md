@@ -3,24 +3,24 @@ title: Atlassian による Confluence Cloud のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/13/2022
+ms.date: 07/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Confluence Cloud で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2b1fce0ac0210113dc5dee3ca08b5e52636ea1c3
-ms.sourcegitcommit: b6dd040770330d4499a0e19998f909be31b67c34
+ms.openlocfilehash: 9571b81a027e7b10f1b7621f4f5623720101460e
+ms.sourcegitcommit: d35f3194155f00ecca787b2bc9bea5c69a534b0a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "66076228"
+ms.lasthandoff: 07/21/2022
+ms.locfileid: "66949570"
 ---
 # <a name="confluence-cloud"></a>Confluence Cloud
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>開発者が最終更新日: 2022 年 6 月 13 日</p>
+<p>開発者が最終更新日: 2022 年 7 月 21 日</p>
 
 * <a href="https://teams.microsoft.com/l/app/30bb610c-6321-40fe-a047-056e7d0dac96" target="_blank">Teams ストアで表示する</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003113" target="_blank">AppSource で表示する</a>
@@ -39,7 +39,7 @@ Atlassian から Microsoft に提供される情報:
 | パートナー会社名 | Atlassian |
 | 会社の Web サイト | [https://www.atlassian.com](https://www.atlassian.com) |
 | アプリの使用条件 | [https://www.atlassian.com/licensing/marketplace/termsofuse](https://www.atlassian.com/licensing/marketplace/termsofuse) |
-| アプリのコア機能 | 会議のメモを簡単に取り、ページを共有し、Confluence Cloud で最新情報をTeams。  |
+| アプリのコア機能 | Teams 用 Confluence Cloud を使用すると、会議ノートを簡単に取り、ページを共有し、最新の状態を維持できます。  |
 | 会社の本社の場所 | オーストラリア |
 | アプリ情報ページ | |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
@@ -66,7 +66,7 @@ Atlassian から Microsoft に提供される情報:
 | データの借用と廃棄プロセスが確立されていますか? | はい |
 | アカウントの終了後、データはどのくらいの期間保持されますか? | 保持されない |
 | データ アクセス管理プロセスが確立されていますか? | はい |
-| 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | いいえ |
+| 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -78,13 +78,13 @@ Atlassian から Microsoft に提供される情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリで年間侵入テストを実行していますか? | いいえ |
-| バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | いいえ |
+| アプリで年間侵入テストを実行していますか? | 不要 |
+| バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | 不要 |
 | お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? | TraditionalAntiMalware、ApplicationControls |
 | セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? | はい |
 | パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? | はい |
 | パッチ ポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
-| お使いの環境にサポートされていないオペレーティング システムまたはソフトウェアはありますか? | いいえ |
+| お使いの環境にサポートされていないオペレーティング システムまたはソフトウェアはありますか? | 不要 |
 | アプリと、それをサポートするインファ構造に対して四半期ごとの脆弱性スキャンを行いますか? | はい |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
 | 変更要求を運用環境にデプロイする前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスはありますか? | はい |
@@ -108,24 +108,24 @@ Atlassian から Microsoft に提供される情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | いいえ |
-| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | いいえ |
-| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | いいえ |
+| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 不要 |
+| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 不要 |
+| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 不要 |
 | アプリはサービス組織コントロール (SOC 2) に準拠していますか? | はい |
 | どの SOC 2 認定を取得しましたか? | type2 |
 | 最新の SOC2 認定日 | 2020-10-31 |
 | アプリはサービス組織コントロール (SOC 3) に準拠していますか? | はい |
 | 最新の SOC3 認定日 | 2020-10-31 |
-| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | いいえ |
+| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | 不要 |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | はい |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
-| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | いいえ |
-| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | いいえ |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
+| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 不要 |
+| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 不要 |
 | アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | はい |
-| アプリは NIST 800-171 に準拠していますか? | いいえ |
+| アプリは NIST 800-171 に準拠していますか? | 不要 |
 | アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | はい |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -136,7 +136,7 @@ Atlassian から Microsoft に提供される情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | いいえ |
+| GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | 不要 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -149,14 +149,14 @@ Atlassian から Microsoft に提供される情報:
 | アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | はい |
 | Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | はい |
 | アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | はい |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
-| アプリは継続的アクセス評価 (CAE) をサポートしていますか? | いいえ |
-| アプリは、コードに資格情報を格納していますか? | いいえ |
-| Microsoft 365用のアプリとアドインでは、Microsoft Graphの外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | いいえ |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
+| アプリは継続的アクセス評価 (CAE) をサポートしていますか? | 不要 |
+| アプリは、コードに資格情報を格納していますか? | 不要 |
+| Microsoft 365 用のアプリとアドインでは、Microsoft Graph の外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | 不要 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graphを使用したデータ アクセス
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
->|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure AD アプリ ID** |
+>|   **Graph のアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure AD アプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Calendars.Read | 委任 | - 会議のチャット メンバーの一覧を読み取ったので、会議への招待者の一覧を把握しています。 - 会議アプリに条件付きで表示されるユーザー&#8217;名前と電子メール アドレスを読み取ります。 たとえば、会議のメモを取っている現在のユーザーの名前を表示します。 - アプリは、アプリが会議に追加されたユーザー&#8217;の予定表イベントを読み取り、会議のタイトルなどの会議に関する基本情報を取得します。     | [4aa38041-66a2-41a4-ac97-55bc828a9803](../azure/4aa38041-66a2-41a4-ac97-55bc828a9803.md) |
 >| Chat.ReadBasic | 委任 | - 会議のチャット メンバーの一覧を読み取ったので、会議への招待者の一覧を把握しています。 - 会議アプリに条件付きで表示されるユーザー&#8217;名前と電子メール アドレスを読み取ります。 たとえば、会議のメモを取っている現在のユーザーの名前を表示します。 - アプリは、アプリが会議に追加されたユーザー&#8217;の予定表イベントを読み取り、会議のタイトルなどの会議に関する基本情報を取得します。 | [4aa38041-66a2-41a4-ac97-55bc828a9803](../azure/4aa38041-66a2-41a4-ac97-55bc828a9803.md) |
