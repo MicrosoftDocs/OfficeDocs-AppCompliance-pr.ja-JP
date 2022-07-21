@@ -3,17 +3,17 @@ title: Microsoft Teams アプリのセキュリティとコンプライアンス
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/19/2022
+ms.date: 07/20/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: 36f1310237b28b3c2ccedc15212b64e3e298cbdd
-ms.sourcegitcommit: c98623463f83636439af4fb49219918e87f2086a
+ms.openlocfilehash: 915447afd534019f3142c93e42c438e57d110f9a
+ms.sourcegitcommit: 65cdf1f1a0b38b05e29adf12828851ba225da959
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/19/2022
-ms.locfileid: "66877203"
+ms.lasthandoff: 07/21/2022
+ms.locfileid: "66915610"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -27,6 +27,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [365Projects](./365apps-365projects.md) | 365Apps | **✓** |  |
 | [Abi](./beroe-abi.md) | Beroe | **✓** |  |
 | [absentify](./braincore-solutions-absentify.md) | BrainCore Solutions | **✓** |  |
+| [Achievers](./achievers.md) | Achievers | **✓** |  |
 | [ACV](./tangible-it-mexico-acv.md) | Tangible IT メキシコ | **✓** |  |
 | [Adobe Acrobat](./adobe-acrobat.md) | Adobe | **✓** |  |
 | [Adobe Acrobat Sign](./adobe-acrobat-sign.md) | Adobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -144,6 +145,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [CyDesk](./cytrack-cydesk.md) | CyTrack | **✓** |  |
 | [CyRecord](./cytrack-cyrecord.md) | CyTrack | **✓** |  |
 | [CyReport](./cytrack-cyreport.md) | CyTrack | **✓** |  |
+| [DailyBot](./dailybot.md) | DailyBot | **✓** |  |
 | [Data Hu](./data-hu.md) | &#21271;&#20140;&#20061;&#40594;&#20449;&#24687;&#25216;&#26415;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [DataFetch](./datafetch-inc.md) | DataFetch, Inc | **✓** |  |
 | [DataMiner](./skyline-communications-dataminer.md) | Skyline Communications | **✓** |  |
@@ -162,6 +164,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Digiplein](./educatieve-uitgeversgroep-bv-digiplein.md) | Educatieve Uitgeversgroep B.V. | **✓** |  |
 | [DigitalOps Toolbox](./medalsoft-digitalops-toolbox.md) | Medalsoft | **✓** |  |
 | [Diligent Boards](./diligent-boards.md) | Diligent | **✓** |  |
+| [DirectFax](./etherfax-llc-directfax.md) | etherFAX LLC | **✓** |  |
 | [DisasterTech DICE](./disastertech-dice.md) | DisasterTech | **✓** |  |
 | [Distribution Lists Pro](./witivio-distribution-lists-pro.md) | Witivio | **✓** |  |
 | [Ditox](./ditox.md) | Ditox | **✓** |  |
@@ -236,6 +239,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Genuity](./stratum-networks-genuity.md) | Stratum Networks | **✓** |  |
 | [Gfacility](./gfacility.md) | Gfacility | **✓** |  |
 | [GitHub](./microsoft-corporation-github.md) | Microsoft Corporation | **✓** |  |
+| [Glowbl](./glowbl.md) | Glowbl | **✓** |  |
 | [Go1](./go1.md) | Go1 | **✓** |  |
 | [Goalhub](./momentum-cloud-pty-ltd-goalhub.md) | Momentum Cloud Pty Ltd | **✓** |  |
 | [GoLinks](./golinks.md) | GoLinks | **✓** |  |
@@ -463,6 +467,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [ServiceDesk Plus Cloud](./zoho-corporation-private-limited-servicedesk-plus-cloud.md) | Zoho Corporation Private Limited | **✓** |  |
 | [WNI による共有スレッド](./wni-shared-thread-by.md) | WNI | **✓** |  |
 | [SHL](./shl.md) | SHL | **✓** |  |
+| [Showmaster](./cherryware-showmaster.md) | cherryware | **✓** |  |
 | [Sift](./sift.md) | Sift | **✓** |  |
 | [SightCall](./sightcall.md) | SightCall | **✓** |  |
 | [SIGNL4](./derdack-signl4.md) | Derdack SIGNL4 | **✓** |  |
@@ -488,6 +493,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [ソーシャル アドボカシー](./oktopost-social-advocacy.md) | Oktopost | **✓** |  |
 | [Solo](./teladoc-inc-solo.md) | Teladoc, Inc. | **✓** |  |
 | [SQQ](./superquickquestion-sqq.md) | SuperQuickQuestion | **✓** |  |
+| [Squadcast](./squadcast.md) | Squadcast | **✓** |  |
 | [Squadify](./squadify-holdings-pty-ltd.md) | Squadify Holdings Pty Ltd | **✓** |  |
 | [Teams のスタックオーバーフロー](./stack-overflow-for-teams.md) | スタックオーバーフロー | **✓** |  |
 | [StaffCircle](./staffcircle.md) | StaffCircle | **✓** |  |
@@ -526,7 +532,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [TeamConnect for Sitecore](./subramanian-ramanathan-teamconnect-for-sitecore.md) | Subramanian Ramanathan | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [TeaMe 正常性チェック ボット](./teame-health-check-bot.md) | &#26666;&#24335;&#20250;&#31038;&#12461;&#12515;&#12522;&#12450;&#12487;&#12505;&#12525;&#12483;&#12503;&#12513;&#12531;&#12488;&#12539;&#12450;&#12531;&#12489;&#12539;&#12463;&#12522;&#12456;&#12452;&#12471;&#12519;&#12531; | **✓** |  |
 | [Teameo クラス スペース](./ls2-innovation-teameo-class-space.md) | LS2 イノベーション | **✓** |  |
-| [Teamflect](./grepsi-software-teamflect.md) | Grepsi Software | **✓** |  |
+| [Teamflect](./teamflect.md) | Teamflect | **✓** |  |
 | [TeamMood](./power-up-conseil-teammood.md) | Power Up Conseil | **✓** |  |
 | [Teams Manager](./solutions2share-gmbh-teams-manager.md) | Solutions2Share GmbH | **✓** |  |
 | [TeamsChamp](./teamschamp.md) | TeamsChamp | **✓** |  |
