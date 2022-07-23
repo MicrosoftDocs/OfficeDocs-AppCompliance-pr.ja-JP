@@ -3,17 +3,17 @@ title: Azure アプリ ID のセキュリティとコンプライアンス - す
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/21/2022
+ms.date: 07/22/2022
 ms.topic: article
 ms.service: attestation
 description: すべてのAzure アプリ ID で使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: a78bc327c466e808af9f8158989775498b4cd5e7
-ms.sourcegitcommit: 0a27f7395a0969da2cebc8345a88aa69e841eff6
+ms.openlocfilehash: 37b25271474108cd94e7e2cce6b0999f729adf81
+ms.sourcegitcommit: 9c114837630164e4c4965abc220743e2b08a1df5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/21/2022
-ms.locfileid: "66922092"
+ms.lasthandoff: 07/22/2022
+ms.locfileid: "66980562"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Azure アプリ ID のセキュリティとコンプライアンス
 
@@ -354,6 +354,7 @@ Microsoft は Microsoft 365 開発者パートナーと協力して、組織が�
 | [c5da92a9-873e-4ea1-86c7-03ec9c1384f0](./c5da92a9-873e-4ea1-86c7-03ec9c1384f0.md) | **✓** |  |
 | [c6257830-ff1a-4e7f-86ca-da35c0278de2](./c6257830-ff1a-4e7f-86ca-da35c0278de2.md) | **✓** |  |
 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](./c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) | **✓** |  |
+| [c6557591-6b74-430d-b25e-87ab28766f32](./c6557591-6b74-430d-b25e-87ab28766f32.md) | **✓** |  |
 | [c68947ae-a07f-44ce-9a13-7b559251731d](./c68947ae-a07f-44ce-9a13-7b559251731d.md) | **✓** |  |
 | [c71a6f53-cf0c-426d-a826-cedae8b073f7](./c71a6f53-cf0c-426d-a826-cedae8b073f7.md) | **✓** |  |
 | [c7cdd862-2527-49ea-b873-0c5f51a83292](./c7cdd862-2527-49ea-b873-0c5f51a83292.md) | **✓** |  |
