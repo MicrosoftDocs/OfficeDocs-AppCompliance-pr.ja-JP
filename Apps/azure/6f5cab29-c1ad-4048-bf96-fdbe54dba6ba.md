@@ -3,17 +3,17 @@ title: Azure アプリ ID Information for 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/21/2022
+ms.date: 07/22/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba のすべての利用可能なセキュリティとコンプライアンス情報。
-ms.openlocfilehash: 23f6250ab016f1ae93d8b3e898e4f7b24f9880ca
-ms.sourcegitcommit: 0a27f7395a0969da2cebc8345a88aa69e841eff6
+ms.openlocfilehash: 256a52fcc9293fa0d64e5f4f133d22f0caaf11f8
+ms.sourcegitcommit: 9c114837630164e4c4965abc220743e2b08a1df5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/21/2022
-ms.locfileid: "66924552"
+ms.lasthandoff: 07/22/2022
+ms.locfileid: "66973941"
 ---
 # <a name="azure-app-id-6f5cab29-c1ad-4048-bf96-fdbe54dba6ba"></a>Azure アプリ ID: 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba
 

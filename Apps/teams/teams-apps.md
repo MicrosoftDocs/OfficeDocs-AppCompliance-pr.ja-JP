@@ -3,17 +3,17 @@ title: Microsoft Teams アプリのセキュリティとコンプライアンス
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/20/2022
+ms.date: 07/21/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: 915447afd534019f3142c93e42c438e57d110f9a
-ms.sourcegitcommit: 65cdf1f1a0b38b05e29adf12828851ba225da959
+ms.openlocfilehash: 8911e9f63db4b8183f5380ee1cac73b35e75668c
+ms.sourcegitcommit: 59837739b2c8bbc7420121ee780fbf273a331512
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/21/2022
-ms.locfileid: "66915610"
+ms.lasthandoff: 07/22/2022
+ms.locfileid: "66961563"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -107,6 +107,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [CI-Out-of-Office Lite](./ci-solution-gmbh-out-of-office-lite.md) | ci ソリューション GmbH | **✓** |  |
 | [Classified Listing](./binaryroots-classified-listing.md) | BinaryRoots | **✓** |  |
 | [事務員 SMS](./unnamed-ventures-llc-clerk-sms.md) | 名前のない企業、LLC。 | **✓** |  |
+| [CLIPr](./clipr-co.md) | CLIPr Co | **✓** |  |
 | [ClipTraining](./cliptraining.md) | ClipTraining | **✓** |  |
 | [Clixie](./clixie-media-llc.md) | Clixie Media LLC | **✓** |  |
 | [Cloud Effective](./cloud-effective.md) | Cloud Effective | **✓** |  |
@@ -559,6 +560,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [TimeClock 365](./softsale-timeclock-365.md) | Softsale | **✓** |  |
 | [timeghost - 時間管理](./timeghostio-timeghost-time-tracking.md) | timeghost.io | **✓** |  |
 | [Timeneye](./dm-digital-srl-timeneye.md) | DM Digital SRL | **✓** |  |
+| [Timewax](./timewax.md) | Timewax | **✓** |  |
 | [TINYpulse](./tinypulse.md) | TINYpulse | **✓** |  |
 | [チームの To Do チェックリスト](./herocoders-to-do-checklist-for-team.md) | HeroCoders | **✓** |  |
 | [Tonkean](./tonkean.md) | Tonkean | **✓** |  |
