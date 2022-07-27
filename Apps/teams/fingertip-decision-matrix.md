@@ -3,20 +3,20 @@ title: 指先による指先デシジョン マトリックスのアプリケー
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/07/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Fingertip Decision Matrix で利用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
+description: Fingertip Decision Matrix で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 390378f757af6d9fd9afbfd647210827c6f9f3db
-ms.sourcegitcommit: dbf716786f7a3c0b84fa4563e47510e4bd3a2fd0
+ms.openlocfilehash: 046322d981ac9221f7f142b0e9fba1867a836d01
+ms.sourcegitcommit: 6771e51564baf354398b12cdf2f9eede6a8ce994
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/08/2022
-ms.locfileid: "65943205"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67046315"
 ---
-# <a name="fingertip-decision-matrix"></a>指先デシジョン マトリックス
+# <a name="fingertip-decision-matrix"></a>Fingertip Decision Matrix
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -31,12 +31,12 @@ ms.locfileid: "65943205"
 
 To Microsoft が提供する情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | 指先デシジョン マトリックス |
+| アプリ名 | Fingertip Decision Matrix |
 | ID | WA200004070 |
-| サポートされている Office 365 クライアント | Microsoft Teams |
-| パートナー会社名 | 指先 |
+| サポートされているOffice 365 クライアント | Microsoft Teams |
+| パートナー会社名 | Fingertip |
 | 会社の Web サイト | [https://www.fingertip.org](https://www.fingertip.org) |
 | アプリの使用条件 | [https://www.fingertip.org/terms-of-use/](https://www.fingertip.org/terms-of-use/) |
 | アプリのコア機能 | 指先デシジョン マトリックスは、さまざまな要因を考慮に入れる必要がある場合に、いくつかの選択肢を決定するのに役立ちます。 これにより、プロセスの明確さと透明性が向上し、バイアスの影響を減らしながら代替手段の優先順位を付けるのに役立ちます。 Decision Matrix by Fingertip を使用すると、Microsoft Teams を使用して共同作業を行い、より正確に一緒に意思決定を行うことができます。 |
@@ -64,7 +64,7 @@ To Microsoft が提供する情報:
 | データベースに格納されているデータは何ですか? | ユーザー プロファイル情報、テナント ID |
 | 基になるインファ構造が Microsoft 顧客データを処理または格納する場合、このデータは地理的にどこに保存されますか? | フィンランド |
 | データの借用と廃棄プロセスが確立されていますか? | 不要 |
-| アカウントの終了後、データはどのくらいの期間保持されますか? |  |
+| アカウントの終了後、データはどのくらいの期間保持されますか? | 90 日を超える |
 | データ アクセス管理プロセスが確立されていますか? | はい |
 | 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | 不要 |
 
@@ -74,9 +74,9 @@ To Microsoft が提供する情報:
 
 ::: zone pivot="security"
 
-[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) カタログの情報を以下に示します。
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) カタログからの情報が次に表示されます。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行していますか? | はい |
 | バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | 不要 |
@@ -106,19 +106,19 @@ To Microsoft が提供する情報:
 
 ::: zone pivot="compliance"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 該当なし |
 | アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 該当なし |
 | アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 不要 |
 | アプリはサービス組織コントロール (SOC 2) に準拠していますか? | 不要 |
-| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | 不要 |
+| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | いいえ |
 | アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | 該当なし |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
 | アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 該当なし |
 | アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | はい |
 | アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
@@ -144,12 +144,12 @@ To Microsoft が提供する情報:
 | **Information** | **応答** |
 |:----------------|:-------------|
 | アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | はい |
-| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、準拠していますか? | はい |
+| Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | はい |
 | アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | はい |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
-| サポートされているポリシーの種類を一覧表示する | 多要素認証により、Intune 登録済みデバイスのみが特定のサービスにアクセスできるようになり、ユーザーの場所と IP 範囲が制限されます |
-| アプリは継続的アクセス評価 (CAE) をサポートしていますか? | いいえ |
-| アプリは、コードに資格情報を格納していますか? | いいえ |
+| サポートされているポリシーの種類を一覧表示する | 多要素認証により、登録されたデバイスIntuneのみが特定のサービスにアクセスできるようになり、ユーザーの場所と IP 範囲が制限されます |
+| アプリは継続的アクセス評価 (CAE) をサポートしていますか? | 不要 |
+| アプリは、コードに資格情報を格納していますか? | 不要 |
 | Microsoft 365 用のアプリとアドインでは、Microsoft Graph の外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | はい |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス

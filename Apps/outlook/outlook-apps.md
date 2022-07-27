@@ -3,17 +3,17 @@ title: Microsoft Outlook Apps のセキュリティとコンプライアンス -
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/20/2022
+ms.date: 07/27/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Outlook Apps で使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 6725f3b4f6b0ebcf60850ee21c966aa9123e53fe
-ms.sourcegitcommit: b072ed662849382b6df1bebf43454e12e5ed544d
+ms.openlocfilehash: b6b1815e317146c15ecb81c64316776a9e791d1a
+ms.sourcegitcommit: 6771e51564baf354398b12cdf2f9eede6a8ce994
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/20/2022
-ms.locfileid: "66912879"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67040976"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Apps のセキュリティとコンプライアンス
 
@@ -21,7 +21,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Outlook の達成者](./achievers-for-outlook.md) | 成績 | **✓** |  |
+| [Outlook の達成者](./achievers-for-outlook.md) | Achievers | **✓** |  |
 | [Adobe Acrobat Sign for Microsoft Outlook](./adobe-inc-acrobat-sign-for-microsoft-outlook.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Outlook 用 Appspace](./appspace-inc-for-outlook.md) | Appspace, Inc | **✓** |  |
 | [自分のメールをブーストする](./boost-my-mail.md) | 自分のメールをブーストする | **✓** |  |
