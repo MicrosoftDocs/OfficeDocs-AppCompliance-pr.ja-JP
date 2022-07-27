@@ -3,18 +3,18 @@ title: SalesTim による SalesTim のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/27/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SalesTim で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: dedccb17f83675fa128af424c5769a5ee395d984
-ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
+ms.openlocfilehash: d7faa5b8162e99eb7d463acf441c0d59a0a53cd3
+ms.sourcegitcommit: b0ba698028b1a5124488394b51a34755aa74137e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66250012"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67036096"
 ---
 # <a name="salestim"></a>SalesTim
 
@@ -37,11 +37,11 @@ SalesTim から Microsoft に提供される情報:
 | ID | WA200001393 |
 | サポートされているOffice 365 クライアント | Microsoft Teams |
 | パートナー会社名 | SalesTim |
-| 会社の Web サイト | [https://www.salestim.com](https://www.salestim.com) |
-| アプリの使用条件 | [https://www.salestim.com/legal/tos](https://www.salestim.com/legal/tos) |
+| 会社の Web サイト | [https://nbold.co/](https://nbold.co/) |
+| アプリの使用条件 | [https://nbold.co/legal/tos/](https://nbold.co/legal/tos/) |
 | アプリのコア機能 | SalesTim は、コードなしの Microsoft Teams テンプレートの作成と大規模なガバナンスの自動化を通じて、すべての組織が共同作業プロセスを改善するのに役立ちます。 |
 | 会社の本社の場所 | フランス |
-| アプリ情報ページ | [https://www.salestim.com](https://www.salestim.com) |
+| アプリ情報ページ | [https://nbold.co/microsoft-teams-for-project-management/](https://nbold.co/microsoft-teams-for-project-management/) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | Paas |
 | アプリで使用するホスティング クラウド プロバイダーはどれですか? | Azure |
 
@@ -102,12 +102,12 @@ SalesTim から Microsoft に提供される情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 不要 |
-| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 不要 |
-| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 不要 |
-| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | 不要 |
-| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | 不要 |
-| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | 不要 |
+| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | いいえ |
+| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | いいえ |
+| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | いいえ |
+| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | いいえ |
+| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | いいえ |
+| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | いいえ |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
@@ -130,10 +130,10 @@ SalesTim から Microsoft に提供される情報:
 | GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および格納方法を説明する外部向けのプライバシーに関する通知がありますか? | はい |
 | プライバシー ポリシーの URL | https://nbold.co/legal/privacy/ |
-| アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | 不要 |
-| アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | 不要 |
-| 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | 不要 |
-| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | 不要 |
+| アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | いいえ |
+| アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
+| 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
+| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
 | アプリには、要求に応じて個人の個人データを削除する機能はありますか? | はい |
 | アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | はい |
 | アプリは個人に個人データを修正または更新する機能を提供しますか? | 不要 |
@@ -153,7 +153,7 @@ SalesTim から Microsoft に提供される情報:
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | はい |
 | サポートされているポリシーの種類を一覧表示する | 多要素認証。 登録されたデバイスのみをIntuneして特定のサービスにアクセスできるようにします。 ユーザーの場所と IP 範囲の制限 |
 | アプリは継続的アクセス評価 (CAE) をサポートしていますか? | 不要 |
-| アプリは、コードに資格情報を格納していますか? | 不要 |
+| アプリは、コードに資格情報を格納していますか? | いいえ |
 | Microsoft 365 用のアプリとアドインでは、Microsoft Graph の外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | はい |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス

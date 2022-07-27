@@ -3,18 +3,18 @@ title: Appspace, Inc. による Appspace のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/11/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Appspace で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 33ebdad28ebae386982c9e84025417e7fecd7900
-ms.sourcegitcommit: 1d78b47ae32dd7ee29fb848e04ac0c5090d6b41c
+ms.openlocfilehash: ee8749cecf65b20022f537a8ba06e546e04e0bd4
+ms.sourcegitcommit: b0ba698028b1a5124488394b51a34755aa74137e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66765116"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67036086"
 ---
 # <a name="appspace"></a>Appspace
 
@@ -69,8 +69,8 @@ Appspace, Inc. から Microsoft に提供される情報:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| アプリで年間侵入テストを実行していますか? | 必要 |
-| バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | 必要 |
+| アプリで年間侵入テストを実行していますか? | はい |
+| バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | はい |
 | お使いの環境では、従来のマルウェア対策保護またはアプリケーション制御が使用されていますか? |  |
 | セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? |  |
 | パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? |  |
@@ -100,18 +100,18 @@ Appspace, Inc. から Microsoft に提供される情報:
 | アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 該当なし |
 | アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 該当なし |
 | アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 該当なし |
-| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | 必要 |
+| アプリはサービス組織コントロール (SOC 2) に準拠していますか? | はい |
 | 最新の SOC2 認定日 | 2020-11-09 |
-| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | 必要 |
+| アプリはサービス組織コントロール (SOC 3) に準拠していますか? | はい |
 | 最新の SOC3 認定日 | 2020-11-09 |
-| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | 必要 |
+| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | はい |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 該当なし |
-| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 必要 |
+| アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | はい |
 | アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
 | アプリは NIST 800-171 に準拠していますか? |  |
 | アプリは Cloud Security Alliance (CSA Star) の認定を受けていますか? | いいえ |
