@@ -3,18 +3,18 @@ title: Workday Peakon Employee Voice by Workday のアプリケーション情�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/26/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Workday Peakon Employee Voice で利用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 84045192772b78ff882548b3ef071c1d694c1101
-ms.sourcegitcommit: b0c1d8160b4e9a27f23a9d723f7e76d38ab12d9e
+ms.openlocfilehash: 1ba5f99e88ca7c523e8f52e9459afaadb816af0a
+ms.sourcegitcommit: 6771e51564baf354398b12cdf2f9eede6a8ce994
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "65125360"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67048508"
 ---
 # <a name="workday-peakon-employee-voice"></a>Workday Peakon Employee Voice
 
@@ -39,11 +39,11 @@ Workday から Microsoft に提供される情報:
 | パートナー会社名 | Workday |
 | 会社の Web サイト | [https://www.workday.com/en-us/homepage.html](https://www.workday.com/en-us/homepage.html) |
 | アプリの使用条件 | [https://nw.myworkday.com/workdaypeakonemployeevoiceforteams...](https://nw.myworkday.com/workdaypeakonemployeevoiceforteams/post-license/) |
-| アプリのコア機能 | 新しいアンケートに関する通知を受け取る Microsoft Teamsアンケートの回答を直接送信する まだ完了していないアンケートに関する通知を受け取ります。 |
+| アプリのコア機能 | 新しいアンケートに関する通知を受け取る Microsoft Teams を通じてアンケートの回答を直接送信する まだ完了していないアンケートについて通知を受け取ります。 |
 | 会社の本社の場所 | 米国 オブ アメリカ |
 | アプリ情報ページ | [https://nw.myworkday.com/workdaypeakonemployeevoiceforteams](https://nw.myworkday.com/workdaypeakonemployeevoiceforteams) |
 | アプリの実行に使用されるホスティング環境またはサービス モデルは何ですか? | ハイブリッド |
-| アプリで使用するホスティング クラウド プロバイダーはどれですか? | その他 |
+| アプリで使用するホスティング クラウド プロバイダーはどれですか? | Other |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,16 +55,16 @@ Workday から Microsoft に提供される情報:
 
 この情報は、このアプリが組織のデータを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて Workday から提供されています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
-| アプリによって処理されるデータは何ですか? | 電子メールと Azure Active Director ID - MS Teams アプリの Peakon はデータを直接処理しません。  |
+| アプリによって処理されるデータは何ですか? | Emailと Azure Active Director ID - MS Teams アプリの Peakon では、データは直接処理されません。  |
 | アプリは TLS 1.1 以降をサポートしていますか? | はい |
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データは格納されますか? | はい |
 | データベースに格納されているデータは何ですか? | 会社 ID、アプリケーション ログ |
 | 基になるインファ構造が Microsoft 顧客データを処理または格納する場合、このデータは地理的にどこに保存されますか? | 米国 オブ アメリカ |
 | データの借用と廃棄プロセスが確立されていますか? | はい |
-| アカウントの終了後、データはどのくらいの期間保持されますか? |  |
+| アカウントの終了後、データはどのくらいの期間保持されますか? | 90 日を超える |
 | データ アクセス管理プロセスが確立されていますか? | はい |
 | 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | いいえ |
 
@@ -76,7 +76,7 @@ Workday から Microsoft に提供される情報:
 
 [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) カタログからの情報が次に表示されます。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行していますか? | はい |
 | バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | はい |
@@ -106,22 +106,22 @@ Workday から Microsoft に提供される情報:
 
 ::: zone pivot="compliance"
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | なし |
-| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | いいえ |
-| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | いいえ |
+| アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | いいえ |
+| アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 不要 |
+| アプリはサービス組織コントロール (SOC 1) に準拠していますか? | 不要 |
 | アプリはサービス組織コントロール (SOC 2) に準拠していますか? | はい |
 | どの SOC 2 認定を取得しましたか? | type2 |
 | 最新の SOC2 認定日 | 2021-03-03 |
 | アプリはサービス組織コントロール (SOC 3) に準拠していますか? | いいえ |
-| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | なし |
+| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | 不要 |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | いいえ |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | なし |
+| アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | いいえ |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | なし |
-| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | なし |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
+| アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | いいえ |
 | アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | いいえ |
 | アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | いいえ |
 | アプリは NIST 800-171 に準拠していますか? | いいえ |
@@ -138,11 +138,11 @@ Workday から Microsoft に提供される情報:
 | GDPR またはその他のプライバシーまたはデータ保護の要件または義務 (CCPA など) はありますか? | はい |
 | アプリには、顧客データの収集、使用、共有、および格納方法を説明する外部向けのプライバシーに関する通知がありますか? | はい |
 | プライバシー ポリシーの URL | https://www.workday.com/en-us/privacy.html |
-| アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | なし |
-| アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | いいえ |
+| アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | 不要 |
+| アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | 不要 |
 | 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | はい |
-| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | なし |
-| アプリには、要求に応じて個人の個人データを削除する機能はありますか? | いいえ |
+| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
+| アプリには、要求に応じて個人の個人データを削除する機能はありますか? | 不要 |
 | アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | はい |
 | アプリは個人に個人データを修正または更新する機能を提供しますか? | はい |
 | アプリの個人データの処理に関連するリスクを特定するために、定期的なデータ セキュリティとプライバシーのレビュー (データ保護影響評価やプライバシー リスク評価など) が実行されますか? | はい |
@@ -162,11 +162,11 @@ Workday から Microsoft に提供される情報:
 | サポートされているポリシーの種類を一覧表示する | MFA |
 | アプリは継続的アクセス評価 (CAE) をサポートしていますか? | いいえ |
 | アプリは、コードに資格情報を格納していますか? | いいえ |
-| Microsoft 365用のアプリとアドインでは、Microsoft Graphの外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | はい |
+| Microsoft 365 用のアプリとアドインでは、Microsoft Graph の外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | はい |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graphを使用したデータ アクセス
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
 
->|   **Graphアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure AD アプリ ID** |
+>|   **Graph のアクセス許可**  | **アクセス許可の種類** |          **妥当性**          | **Azure AD アプリ ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| TeamsAppInstallation.ReadWriteForUser.All | アプリケーション | アプリのインストールと Azure Database 内でのユーザーの検索   | [075a01db-a69f-4975-a713-aa85d004f3b5](../azure/075a01db-a69f-4975-a713-aa85d004f3b5.md) |
 

@@ -3,20 +3,20 @@ title: HQuadro による Semplisio e コマース マネージャーのアプリ
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/22/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Semplisio e コマース マネージャーで使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0aa0282c79baec2c8dfebaeef26efa0f69c55636
-ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
+ms.openlocfilehash: a28ac8464627e779e138a35b37b1d54401e13660
+ms.sourcegitcommit: 6771e51564baf354398b12cdf2f9eede6a8ce994
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66247929"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67048304"
 ---
-# <a name="semplisio-e-commerce-manager"></a>Semplisio e コマース マネージャー
+# <a name="semplisio-e-commerce-manager"></a>Semplisio 電子商取引マネージャー
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -31,9 +31,9 @@ ms.locfileid: "66247929"
 
 HQuadro から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
-| アプリ名 | Semplisio e コマース マネージャー |
+| アプリ名 | Semplisio 電子商取引マネージャー |
 | ID | WA200004286 |
 | サポートされているOffice 365 クライアント | Microsoft Teams |
 | パートナー会社名 | HQuadro |
@@ -64,9 +64,9 @@ HQuadro から Microsoft に提供される情報:
 | データベースに格納されているデータは何ですか? | id Team、id チャネル |
 | 基になるインファ構造が Microsoft 顧客データを処理または格納する場合、このデータは地理的にどこに保存されますか? | オランダ (the), フィンランド |
 | データの借用と廃棄プロセスが確立されていますか? | はい |
-| アカウントの終了後、データはどのくらいの期間保持されますか? |  |
+| アカウントの終了後、データはどのくらいの期間保持されますか? | 90 日を超える |
 | データ アクセス管理プロセスが確立されていますか? | はい |
-| 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | 不要 |
+| 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | いいえ |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -84,7 +84,7 @@ HQuadro から Microsoft に提供される情報:
 | セキュリティの脆弱性をインデントおよびリスク ランク付けするための確立されたプロセスはありますか? | 不要 |
 | パッチを適用するためのサービス レベル アグリーメント (SLA) を管理するポリシーはありますか? | はい |
 | パッチ ポリシー SLA に従ってパッチ管理アクティビティを実行しますか? | はい |
-| お使いの環境にサポートされていないオペレーティング システムまたはソフトウェアはありますか? | 不要 |
+| お使いの環境にサポートされていないオペレーティング システムまたはソフトウェアはありますか? | いいえ |
 | アプリと、それをサポートするインファ構造に対して四半期ごとの脆弱性スキャンを行いますか? | 不要 |
 | 外部ネットワーク境界にファイアウォールがインストールされていますか? | はい |
 | 変更要求を運用環境にデプロイする前に、変更要求を確認および承認するために使用される、確立された変更管理プロセスはありますか? | はい |
@@ -116,7 +116,7 @@ HQuadro から Microsoft に提供される情報:
 | アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | 該当なし |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | 不要 |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | 不要 |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 該当なし |
@@ -138,7 +138,7 @@ HQuadro から Microsoft に提供される情報:
 | プライバシー ポリシーの URL | https://www.semplisio.it/privacy-policy/ |
 | アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | 不要 |
 | アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | 不要 |
-| 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | 不要 |
+| 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
 | アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | 不要 |
 | アプリには、要求に応じて個人の個人データを削除する機能はありますか? | 該当なし |
 | アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | 該当なし |
@@ -157,9 +157,9 @@ HQuadro から Microsoft に提供される情報:
 | Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | はい |
 | アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | 不要 |
 | アプリで上記のライブラリのいずれかを使用していない場合、どの認証ライブラリまたはライブラリが使用されますか? | @microsoft/teamsfx |
-| アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
+| アプリは条件付きアクセス ポリシーをサポートしていますか? | いいえ |
 | アプリは継続的アクセス評価 (CAE) をサポートしていますか? | はい |
-| アプリは、コードに資格情報を格納していますか? | 不要 |
+| アプリは、コードに資格情報を格納していますか? | いいえ |
 | Microsoft 365 用のアプリとアドインでは、Microsoft Graph の外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | 不要 |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス
