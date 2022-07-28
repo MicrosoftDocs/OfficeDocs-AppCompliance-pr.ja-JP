@@ -3,18 +3,18 @@ title: RingCentral, Inc. による RingCentral のアプリケーション情報
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/21/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: RingCentral で使用可能なすべてのセキュリティ情報とコンプライアンス情報、データ処理ポリシー、Microsoft Cloud App Securityアプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9c9c2febfd6153c8ba5184d806d2bb67d611881a
-ms.sourcegitcommit: ce10fa06370903c7c2ee18b55b219dc735ac6b58
+ms.openlocfilehash: 2b82a908252784ca02b3210adb99678d78ef72aa
+ms.sourcegitcommit: 3e68e819f21cd95aeb2abc018cd86af2a9dd0b1a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2022
-ms.locfileid: "66960872"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67053115"
 ---
 # <a name="ringcentral"></a>RingCentral
 
@@ -54,7 +54,7 @@ RingCentral, Inc. から Microsoft に提供される情報:
 
 この情報は RingCentral, Inc. によって提供されています。このアプリが組織データを収集して保存する方法と、アプリが収集するデータに対して組織が持つコントロールについて説明しています。
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリまたは基になるインフラストラクチャは、Microsoft のお客様またはデバイスに関連するデータを処理しますか? | はい |
 | アプリによって処理されるデータは何ですか? | ユーザー プロファイル データ |
@@ -62,8 +62,8 @@ RingCentral, Inc. から Microsoft に提供される情報:
 | アプリまたは基になるインフラストラクチャには、Microsoft の顧客データは格納されますか? | はい |
 | データベースに格納されているデータは何ですか? | ユーザー プロファイル データ |
 | 基になるインファ構造が Microsoft 顧客データを処理または格納する場合、このデータは地理的にどこに保存されますか? | 米国 オブ アメリカ |
-| データの借用と廃棄プロセスが確立されていますか? | いいえ |
-| アカウントの終了後、データはどのくらいの期間保持されますか? |  |
+| データの借用と廃棄プロセスが確立されていますか? | 不要 |
+| アカウントの終了後、データはどのくらいの期間保持されますか? | 90 日を超える |
 | データ アクセス管理プロセスが確立されていますか? | はい |
 | 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | いいえ |
 
@@ -105,7 +105,7 @@ RingCentral, Inc. から Microsoft に提供される情報:
 
 ::: zone pivot="compliance"
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | はい |
 | アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | はい |
@@ -120,7 +120,7 @@ RingCentral, Inc. から Microsoft に提供される情報:
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | はい |
 | アプリは国際標準化機構 (ISO 27017) に準拠していますか? | はい |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | はい |
-| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | いいえ |
+| アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 該当なし |
 | アプリは、子どものオンラインプライバシー保護法 (COPPA) に準拠していますか? | 該当なし |
 | アプリはSarbanes-Oxley法 (SOX) に準拠していますか? | 該当なし |
@@ -143,14 +143,14 @@ RingCentral, Inc. から Microsoft に提供される情報:
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **応答** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | はい |
 | Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | はい |
 | アプリは、最新バージョンの MSAL (Microsoft Authentication Library) または Microsoft Identity Web を認証に使用していますか? | 該当なし |
 | アプリは条件付きアクセス ポリシーをサポートしていますか? | 不要 |
-| アプリは継続的アクセス評価 (CAE) をサポートしていますか? | いいえ |
-| アプリは、コードに資格情報を格納していますか? | いいえ |
+| アプリは継続的アクセス評価 (CAE) をサポートしていますか? | 不要 |
+| アプリは、コードに資格情報を格納していますか? | 不要 |
 | Microsoft 365 用のアプリとアドインでは、Microsoft Graph の外部で追加の Microsoft API が使用される場合があります。 アプリまたはアドインは、追加の Microsoft API を使用していますか? | 不要 |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph を使用したデータ アクセス

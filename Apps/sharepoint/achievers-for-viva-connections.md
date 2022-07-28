@@ -3,18 +3,18 @@ title: Achievers によるViva コネクション用の Achievers のアプリ�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/06/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Viva コネクション、データ処理ポリシー、Microsoft Cloud App Security アプリ カタログ情報、CSA STAR レジストリのセキュリティ/コンプライアンス情報について、Achievers で利用可能なすべてのセキュリティ情報とコンプライアンス情報。
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f89f2957e4c990d2a4368efb12a6df683c2a80ee
-ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
+ms.openlocfilehash: 6a8ff36b47fd79e4fd0827b7035d1219fe099156
+ms.sourcegitcommit: 3e68e819f21cd95aeb2abc018cd86af2a9dd0b1a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/06/2022
-ms.locfileid: "66656144"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67053088"
 ---
 # <a name="achievers-for-viva-connections"></a>Viva コネクションの達成者
 
@@ -30,12 +30,12 @@ ms.locfileid: "66656144"
 
 Achievers から Microsoft に提供される情報:
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリ名 | Viva コネクションの達成者 |
 | ID | WA200004313 |
 | サポートされているOffice 365 クライアント | SharePoint 2016 以降 |
-| パートナー会社名 | 成績 |
+| パートナー会社名 | Achievers |
 | 会社の Web サイト | [https://www.achievers.com](https://www.achievers.com) |
 | アプリの使用条件 | [https://developer.achievers.com/docs/achievers-terms-of-use](https://developer.achievers.com/docs/achievers-terms-of-use) |
 | アプリのコア機能 | Achievers プラットフォームを使用してセレブレーション カードに署名し、自己認識とトレンド認識を表示するメンバー向けのクイック アクション カード |
@@ -61,7 +61,7 @@ Achievers から Microsoft に提供される情報:
 | データベースに格納されているデータは何ですか? | テナント ID、ユーザー ID |
 | 基になるインファ構造が Microsoft 顧客データを処理または格納する場合、このデータは地理的にどこに保存されますか? | カナダ |
 | データの借用と廃棄プロセスが確立されていますか? | はい |
-| アカウントの終了後、データはどのくらいの期間保持されますか? |  |
+| アカウントの終了後、データはどのくらいの期間保持されますか? | 90 日を超える |
 | データ アクセス管理プロセスが確立されていますか? | はい |
 | 顧客データまたは顧客コンテンツをサード パーティまたはサブプロセッサに転送しますか? | はい |
 | Microsoft の顧客データを共有するサード パーティのサービスとデータ共有契約が締結されていますか? | はい |
@@ -74,7 +74,7 @@ Achievers から Microsoft に提供される情報:
 
 [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) カタログからの情報が次に表示されます。
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリで年間侵入テストを実行していますか? | はい |
 | バックアップと復元の戦略など、文書化されたディザスター リカバリー計画はアプリに含まれていますか? | はい |
@@ -104,7 +104,7 @@ Achievers から Microsoft に提供される情報:
 
 ::: zone pivot="compliance"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリは、医療保険の可搬性と会計法 (HIPAA) に準拠していますか? | 該当なし |
 | アプリは Health Information Trust Alliance、Common Security Framework (HITRUST CSF) に準拠していますか? | 該当なし |
@@ -113,10 +113,10 @@ Achievers から Microsoft に提供される情報:
 | どの SOC 2 認定を取得しましたか? | type2 |
 | 最新の SOC2 認定日 | 2021-12-25 |
 | アプリはサービス組織コントロール (SOC 3) に準拠していますか? | 不要 |
-| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | 不要 |
+| アプリとそのサポート環境に対して、年間 PCI DSS 評価を実行していますか? | いいえ |
 | アプリの国際標準化機構 (ISO 27001) は認定されていますか? | はい |
 | アプリは国際標準化機構 (ISO 27018) に準拠していますか? | 不要 |
-| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | 不要 |
+| アプリは国際標準化機構 (ISO 27017) に準拠していますか? | いいえ |
 | アプリは国際標準化機構 (ISO 27002) に準拠していますか? | はい |
 | アプリの連邦リスクと承認管理プログラム (FedRAMP) は準拠していますか? | 不要 |
 | アプリは家族教育の権利とプライバシーに関する法律 (FERPA) に準拠していますか? | 該当なし |
@@ -138,8 +138,8 @@ Achievers から Microsoft に提供される情報:
 | プライバシー ポリシーの URL | https://over.achievers.com/ilr_privacy_policy |
 | アプリは、法的影響や同様の影響を及ぼす可能性のあるプロファイリングを含め、自動化された意思決定を実行しますか? | 不要 |
 | アプリは、プライバシーに関する通知 (マーケティング、分析など) に記載されていない第 2 の目的で顧客データを処理しますか? | 不要 |
-| 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | 不要 |
-| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | 不要 |
+| 機密データの特別なカテゴリ (例: 人種的または民族的起源、ポリティカルオピニオン、宗教または哲学的信念、遺伝子または生体認証データ、健康データ)、または違反通知法の対象となるデータのカテゴリを処理しますか? | いいえ |
+| アプリは未成年者 (16 歳未満の個人) からデータを収集または処理しますか? | いいえ |
 | アプリには、要求に応じて個人の個人データを削除する機能はありますか? | はい |
 | アプリには、要求に応じて個人の個人データの処理を制限または制限する機能がありますか? | はい |
 | アプリは個人に個人データを修正または更新する機能を提供しますか? | はい |
@@ -151,7 +151,7 @@ Achievers から Microsoft に提供される情報:
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **Response** |
+| **Information** | **応答** |
 |:----------------|:-------------|
 | アプリケーションは、シングル サインオン、API アクセスなどのために Microsoft Identity Platform (Azure AD) と統合されますか? | いいえ |
 | Microsoft ID プラットフォーム統合チェックリストに記載されているすべての適用可能なベスト プラクティスを確認し、遵守しましたか? | 不要 |

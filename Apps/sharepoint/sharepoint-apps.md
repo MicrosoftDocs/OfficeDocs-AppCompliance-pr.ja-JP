@@ -3,17 +3,17 @@ title: Microsoft SharePoint Apps のセキュリティとコンプライアン�
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/06/2022
+ms.date: 07/27/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft SharePoint Apps で使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: 7a93836c906f12cc639561366e2dbedf5921e523
-ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
+ms.openlocfilehash: f4bcc3629c1e6dab201b6b1334c8df13f2c68190
+ms.sourcegitcommit: 3e68e819f21cd95aeb2abc018cd86af2a9dd0b1a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/06/2022
-ms.locfileid: "66654413"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67053269"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint Apps のセキュリティとコンプライアンス
 
@@ -22,7 +22,7 @@ Microsoft は Microsoft 365 開発者パートナーと協力して、組織が�
 | **アプリ** | **パートナー** | **パブリッシャーの証明** | **認定** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [4Mata - リストの書式設定デザイナー](./cloudignite-llc-4mata-list-formatting-designer.md) | CLOUDIGNITE LLC | **✓** |  |
-| [Viva コネクションの達成者](./achievers-for-viva-connections.md) | 成績 | **✓** |  |
+| [Viva コネクションの達成者](./achievers-for-viva-connections.md) | Achievers | **✓** |  |
 | [Adobe Acrobat Sign for Microsoft Office SharePoint Online](./adobe-inc-acrobat-sign-for-microsoft-sharepoint-online.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [SharePoint Online 用アジャイル タスク ボード](./agile-is-task-board-for-sharepoint-online.md) | Agile-IS | **✓** |  |
 | [ArcGIS for SharePoint](./esri-inc-arcgis-for-sharepoint.md) | Esri, Inc. | **✓** |  |
