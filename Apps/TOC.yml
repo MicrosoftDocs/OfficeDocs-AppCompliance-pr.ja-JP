@@ -36,7 +36,7 @@ items:
         href: excel/analysisplace-excel-to-word-document-automation.md
       - name: Forbury
         href: excel/forbury-property.md
-      - name: Foxit PDF Editor for Microsoft Word、Excel、PowerPoint
+      - name: Foxit PDF Editor for Microsoft Word、Excel、およびPowerPoint
         href: excel/foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md
       - name: Impression Signatures
         href: excel/impression-signatures.md
@@ -92,7 +92,7 @@ items:
         href: outlook/commuty.md
       - name: Outlook 用 DocuSign
         href: outlook/docusign-inc-for-outlook.md
-      - name: ダイナモ
+      - name: 発電機
         href: outlook/dynamo-software.md
       - name: Outlook 用 Egnyte
         href: outlook/egnyte-inc-for-outlook.md
@@ -143,13 +143,13 @@ items:
   - name: Microsoft PowerPoint Apps
     href: powerpoint/powerpoint-apps.md
     items:
-      - name: Adobe Acrobat Sign for Microsoft Word と PowerPoint
+      - name: Adobe Acrobat Sign for Microsoft Word and PowerPoint
         href: powerpoint/adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md
       - name: Breaktime
         href: powerpoint/flow-simulation-ltd-breaktime.md
       - name: Excel から Word へのドキュメントオートメーション
         href: powerpoint/analysisplace-excel-to-word-document-automation.md
-      - name: Foxit PDF Editor for Microsoft Word、Excel、PowerPoint
+      - name: Foxit PDF Editor for Microsoft Word、Excel、およびPowerPoint
         href: powerpoint/foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md
       - name: Office2SharePoint for Office
         href: powerpoint/iglobe-office2sharepoint-for-office.md
@@ -225,7 +225,7 @@ items:
         href: sharepoint/accuracy-software-inc-taxonomy.md
       - name: SharePoint Online 用の     の署名
         href: sharepoint/zynyo-sign-for-sharepoint-online.md
-  - name: Microsoft Teams Apps
+  - name: Microsoft Teams アプリ
     href: teams/teams-apps.md
     items:
       - name: 10xGoals
@@ -418,6 +418,8 @@ items:
         href: teams/clovers-ai.md
       - name: Clypp
         href: teams/zesavi-gmbh-clypp.md
+      - name: Coachello
+        href: teams/coachello-sas.md
       - name: COCO
         href: teams/hexaware-technologies-ltd-coco.md
       - name: CodeStream
@@ -550,7 +552,7 @@ items:
         href: teams/cornelsen-ecademyinside-gmbh-ecademy-lernplattform.md
       - name: ecBooking
         href: teams/expert-systems-ivrasia-coltd-ecbooking.md
-      - name: エデン
+      - name: Eden
         href: teams/eden.md
       - name: Edgility
         href: teams/edgility.md
@@ -592,8 +594,6 @@ items:
         href: teams/springrole-engagewith.md
       - name: enmacc
         href: teams/enmacc.md
-      - name: Espresso
-        href: teams/solutions2share-gmbh-espresso.md
       - name: eTeamer
         href: teams/eteamer.md
       - name: Eusoft Rdp Manager
@@ -754,6 +754,8 @@ items:
         href: teams/easy2meet-bv-indeqa-board-meetings.md
       - name: Infor Coleman
         href: teams/infor-us-inc-coleman.md
+      - name: イントラネット by Solutions2Share
+        href: teams/solutions2share-gmbh-intranet-by.md
       - name: IQ
         href: teams/nlsql-iq.md
       - name: isLucid
@@ -802,6 +804,8 @@ items:
         href: teams/koaretech-sl-koare-dashboard.md
       - name: Koare I-management
         href: teams/koaretech-sl-koare-i-management.md
+      - name: Koare Rotation の椅子
+        href: teams/koaretech-sl-koare-rotation-chairs.md
       - name: Kuban Desks
         href: teams/kuban-desks.md
       - name: Kuban Meeting Rooms
@@ -854,6 +858,8 @@ items:
         href: teams/lumapps.md
       - name: Lumio
         href: teams/smart-technologies-ulc-lumio.md
+      - name: Manager360
+        href: teams/mgr360-manager360.md
       - name: Map Pro
         href: teams/witivio-map-pro.md
       - name: Marvel
@@ -880,8 +886,6 @@ items:
         href: teams/wafer-systems-metavisitor.md
       - name: MetaWorkspace
         href: teams/wafer-systems-metaworkspace.md
-      - name: MGR360
-        href: teams/mgr360.md
       - name: Mia
         href: teams/mihcm-mia.md
       - name: Micromate
@@ -1060,7 +1064,7 @@ items:
         href: teams/moduleq-q.md
       - name: qbo
         href: teams/unscrambl-qbo.md
-      - name: qChange リーダーシップ エクスペリエンス
+      - name: qChange Leadership Experience
         href: teams/qchange-software-solution-inc-leadership-experience.md
       - name: Qooper
         href: teams/cognata-technologies-llc-qooper.md
@@ -1338,6 +1342,8 @@ items:
         href: teams/glueckkanja-gab-ag-unified-contacts.md
       - name: UserVoice
         href: teams/uservoice.md
+      - name: uWebChat
+        href: teams/universal-it-bv-uwebchat.md
       - name: Vacation Tracker
         href: teams/vacation-tracker.md
       - name: Versebook
@@ -1428,6 +1434,8 @@ items:
         href: teams/softserve-inc-office-store-zendesk.md
       - name: ZeroTime Bot
         href: teams/replicon-zerotime-bot.md
+      - name: 熱意
+        href: teams/zestmeup-zest.md
       - name: Zignals
         href: teams/alight-consulting-gmbh-zignals.md
       - name: Zoho CRM
@@ -1443,7 +1451,7 @@ items:
   - name: Microsoft Word Apps
     href: word/word-apps.md
     items:
-      - name: Adobe Acrobat Sign for Microsoft Word と PowerPoint
+      - name: Adobe Acrobat Sign for Microsoft Word and PowerPoint
         href: word/adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md
       - name: AuditBoard アドイン
         href: word/auditboard-inc-add-in.md
@@ -1467,7 +1475,7 @@ items:
         href: word/fabasoft-austria-gmbh-cloud-office-add-in.md
       - name: FD Mxmn - ビジネス データをインポートする
         href: word/maximon-ltd-fd-mxmn-import-business-data.md
-      - name: Foxit PDF Editor for Microsoft Word、Excel、PowerPoint
+      - name: Foxit PDF Editor for Microsoft Word、Excel、およびPowerPoint
         href: word/foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md
       - name: Impression Signatures
         href: word/impression-signatures.md
@@ -1518,7 +1526,7 @@ items:
         href: saas/officeatwork-admin-center.md
       - name: Adobe Acrobat Sign for Microsoft 365
         href: saas/adobe-acrobat-sign-for-microsoft-365.md
-      - name: Microsoft Teams 用 Anywhere365 アテンダント コンソール
+      - name: Anywhere365 アテンダント コンソール for Microsoft Teams
         href: saas/workstreampeople-bv-anywhere365-attendant-console-for-microsoft-teams.md
       - name: Anywhere365 Contact Center for Teams
         href: saas/workstreampeople-bv-anywhere365-contact-center-for-teams.md
@@ -1542,7 +1550,7 @@ items:
         href: saas/officeatwork-content-chooser-browser.md
       - name: Designer
         href: saas/officeatwork-designer.md
-      - name: Microsoft Teams のダバー統合通話録音
+      - name: Microsoft Teamsのダバー統合通話録音
         href: saas/dubber-corp-unified-call-recording-for-microsoft-teams.md
       - name: Emailgistics
         href: saas/emailgistics-corp.md
@@ -1562,9 +1570,9 @@ items:
         href: saas/numonix-llc-ixcloud-teams-compliance-recordingintelligence.md
       - name: LMS365
         href: saas/elearningforce-international-aps-lms365.md
-      - name: Microsoft Teams の Luware コンプライアンス記録
+      - name: Microsoft Teamsの Luware コンプライアンス記録
         href: saas/luware-ag-compliance-recording-for-microsoft-teams.md
-      - name: Microsoft Teams 用 Luware Nimbus
+      - name: Microsoft Teams用 Luware Nimbus
         href: saas/luware-ag-nimbus-for-microsoft-teams.md
       - name: メール署名
         href: saas/officeatwork-mail-signature.md
@@ -1576,7 +1584,7 @@ items:
         href: saas/mural.md
       - name: MyHub for Teams
         href: saas/avepoint-inc-myhub-for-teams.md
-      - name: Microsoft Teams 用 Netskope
+      - name: Microsoft Teams用 Netskope
         href: saas/netskope-for-microsoft-teams.md
       - name: Office2SharePoint
         href: saas/iglobe-office2sharepoint.md
@@ -1590,7 +1598,7 @@ items:
         href: saas/appfluence-inc-priority-matrix.md
       - name: Project Migrator
         href: saas/fluentpro-software-corporation-project-migrator.md
-      - name: Puzzel Microsoft Teams の統合
+      - name: Puzzel Microsoft Teams統合
         href: saas/puzzel-as-microsoft-teams-integration.md
       - name: スライド選択子
         href: saas/officeatwork-slide-chooser.md
@@ -1608,7 +1616,7 @@ items:
         href: saas/theta-lake-recordingcompliance-for-teams-video.md
       - name: アップローダー
         href: saas/officeatwork-uploader.md
-      - name: 検証
+      - name: ベリファイア
         href: saas/officeatwork-verifier.md
       - name: 幅広いアイデア - イノベーション ソフトウェア
         href: saas/wide-ideasidea2innovation-ideas-innovation-software.md
