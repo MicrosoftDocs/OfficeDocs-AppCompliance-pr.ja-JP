@@ -3,17 +3,17 @@ title: dae2eacf-3eb5-4440-baff-984fbd5cae68 の ID 情報のAzure アプリ
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/28/2022
+ms.date: 07/29/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: dae2eacf-3eb5-4440-baff-984fbd5cae68 で利用可能なすべてのセキュリティとコンプライアンス情報。
-ms.openlocfilehash: c8ea0f6f8b7acf448e4a70bc4e6380f0769784da
-ms.sourcegitcommit: 2787e3eed97b8dfb6fab7dd837e2d7fe65828121
+ms.openlocfilehash: f50080551edd985da0fa46372bfc6d0d1ccfdeb4
+ms.sourcegitcommit: 878a7b7e9c6fe787c6dfc9c95d4d46268562f84c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/28/2022
-ms.locfileid: "67067665"
+ms.lasthandoff: 07/30/2022
+ms.locfileid: "67089715"
 ---
 # <a name="azure-app-id-dae2eacf-3eb5-4440-baff-984fbd5cae68"></a>Azure アプリ ID: dae2eacf-3eb5-4440-baff-984fbd5cae68
 
