@@ -3,17 +3,17 @@ title: Microsoft Teams アプリのセキュリティとコンプライアンス
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/27/2022
+ms.date: 07/29/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Teams アプリで利用可能なすべてのセキュリティとコンプライアンスの情報。
 localization_priority: Priority
-ms.openlocfilehash: 6319052428f74b46b0937655a43d1a749cce7ccc
-ms.sourcegitcommit: 6db14016165d8319708983a9022eff3cbb68856a
+ms.openlocfilehash: d87c1cff8ba2311818a7cfe91e4ac880c3f02616
+ms.sourcegitcommit: 878a7b7e9c6fe787c6dfc9c95d4d46268562f84c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/28/2022
-ms.locfileid: "67057516"
+ms.lasthandoff: 07/30/2022
+ms.locfileid: "67093355"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams アプリのセキュリティとコンプライアンス
 
@@ -116,6 +116,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [CloudLabs](./spektra-systems-llc-cloudlabs.md) | Spektra Systems LLC | **✓** |  |
 | [Clovers](./clovers-ai.md) | Clovers AI | **✓** |  |
 | [Clypp](./zesavi-gmbh-clypp.md) | Zesavi GmbH | **✓** |  |
+| [Coachello](./coachello-sas.md) | Coachello SAS | **✓** |  |
 | [COCO](./hexaware-technologies-ltd-coco.md) | Hexaware Technologies Ltd. | **✓** |  |
 | [CodeStream](./codestream.md) | CodeStream | **✓** |  |
 | [CoffeePals](./coffeepals-technologies-inc.md) | CoffeePals Technologies Inc. | **✓** |  |
@@ -182,6 +183,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [EasyLife 365](./easylife-365-ag.md) | EasyLife 365 AG | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [eCademy Lernplattform](./cornelsen-ecademyinside-gmbh-ecademy-lernplattform.md) | Cornelsen eCademy &amp;inside GmbH | **✓** |  |
 | [ecBooking](./expert-systems-ivrasia-coltd-ecbooking.md) | Expert Systems IVR(Asia) Co.Ltd. | **✓** |  |
+| [Eden](./eden.md) | Eden | **✓** |  |
 | [Edgility](./edgility.md) | Edgility | **✓** |  |
 | [Edpuzzle](./edpuzzle.md) | Edpuzzle | **✓** |  |
 | [EducationHUB Lesmateriaal](./smartersoft-bv-educationhub-lesmateriaal.md) | Smartersoft B.V. | **✓** |  |
@@ -202,7 +204,6 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Engagedly](./engagedly-inc.md) | Engagedly Inc | **✓** |  |
 | [EngageWith](./springrole-engagewith.md) | SpringRole | **✓** |  |
 | [enmacc](./enmacc.md) | enmacc | **✓** |  |
-| [Espresso](./solutions2share-gmbh-espresso.md) | Solutions2Share GmbH | **✓** |  |
 | [eTeamer](./eteamer.md) | &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Eusoft Rdp Manager](./eusoft-srl-rdp-manager.md) | Eusoft S.r.l. | **✓** |  |
 | [Eva](./outthink-ltd-eva.md) | OutThink Ltd | **✓** |  |
@@ -283,6 +284,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [InCaseIT](./pilotech-as-incaseit.md) | Pilotech AS | **✓** |  |
 | [Indeqa Board Meetings](./easy2meet-bv-indeqa-board-meetings.md) | Easy2Meet B.V. | **✓** |  |
 | [Infor Coleman](./infor-us-inc-coleman.md) | INFOR (US), INC. | **✓** |  |
+| [イントラネット by Solutions2Share](./solutions2share-gmbh-intranet-by.md) | Solutions2Share GmbH | **✓** |  |
 | [IQ](./nlsql-iq.md) | NLSQL | **✓** |  |
 | [isLucid](./uab-lucid-agreements-islucid.md) | UAB Lucid Agreements | **✓** |  |
 | [isolved](./isolved.md) | isolved | **✓** |  |
@@ -307,6 +309,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Koan](./koan-inc.md) | Koan, Inc. | **✓** |  |
 | [Koare Dashboard](./koaretech-sl-koare-dashboard.md) | KoareTech S.L. | **✓** |  |
 | [Koare I-management](./koaretech-sl-koare-i-management.md) | KoareTech S.L. | **✓** |  |
+| [Koare 回転椅子](./koaretech-sl-koare-rotation-chairs.md) | KoareTech S.L. | **✓** |  |
 | [Kuban Desks](./kuban-desks.md) | &#19978;&#28023;&#37239;&#20134;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Kuban Meeting Rooms](./kuban-meeting-rooms.md) | &#19978;&#28023;&#37239;&#20134;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Kuban Visitors](./kuban-visitors.md) | &#19978;&#28023;&#37239;&#20134;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
@@ -333,6 +336,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Lucidspark Whiteboard](./lucid-software-lucidspark-whiteboard.md) | Lucid Software | **✓** |  |
 | [LumApps](./lumapps.md) | LumApps | **✓** |  |
 | [Lumio](./smart-technologies-ulc-lumio.md) | SMART Technologies ULC | **✓** |  |
+| [Manager360](./mgr360-manager360.md) | MGR360 | **✓** |  |
 | [Map Pro](./witivio-map-pro.md) | Witivio | **✓** |  |
 | [Marvel](./marvel.md) | Marvel | **✓** |  |
 | [MeasureUp](./media-interactiva-solutions-measureup.md) | Media Interactiva Solutions | **✓** |  |
@@ -346,7 +350,6 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [MetaMeeting](./wafer-systems-metameeting.md) | ウェハー システム | **✓** |  |
 | [MetaVisitor](./wafer-systems-metavisitor.md) | ウェハー システム | **✓** |  |
 | [MetaWorkspace](./wafer-systems-metaworkspace.md) | ウェハー システム | **✓** |  |
-| [MGR360](./mgr360.md) | MGR360 | **✓** |  |
 | [Mia](./mihcm-mia.md) | MiHCM | **✓** |  |
 | [Micromate](./paixon-gmbh-micromate.md) | Paixon GmbH | **✓** |  |
 | [MindManager](./corel-mindmanager.md) | Corel | **✓** |  |
@@ -436,7 +439,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Push Security](./push-security.md) | Push Security | **✓** |  |
 | [Q](./moduleq-q.md) | ModuleQ | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [qbo](./unscrambl-qbo.md) | Unscrambl | **✓** |  |
-| [qChange Leader Experience](./qchange-software-solution-inc-leader-experience.md) | qChange Software Solution, Inc. | **✓** |  |
+| [qChange Leadership Experience](./qchange-software-solution-inc-leadership-experience.md) | qChange Software Solution, Inc. | **✓** |  |
 | [Qooper](./cognata-technologies-llc-qooper.md) | COGNATA TECHNOLOGIES, LLC | **✓** |  |
 | [Quadra Thankz](./quadrasystemsnet-quadra-thankz.md) | Quadrasystems.net | **✓** |  |
 | [Quadra Visitorz](./quadrasystemsnet-quadra-visitorz.md) | Quadrasystems.net | **✓** |  |
@@ -575,6 +578,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [UKG Pro](./ukg-inc-pro.md) | UKG, Inc. | **✓** |  |
 | [Unified Contacts](./glueckkanja-gab-ag-unified-contacts.md) | glueckkanja-gab AG | **✓** |  |
 | [UserVoice](./uservoice.md) | UserVoice | **✓** |  |
+| [uWebChat](./universal-it-bv-uwebchat.md) | ユニバーサル IT B.V. | **✓** |  |
 | [Vacation Tracker](./vacation-tracker.md) | Vacation Tracker | **✓** |  |
 | [Versebook](./versebook.md) | &#24191;&#19996;&#26102;&#35867;&#26234;&#33021;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Verto 365](./tmi-systems-verto-365.md) | TMI Systems | **✓** |  |
@@ -620,6 +624,7 @@ Microsoft は、Microsoft 365 開発者パートナーと協力して、組織�
 | [Zavvy](./zavvy-gmbh.md) | Zavvy GmbH | **✓** |  |
 | [Zendesk](./softserve-inc-office-store-zendesk.md) | SoftServe Inc. Office Store | **✓** |  |
 | [ZeroTime Bot](./replicon-zerotime-bot.md) | Replicon | **✓** |  |
+| [Zest](./zestmeup-zest.md) | Zestmeup | **✓** |  |
 | [Zignals](./alight-consulting-gmbh-zignals.md) | Alight Consulting GmbH | **✓** |  |
 | [Zoho CRM](./zoho-corporation-pvt-ltd-crm.md) | Zoho Corporation Pvt Ltd | **✓** |  |
 | [Zoho Desk](./zoho-corporation-private-limited-desk.md) | Zoho Corporation Private Limited | **✓** |  |
