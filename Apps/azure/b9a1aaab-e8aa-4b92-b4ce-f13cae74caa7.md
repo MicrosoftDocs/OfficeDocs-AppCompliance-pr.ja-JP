@@ -3,17 +3,17 @@ title: b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 の ID 情報のAzure アプリ
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/29/2022
+ms.date: 08/01/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 で使用可能なすべてのセキュリティとコンプライアンス情報。
-ms.openlocfilehash: 9dc366a3fc248219ca2bef4f7bb42a74ebe884b5
-ms.sourcegitcommit: 878a7b7e9c6fe787c6dfc9c95d4d46268562f84c
+ms.openlocfilehash: 915fc134af5a948f614cb4eae55d4dee03485231
+ms.sourcegitcommit: 15212d15b25eed0a9837a7010d6334ef7d4fc4db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2022
-ms.locfileid: "67092595"
+ms.lasthandoff: 08/02/2022
+ms.locfileid: "67151660"
 ---
 # <a name="azure-app-id-b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7"></a>Azure アプリ ID: b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7
 
