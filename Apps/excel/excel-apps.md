@@ -3,17 +3,17 @@ title: Microsoft Excel Apps のセキュリティとコンプライアンス - �
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/06/2022
+ms.date: 08/01/2022
 ms.topic: article
 ms.service: attestation
 description: すべての Microsoft Excel Apps で使用可能なすべてのセキュリティ情報とコンプライアンス情報。
 localization_priority: Normal
-ms.openlocfilehash: f0215b6a743233772d197445824d543f2deb754b
-ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
+ms.openlocfilehash: 2894cd737ff9d7f2b0c7e84047b026dd92ff9497
+ms.sourcegitcommit: 15212d15b25eed0a9837a7010d6334ef7d4fc4db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/06/2022
-ms.locfileid: "66655756"
+ms.lasthandoff: 08/02/2022
+ms.locfileid: "67153020"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel Apps のセキュリティとコンプライアンス
 
@@ -26,7 +26,7 @@ Microsoft は Microsoft 365 開発者パートナーと協力して、組織が 
 | [CloudExtend Analytics for NetSuite](./celigo-cloudextend-analytics-for-netsuite.md) | Celigo CloudExtend | **✓** |  |
 | [Excel から Word へのドキュメントオートメーション](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Forbury](./forbury-property.md) | Forbury プロパティ | **✓** |  |
-| [Foxit PDF Editor for Microsoft Word、Excel、PowerPoint](./foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md) | Foxit Software Inc. | **✓** |  |
+| [Foxit PDF Editor for Microsoft Word、Excel、およびPowerPoint](./foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md) | Foxit Software Inc. | **✓** |  |
 | [Impression Signatures](./impression-signatures.md) | Impression Signatures | **✓** |  |
 | [Indicadores Economicos チリ](./birdie-indicadores-economicos-chile.md) | バーディー | **✓** |  |
 | [Excel 用 Jira Cloud](./atlassiancom-jira-cloud-for-excel.md) | Atlassian.com | **✓** |  |
