@@ -3,17 +3,17 @@ title: Azure アプリ ID Information for 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 08/01/2022
+ms.date: 08/02/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc のすべての利用可能なセキュリティとコンプライアンス情報。
-ms.openlocfilehash: f3a2fa1288f4e8bda1c04f5832bf3a620d49c403
-ms.sourcegitcommit: 15212d15b25eed0a9837a7010d6334ef7d4fc4db
+ms.openlocfilehash: 23ab4751e004595a8a68d97e0986b412526c3b25
+ms.sourcegitcommit: df1ca6e491e75450a6f83745e3463c0289ae2a1a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/02/2022
-ms.locfileid: "67153330"
+ms.locfileid: "67165985"
 ---
 # <a name="azure-app-id-3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc"></a>Azure アプリ ID: 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc
 
